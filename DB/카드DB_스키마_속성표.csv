@@ -1,0 +1,68 @@
+﻿테이블,속성명,데이터타입,설명
+issuers,issuer_id,INTEGER PK,카드사 고유 ID
+issuers,issuer_code,VARCHAR(10) UNIQUE,"카드사 코드 (SHINHAN, KB 등)"
+issuers,issuer_name,VARCHAR(50),카드사명
+issuers,homepage_url,VARCHAR(255),공식 홈페이지 URL
+issuers,logo_url,VARCHAR(255),카드사 로고 이미지
+issuers,customer_center,VARCHAR(30),고객센터 번호
+cards,card_id,INTEGER PK,카드 고유 ID
+cards,issuer_id,INT FK→issuers,발급 카드사
+cards,card_name,VARCHAR(100),카드 상품명
+cards,card_type,VARCHAR(10),CREDIT/CHECK/PREPAID
+cards,category_main,VARCHAR(30),대분류(생활/쇼핑/여행항공 등)
+cards,category_sub,VARCHAR(30),세부 태그
+cards,series_name,VARCHAR(50),상위 시리즈명(Deep시리즈 등)
+cards,status,VARCHAR(10),ACTIVE/DISCONTINUED/UNLISTED
+cards,official_url,VARCHAR(255),카드사 공식 상세페이지(하이브리드용)
+cards,launch_date,DATE,출시일
+cards,discontinue_date,DATE,단종일
+cards,description,TEXT,카드 소개
+cards,source_type,VARCHAR(20),CRAWLED/MANUAL/API
+cards,is_verified,BOOLEAN,수동 검증 여부
+card_brands,brand_id,INTEGER PK,브랜드옵션 고유ID
+card_brands,card_id,INT FK→cards,연결된 카드
+card_brands,brand_name,VARCHAR(20),VISA/MASTER/UNIONPAY 등
+card_brands,annual_fee_domestic,INT,국내전용 연회비
+card_brands,annual_fee_overseas,INT,해외겸용 연회비
+card_brands,annual_fee_family,INT,가족카드 연회비
+card_brands,metal_plate,BOOLEAN,메탈 플레이트 여부
+card_brands,issue_fee_extra,INT,추가 발급수수료
+card_images,image_id,INTEGER PK,이미지 고유ID
+card_images,card_id,INT FK→cards,연결된 카드
+card_images,image_type,VARCHAR(20),MAIN/DESIGN_VARIANT/THUMBNAIL
+card_images,image_url,VARCHAR(255),이미지 URL
+card_images,source,VARCHAR(20),OFFICIAL/SELF_HOSTED(출처기록)
+usage_conditions,condition_id,INTEGER PK,실적조건 고유ID
+usage_conditions,card_id,INT FK→cards,연결된 카드
+usage_conditions,condition_order,INT,구간 순서
+usage_conditions,min_amount,INT,최소 실적금액
+usage_conditions,max_amount,INT,최대 실적금액(NULL=무제한)
+usage_conditions,period_type,VARCHAR(10),MONTHLY/QUARTERLY/YEARLY
+merchant_groups,group_id,INTEGER PK,가맹점그룹 고유ID
+merchant_groups,group_name,VARCHAR(50),"그룹명(외식,커피전문점 등)"
+merchant_groups,parent_group_id,INT FK→merchant_groups,상위 그룹(계층구조)
+benefit_categories,category_id,INTEGER PK,혜택유형 고유ID
+benefit_categories,category_name,VARCHAR(30) UNIQUE,캐시백/포인트적립/할인/마일리지
+benefit_categories,category_group,VARCHAR(30),적립형/할인형 상위그룹
+benefits,benefit_id,INTEGER PK,혜택 고유ID
+benefits,card_id,INT FK→cards,연결된 카드
+benefits,condition_id,INT FK→usage_conditions,적용 실적구간
+benefits,category_id,INT FK→benefit_categories,혜택 유형
+benefits,group_id,INT FK→merchant_groups,적용 가맹점그룹(NULL=전가맹점)
+benefits,rate,"DECIMAL(5,2)",적립률/할인율(%)
+benefits,fixed_amount,INT,정액 캐시백/할인(원)
+benefits,cap_amount,INT,한도금액
+benefits,cap_period,VARCHAR(10),DAILY/MONTHLY/QUARTERLY/YEARLY/PER_USE
+benefits,daily_limit_count,INT,일 이용 제한횟수
+benefits,monthly_limit_count,INT,월 이용 제한횟수
+benefits,raw_text,TEXT,원문 텍스트(파싱오류 대비 보존)
+card_tags,tag_id,INTEGER PK,태그 고유ID
+card_tags,card_id,INT FK→cards,연결된 카드
+card_tags,tag_name,VARCHAR(30),"자유 검색태그(무실적,1인가구 등)"
+crawl_logs,log_id,INTEGER PK,수집이력 고유ID
+crawl_logs,card_id,INT FK→cards,연결된 카드(nullable)
+crawl_logs,source_url,VARCHAR(255),수집 소스 URL
+crawl_logs,crawled_at,TIMESTAMP,수집 시각
+crawl_logs,status,VARCHAR(10),SUCCESS/FAILED/PARTIAL
+crawl_logs,raw_json,JSONB,Upstage Document Parse 원본 결과
+crawl_logs,error_message,TEXT,오류 메시지
