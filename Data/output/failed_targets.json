@@ -1,0 +1,7 @@
+[
+  {
+    "source_id": 2910,
+    "url": "https://www.card-gorilla.com/card/detail/2910",
+    "error": "HTTPSConnectionPool(host='www.card-gorilla.com', port=443): Read timed out. (read timeout=10)"
+  }
+]
