@@ -36,7 +36,7 @@ FIELDNAMES = ["card_id", "min_amount", "min_amount_source", "category_id",
 MANWON_MILEAGE_PATTERN = re.compile(r"(\d+(?:\.\d+)?)\s*만\s*원\s*당\s*(\d+(?:\.\d+)?)\s*(?:~\s*\d+(?:\.\d+)?\s*)?마일리지")
 
 # "2만원당 스타벅스 리워드 별 1개 적립" 형태 -> unit_basis=20000, rate=1(개수), benefit_type=POINT_PER_UNIT
-MANWON_COUNT_PATTERN = re.compile(r"(\d+(?:\.\d+)?)\s*만\s*원\s*당\s*.{0,10}?(\d+(?:\.\d+)?)\s*개\s*적립")
+MANWON_COUNT_PATTERN = re.compile(r"(\d+(?:\.\d+)?)\s*만\s*원\s*당\s*.{0,20}?(\d+(?:\.\d+)?)\s*개\s*적립")
 
 # "1만원당 1,500원 청구 할인" 형태(정상 FIXED_AMOUNT, 오분류 아님) -> 그대로 유지, 오탐 방지용 제외 패턴
 MANWON_FIXED_WON_PATTERN = re.compile(r"만\s*원\s*당\s*[\d,]+\s*원")
