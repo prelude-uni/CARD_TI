@@ -1,0 +1,1275 @@
+﻿card_id,issuer_code,card_name,card_type,status,official_url
+1,SHINHAN,신한카드 Hi-Point,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1
+2,SHINHAN,신한카드 Love,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2
+3,SHINHAN,신한카드 Lady,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/3
+8,SHINHAN,신한카드 The CLASSIC-Y,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/8
+10,SHINHAN,신한카드 B.Big(삑),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/10
+11,SHINHAN,신한카드 Simple+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/11
+12,SHINHAN,신한카드 Air Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/12
+13,SHINHAN,신한카드 Mr.Life,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/13
+14,SHINHAN,신한카드 YOLO ⓘ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/14
+15,SHINHAN,신한카드 The CLASSIC+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/15
+16,SHINHAN,신한카드 RPM+ Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/16
+18,SHINHAN,신한카드 Shopping,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/18
+21,SHINHAN,신한카드 Simple Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/21
+26,SHINHAN,신한카드 Edu,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/26
+28,SHINHAN,신세계 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/28
+35,SHINHAN,GS칼텍스 신한카드 Shine,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/35
+36,SHINHAN,신한카드 Cube Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/36
+37,SHINHAN,신한카드 The BEST-F,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/37
+38,SHINHAN,신한카드 Lesson Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/38
+39,SHINHAN,신한카드 Deep Oil,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/39
+41,SHINHAN,신한카드 Deep On Platinum+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/41
+42,SHINHAN,SOCAR 제휴 SOCAR 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/42
+43,SHINHAN,신한카드 Deep Store,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/43
+45,SAMSUNG,American Express Blue,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/45
+46,SAMSUNG,삼성카앤모아카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/46
+49,SAMSUNG,삼성카드 & MILEAGE PLATINUM (스카이패스),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/49
+50,SAMSUNG,아시아나 삼성지엔미플래티늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/50
+51,SAMSUNG,삼성카드 taptap O,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/51
+52,SAMSUNG,삼성카드 taptap S,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/52
+53,SAMSUNG,아시아나 삼성애니패스플래티늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/53
+54,SAMSUNG,삼성카드 스페셜마일리지(스카이패스),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/54
+55,SAMSUNG,CU·배달의민족 삼성카드 taptap,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/55
+56,SAMSUNG,삼성카드 지엔미+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/56
+57,SAMSUNG,삼성카드 애니패스+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/57
+58,SAMSUNG,카라이프 삼성카드 DISCOUNT+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/58
+59,SAMSUNG,삼성카드 taptap I,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/59
+61,SAMSUNG,스카이패스 삼성아멕스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/61
+62,SAMSUNG,글로벌쇼핑 삼성카드 5 V2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/62
+63,SAMSUNG,삼성페이 삼성카드 taptap,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/63
+64,SAMSUNG,신세계이마트 삼성카드7,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/64
+72,SAMSUNG,트레이더스신세계 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/72
+73,WOORI,카드의정석 NEW우리V카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/73
+74,WOORI,All For Me카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/74
+77,WOORI,위비멤버스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/77
+80,WOORI,썸(SUM) 페이 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/80
+81,WOORI,위메프 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/81
+82,WOORI,우리 XGOLF 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/82
+83,WOORI,ONLY 나만의카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/83
+84,WOORI,카드의정석 POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/84
+85,WOORI,카드의정석 SHOPPING,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/85
+86,WOORI,카드의정석 DISCOUNT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/86
+87,WOORI,DA@카드의정석,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/87
+88,WOORI,D4@카드의정석,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/88
+89,WOORI,우리Most카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/89
+90,WOORI,카드의정석 위비온 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/90
+91,WOORI,카드의정석 PREMIUM POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/91
+92,WOORI,카드의정석 PREMIUM MILEAGE(SKYPASS),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/92
+93,WOORI,카드의정석 PREMIUM MILEAGE(AsianaClub),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/93
+94,WOORI,LoL CHAMPIONS KOREA 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/94
+106,KB,굿데이카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/106
+107,KB,SK LPG SAVE KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/107
+108,KB,와이즈카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/108
+109,KB,SK에너지 러브유 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/109
+112,SHINHAN,GS행복가득카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/112
+113,KB,마일리지 가온카드(대한항공),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/113
+114,KB,마일리지 가온카드(아시아나),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/114
+115,KB,굿데이올림카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/115
+116,KB,청춘대로카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/116
+120,KB,ONE카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/120
+121,KB,다담카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/121
+122,KB,모바일101카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/122
+125,KB,E1 LPG KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/125
+126,KB,아시아나 올림카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/126
+127,KB,청춘대로 매니아i카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/127
+129,KB,청춘대로 톡톡카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/129
+130,KB,BeV V카드(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/130
+131,KB,BeV V카드(스카이패스형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/131
+132,KB,청춘대로 1코노미 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/132
+133,KB,BeV Ⅲ 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/133
+134,KB,탄탄대로 온리유카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/134
+136,KB,가온 워킹업카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/136
+138,KB,스카이패스 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/138
+139,KB,아시아나항공 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/139
+140,KB,S-OIL LPG KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/140
+141,KB,KB국민 펫코노미 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/141
+142,KB,톡톡 Pay카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/142
+143,KB,청춘대로 꿀맛α카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/143
+144,KB,청춘대로 꿀잠α카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/144
+145,KB,청춘대로 꿀잼α카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/145
+146,KB,The Easy카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/146
+148,KB,삼성페이 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/148
+152,SHINHAN,에듀카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/152
+156,SHINHAN,Shopping Save카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/156
+162,SHINHAN,#ing(샵핑)카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/162
+163,SAMSUNG,#ing+(샵핑플러스)카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/163
+164,SHINHAN,ME+(미플러스)카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/164
+166,HYUNDAI,BAZIC(베이직)카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/166
+167,LOTTE,BAZIC+(베이직플러스)카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/167
+174,SAMSUNG,국민행복카드(신용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/174
+175,KB,NH올원 하나로카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/175
+176,SAMSUNG,부자되세요 HomeShopping카드(비씨),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/176
+185,SHINHAN,NH농협 부자되세요 아파트카드(비씨),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/185
+186,SHINHAN,NH농협 콕카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/186
+191,HYUNDAI,T라이트카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/191
+192,SHINHAN,KT수퍼할부카드(비씨),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/192
+193,SHINHAN,NH올원 LGU+카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/193
+194,LOTTE,롯데포인트 플러스 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/194
+197,LOTTE,올마이쇼핑 카드 (교통),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/197
+198,SHINHAN,올마이쇼핑 카드 (통신),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/198
+199,SHINHAN,올마이쇼핑 카드 (점심),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/199
+200,LOTTE,올마이쇼핑 카드 (해외),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/200
+201,LOTTE,롯데백화점 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/201
+203,LOTTE,ALL MY DC,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/203
+204,LOTTE,ALL MY POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/204
+205,LOTTE,ALL MY LIVING,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/205
+206,SAMSUNG,ALL MY DRIVING,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/206
+207,LOTTE,경차 smart 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/207
+214,LOTTE,I’m GREAT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/214
+215,LOTTE,I’m CHEERFUL,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/215
+217,LOTTE,I’m JOYFUL,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/217
+227,HANA,CLUB SK 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/227
+228,HYUNDAI,Smart Any 카드(스마트애니),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/228
+231,HANA,하나멤버스 1Q(원큐) 카드 Living,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/231
+232,HANA,하나멤버스 1Q(원큐) 카드 Shopping,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/232
+234,HANA,하나멤버스 1Q(원큐) 카드 Daily,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/234
+237,HANA,하나멤버스 1Q카드 내맘대로,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/237
+238,HANA,1Q Daily+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/238
+239,HANA,1Q Shopping+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/239
+240,HANA,1Q Living+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/240
+241,HANA,1Q Special+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/241
+242,HANA,Mile 1.6 대한항공,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/242
+243,HANA,Mile 1.6 아시아나,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/243
+244,HANA,Mile 1.8 대한항공,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/244
+245,HANA,Mile 1.8 아시아나,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/245
+246,HANA,통커 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/246
+247,HANA,#tag1카드 Orange,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/247
+248,HANA,#tag1카드 Navy,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/248
+250,SHINHAN,my pass 마패 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/250
+251,HANA,1Q Global VIVA,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/251
+252,HANA,Any PLUS 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/252
+254,HANA,1Q My Lunch,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/254
+270,SHINHAN,아모레퍼시픽 IBK카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/270
+279,SHINHAN,CJ ONE 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/279
+281,SHINHAN,신한카드 Deep Dream 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/281
+282,SHINHAN,신세계 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/282
+284,SHINHAN,신한카드 주거래 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/284
+286,SHINHAN,카카오페이 신한 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/286
+294,SHINHAN,신한카드 S-Line 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/294
+296,SHINHAN,신한 S-Choice체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/296
+300,SHINHAN,SOCAR 제휴 SOCAR 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/300
+301,SHINHAN,KT 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/301
+302,SHINHAN,LG U+ 신한카드 Smart 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/302
+303,SHINHAN,GS칼텍스 신한카드 경차사랑 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/303
+306,SHINHAN,리디 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/306
+307,SHINHAN,더본 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/307
+309,SHINHAN,EDIYA 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/309
+311,SHINHAN,몰테일 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/311
+312,WOORI,카드의정석 COOKIE CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/312
+313,WOORI,LoL CHAMPIONS KOREA 우리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/313
+315,WOORI,카카오페이 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/315
+316,WOORI,카드의정석 L.POINT CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/316
+317,WOORI,카드의정석 POINT CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/317
+318,WOORI,위메프 우리체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/318
+320,WOORI,롯데마트 라서 즐거운 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/320
+322,WOORI,우리 아이행복체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/322
+323,LOTTE,우리국민행복체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/323
+324,WOORI,우리 YG 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/324
+325,WOORI,그랑블루 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/325
+326,KB,해피포인트 우리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/326
+328,WOORI,라떼 우리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/328
+329,SHINHAN,갤러리아 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/329
+330,WOORI,카드의정석 CREAM TEENS CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/330
+331,WOORI,New 현대백화점 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/331
+332,KB,카카오페이 KB국민 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/332
+333,KB,Liiv Mate 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/333
+334,KB,아시아나 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/334
+335,KB,청춘대로 싱글 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/335
+336,KB,가온체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/336
+338,KB,누리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/338
+339,KB,음 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/339
+340,KB,락스타 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/340
+341,KB,훈 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/341
+342,KB,해피노리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/342
+343,KB,포인트리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/343
+344,KB,아이행복 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/344
+345,KB,정 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/345
+346,KB,민 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/346
+347,KB,비트윈체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/347
+348,KB,노리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/348
+349,KB,해피락스타 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/349
+350,KB,직장인보너스체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/350
+351,KB,스타체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/351
+353,SHINHAN,해피CU포인트 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/353
+354,SHINHAN,LG U+ 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/354
+355,KB,H.Point 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/355
+357,SHINHAN,AK KB국민 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/357
+359,SHINHAN,아모레퍼시픽 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/359
+364,LOTTE,국민행복체크카드(비씨),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/364
+366,SHINHAN,jumjum(점점) 체크카드(비씨),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/366
+369,KB,아이행복체크카드(비씨),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/369
+372,WOORI,NC다이노스체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/372
+378,HANA,VIVA+ 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/378
+380,HANA,하나멤버스 1Q 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/380
+382,HANA,카카오페이 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/382
+383,SHINHAN,해피포인트 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/383
+388,SHINHAN,하나멤버스 Mega 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/388
+389,SHINHAN,시코르 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/389
+390,SHINHAN,신세계 하나 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/390
+391,SHINHAN,신한카드 하이패스(전용) 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/391
+392,SAMSUNG,국민행복 삼성체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/392
+393,SHINHAN,삼성체크카드 & POINT,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/393
+394,SAMSUNG,삼성체크카드 & CASHBACK,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/394
+400,LOTTE,롯데포인트플러스 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/400
+402,SHINHAN,롯데 플래티넘 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/402
+403,LOTTE,롯데체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/403
+404,LOTTE,롯데 국민행복 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/404
+406,WOORI,부자되세요 더 마일리지 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/406
+407,HYUNDAI,현대카드M CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/407
+408,HYUNDAI,현대카드X CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/408
+410,HYUNDAI,현대카드ZERO(할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/410
+414,HYUNDAI,현대카드M HYBRID,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/414
+415,HYUNDAI,현대카드X HYBRID,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/415
+418,HYUNDAI,현대카드ZERO MOBILE(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/418
+419,HYUNDAI,현대카드ZERO MOBILE(할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/419
+420,HYUNDAI,현대카드ZERO(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/420
+421,HYUNDAI,현대카드M-경차전용카드(유류세 환급),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/421
+422,HYUNDAI,the Green,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/422
+423,HYUNDAI,the Red Edition3,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/423
+424,HYUNDAI,the Purple Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/424
+425,HYUNDAI,코스트코 리워드 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/425
+426,SHINHAN,알파원카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/426
+430,SAMSUNG,아시아나클럽 롯데 플래티넘 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/430
+432,SAMSUNG,SKYPASS 롯데 아멕스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/432
+434,SAMSUNG,SSG카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/434
+439,KB,케이뱅크X해피포인트 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/439
+444,KB,참! 좋은 글로벌 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/444
+447,HANA,CLUB Premier (Travel 형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/447
+448,HANA,CLUB Premier (Hotel형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/448
+449,HANA,CLUB Signature SKYPASS 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/449
+450,HANA,CLUB Signature Asiana Club 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/450
+451,HANA,CLUB Primus Point 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/451
+452,HANA,CLUB Primus Skypass 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/452
+453,HANA,CLUB Primus Asiana Club 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/453
+454,KB,가온 올포인트 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/454
+455,LOTTE,롯데 국민행복카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/455
+457,WOORI,썸타는 우리 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/457
+458,SAMSUNG,네이버페이 taptap,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/458
+459,WOORI,카드의정석 WOWRI,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/459
+465,HANA,K리그 축덕 하나멤버스 1Q Play1 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/465
+466,SHINHAN,신한카드 Air One,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/466
+469,KB,Easy pick카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/469
+470,KB,Easy on카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/470
+471,LOTTE,LOTTE ONers 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/471
+473,WOORI,카드의정석 UniMile,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/473
+476,SHINHAN,신한카드 Deep Making,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/476
+477,SHINHAN,신한카드 Deep Taking,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/477
+478,SHINHAN,마이 홈플러스 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/478
+479,SHINHAN,마이 홈플러스 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/479
+480,HANA,카카오 T 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/480
+481,WOORI,카드의정석 댕댕냥이(강아지),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/481
+482,WOORI,카드의정석 댕댕냥이(고양이),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/482
+486,WOORI,CJ ONE 우리카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/486
+487,SHINHAN,신한카드 B.Big(마이펫 스노우볼 삑),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/487
+488,KB,Easy auto 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/488
+489,KB,Easy fly 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/489
+490,SHINHAN,11번가 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/490
+491,SHINHAN,11번가 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/491
+498,SHINHAN,농부의마음 Farmers Heart 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/498
+500,SAMSUNG,신세계면세점 SSG카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/500
+501,SAMSUNG,이마트에브리데이 SSG카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/501
+502,LOTTE,네이버페이 플래티넘 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/502
+507,SHINHAN,쇼핑조아카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/507
+508,SHINHAN,올바른 Edu 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/508
+516,HYUNDAI,올바른 BAZIC+ 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/516
+517,WOORI,NH1934 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/517
+521,WOORI,카드의정석 베트남여행,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/521
+522,KB,Liiv M 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/522
+523,KB,Liiv M 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/523
+529,HYUNDAI,the Red Edition4,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/529
+533,LOTTE,I’m DRIVING,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/533
+534,LOTTE,인터파크 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/534
+535,LOTTE,샤롯데 플래티넘 스타 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/535
+536,SHINHAN,신한카드 Deep Once,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/536
+537,SHINHAN,신한카드 Deep Once Plus,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/537
+538,KB,Easy study 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/538
+539,LOTTE,샤롯데 비앤 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/539
+540,LOTTE,I’m ACTIVE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/540
+541,HYUNDAI,I’m Wonderful Plus,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/541
+542,WOORI,갤러리아 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/542
+543,WOORI,카드의정석 APT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/543
+544,WOORI,카드의정석 APT Platinum,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/544
+545,WOORI,카드의정석 APT CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/545
+546,HYUNDAI,다둥이 행복카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/546
+548,WOORI,카드의정석 MILEAGE SKYPASS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/548
+551,KB,Easy link 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/551
+558,WOORI,카드의정석 MILEAGE Asiana Club,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/558
+559,KB,펭수 노리 체크카드(펭카),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/559
+561,KB,펭수 노리 체크카드(펭모티콘),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/561
+568,SAMSUNG,부릉 삼성카드 BIZ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/568
+569,HYUNDAI,현대카드 DIGITAL LOVER,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/569
+578,KB,금융포인트리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/578
+579,LOTTE,I’m YOLO 플래티넘,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/579
+580,KB,Easy pick 티타늄 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/580
+581,LOTTE,I’m Powerful,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/581
+582,LOTTE,I’m WONDERFUL platinum,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/582
+583,WOORI,우리 K-패스(신용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/583
+584,WOORI,우리 K-패스 (COOKIE CHECK),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/584
+587,HANA,모두의 쇼핑,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/587
+588,WOORI,네이버페이 우리카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/588
+589,HANA,토스 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/589
+591,KB,카카오뱅크 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/591
+592,SAMSUNG,카카오뱅크 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/592
+594,HYUNDAI,카드의정석 삼성디지털프라자,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/594
+595,SHINHAN,아이파킹 크레딧 카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/595
+596,WOORI,셀리턴 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/596
+597,WOORI,AK우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/597
+598,WOORI,AK우리카드 VIP,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/598
+599,WOORI,AK우리카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/599
+600,HYUNDAI,대한항공카드 030,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/600
+601,HYUNDAI,대한항공카드 070,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/601
+602,HYUNDAI,대한항공카드 150,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/602
+603,HYUNDAI,대한항공카드 the First,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/603
+606,WOORI,카드의정석 UNTACT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/606
+607,WOORI,카드의정석 UNTACT PLATINUM,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/607
+608,HYUNDAI,현대카드ZERO Edition2(할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/608
+609,HYUNDAI,현대카드ZERO MOBILE Edition2(할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/609
+610,HYUNDAI,현대카드ZERO Edition2(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/610
+611,HYUNDAI,현대카드ZERO MOBILE Edition2(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/611
+613,SHINHAN,신한카드 YaY,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/613
+614,KB,위글위글 첵첵 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/614
+615,KB,Easy ring 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/615
+616,SAMSUNG,다이소 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/616
+617,WOORI,카드의정석 UniMile in JEJU,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/617
+618,SHINHAN,신한카드 Hey Young 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/618
+620,LOTTE,LOCA CLASSIC,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/620
+621,LOTTE,LOCA for Auto,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/621
+622,LOTTE,LOCA for Coffee,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/622
+623,LOTTE,LOCA for Edu,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/623
+624,LOTTE,LOCA for Health,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/624
+625,LOTTE,LOCA for Shopping,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/625
+626,LOTTE,LOCA PLATINUM 할인형,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/626
+627,LOTTE,LOCA PLATINUM 마일리지형,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/627
+628,WOORI,카드의정석 POINT CHECK x 아기상어,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/628
+630,KB,Easy all 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/630
+634,KB,Easy all 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/634
+638,SHINHAN,신한 슈퍼SOL 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/638
+644,SHINHAN,JYP Fan’s EDM 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/644
+645,SHINHAN,L.pay 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/645
+646,SHINHAN,신한카드 Deep Dream 체크(미니언즈),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/646
+647,SHINHAN,신한카드 S-Line 체크(마이펫),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/647
+649,KB,마이핏카드(적립형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/649
+650,KB,마이핏카드(할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/650
+651,SHINHAN,네이버페이 라인프렌즈 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/651
+652,SHINHAN,올바른 OIL&PASS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/652
+656,WOORI,카드의 정석 SSO3 NEW-TRO CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/656
+657,SAMSUNG,taptap DIGITAL,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/657
+658,SAMSUNG,taptap DRIVE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/658
+659,SAMSUNG,taptap SHOPPING,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/659
+661,WOORI,카드의정석 UNTACT AIR,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/661
+662,SAMSUNG,삼성페이카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/662
+663,LOTTE,롤라카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/663
+664,LOTTE,New PAYCO 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/664
+667,HANA,모두의 건강,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/667
+673,HYUNDAI,스타벅스 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/673
+677,WOORI,배달의민족 비장의카드 V.2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/677
+679,KB,샘 쏘영 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/679
+680,KB,쏘영 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/680
+681,SAMSUNG,SSG.COM 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/681
+684,HANA,리틀프렌즈 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/684
+685,KB,하이틴즈 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/685
+687,SHINHAN,신한카드 Unboxing,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/687
+688,SHINHAN,카드의정석 POINT CHECK x 핑크퐁,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/688
+689,KB,해외에선 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/689
+690,HANA,모두의 일상 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/690
+691,SAMSUNG,요기요 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/691
+692,SHINHAN,요기요 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/692
+693,SHINHAN,신한카드 MY CAR,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/693
+694,HYUNDAI,배민현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/694
+695,LOTTE,롯데백화점 FLEX카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/695
+696,WOORI,카드의정석 US,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/696
+697,KB,탄탄대로 Biz 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/697
+699,KB,톡톡 with카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/699
+700,HYUNDAI,현대카드 M BOOST,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/700
+701,HYUNDAI,현대카드 X BOOST,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/701
+702,HYUNDAI,현대카드 M2 BOOST,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/702
+703,HYUNDAI,현대카드 M3 BOOST,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/703
+704,HYUNDAI,현대카드 X2 BOOST,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/704
+705,HYUNDAI,현대카드 X3 BOOST,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/705
+706,LOTTE,LOCA MONEY,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/706
+707,LOTTE,LOCA 100,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/707
+708,HYUNDAI,쏘카카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/708
+712,SHINHAN,신한카드 국민행복,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/712
+713,SHINHAN,신한카드 국민행복 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/713
+716,SHINHAN,메리어트 본보이™ 더 베스트 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/716
+717,WOORI,그랑블루 1st,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/717
+718,SAMSUNG,국민행복 삼성카드 V2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/718
+719,WOORI,WON DISCOUNT(원 디스카운트) AIR,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/719
+720,WOORI,WON POINT(원 포인트) AIR,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/720
+721,WOORI,국민행복카드 S2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/721
+722,WOORI,국민행복 체크카드 S2,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/722
+724,HYUNDAI,the Purple osée,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/724
+725,KB,새로이 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/725
+726,KB,알뜰폰 Hub 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/726
+727,KB,알뜰폰 Hub Ⅱ 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/727
+728,HANA,언택트 L 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/728
+729,SAMSUNG,삼성스토어 BENEFIT 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/729
+730,HYUNDAI,현대카드Z family,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/730
+731,HYUNDAI,현대카드Z work,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/731
+732,HYUNDAI,현대카드Z ontact,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/732
+733,HYUNDAI,무신사 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/733
+735,KB,커피빈 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/735
+736,SAMSUNG,American Express® Reserve,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/736
+738,SHINHAN,신한카드 혼디모앙,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/738
+739,KB,나라사랑체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/739
+740,HYUNDAI,Hyundai Mobility(모빌리티) 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/740
+741,HYUNDAI,Hyundai Mobility(모빌리티) Platinum,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/741
+744,SHINHAN,IKEA(이케아) Family with 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/744
+745,HANA,알뜰교통 my pass 마패 신용카드(Hana-BC),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/745
+746,HANA,알뜰교통 비바 e 플래티늄 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/746
+747,KB,Liiv M Ⅱ 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/747
+749,WOORI,VIVA X 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/749
+750,SHINHAN,하나 국민행복 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/750
+751,KB,KB국민 국민행복카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/751
+752,SHINHAN,KB국민 국민행복체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/752
+753,SHINHAN,아모레퍼시픽 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/753
+754,SAMSUNG,국민행복 삼성체크카드 V2,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/754
+755,LOTTE,LIKIT fun 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/755
+756,LOTTE,LIKIT all 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/756
+757,SHINHAN,LIKIT on 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/757
+758,SHINHAN,다이소 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/758
+760,KB,Young Youth 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/760
+761,WOORI,Hole In:WON(홀인원) 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/761
+762,WOORI,NU 오하쳌(오늘하루체크),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/762
+763,HYUNDAI,the Pink,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/763
+764,SAMSUNG,카카오페이 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/764
+768,KB,Green Wave 1.5℃카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/768
+769,KB,KB ALL point 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/769
+770,KB,그린재킷 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/770
+771,LOTTE,L.pay 롯데카드 Ⅱ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/771
+774,LOTTE,쿠팡 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/774
+775,WOORI,해피포인트 우리체크 V.2,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/775
+776,SAMSUNG,홈플러스 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/776
+777,HYUNDAI,카드의정석 L.POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/777
+778,KB,GS SHOP KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/778
+779,KB,위메프페이 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/779
+780,SAMSUNG,삼성카드 BIZ LEADERS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/780
+783,SAMSUNG,SSG.COM카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/783
+784,SAMSUNG,LG U+ 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/784
+785,SAMSUNG,KT 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/785
+788,SAMSUNG,CJ ONE 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/788
+789,SAMSUNG,이마트 e카드 Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/789
+791,HYUNDAI,코스트코 리워드 비즈니스 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/791
+816,SHINHAN,단디체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/816
+852,HYUNDAI,SmileCard Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/852
+853,HYUNDAI,SmileCard the Club,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/853
+854,HYUNDAI,Kia Members 경차전용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/854
+859,HYUNDAI,Kia Members 경차전용카드(유류세 환급),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/859
+865,SHINHAN,홈플러스 스페셜 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/865
+881,KB,IBK-Syrup카드[신용],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/881
+884,SHINHAN,신한카드 후불하이패스+ (하이패스 전용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/884
+889,SHINHAN,신한카드 집,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/889
+890,LOTTE,e플래티넘 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/890
+895,SHINHAN,신한카드 주거래 신용,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/895
+905,SHINHAN,메가쇼핑 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/905
+906,SHINHAN,메가쇼핑 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/906
+912,KB,Easy shopping 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/912
+916,SHINHAN,위비 알뜰주유소 할인카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/916
+940,KB,CHALLENGE BAG KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/940
+942,KB,AK KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/942
+945,SHINHAN,신한카드 The CLASSIC-S,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/945
+949,WOORI,1st카드 (캐시백형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/949
+951,WOORI,넥센타이어 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/951
+952,WOORI,SK Oil 400 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/952
+953,WOORI,마이카 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/953
+993,SHINHAN,신한카드 The BEST+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/993
+1002,LOTTE,Mobile x LOCA 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1002
+1003,SHINHAN,신한카드 Love Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1003
+1006,SHINHAN,신한카드 LABE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1006
+1007,KB,Clip카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1007
+1010,KB,EVO 티타늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1010
+1018,SHINHAN,리디 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1018
+1019,SHINHAN,더본 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1019
+1032,SHINHAN,후불하이패스 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1032
+1035,HANA,한화손해보험 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1035
+1073,SAMSUNG,KT 카드의정석 SUPER DC Ⅱ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1073
+1155,KB,Easy shopping 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1155
+1165,LOTTE,골프존 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1165
+1169,LOTTE,교보문고 롯데체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1169
+1171,KB,H.Point KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1171
+1172,HANA,하나로마트 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1172
+1174,LOTTE,하나 원큐 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1174
+1180,HANA,풀무원 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1180
+1184,SHINHAN,Z:IN 인테리어 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1184
+1186,SHINHAN,포켓몬을 사랑하는 고객용 하나멤버스 1Q 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1186
+1188,SHINHAN,펫 사랑 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1188
+1198,SHINHAN,IKEA for Business with 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1198
+1202,KB,부산 동백전 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1202
+1213,SHINHAN,펫(PET)카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1213
+1215,SHINHAN,아모레퍼시픽 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1215
+1225,SHINHAN,KB국민 윙크카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1225
+1229,KB,kt M mobile카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1229
+1233,KB,LG전자 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1233
+1243,SHINHAN,U＋ 알뜰모바일카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1243
+1246,HANA,소노시즌 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1246
+1248,HANA,바디프랜드 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1248
+1253,HANA,랭킹닭컴 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1253
+1256,WOORI,카드의정석 U+알뜰모바일 CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1256
+1258,WOORI,OK캐쉬백 썸(SUM)타는 우리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1258
+1259,SHINHAN,LGU+ 라서즐거운 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1259
+1260,WOORI,우리성당 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1260
+1278,SAMSUNG,국민행복카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1278
+1285,HYUNDAI,넥슨 메이플스토리 하나BC 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1285
+1286,KB,The CJ KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1286
+1288,KB,toss KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1288
+1289,KB,T-Premium KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1289
+1290,WOORI,넥슨 던전앤파이터 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1290
+1294,KB,가온 Biz카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1294
+1298,SAMSUNG,청소년 후불교통 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1298
+1299,KB,가온 플래티늄바우처카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1299
+1302,SHINHAN,제주도 삼성체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1302
+1309,KB,가온글로벌카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1309
+1311,KB,BNK 프렌즈 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1311
+1315,KB,골든라이프올림카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1315
+1323,SHINHAN,카카오페이 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1323
+1339,KB,골프존 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1339
+1340,HANA,New Happy 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1340
+1360,SAMSUNG,삼성포인트체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1360
+1379,KB,굿데이 플래티늄카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1379
+1380,KB,넥센타이어 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1380
+1381,KB,모두투어 투어마일리지 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1381
+1382,KB,몰테일 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1382
+1383,KB,반려愛카드(강아지),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1383
+1390,SHINHAN,LG U+ Bora 신한카드 Big Plus,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1390
+1394,SHINHAN,현대백화점 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1394
+1433,SHINHAN,후불 하이패스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1433
+1438,WOORI,해피포인트 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1438
+1443,KB,에버랜드 판다카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1443
+1446,KB,웅진씽크빅 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1446
+1451,SHINHAN,우리V외국인체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1451
+1468,KB,제주항공 Refresh Point KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1468
+1519,HANA,LG전자 렌탈 플러스 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1519
+1523,SHINHAN,L.PAY 하나 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1523
+1526,HANA,K리그 축덕 Young Hana 체크카드 with OKcashbag,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1526
+1529,WOORI,KT Super DC,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1529
+1532,SAMSUNG,LGU+ 카드의정석 Ⅱ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1532
+1544,KB,해피포인트 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1544
+1549,KB,하나투어 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1549
+1555,WOORI,SKT 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1555
+1558,SHINHAN,탄탄대로 웰컴카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1558
+1572,KB,탐나는전 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1572
+1573,KB,티머니 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1573
+1577,SHINHAN,New후불하이패스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1577
+1584,SHINHAN,신협-신한카드 Hi-Point,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1584
+1586,SHINHAN,신협-신한카드 Shopping,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1586
+1592,SHINHAN,신협-신한카드 B.Big(삑),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1592
+1593,SHINHAN,신협-신한카드 RPM+Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1593
+1595,SHINHAN,신협-신한카드 Love Platinum#,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1595
+1597,SHINHAN,신협-신한카드 Air One,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1597
+1599,SHINHAN,신협-신한카드 The CLASSIC+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1599
+1608,KB,SK 7mobile카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1608
+1610,KB,KB국민 티머니 노리 학생증체크카드(퍼플),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1610
+1611,HYUNDAI,PlayStation® - 현대카드M,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1611
+1615,KB,KB국민 티머니노리학생증 체크카드(세로형_퍼플),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1615
+1616,KB,KB국민 티머니노리학생증 체크카드(블루_세로형),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1616
+1617,KB,KB국민 티머니노리학생증 체크카드(그린_세로형),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1617
+1618,KB,KB국민 티머니노리학생증 체크카드(그린),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1618
+1619,KB,KB국민 티머니노리학생증 체크카드(블루),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1619
+1623,SAMSUNG,삼성빅보너스체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1623
+1630,WOORI,한화생명 Family카드 (골프형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1630
+1648,WOORI,NH올원 Direct&DB손해보험카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1648
+1673,SAMSUNG,S-OIL 삼성카드 & POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1673
+1695,WOORI,한화생명 Family 카드 (문화형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1695
+1699,KB,한화생명 Family 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1699
+1702,SHINHAN,FC EXPRESS 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1702
+1710,HYUNDAI,카드의정석 HEROES,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1710
+1714,LOTTE,세븐일레븐 멤버십롯데체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1714
+1731,WOORI,로얄블루1000카드 [SKYPASS],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1731
+1741,WOORI,ROYAL BLUE POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1741
+1754,LOTTE,뉴GS칼텍스 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1754
+1758,LOTTE,올바른SAFE카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1758
+1759,SAMSUNG,SC제일은행 아시아나 삼성지엔미카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1759
+1763,SAMSUNG,올바른SAFE Platinum카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1763
+1768,WOORI,ROYAL BLUE MILEAGE[SKYPASS],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1768
+1787,SHINHAN,NU 후불하이패스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1787
+1807,SHINHAN,LineageM 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1807
+1809,WOORI,카드의정석 UniMile CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1809
+1816,WOORI,카드의정석 시니어플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1816
+1818,SAMSUNG,카드의정석 삼성화재 당신에게 좋은보험,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1818
+1829,WOORI,바디프랜드 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1829
+1839,LOTTE,AIA생명 롯데 리얼체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1839
+1854,WOORI,ALL 다모아카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1854
+1856,SAMSUNG,카드의정석 하이마트,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1856
+1859,SHINHAN,OK캐쉬백 위비할인카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1859
+1860,SAMSUNG,RAUME O,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1860
+1861,LOTTE,롭스 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1861
+1865,SAMSUNG,RAUME O (스카이패스),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1865
+1866,SAMSUNG,RAUME O (아시아나),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1866
+1868,WOORI,라이나생명 라서즐거운카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1868
+1882,SAMSUNG,삼성스토어 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1882
+1883,SAMSUNG,PAYCO taptap,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1883
+1884,SAMSUNG,라이프파트너 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1884
+1887,SHINHAN,넷마블 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1887
+1889,SHINHAN,Toss taptap S,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1889
+1899,SHINHAN,New LG전자 베스트샵 PLUS 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1899
+1906,SHINHAN,후불하이패스카드(비씨),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1906
+1909,SAMSUNG,THE 1 (스카이패스),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1909
+1926,LOTTE,E1 LPG 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1926
+1932,LOTTE,E1 LPG 롯데 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1932
+1944,LOTTE,엘포인트카드(비씨),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1944
+1977,SHINHAN,SB 팝 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/1977
+1980,WOORI,LG전자 베스트렌탈 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1980
+1984,WOORI,동양생명 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1984
+1987,LOTTE,롯데마트 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1987
+1990,WOORI,엉 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1990
+1991,KB,BeV Ⅸ 토탈마일 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1991
+1993,LOTTE,롯데백화점 AVENUEL 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1993
+1996,KB,NH올원 LG전자BEST카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/1996
+2005,LOTTE,GS&POINT 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2005
+2007,KB,LG전자 라서즐거운 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2007
+2016,LOTTE,Jin Air - 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2016
+2019,SHINHAN,NH올원 Rental&넥센타이어카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2019
+2021,WOORI,NH올원 Rental&바디프랜드카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2021
+2023,SHINHAN,NH올원 Rental&코웨이카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2023
+2026,WOORI,카카오페이 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2026
+2060,SAMSUNG,롯데체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2060
+2070,LOTTE,뱅크샐러드 빨대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2070
+2071,LOTTE,삼성페이 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2071
+2072,KB,시장愛 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2072
+2076,WOORI,WITH 후불교통 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2076
+2078,HANA,ON 후불교통 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2078
+2079,KB,부자되세요 홈쇼핑 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2079
+2080,KB,PEACH 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2080
+2082,KB,IN 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2082
+2083,KB,ForU(油) 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2083
+2084,HANA,MG Life 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2084
+2090,SHINHAN,신한카드 The PREMIER GOLD EDITION (스카이패스),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2090
+2091,HANA,CLUB1카드 200,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2091
+2093,SAMSUNG,L.CLASS L60 (스카이패스형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2093
+2094,WOORI,카카오페이 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2094
+2097,SHINHAN,신한카드 The PREMIER GOLD EDITION (아시아나클럽),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2097
+2104,LOTTE,L.CLASS L60 (L.POINT형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2104
+2106,SAMSUNG,L.CLASS L60 (아시아나클럽형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2106
+2132,SHINHAN,제주 삼다수카드(신용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2132
+2139,LOTTE,세븐일레븐 멤버쉽롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2139
+2140,LOTTE,쇼퍼홀릭 롯데홈쇼핑 롯데체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2140
+2147,SAMSUNG,위클리 VISA 롯데체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2147
+2149,LOTTE,이랜드리테일 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2149
+2150,SAMSUNG,국민행복카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2150
+2151,HYUNDAI,제주그린카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2151
+2172,KB,탐나는J체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2172
+2175,KB,SK OIL&LPG 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2175
+2178,SHINHAN,1st TRIPLE 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2178
+2179,HYUNDAI,1st 카드(레드),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2179
+2189,WOORI,1st TRIPLE 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2189
+2190,SHINHAN,해피포인트 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2190
+2191,KB,Smart Cashback 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2191
+2192,WOORI,국민행복 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2192
+2194,KB,유안타 Daily+ 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2194
+2195,HYUNDAI,Kia Members 신용카드 Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2195
+2196,HYUNDAI,Kia Members 전기차 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2196
+2197,HYUNDAI,현대카드M CHECK-경차전용카드(유류세 환급),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2197
+2198,HYUNDAI,캐롯손해보험-현대카드M Edition3,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2198
+2199,HYUNDAI,산림조합-현대카드M(청구할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2199
+2214,WOORI,Syrup Membership Wealth 마이카드(체크),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2214
+2215,HANA,LUNCH 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2215
+2218,HYUNDAI,NAMUH 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2218
+2219,HYUNDAI,able 카드 Ⅱ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2219
+2220,KB,DB금융투자 해피플러스 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2220
+2221,SHINHAN,DB 캐쉬백 3.1 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2221
+2224,SHINHAN,able 시럽카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2224
+2225,HYUNDAI,able Premier Members 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2225
+2226,LOTTE,카카오뱅크 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2226
+2228,LOTTE,LOCA LIKIT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2228
+2230,KB,LOCA 100 Life,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2230
+2232,HANA,1Q Daily+[40주년 에디션],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2232
+2233,HYUNDAI,네이버 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2233
+2234,SAMSUNG,삼성 iD ALL 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2234
+2235,SAMSUNG,삼성 iD ON 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2235
+2236,SHINHAN,신한카드 My TeenS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2236
+2237,HANA,하나 스카이패스 아멕스 플래티늄 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2237
+2238,SAMSUNG,롯데월드카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2238
+2240,SHINHAN,위버스 신한카드(BTS),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2240
+2241,LOTTE,Kakaopage 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2241
+2242,SHINHAN,에너지플러스카드 Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2242
+2243,SHINHAN,GS Prime 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2243
+2244,SHINHAN,위버스 신한카드 체크(BTS),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2244
+2245,SHINHAN,위버스 신한카드 체크(TXT),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2245
+2246,SHINHAN,위버스 신한카드 체크(ENHYPEN),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2246
+2247,SHINHAN,위버스 신한카드 체크(SEVENTEEN),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2247
+2248,SHINHAN,위버스 신한카드(ENHYPEN),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2248
+2249,SHINHAN,위버스 신한카드(SEVENTEEN),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2249
+2250,SHINHAN,위버스 신한카드(TXT),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2250
+2251,WOORI,오케이몰 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2251
+2255,KB,KB Pay 챌린지카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2255
+2256,KB,KB Pay 챌린지+카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2256
+2257,SAMSUNG,삼성 모바일플러스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2257
+2258,SHINHAN,#Pay 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2258
+2259,HYUNDAI,the Red Edition5,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2259
+2260,HYUNDAI,the Green Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2260
+2261,LOTTE,LOCA LIKIT 1.2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2261
+2262,LOTTE,LOCA LIKIT Eat,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2262
+2263,LOTTE,LOCA LIKIT Play,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2263
+2264,LOTTE,LOCA LIKIT Shop,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2264
+2265,LOTTE,롯데홈쇼핑 벨리곰 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2265
+2267,SHINHAN,L.PAY 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2267
+2270,LOTTE,하나은행 밀리언달러 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2270
+2272,SHINHAN,신한 Meme(밈) 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2272
+2277,KB,요기패스 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2277
+2278,SAMSUNG,NS홈쇼핑 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2278
+2279,SAMSUNG,신세계 아울렛 BENEFIT 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2279
+2280,HYUNDAI,American Express The Platinum Card®,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2280
+2281,HYUNDAI,American Express® Gold Card,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2281
+2282,HYUNDAI,American Express® Green Card,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2282
+2283,WOORI,롯데렌터카 신차장 EV+ 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2283
+2285,WOORI,Voluntas 자원봉사자 우리체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2285
+2286,WOORI,NU Uniq point,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2286
+2287,HYUNDAI,현대카드 MX Black,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2287
+2288,HANA,모두의 신세계 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2288
+2289,SAMSUNG,삼성 iD EV 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2289
+2290,SAMSUNG,삼성 iD ENERGY 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2290
+2291,SHINHAN,메리어트 본보이™ 더 클래식 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2291
+2292,HYUNDAI,현대카드 MY BUSINESS ZERO Food&Drink,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2292
+2293,HYUNDAI,현대카드 MY BUSINESS ZERO Retail&Service,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2293
+2294,HYUNDAI,현대카드 MY BUSINESS ZERO Online Seller,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2294
+2296,KB,톡톡M 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2296
+2297,KB,톡톡F 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2297
+2298,KB,톡톡O 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2298
+2299,KB,톡톡D 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2299
+2300,HANA,내맘대로 쁨 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2300
+2301,HANA,원스토어 1 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2301
+2302,SHINHAN,T우주 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2302
+2304,SHINHAN,신한카드 Eats More(이츠모아),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2304
+2306,LOTTE,L.PAY by 롤라카드(신용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2306
+2307,SAMSUNG,L.PAY by 롤라카드(체크),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2307
+2308,HYUNDAI,로스트아크 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2308
+2309,SHINHAN,톡톡 구독카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2309
+2311,WOORI,럭키 더블카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2311
+2312,WOORI,럭키 유카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2312
+2315,WOORI,한패스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2315
+2316,HYUNDAI,차이 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2316
+2317,HYUNDAI,차이 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2317
+2318,WOORI,핀크카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2318
+2322,SHINHAN,티니패스 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2322
+2323,HANA,아이부자 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2323
+2324,SAMSUNG,삼성 BIZ iD BENEFIT카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2324
+2325,HANA,프레딧 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2325
+2326,KB,해피포인트 해피리워드 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2326
+2327,KB,스카이패스 티타늄 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2327
+2329,WOORI,핀트 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2329
+2330,LOTTE,LOCA 365 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2330
+2331,SHINHAN,땡겨요 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2331
+2332,KB,KB국민 우리동네 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2332
+2333,SHINHAN,땡겨요 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2333
+2334,SHINHAN,땡겨요 신한카드 체크(라이더형),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2334
+2335,KB,해피리워드 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2335
+2338,SHINHAN,신한카드 Way 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2338
+2340,KB,쇼핑& 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2340
+2342,SHINHAN,투썸플레이스 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2342
+2343,SHINHAN,신한카드 On 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2343
+2349,SAMSUNG,모니모카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2349
+2352,LOTTE,&POP 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2352
+2353,WOORI,NU Blanc,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2353
+2354,WOORI,NU Uniq,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2354
+2355,KB,레고랜드카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2355
+2356,KB,레고랜드 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2356
+2357,KB,레고랜드매니아카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2357
+2358,SAMSUNG,삼성 iD EDU 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2358
+2359,HYUNDAI,Hyundai Mobilty카드(상용차),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2359
+2360,LOTTE,LOCA in MEGACITY,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2360
+2361,LOTTE,케이뱅크 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2361
+2363,KB,wavve카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2363
+2364,SAMSUNG,iD MOVE카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2364
+2365,HANA,닥터구디 T&R(티앤알) 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2365
+2369,LOTTE,Happy 디지털카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2369
+2370,WOORI,NU Uniq Check,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2370
+2371,SHINHAN,신한카드 플리,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2371
+2372,SHINHAN,신한카드 플리(체크),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2372
+2373,SHINHAN,신한카드 On 체크(쥬라기),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2373
+2374,SHINHAN,신한카드 Way 체크(쥬라기),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2374
+2376,SAMSUNG,삼성 iD SIMPLE 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2376
+2377,KB,톡톡 my point카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2377
+2378,KB,톡톡 my living카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2378
+2379,SHINHAN,신한카드 On 체크(잔망루피),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2379
+2385,LOTTE,Flex카드 몽블랑 에디션,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2385
+2386,SHINHAN,티머니 Pay & GO 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2386
+2388,HYUNDAI,넥슨 현대카드 UNLIMITED,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2388
+2389,HYUNDAI,넥슨 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2389
+2390,HYUNDAI,넥슨 현대카드Check,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2390
+2392,SAMSUNG,CJ 삼성 iD 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2392
+2393,HYUNDAI,SSG.COM 카드 Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2393
+2394,HANA,트래블로그 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2394
+2395,LOTTE,LOCA 나누기 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2395
+2396,WOORI,Diners Club POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2396
+2397,WOORI,Diners Club MILEAGE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2397
+2398,SAMSUNG,신세계 더 마일리지 삼성카드 (스카이패스),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2398
+2399,KB,리브 NEXT카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2399
+2400,WOORI,밥바라밥 페이북머니 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2400
+2401,WOORI,NU Nature,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2401
+2402,SHINHAN,GS리테일 NH농협카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2402
+2403,WOORI,NU I&U,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2403
+2404,WOORI,코오롱몰 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2404
+2405,HANA,#any 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2405
+2406,HANA,하나 CLUB H 아메리칸 익스프레스 리저브 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2406
+2407,SAMSUNG,삼성 iD PET 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2407
+2409,HANA,#MY WAY 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2409
+2410,HANA,New 제주항공 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2410
+2411,WOORI,슈퍼쇼퍼카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2411
+2412,LOTTE,아멕스 플래티넘 아시아나클럽 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2412
+2414,HYUNDAI,인플카 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2414
+2416,KB,이마트II KB국민카드(옐로우),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2416
+2417,HYUNDAI,인플카 현대카드 CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2417
+2418,WOORI,始發(시발)카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2418
+2419,SAMSUNG,삼성 iD POCKET 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2419
+2420,SAMSUNG,카카오뱅크 개인사업자 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2420
+2421,SAMSUNG,카카오뱅크 개인사업자 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2421
+2422,KB,노리2 체크카드(KB Pay),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2422
+2423,KB,노리2 체크카드(Global),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2423
+2424,SHINHAN,LOCA X 구독,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2424
+2429,HANA,삼프로TV 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2429
+2430,HYUNDAI,SC제일은행-현대카드 M CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2430
+2431,HYUNDAI,SC제일은행-현대카드 X CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2431
+2432,HANA,네이버페이 머니 하나 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2432
+2433,SAMSUNG,네이버페이 쇼핑엔로카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2433
+2434,KB,갤러리아 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2434
+2435,SHINHAN,신한카드 EVerywhere,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2435
+2436,HYUNDAI,the Red Stripe,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2436
+2437,SHINHAN,GS리테일 NH농협체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2437
+2440,KB,KB ALL 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2440
+2441,KB,KB국민 My WE:SH 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2441
+2442,KB,KB YOU With 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2442
+2443,KB,GOODGAME 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2443
+2444,LOTTE,롯데마트&MAXX 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2444
+2445,HANA,원더카드 2.0 DAILY,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2445
+2446,HANA,원더카드 FREE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2446
+2447,SHINHAN,원더카드 2.0 LIVING,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2447
+2448,HANA,원더카드 HAPPY,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2448
+2449,HANA,원더카드 2.0 T,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2449
+2450,KB,HERITAGE Smart [할인형],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2450
+2451,KB,HERITAGE Smart [대한항공 마일리지형],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2451
+2452,HANA,카카오뱅크 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2452
+2453,SHINHAN,신한카드 구독 좋아요,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2453
+2455,WOORI,카카오뱅크 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2455
+2457,LOTTE,캐롯손해보험 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2457
+2459,SAMSUNG,삼성 iD NOMAD 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2459
+2460,SAMSUNG,THE iD. PLATINUM(포인트),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2460
+2461,SAMSUNG,THE iD. TITANIUM(포인트),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2461
+2463,LOTTE,LOCA Mobility 반띵 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2463
+2465,HANA,신세계 the Mile 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2465
+2466,HANA,이디야 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2466
+2467,SHINHAN,신한카드 알뜰More(알뜰모아),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2467
+2468,KB,KMVNO 알뜰폰 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2468
+2469,LOTTE,나무 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2469
+2470,SAMSUNG,TRADERS CLUB 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2470
+2471,SHINHAN,신한카드 Way 체크(최고심),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2471
+2472,HYUNDAI,SKT-현대카드M Edition3(라이트할부형2.0),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2472
+2473,LOTTE,MY RENTAL+ 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2473
+2474,KB,T-economy KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2474
+2475,HANA,하나로 전자카드 메가캐쉬백 더드림 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2475
+2476,WOORI,NU AUTO 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2476
+2477,SAMSUNG,T나는혜택 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2477
+2479,SHINHAN,제주신화월드 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2479
+2481,SHINHAN,신한 햇살론카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2481
+2483,HYUNDAI,IBK DC히어로즈 카드(신용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2483
+2484,WOORI,kt SUPER+ 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2484
+2486,SHINHAN,LFmall 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2486
+2487,WOORI,CGV 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2487
+2488,SHINHAN,베베쿡 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2488
+2489,HYUNDAI,K-FIRST (모바일전용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2489
+2491,SHINHAN,신한카드 플리(산리오캐릭터즈),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2491
+2492,SHINHAN,신한카드 플리 체크(산리오캐릭터즈),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2492
+2494,WOORI,H.Point 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2494
+2495,SHINHAN,신세계 The BLOSSOM 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2495
+2496,SHINHAN,신세계사이먼 프리미엄 아울렛 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2496
+2497,SHINHAN,LG BEST SHOP 486 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2497
+2511,SHINHAN,신한카드 봄,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2511
+2512,SHINHAN,신한카드 봄(체크),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2512
+2514,HYUNDAI,미래에셋 현대카드 Silver,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2514
+2515,HYUNDAI,미래에셋 현대카드 Gold,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2515
+2516,HYUNDAI,미래에셋 현대카드 Diamond,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2516
+2517,SAMSUNG,네이버웹툰 삼성 iD 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2517
+2519,KB,개이득 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2519
+2521,HYUNDAI,NOL 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2521
+2522,WOORI,KT NU우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2522
+2523,WOORI,LG U+ 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2523
+2525,WOORI,만나 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2525
+2526,SHINHAN,LG트윈스 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2526
+2527,SHINHAN,신한카드 Pick I 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2527
+2528,SHINHAN,신한카드 Pick E 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2528
+2529,HANA,트래블로그 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2529
+2530,KB,총무 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2530
+2532,SHINHAN,신한카드 Globus,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2532
+2533,HANA,에너지 더블 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2533
+2534,SAMSUNG,삼성 iD VITA 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2534
+2537,LOTTE,LOCA for 롯데마트,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2537
+2538,SHINHAN,LOCA CLASSIC 롯데마트,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2538
+2539,SAMSUNG,MY S-OIL 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2539
+2540,KB,HERITAGE Exclusive,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2540
+2541,KB,HERITAGE Reserve(스카이패스형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2541
+2542,KB,HERITAGE Reserve(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2542
+2543,SAMSUNG,신세계 THE S VIP,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2543
+2546,SHINHAN,신한카드 Pick E 선불,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2546
+2547,SHINHAN,신한카드 Pick I 선불,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2547
+2548,SHINHAN,e hi-pass 카드(현대차),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2548
+2549,SHINHAN,신한카드 KaPick,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2549
+2550,KB,노리2 체크카드(Play),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2550
+2551,WOORI,카드의정석 EVERY 1,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2551
+2552,WOORI,카드의정석 EVERY CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2552
+2553,WOORI,카드의정석 EVERY MILE SKYPASS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2553
+2554,HANA,밀리언달러 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2554
+2555,KB,K-패스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2555
+2556,KB,K-패스체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2556
+2558,SAMSUNG,K-패스 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2558
+2563,SAMSUNG,K-패스 삼성체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2563
+2565,SAMSUNG,I-PET,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2565
+2566,SAMSUNG,Trip to 로카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2566
+2567,SAMSUNG,우리동네GS 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2567
+2568,KB,TMAP & LOGI 행복 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2568
+2569,WOORI,트래블월렛 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2569
+2570,WOORI,카드의정석 오하CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2570
+2571,SAMSUNG,엠베스트 엘리하이 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2571
+2572,HANA,Mile1 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2572
+2583,WOORI,PAYCO 36 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2583
+2585,SHINHAN,신한카드 Way 체크(미니언즈 여름),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2585
+2586,SHINHAN,티니 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2586
+2587,WOORI,카드의정석 EVERY 1 (망그러진곰 Edition),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2587
+2588,KB,스타플러스 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2588
+2589,SHINHAN,GS Prime 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2589
+2590,SAMSUNG,BC 바로 에어 플러스 아시아나,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2590
+2592,SHINHAN,싱가포르항공 크리스플라이어 더 베스트 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2592
+2594,LOTTE,아시아나 듀얼마일리지 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2594
+2595,KB,랭킹닭컴 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2595
+2596,SHINHAN,신한카드 봄(도구리),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2596
+2597,SHINHAN,신한카드 봄 체크(도구리),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2597
+2598,SHINHAN,CJ ONE 프리즘 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2598
+2602,SHINHAN,SPOTV NOW 신한카드 구독 좋아요,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2602
+2603,SHINHAN,KB차차차 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2603
+2604,KB,토심이 첵첵 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2604
+2605,KB,TMAP KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2605
+2606,SHINHAN,신한라이프 THE PRIDE 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2606
+2608,SHINHAN,대성학원 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2608
+2609,KB,쿠팡 와우카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2609
+2611,SHINHAN,신한카드 Applus,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2611
+2612,WOORI,ALL 우리카드 Premium,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2612
+2613,WOORI,ALL 우리카드 Infinite,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2613
+2614,KB,KB Pay 머니백카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2614
+2618,SAMSUNG,삼성 iD AUTO 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2618
+2619,LOTTE,DGB어디로든그린카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2619
+2623,KB,American Express Rose Gold KB Kookmin Card,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2623
+2624,KB,American Express Blue KB Kookmin Card,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2624
+2625,KB,토스 USS NEXT 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2625
+2627,WOORI,TWO CHAIRS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2627
+2629,HYUNDAI,Smilecard Edition3,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2629
+2630,KB,에버랜드 판다카드(푸바오 에디션),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2630
+2631,SAMSUNG,모니모A 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2631
+2632,LOTTE,디지로카 London,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2632
+2633,LOTTE,디지로카 Paris,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2633
+2634,LOTTE,디지로카 Monaco,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2634
+2635,SHINHAN,Triple in LOCA,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2635
+2636,LOTTE,LOCA Professional,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2636
+2637,SHINHAN,카카오페이 신한 라이언 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2637
+2638,SHINHAN,카카오페이 신한 춘식이 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2638
+2639,WOORI,카드의정석 DON CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2639
+2640,HYUNDAI,코스트코 리워드 현대카드 Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2640
+2641,LOTTE,어디로든 그린카드 X LOCA,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2641
+2642,HYUNDAI,에너지플러스카드 Edition3,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2642
+2643,HANA,MULTI Any 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2643
+2645,SHINHAN,ZipL 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2645
+2646,HYUNDAI,현대카드ZERO Edition3(할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2646
+2647,HYUNDAI,현대카드ZERO Edition3(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2647
+2651,SAMSUNG,W컨셉 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2651
+2652,SAMSUNG,에버랜드 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2652
+2653,WOORI,010PAY 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2653
+2654,HANA,원더카드 2.0 LIFE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2654
+2655,WOORI,DA카드의정석Ⅱ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2655
+2656,KB,춘식이 모바일 로카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2656
+2657,HANA,JADE Classic,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2657
+2658,KB,I-나눔,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2658
+2659,SAMSUNG,보험엔로카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2659
+2661,SAMSUNG,삼성 iD PLUG-IN 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2661
+2662,HYUNDAI,American Express® Green Card Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2662
+2663,HYUNDAI,American Express® Gold Card Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2663
+2664,HYUNDAI,American Express The Platinum Card®Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2664
+2665,KB,폼 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2665
+2666,SHINHAN,신한카드 Point Plan,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2666
+2667,SHINHAN,신한카드 SOL트래블 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2667
+2668,SHINHAN,탐나는전 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2668
+2669,HYUNDAI,현대카드 M,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2669
+2670,HYUNDAI,현대카드 MM,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2670
+2671,HANA,원더 K리그 축덕카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2671
+2673,SHINHAN,신한카드 Point Plan 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2673
+2676,SAMSUNG,삼성 iD GLOBAL 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2676
+2677,WOORI,"카드의정석 Dear, Shopper(디어쇼퍼)",CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2677
+2678,WOORI,"카드의정석 Dear, Traveler(디어트래블러)",CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2678
+2679,HYUNDAI,현대카드 X,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2679
+2680,HYUNDAI,현대카드Z work Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2680
+2681,HANA,K-패스 하나 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2681
+2682,HANA,K-패스 하나 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2682
+2683,HYUNDAI,현대카드Z family Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2683
+2684,HYUNDAI,현대카드Z play,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2684
+2685,KB,WE:SH Travel,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2685
+2686,WOORI,D4카드의정석Ⅱ,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2686
+2687,WOORI,카드의정석 SHOPPING+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2687
+2688,WOORI,카드의정석 I&U+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2688
+2689,WOORI,카드의정석2 EVERY POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2689
+2690,SHINHAN,K-패스 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2690
+2691,KB,트래블러스 체크카드(토심이),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2691
+2692,HYUNDAI,현대카드 Summit,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2692
+2693,SHINHAN,K-패스 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2693
+2694,SHINHAN,신한카드 처음,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2694
+2697,HYUNDAI,현대카드 MX Black Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2697
+2699,WOORI,카드의정석 TEN,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2699
+2700,SHINHAN,위비트래블 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2700
+2701,SAMSUNG,하나투어 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2701
+2702,SAMSUNG,삼성 iD CLASSY 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2702
+2703,HANA,JADE Prime,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2703
+2704,HANA,JADE First,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2704
+2705,HANA,JADE First Centum,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2705
+2707,LOTTE,디지로카 Las Vegas,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2707
+2708,KB,WE:SH Daily 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2708
+2709,HYUNDAI,대한항공카드 060,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2709
+2710,HYUNDAI,대한항공카드 120,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2710
+2711,HYUNDAI,대한항공카드 300,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2711
+2712,HYUNDAI,대한항공카드 the First Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2712
+2713,SAMSUNG,디지로카 Pet,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2713
+2714,LOTTE,디지로카 Edu,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2714
+2715,LOTTE,디지로카 Wellness,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2715
+2716,LOTTE,디지로카 Golf,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2716
+2717,LOTTE,디지로카 Auto,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2717
+2718,KB,모바일엔디지로카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2718
+2719,WOORI,카드의정석2 EVERY DISCOUNT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2719
+2721,HANA,당근머니 하나 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2721
+2722,SHINHAN,신한카드 SOL트래블,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2722
+2723,LOTTE,롯데카드 KaPick,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2723
+2725,SHINHAN,배민 한그릇카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2725
+2726,SHINHAN,배민 곱빼기카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2726
+2729,HANA,트래블로그 SKYPASS 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2729
+2730,HANA,트래블로그 PRESTIGE 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2730
+2731,SHINHAN,신한카드 Point Plan+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2731
+2732,HANA,토스뱅크 하나카드 Wide,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2732
+2733,HANA,원더 Co brand(집업) 제휴 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2733
+2734,KB,코웨이 IBK카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2734
+2735,SHINHAN,신한카드 Edu Plan+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2735
+2736,HYUNDAI,현대홈쇼핑 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2736
+2737,HYUNDAI,the Red (항공 마일리지형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2737
+2738,HYUNDAI,SILVER FOR LOTTE DEPARTMENT STORE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2738
+2739,HYUNDAI,GOLD FOR LOTTE DEPARTMENT STORE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2739
+2740,HANA,트래블GO 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2740
+2741,SHINHAN,KT 가족만족 할부 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2741
+2742,WOORI,카드의정석 EVERYDAY CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2742
+2743,HYUNDAI,3 Body-A 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2743
+2744,SHINHAN,EV 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2744
+2746,SAMSUNG,삼성 iD ONE 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2746
+2747,SHINHAN,신한카드 The Pet,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2747
+2748,SHINHAN,신한카드 The Premium Pet,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2748
+2750,KB,달달 하나 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2750
+2751,HYUNDAI,the Red (M포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2751
+2752,HYUNDAI,the Pink Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2752
+2753,HYUNDAI,the Green Edition3,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2753
+2755,HYUNDAI,the Red Stripe Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2755
+2756,HYUNDAI,the Purple,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2756
+2757,HYUNDAI,the black,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2757
+2759,SHINHAN,신한카드 처음(ANNIVERSE),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2759
+2760,WOORI,카드의정석 칼퇴 CHECK,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2760
+2761,KB,KB국민카드 KaPick,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2761
+2762,SAMSUNG,THE iD. TITANIUM (아시아나),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2762
+2763,SHINHAN,CU Npay 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2763
+2764,HYUNDAI,올리브영 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2764
+2765,SAMSUNG,LOCA X 기후동행카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2765
+2766,SHINHAN,신한 후불 기후동행 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2766
+2767,SHINHAN,신한 후불 기후동행 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2767
+2768,SHINHAN,하나 기후동행체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2768
+2769,SHINHAN,KB국민 기후동행카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2769
+2770,SHINHAN,KB국민 기후동행체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2770
+2771,SAMSUNG,기후동행 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2771
+2775,SHINHAN,카카오페이 트래블로그 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2775
+2776,HYUNDAI,이마트 e카드 Plus,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2776
+2777,HYUNDAI,이마트 e카드 Basic,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2777
+2779,HYUNDAI,IBK포인트(신용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2779
+2780,KB,HERITAGE Classic [할인형],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2780
+2781,KB,HERITAGE Classic [스카이패스형],CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2781
+2782,HYUNDAI,현대카드 Teens,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2782
+2784,WOORI,K-패스 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2784
+2785,LOTTE,힐튼 아너스 아멕스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2785
+2786,LOTTE,힐튼 아너스 아멕스 프리미엄,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2786
+2787,SHINHAN,LGE.COM 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2787
+2788,SHINHAN,신한카드 The ACE BLUE LABEL,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2788
+2789,SHINHAN,에버온 EV 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2789
+2790,HYUNDAI,현대카드 Summit CE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2790
+2791,HYUNDAI,현대카드 Boutique - Velvet,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2791
+2792,HYUNDAI,현대카드 Boutique - Satin,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2792
+2793,HYUNDAI,현대카드 Boutique - Copper,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2793
+2794,HYUNDAI,네이버 현대카드 Edition2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2794
+2795,SHINHAN,올라운드카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2795
+2799,SHINHAN,K-패스엔로카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2799
+2805,SHINHAN,토스페이 플러스 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2805
+2806,SHINHAN,토스페이 플러스 KB카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2806
+2807,SHINHAN,신한카드 The BEST-XO,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2807
+2809,HANA,Young Hana+ 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2809
+2810,HANA,더 심플 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2810
+2811,HANA,더 심플 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2811
+2814,SHINHAN,카카오뱅크 모임 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2814
+2817,SHINHAN,iM K-패스 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2817
+2820,HANA,원더카드 2.0 FREE+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2820
+2821,HANA,원더카드 2.0 HAPPY+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2821
+2822,SHINHAN,쿠쿠 X LOCA,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2822
+2823,LOTTE,롯데멤버스 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2823
+2824,LOTTE,롯데멤버스 카드 프리미엄,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2824
+2825,SAMSUNG,우리 기후동행카드(신용),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2825
+2826,SHINHAN,우리 기후동행카드(체크),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2826
+2827,SAMSUNG,삼성 iD STATION 카드 (GS칼텍스),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2827
+2828,SAMSUNG,삼성 iD STATION 카드 (SK에너지),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2828
+2830,SHINHAN,Point Plan 체크(SOL 모임),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2830
+2831,SHINHAN,알리익스프레스 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2831
+2832,SHINHAN,제주항공 트래블제로카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2832
+2835,SHINHAN,신한카드 Discount Plan+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2835
+2836,SHINHAN,신한카드 Discount Plan,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2836
+2837,KB,WE:SH All+ 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2837
+2840,SHINHAN,오일모아카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2840
+2841,SHINHAN,에듀플러스카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2841
+2842,HYUNDAI,현대카드 X Cut,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2842
+2843,HYUNDAI,현대카드 X Save,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2843
+2844,HYUNDAI,현대카드 ZERO Up(할인형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2844
+2845,KB,KB YOU Wish up 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2845
+2847,SHINHAN,신한카드 SOL트래블 J체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2847
+2848,WOORI,카드의정석2,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2848
+2851,WOORI,우리카드 7CORE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2851
+2852,KB,KB 틴업 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2852
+2853,SAMSUNG,KTX 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2853
+2855,SHINHAN,Haru(Hoshino Resorts),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2855
+2856,KB,Biz Prime 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2856
+2857,SHINHAN,신한카드 처음(선불),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2857
+2858,SHINHAN,카카오뱅크 줍줍 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2858
+2859,KB,KB 전통시장온누리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2859
+2861,LOTTE,트래블월렛 하이브리드 롯데카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2861
+2862,HANA,MG+ S 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2862
+2863,LOTTE,디지로카 Travel,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2863
+2864,LOTTE,디지로카 Travel 프리미엄,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2864
+2865,HANA,신세계 트래블GO 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2865
+2867,WOORI,갤러리아 Platinum 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2867
+2868,KB,KB 전통시장온누리체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2868
+2869,WOORI,E1 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2869
+2870,SHINHAN,넥센타이어 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2870
+2872,SHINHAN,GS ALL 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2872
+2873,SHINHAN,스타필드 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2873
+2875,SAMSUNG,삼성 iD CARE 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2875
+2876,HANA,MG+ 신용카드 Primo 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2876
+2877,HANA,MG+ BLACK 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2877
+2878,HYUNDAI,알파벳카드D,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2878
+2879,HYUNDAI,알파벳카드H,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2879
+2880,HYUNDAI,알파벳카드O,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2880
+2881,HYUNDAI,알파벳카드S,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2881
+2882,HYUNDAI,알파벳카드T,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2882
+2883,HYUNDAI,현대카드Z everyday,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2883
+2884,SHINHAN,배민 신한카드 밥친구,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2884
+2885,SAMSUNG,삼성 iD SELECT ALL 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2885
+2886,SAMSUNG,삼성 iD SELECT ON 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2886
+2887,SHINHAN,신한카드 처음 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2887
+2888,SAMSUNG,DIGILOCA SKYPASS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2888
+2889,SHINHAN,신한카드 처음 체크(냐한남자),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2889
+2890,SHINHAN,신한카드 Point Plan 체크 캐릭터형(짱구),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2890
+2891,SHINHAN,신한카드 Hey Young 체크(잔망루피),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2891
+2892,SHINHAN,신한카드 Pick E 체크 캐릭터형(신의탑),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2892
+2893,SHINHAN,신한카드 Pick I 체크 캐릭터형(한교동),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2893
+2894,SAMSUNG,토스 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2894
+2896,KB,KB라이프 딱좋은 요즘 건강 KB카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2896
+2897,SAMSUNG,스타벅스 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2897
+2898,WOORI,우리카드 MILE&POINT,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2898
+2899,SHINHAN,신한카드 SOL Plan,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2899
+2902,WOORI,the OPUS silver,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2902
+2903,HYUNDAI,현대카드M-경차전용카드 Edition2 (유류세환급),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2903
+2904,HANA,토스뱅크 하나카드 Day,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2904
+2905,KB,트래블러스 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2905
+2906,SHINHAN,신한카드 Simple Platinum# Splendor Plus,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2906
+2907,WOORI,위비트래블 J 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2907
+2908,SAMSUNG,번개장터 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2908
+2909,HANA,MG+ W 하나카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2909
+2912,SHINHAN,LG전자 The 구독케어 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2912
+2913,KB,SK인텔릭스 올림 KB국민카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2913
+2914,SAMSUNG,신세계 신백리워드 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2914
+2915,SAMSUNG,THE iD. 1st,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2915
+2916,SHINHAN,The CLASSIC NEO,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2916
+2918,SHINHAN,E9pay 신한카드 처음,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2918
+2919,WOORI,웰컴 외국인 올인원 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2919
+2921,SHINHAN,신한카드 SOL글로벌U 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2921
+2922,SHINHAN,신한카드 SOL글로벌 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2922
+2923,SHINHAN,신세계 신한카드 Best Fit,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2923
+2924,WOORI,우리카드 UniMile,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2924
+2929,KB,KB Youth Club 체크카드,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2929
+2930,KB,KB YOU Prime 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2930
+2931,SHINHAN,KB NEED Edu카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2931
+2933,SHINHAN,신한카드 나라사랑카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2933
+2934,HANA,하나 나라사랑카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2934
+2935,SHINHAN,신한카드 SOL트립앤샵 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2935
+2936,LOTTE,RROUND PAY X 디지로카,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2936
+2937,LOTTE,디지로카 Link,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2937
+2938,HYUNDAI,현대카드MY BUSINESS M F&B,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2938
+2939,HYUNDAI,현대카드MY BUSINESS M Retail,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2939
+2940,HYUNDAI,현대카드MY BUSINESS M E-seller,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2940
+2942,HYUNDAI,에너지플러스 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2942
+2943,SAMSUNG,G마켓 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2943
+2944,HYUNDAI,the Orange,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2944
+2947,HYUNDAI,넥슨 현대카드 Edition2 마비노기 모바일팩,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2947
+2948,HYUNDAI,넥슨 현대카드 Edition2 넥슨팩,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2948
+2950,SHINHAN,신한카드 Simple Plan+,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2950
+2951,SHINHAN,신한카드 Simple Plan,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2951
+2952,SAMSUNG,삼성 iD STATION 카드 (HD현대오일뱅크),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2952
+2953,WOORI,스타트래블 우리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2953
+2954,SHINHAN,LG트윈스 신한카드 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2954
+2955,SAMSUNG,삼성라이온즈카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2955
+2956,KB,두산베어스 KB카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2956
+2957,SHINHAN,한화이글스 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2957
+2960,SHINHAN,이마트 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2960
+2961,HANA,트래블로그+(플러스) 신용카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2961
+2962,SHINHAN,더한섬 신한카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2962
+2963,SHINHAN,더한섬 신한카드 플래티늄,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2963
+2964,KB,KB NEED Pay 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2964
+2967,SHINHAN,알파벳카드B,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2967
+2968,SHINHAN,알파벳카드P,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2968
+2969,HYUNDAI,알파벳카드R,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2969
+2970,KB,KB YOU Wish 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2970
+2971,SAMSUNG,무신사 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2971
+2972,HYUNDAI,현대카드 하이브리드(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2972
+2973,HYUNDAI,현대카드 하이브리드(캐시백형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2973
+2974,HYUNDAI,현대카드 하이브리드(Apple Pay Rewards),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2974
+2975,LOTTE,LOCA LIKIT 1.5,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2975
+2977,SHINHAN,신한카드 SOL트립앤J 체크,CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2977
+2978,WOORI,카드의정석2 SHOPPER,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2978
+2979,SHINHAN,신한카드 ECO Plan,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2979
+2980,WOORI,카드의정석2 SUPER,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2980
+2981,KB,KB NEED Global 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2981
+2982,HYUNDAI,현대카드 체크(포인트형),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2982
+2983,HYUNDAI,현대카드 체크(캐시백형),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2983
+2984,HYUNDAI,현대카드 체크(Apple Pay Rewards),CHECK,ACTIVE,https://www.card-gorilla.com/card/detail/2984
+2985,HYUNDAI,현대카드 ZERO Up(포인트형),CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2985
+2986,SAMSUNG,삼성 iD SELECT UP 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2986
+2987,LOTTE,LOCA LIKIT 2.0,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2987
+2988,SAMSUNG,트라이플러스 삼성카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2988
+2989,HYUNDAI,알파벳카드D BOLD,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2989
+2990,HYUNDAI,알파벳카드S BOLD,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2990
+2991,HYUNDAI,알파벳카드T BOLD,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2991
+2992,SHINHAN,카드의정석2 DAILY,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2992
+2993,SHINHAN,카드의정석2 ROUTINE,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2993
+2994,WOORI,카드의정석2 원더라이프,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2994
+2997,HANA,MOVING카드 PLAY모드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2997
+2998,HANA,MOVING카드 LIFE모드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2998
+3000,HYUNDAI,국민행복 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/3000
+3016,HYUNDAI,케이뱅크 BUSINESS 현대카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/3016
+2210,BC,블랙핑크 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2210
+2271,BC,밸런스 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2271
+2346,BC,BC 바로 클리어 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2346
+2347,BC,BC 바로 리워드 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2347
+2348,BC,BC 바로 페이백 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2348
+2350,BC,부자되세요 덤카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2350
+2351,BC,부자되세요 홈쇼핑카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2351
+2362,BC,페이북 머니 체크카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2362
+2380,BC,신세계 BC 바로 콰트로 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2380
+2381,BC,신세계 BC 바로 아시아나 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2381
+2382,BC,신세계 BC 바로 리워드 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2382
+2383,BC,신세계 BC 바로 SEVEN FLEX,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2383
+2384,BC,신세계 BC 바로 클리어 플러스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2384
+2458,BC,BC 바로 에어 플러스 스카이패스,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2458
+2462,BC,신세계 푸빌라 BC바로카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2462
+2485,BC,kt SUPER 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2485
+2501,BC,부자되세요 The Oil 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2501
+2502,BC,UPTURN카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2502
+2503,BC,키자니아 에듀카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2503
+2518,BC,컬리카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2518
+2557,BC,K-패스 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2557
+2591,BC,BC 바로 On&Off 카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2591
+2607,BC,kt DC PLUS,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2607
+2616,BC,어디로든 그린카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2616
+2644,BC,GOAT BC 바로카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2644
+2724,BC,BC 바로 KaPick,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2724
+2774,BC,BC 바로 기후동행카드,CREDIT,ACTIVE,https://www.card-gorilla.com/card/detail/2774

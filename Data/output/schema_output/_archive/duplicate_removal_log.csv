@@ -1,0 +1,2 @@
+﻿source_file,card_id,min_amount,min_amount_source,category_id,group_name,benefit_type,rate,fixed_amount,unit_basis,raw_text
+benefits_semi_structured.csv,281,0,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,추가 포인트 적립
