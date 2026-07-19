@@ -1,0 +1,3 @@
+﻿source_file,card_id,raw_text,before_benefit_type,before_rate,before_fixed_amount,after_benefit_type,after_rate,after_unit_basis,reason
+benefits.csv,2475,"G마켓/옥션 결제시 2만원당 400마일리지 적립, G마켓 SVIP+옥션 VIP 서비스
+CU편의점 결제시 CU 포인트 2% 적립 ＋OK캐쉬백 1% 동시적립",MILEAGE,400.0,,MILEAGE,400.0,20000,MANWON_MILEAGE_UNIT_RECOVERED
