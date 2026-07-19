@@ -1,0 +1,1287 @@
+﻿card_id,min_amount,min_amount_source,category_id,group_name,benefit_type,rate,fixed_amount,unit_basis,raw_text
+1,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,무이자/영화/테마파크
+8,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,Gift Option Service - 매년 1회 옵션 품목 중 한 가지를 선택하여 이용
+8,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,국제브랜드사 서비스 공통사항 안내
+10,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, 메가박스"
+11,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"생활친화가맹점 잔돈할인 서비스, Coin-Save"
+11,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,온라인 영화 예매 할인
+12,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,"대한항공 1,500원당 1마일/아시아나항공 1,000원당 1마일"
+12,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,마이신한포인트 추가 적립
+12,300000,INLINE,16,프리미엄,UNCLASSIFIED,,,,특급 호텔 발렛파킹/면세점 우대 서비스 (전월실적 30만원 이상)
+14,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,할인율 선택 서비스
+14,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 커피빈"
+14,300000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,"GS25, 세븐일레븐, CU"
+14,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, 롯데시네마"
+14,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스 모바일쿠폰 보너스 리워드 (분기별 실적 250만원 이상)
+15,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Gift Option
+15,300000,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,항공 마일리지 적립 서비스
+16,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,국내 주유소 리터당 40~150포인트/충전소 리터당 10~50포인트 적립
+16,300000,INLINE,16,프리미엄,UNCLASSIFIED,,,,Platinum # 서비스(전월실적 30만원 이상)
+21,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,잔돈 할인 서비스(Coin-Save)
+21,300000,INLINE,10,영화,UNCLASSIFIED,,,,온라인 영화 예매 할인 (전월실적 30만원 이상)
+21,300000,INLINE,16,프리미엄,UNCLASSIFIED,,,,Platinum# 서비스 및 국제브랜드사 서비스 (전월실적 30만원 이상)
+35,200000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"맥스무비, 인터파크, YES24 예매 시 할인"
+35,200000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,주요 놀이공원 할인 서비스
+36,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Platinum# 서비스 및 국제브랜드사 서비스
+37,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Gift Option Service
+37,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"캐시백(캐시백형 선택 시)
+마일리지 적립(마일리지 적립형 선택 시)"
+37,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,JEJU 할인
+37,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,커피 할인
+37,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,쇼핑 할인
+37,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,생활 할인
+38,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,COIN-SAVE 잔돈 할인
+38,300000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Platinum# 서비스 및 국제브랜드사 서비스
+39,300000,INLINE,10,영화,UNCLASSIFIED,,,,롯데시네마 일반관 5천원 현장 할인 (전월실적 30만원 이상)
+49,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,아멕스 PLATINUM 등급 서비스
+49,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,여행의 설레임을 담은 디자인으로 리뉴얼 된 삼성카드 & MILEAGE PLATINUM
+50,300000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+50,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원 할인 서비스
+50,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,닥터카서비스
+51,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,라이프스타일 패키지 선택
+53,300000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,"S-OIL 주유소에서 휘발유, 경유, 등유 주유시 리터당 40보너스포인트 적립"
+53,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"메가박스, CGV, 무비존 영화 할인"
+54,300000,INLINE,28,프리미엄 서비스,UNCLASSIFIED,,,,아멕스 PLATINUM 등급 서비스 [전월 실적 30만원 이상]
+56,500000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원 할인 서비스
+56,500000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,닥터카 서비스
+56,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,브랜드사 서비스
+57,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,MASTER/UnionPay 서비스
+58,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"할인점, 소셜커머스, 커피전문점, 편의점, 영화 할인"
+58,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,(해외겸용카드 전용) MASTER PLATINUM 등급 서비스
+59,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,라이프스타일 패키지(옵션 패키지 중 택1)
+59,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,mastercard PLATINUM 등급 서비스
+61,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,S-OIL 주유소 주유 시 리터당 40 보너스포인트 적립
+61,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,American Express Selects 서비스
+62,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 쇼핑 빅포인트 적립
+62,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,어린이 직업체험 테마파크 할인
+64,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,신세계백화점·이마트 제휴 혜택
+72,400000,CARD_LEVEL,22,대형마트,UNCLASSIFIED,,,,트레이더스 결제일할인
+72,400000,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,신세계백화점 제휴 서비스
+73,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"통신, 영화, 놀이공원, 호텔 할인"
+73,300000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,할부전환서비스 / 무이자할부
+77,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,전국 영화관 청구할인
+77,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,프리미엄 투어 서비스
+80,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,전국 영화관 3천원 청구할인
+80,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"카드 ""Touching"" 서비스 안내"
+82,300000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,프리미엄 골프/라이프 서비스 제공
+85,300000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,Two-in-One 결제서비스
+86,300000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,Two-in-One 결제서비스
+91,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트 서비스(연 1회, 택1)"
+91,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,프리미엄 투어 서비스
+92,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트 서비스(연 1회, 택1)"
+92,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,프리미엄 투어 서비스
+93,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트 서비스(연 1회, 택1)"
+93,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,프리미엄 투어 서비스
+107,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,스피드메이트 차량정비 현장할인 서비스
+108,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,특별 포인트리
+108,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,기본 포인트리
+113,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,대한항공 마일리지 1~2마일 적립
+114,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,아시아나 마일리지 1~2마일 적립
+116,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,홀릭's Choice (쇼핑홀릭 또는 푸드홀릭 중 택1)
+116,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,연간 리워드 1만점 적립
+121,300000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,KB투어할인 서비스
+121,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,선택 적립 서비스팩 - 생활/교육/쇼핑/직장인/레저팩 중 택 1
+121,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"연간 이용에 따른 다담리워드 서비스,
+함께하는 기부 서비스"
+127,400000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,"SK, GS칼텍스 주유소 리터당 100점 적립"
+127,400000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,영화/놀이공원 현장할인
+127,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,플러스 O2O 적립 서비스
+127,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,서비스 제공 조건 및 적립한도
+130,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"쿠폰서비스
+(카드 발급 첫해:100만원이상 이용 시, 다음해 이후:전년도 1000만원 이상 이용 시)"
+130,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,BeV Ⅴ카드 공통 서비스
+131,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"쿠폰서비스
+(카드 발급 첫해:100만원이상 이용 시, 다음해 이후:전년도 1000만원 이상 이용 시)"
+131,500000,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,대한항공 마일리지 적립
+131,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,BeV Ⅴ카드 공통 서비스
+133,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,쿠폰서비스
+133,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,주유 할인
+133,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,BeV Ⅲ카드 우대 서비스
+134,400000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,전 주유소 및 충전소 110~150점/L 적립
+140,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,스피드메이트 차량정비 현장할인 서비스
+143,400000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"[꿀맛α Food 할인서비스]
+음식업종 건당 2천원 청구할인"
+143,400000,CARD_LEVEL,31,카페/디저트,UNCLASSIFIED,,,,"[꿀맛α Food 할인서비스]
+커피/제과 업종 건당 1천원 청구할인"
+145,400000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"[꿀잼α Fun 할인서비스]
+영화 건당 4천원 청구할인"
+146,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,추가 적립/할인 7대 영역 안내
+156,100000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,기타서비스
+162,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,전국 주요 놀이공원 할인
+163,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스(사이렌오더 포함), 카페베네, 커피빈, 탐앤탐스 4천원 할인"
+163,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,전국 주요 놀이공원 할인
+164,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,전국 주요 놀이공원 할인
+167,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,LIKIT FUN 카드
+174,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,공통서비스
+174,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,각종 바우처 제공
+176,200000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"패밀리레스토랑, 커피, 영화 등 할인"
+185,400000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,아파트관리비 최대 1만원 할인
+185,400000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,쇼핑 최대 1만원 할인
+186,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,에코머니 포인트 적립
+191,400000,CARD_LEVEL,31,카페/디저트,UNCLASSIFIED,,,,생활 할인 서비스
+192,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,전국 주요 놀이공원 할인
+194,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,6개월 슬림할부(부분 무이자할부) 서비스
+200,500000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,쇼핑+해외이용금액 할인
+201,300000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,롯데백화점 12개월 할부서비스
+206,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,스피드메이트 엔진오일 할인 제공
+207,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,경차 유류세 환급
+207,300000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,주유 할인 서비스
+207,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,교통 할인 서비스
+207,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,쇼핑 할인 서비스
+207,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,정비(엔진오일) 할인 서비스
+207,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원 할인
+207,300000,CARD_LEVEL,8,패밀리레스토랑,UNCLASSIFIED,,,,외식 할인
+215,500000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,퇴근 후 할인 - 온라인쇼핑 10만원 이상 결제 시 5천원 결제일 할인
+215,500000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"주말 할인 - 롯데시네마, CGV 1만원 이상 결제 시 3천원 결제일 할인"
+227,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,브랜드 서비스
+227,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"면세점/여행 관련 서비스,
+하나은행 결제 계좌 고객 우대 서비스"
+231,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 커피빈 할인"
+231,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,아파트관리비 자동이체 시 하나머니 적립
+231,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,하나멤버스 서비스
+232,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,국내 특화가맹점/해외 모든가맹점 하나머니 적립
+232,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 커피빈 할인"
+232,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,아파트관리비 자동이체 시 하나머니 적립
+232,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,하나멤버스 서비스
+234,300000,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,Daily/Monthly 하나머니 적립
+234,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 커피빈 할인"
+234,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,아파트관리비 자동이체 시 하나머니 적립
+234,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,하나멤버스 서비스
+237,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,6개 영역 중 선택한 3개 영역 하나머니 적립
+237,300000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,온라인쇼핑 적립(공통서비스)
+237,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,통신요금 적립(공통서비스)
+237,300000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,대중교통 적립(공통서비스)
+237,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 적립(공통서비스)
+237,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,옵션서비스(프리미엄 부가서비스)
+238,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,SK주유소 월 최대 6천원 청구할인
+238,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스/커피빈 4천원 이상 결제시 4천원 청구할인
+239,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,SK주유소 월 최대 6천원 청구할인
+239,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스/커피빈 4천원 이상 결제시 4천원 청구할인
+240,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"[리빙 적립]
+주유, 학원 이용금액 하나머니 적립(월 최대 4만 머니)"
+240,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스/커피빈 4천원 이상 결제시 4천원 청구할인
+241,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,쇼핑 또는 주유 이용금액 스페셜 적립
+241,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"온라인쇼핑, 통신/교통/자동이체, 해외 이용금액 플러스적립"
+242,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,HANA Mile 적립
+243,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,HANA Mile 적립
+244,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,HANA Mile 적립
+245,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,HANA Mile 적립
+247,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"기본서비스(커피, 편의점, 통신, 영화할인)"
+247,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"선택서비스(쇼핑, 주유할인)"
+247,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,"우대PLUS서비스(대중교통, 외식할인)"
+247,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,주요 놀이공원 현장할인
+248,400000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"기본서비스(교육, 아파트관리비, 통신, 영화할인)"
+248,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"선택서비스(쇼핑, 주유할인)"
+248,400000,CARD_LEVEL,22,대형마트,UNCLASSIFIED,,,,"우대PLUS서비스(대형마트, 외식할인)"
+248,400000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,주요 놀이공원 현장할인
+250,500000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,대중교통 청구할인
+250,500000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,편의점 청구할인
+250,500000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,커피 청구할인
+251,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,"저가항공(LCC), 면세점 이용금액 하나머니 적립"
+251,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,국내 영화관 영화표 1만원 이상 결제하면 5천원 청구할인
+270,500000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 할인
+270,500000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,커피전문점 할인
+270,500000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,대중교통 할인
+270,500000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,주유소 할인
+270,500000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,편의점 할인
+270,500000,CARD_LEVEL,22,대형마트,UNCLASSIFIED,,,,마트 할인
+270,500000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원 할인
+281,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,추가 포인트 적립
+281,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,추가 포인트 적립
+281,0,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,주유소 적립
+281,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,수수료 우대
+282,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"신세계백화점 입점영화관 토,일요일 2천원 캐시백"
+282,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스 사이즈업 지원 캐시백
+284,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,신한은행 결제 계좌 연결 제공 서비스(추가 포인트 적립)
+286,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+286,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 영화 최대 3천원 적립
+286,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Master 플래티늄 서비스
+294,300000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,금융 우대 서비스
+302,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,맥스무비 최대 2천원 캐시백
+303,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,GS칼텍스 주유할인 서비스(LPG포함)
+309,200000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,EDIYA 특화 할인 서비스
+312,200000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"쇼핑, 커피, 영화, 편의점, 교통 등 국내 캐시백 서비스"
+313,250000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"[국내서비스] 쇼핑, 커피, 영화 등 다양한 국내 가맹점 할인 서비스"
+315,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,월간 통합 캐쉬백 한도
+323,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,공통서비스
+324,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,YG 엔터테인먼트 운영 쇼핑몰 할인
+324,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"커피, 영화, 외식 등 다양한 국내 가맹점 할인 서비스"
+325,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"GIFT VOUCHER (연 1회, 택1회)"
+325,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,[Travel Service] 국내외 여행 관련 서비스 제공
+326,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,공통서비스
+330,100000,CARD_LEVEL,24,마트/편의점,UNCLASSIFIED,,,,편의점/올리브영 캐시백
+330,100000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,티머니 충전 캐시백
+330,100000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,통합 월 캐시백 한도
+333,300000,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,국내외 가맹점 기본적립
+333,300000,CARD_LEVEL,31,카페/디저트,UNCLASSIFIED,,,,커피/제과아이스크림 업종 추가적립
+333,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화관 업종 추가적립
+333,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,"이동통신요금(SKT, KT, LG U+) 자동이체 시 추가적립"
+333,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,"대중교통(버스, 지하철) 추가적립"
+333,300000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,GS25 편의점 추가적립
+335,300000,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외이용/해외직구 할인캐시백
+336,100000,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,모든 가맹점 포인트리 기본적립
+336,100000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"음식점, 커피전문점 업종 포인트리 추가적립"
+336,100000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,"대중교통, 택시 포인트리 추가적립"
+336,100000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,이동통신요금 포인트리 추가적립
+338,300000,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,모든 가맹점 기본 환급할인 및 주말·공휴일 추가 환급할인
+338,300000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"음식점, 커피전문점 업종 추가 환급할인"
+338,300000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,"대중교통(버스·지하철), 택시 추가 환급할인"
+338,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,이동통신요금 추가 환급할인
+343,200000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,"GS칼텍스 리터당 주중 50점, 주말 60점 포인트리 적립"
+343,200000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,"이동통신요금 2,500점 포인트리 적립"
+343,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,통합적립한도
+346,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,스피드메이트 엔진오일교환 2만원 현장할인 및 정비 할인
+347,200000,CARD_LEVEL,8,패밀리레스토랑,UNCLASSIFIED,,,,아웃백·VIPS·TGIF·세븐스프링스
+350,200000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,스피드메이트 엔진오일교환 2만원 현장할인 및 정비 할인
+350,200000,CARD_LEVEL,30,렌터카,UNCLASSIFIED,,,,SK렌터카 할인 (연 2회)
+354,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,LG U+ 이동통신요금 자동납부 시 4~6천원 환급할인
+355,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,H.Point 적립
+355,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,커피/제과 할인
+355,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 할인
+357,300000,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,AK특화 서비스
+357,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,커피전문점 할인
+357,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 할인
+359,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,GS리테일POP서비스
+364,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"임신출산, 보육료/유아학비 등 지원"
+364,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,공통서비스
+369,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,공통/제휴서비스
+372,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,기타 서비스
+382,250000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드플레이트 디자인 선택 가능
+389,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택
+392,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, 무비존, 메가박스 영화할인"
+392,0,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,닥터카서비스
+392,0,CARD_LEVEL,22,대형마트,UNCLASSIFIED,,,,이마트 맘키즈 서비스
+400,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외이용 안내
+402,100000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외이용 안내
+402,100000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA Platinum 국제브랜드 서비스
+403,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외이용 안내
+404,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,출산육아 특별서비스
+408,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,사용금액별 X캐시백 적립
+410,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+414,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,당월 이용금액별 M포인트 적립
+415,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,당월 이용금액별 X캐시백 제공
+421,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,경차 유류세 환급 대상자 주유 및 충전(LPG) 시 유류세 환급
+422,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"M포인트로 여행, 면세점, 호텔에서 사용 가능한 the Green 바우처 교환"
+422,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Priority Pass카드 및 특수 소재 플레이트 제공
+422,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"VISA Signature 서비스
+MasterCard World 서비스"
+423,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,최대 50만원 상당의 바우처 제공(연 1회)
+424,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"[공통 제공 혜택]
+연 1회, 여행과 쇼핑을 위한 바우처"
+424,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"[선택 제공 혜택]
+항공마일리지(대한항공/아시아나항공) 또는 M포인트 적립"
+425,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,코스트코 리워드 포인트 매년 1회 바우처 교환
+430,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA/MASTER Platinum 서비스
+434,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"네이비, 오렌지, 화이트 중 원하는 카드 색상 선택"
+447,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,하나머니 적립
+447,500000,CARD_LEVEL,15,면세점,UNCLASSIFIED,,,,Daily Service
+447,500000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,Daily Service
+448,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,하나머니 적립
+448,500000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,모든 주유소 할인
+448,500000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 커피빈 할인"
+449,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Special Service 제공
+449,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제 브랜드 서비스
+450,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Special Service 제공
+450,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제 브랜드 서비스
+451,0,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,SK 주유소 이용금액 리터당 60포인트 적립
+451,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"Free Package (연 1회, 택 1)"
+451,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,프리머스카드 공통서비스
+452,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"Free Package (연 1회, 택 1)"
+452,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,프리머스카드 공통서비스
+453,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"Free Package (연 1회, 택 1)"
+453,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,프리머스카드 공통서비스
+455,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,통신 2천원 결제일 할인
+457,250000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"[국내서비스] 쇼핑, 커피, 영화 등 다양한 국내 가맹점 할인 서비스"
+458,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,라이프스타일 옵션 패키지
+465,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, 메가박스, 롯데시네마 영화표 1만원 이상 결제하면 5천원 청구할인 (월 1회)"
+466,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,AMEX PLATINUM 서비스 제공
+473,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,프리미엄 투어 서비스
+473,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 투썸플레이스 1천원 청구할인"
+473,300000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 유명 박물관/미술관 입장권 할인
+473,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,UnionPay Platinum 서비스
+476,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[Making 17 서비스] 포인트 적립받을 영역과 적립율을 직접 선택하는 DIY 서비스!
+478,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,생활친화가맹점 잔돈할인 서비스
+480,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화관 3천원 할인
+486,200000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,올리브영 3천원 캐시백
+486,200000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 3천원 캐시백
+486,200000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,"버스, 지하철 3천원 캐시백"
+487,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, 인터파크, YES24 영화 할인"
+488,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,주유 리터당 150점 포인트리 적립
+488,500000,CARD_LEVEL,31,카페/디저트,UNCLASSIFIED,,,,제과/아이스크림 2천점 포인트리 적립
+488,500000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,"편의점, 올리브영 1천점 포인트리 적립"
+488,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Easy auto 티타늄 서비스
+489,500000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,여행 할인
+489,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,Easy fly+ 서비스
+489,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Easy fly 티타늄 서비스
+500,0,CARD_LEVEL,15,면세점,UNCLASSIFIED,,,,신세계면세점 선불카드 5만원 증정
+502,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"네이버에서 네이버투자통장(삼성증권 CMA계좌) 개설 후, 네이버에서만 카드신청 가능"
+502,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Platinum Service
+522,500000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,통신요금 자동이체 1만원~1만5천원 청구할인
+522,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Liiv M 마스터 티타늄 서비스
+529,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,최대 20만원 상당의 바우처 제공(연 1회)
+529,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"연회비 감면
+MasterCard/VISA 서비스"
+533,500000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,"[DC ONE] 내가 직접 고르는 특별할인!
+[DC ALL] 언제 어디서나 누리는 기본할인!"
+535,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,스페셜기프트 제공(연 1회)
+535,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,Be My Guest / Star Point / Life Support / Bonus Present
+535,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,AMEX Platinum 서비스
+536,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,디지털 구독 서비스 정기결제 이용 시 마이신한포인트 적립
+537,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,7개 디지털 구독 서비스 정기결제 이용 시 마이신한 포인트 적립
+537,400000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"커피, 편의점, 해외 이용시 마이신한포인트 적립"
+538,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"대형마트, 통신요금, 패스트푸드 할인"
+538,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Easy study 티타늄 서비스
+539,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,3만원 상당 기프트카드 제공
+539,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,마스터 플래티넘 서비스
+539,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"라이프 매거진 매월 발송,
+쇼핑/외식/여가문화 혜택"
+540,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"누적 이용금액 600만원 달성 시, 1만원 보너스 캐시백"
+542,300000,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,갤러리아 관련 혜택
+542,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"커피(스타벅스, 폴바셋, 빈스앤베리스) 1천원 청구할인"
+546,0,CARD_LEVEL,8,패밀리레스토랑,UNCLASSIFIED,,,,패밀리 레스토랑 할인
+546,0,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"유명의류, 한국프뢰벨, 현대홈쇼핑, 특별할인서비스"
+546,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"자동차, 통신 등 생활서비스 제공"
+551,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,자동납부 5천원/1만원 캐시백
+551,500000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,통신요금 자동납부 5천원 청구할인
+551,500000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 3천원 청구할인
+551,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,정기결제 1천원 청구할인
+551,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,Easy link 선택서비스(택1)
+551,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,티타늄 서비스
+558,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,프리미엄 투어 서비스
+569,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,4대 디지털 스트리밍 서비스 1만원 청구 할인
+569,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,서로 다른 매력이 있는 4종의 디자인 중에서 하나를 선택해 발급
+578,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,다양한 KB금융 서비스 혜택
+579,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Mastercard Platinum 서비스
+580,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,티타늄 서비스
+583,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,K-패스 사업 지역 안내
+584,200000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,K-패스 사업 지역 안내
+584,200000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 서비스(Mastercard 브랜드 발급 시 제공)
+588,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard Platinum 서비스 제공
+589,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외 인출 수수료 우대 서비스
+589,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제 브랜드 서비스
+591,500000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,편의점 3천원 할인
+591,500000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,커피·제과·패스트푸드 3천원 할인
+591,500000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,숙박앱 5천원 할인
+594,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,삼성디지털프라자 장기할부 및 청구할인
+594,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,커피전문점 1천원 청구할인
+594,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA브랜드 제공 서비스
+595,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,주유 / 충전 할인
+597,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 폴바셋 1천원 청구할인"
+598,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 폴바셋 1천원 청구할인"
+598,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,브랜드서비스 제공
+599,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 폴바셋 1천원 청구할인"
+600,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard 플래티넘서비스
+601,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard 플래티넘서비스
+601,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,웰컴보너스 5천 마일리지 적립
+602,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"마일리지, 항공권, 면세점 바우처 서비스"
+602,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,특수 소재 플레이트
+602,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard World 서비스
+602,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,웰컴보너스 5천 마일리지 적립
+603,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"마일리지, 항공권, 면세점, Special 바우처 서비스"
+603,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,특수 소재 플레이트
+603,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard World 서비스
+603,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,웰컴보너스 1만5천 마일리지 적립
+606,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"쿠팡 로켓와우, 간편결제, 게임결제 청구할인"
+607,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"쿠팡 로켓와우, 간편결제, 게임결제"
+608,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 플래티넘 / Young Premium 서비스 제공
+608,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+609,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 플래티넘 / Young Premium 서비스 제공
+609,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+610,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 플래티넘 / Young Premium 서비스 제공
+610,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+611,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 플래티넘 / Young Premium 서비스 제공
+611,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+613,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,마리아쥬 서비스 적립
+613,500000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,온라인쇼핑 지원 적립
+613,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,홈DIY 적립
+614,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,버스.지하철 최대 4천원 할인
+614,300000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,CU편의점 최대 4천원 할인
+614,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스(사이렌오더 포함) 최대 4천원 할인
+614,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 최대 4천원 할인
+614,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,텐바이텐 최대 4천원 할인
+615,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,티타늄 서비스
+617,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,제주여행 특화 서비스
+617,300000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,주유할인 서비스
+618,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+618,200000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,이동통신요금 자동납부 시 2천원 캐시백
+618,200000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 영화 예매 5천원 캐시백
+618,200000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,편의점 1천원 캐시백
+618,200000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,카페 1천원 캐시백
+618,200000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,생활 가맹점 1천원 캐시백
+618,200000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,온라인 쇼핑 1천원 캐시백
+620,1500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,두장의 혜택을 세트로 누리는 카드 LOCA
+620,1500000,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,국내외 가맹점 결제일 할인
+626,1500000,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,국내외 가맹점 결제일 할인
+626,1500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,SPECIAL GIFT 서비스: 특급호텔 F&B 5만원 이용권
+626,1500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Master Platinum 서비스(Master 플래티넘 카드 발급 시 제공)
+627,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,SPECIAL GIFT 서비스: 특급호텔 F&B 5만원 이용권
+627,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Master Platinum 서비스(Master 플래티넘 카드 발급 시 제공)
+630,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,Easy all 선택 서비스(택1)
+630,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"1. Auto 모드 (많이 쓴 영역에서 자동 캐시백)
+2. DIY 모드 (원하는 영역에서 자유롭게 청구할인)"
+630,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Visa Young Premium 서비스
+634,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,Easy all 선택 서비스(택1)
+634,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"1. Auto 모드 (많이 쓴 영역에서 자동 캐시백)
+2. DIY 모드 (원하는 영역에서 자유롭게 청구할인)"
+634,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,티타늄 서비스
+647,300000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,금융 우대 서비스
+649,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,편의점/택시 1천점 포인트리 적립
+651,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+652,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,팩(PACK) 2종 중 1종 선택
+652,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,Best OIL 팩
+652,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,Smart PASS 팩
+656,300000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,"교통 캐시백(택시, 대중교통)"
+656,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"쇼핑 캐시백(대형할인점, 편의점, 뷰티스토어)"
+661,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"UNTACT AIR 서비스,
+UNTACT SPECIAL 서비스"
+663,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"[플레이롤라] 커피, 자동차, 교육, 금융 등 일상생활혜택
+[롤라박스] 롤라카드 회원만을 위한 더 특별한 혜택"
+673,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"VISA 플래티넘서비스
+MasterCard 플래티넘서비스"
+681,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard PLATINUM 등급서비스
+684,100000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,"편의점(CU, GS25, 세븐일레븐) 1천원 캐시백"
+685,100000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,라이프 할인서비스(편의점/푸드/음료)
+685,100000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,스터디 할인서비스
+687,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,언박싱 스페셜 할인 서비스
+687,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,원하는 플레이트 디자인 선택 가능
+689,300000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 물품구매 및 ATM 예금인출 수수료 캐시백
+692,500000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,온라인 쇼핑몰 건당 2천원 결제일 할인
+693,400000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,"스피드메이트/오토오아시스/현대 블루핸즈/기아 오토큐
+연 최대 4만원 결제일 할인"
+693,400000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,전국 모든 커피전문점 월 최대 2천원 결제일 할인
+695,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard World 서비스
+697,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"[선택형1] 주유소, 대형할인점, 인터넷쇼핑몰 포인트리 적립"
+697,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"[선택형2] SK, GS칼텍스 주유소 리터당 130점 포인트리 적립"
+697,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,Biz Basic 서비스
+700,500000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+700,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+701,500000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+701,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+702,500000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+702,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+702,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,현대카드 플래티넘서비스
+703,500000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+703,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+703,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,현대카드 플래티넘서비스
+704,500000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+704,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+704,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,현대카드 플래티넘서비스
+705,500000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자할부 서비스
+705,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+705,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,현대카드 플래티넘서비스
+707,750000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,큰 금액 이용할 때 6만원 Flex Voucher까지
+712,300000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,신한카드 국민행복 금융서비스
+713,300000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,신한카드 국민행복 금융서비스
+717,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트 5만원 상당 제공(연 1회, 택 1)"
+717,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,개인사업자 Win-Tax 서비스
+718,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"임신, 출산, 육아 등 국가가 지원하는 바우처를 해당 카드로 이용 가능,
+신세계백화점 제휴 서비스"
+721,300000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외가맹점(해외직구 포함) 이용금액 청구할인
+721,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,프리미엄 투어 서비스
+722,300000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외가맹점(해외직구 포함) 이용금액 캐시백
+724,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"[공통 제공 혜택]
+트래블·호텔·쇼핑 영역별 최대 4매, 총 60만원까지 연 1회 선택 가능"
+726,500000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,알뜰폰 통신료 자동이체 최대 1만 5천원 할인 서비스
+726,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,"티타늄 전용 서비스(공항/호텔 발레바킹, 공항 라운지 등)"
+727,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,알뜰폰 통신료 자동이체 할인 서비스
+736,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,특수 소재 플레이트(Special Plate) 제공
+739,100000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"군마트(P.X) 및 GS25 해군마트 환급할인
+군 KT공중전화 할인"
+739,100000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,GS리테일 팝서비스
+740,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,플레이트
+741,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,현대카드 플래티넘서비스
+741,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,VISA/MasterCard 플래티넘서비스
+741,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,플레이트
+746,250000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,국내 온라인 쇼핑 최대 5천원 캐시백
+747,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,Liiv M 통신료 자동이체 최대 1만 7천원 할인
+750,250000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,휴대폰 요금 자동이체 3천원 캐쉬백
+754,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,신세계백화점 제휴 서비스
+755,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 엔제리너스 1천원 캐시백"
+755,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"롯데시네마, CGV 2천원 캐시백"
+755,300000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,"세븐일레븐, GS25, CU 1천원 캐시백"
+755,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,"SKT, KT, LG U+ 2천원 캐시백"
+760,50000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,티머니 서비스 소개
+761,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"주유, 전기차, 커피전문점 할인 서비스"
+761,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard Platinum 서비스
+763,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"VISA Signature 서비스
+MasterCard World 서비스"
+764,0,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,"이동통신요금 카카오페이포인트 3,000P 적립"
+764,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,플레이트 디자인 선택가능
+768,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,기부포인트 적립 서비스
+769,300000,INLINE,10,영화,UNCLASSIFIED,,,,CGV/메가박스 온라인 영화 예매 청구할인 (전월실적 30만원 이상)
+769,300000,INLINE,11,테마파크,UNCLASSIFIED,,,,롯데월드/에버랜드/캐리비안베이 현장할인 (전월실적 30만원 이상)
+774,200000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"롯데백화점, 면세점, 롯데ON, 롯데마트 할인"
+791,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 브랜드 플래티넘서비스 제공
+816,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,전국 주요놀이공원 할인
+816,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,은행 금융서비스 제공
+853,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 플래티넘서비스
+859,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,경차 유류세 환급 대상자 주유 및 충전(LPG) 시 유류세 환급
+859,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,현금카드 기능 (KEB하나은행)
+881,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,모바일쿠폰 서비스
+889,400000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,(주택임대료형) 주택임대료 자동이체 신청 시 최대 1만 5천원 할인
+889,400000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,"(생활형) 통신, 인터넷, 보안업체 자동이체 시 결제일 할인서비스 제공"
+889,400000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,(기본 제공) 신한은행 우대 서비스
+890,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,스페셜기프트 - 매년 2만원 캐시백 지급
+890,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA Platinum 서비스
+912,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"Master 티타늄 서비스
+K-WORLD/국내전용 티타늄 서비스"
+940,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 선택
+945,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,국제 브랜드사 서비스 (플래티늄 등급 선택 시 제공)
+949,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화관 건당 8천원 이상 결제시 3천원 캐시백
+952,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,SK주유소 월 최대 5만원 할인
+953,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,스피드메이트 엔진오일 및 차량정비 할인
+953,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"영화관, 패밀리레스토랑, 커피 할인"
+993,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Gift Option 서비스
+993,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,항공 마일리지 적립 서비스
+993,0,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,골프 할인 서비스
+993,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,국제 브랜드사 서비스 (플래티늄 등급 선택 시 제공)
+1002,400000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,통신요금 최대 2만원 할인
+1002,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,L.POINT
+1003,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, YES24 영화 7천원 할인"
+1003,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,유명 테마파크 자유이용권 할인
+1003,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Platinum# 서비스 및 국제브랜드사 서비스
+1006,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,매년 1회 Gift Option 선택 제공 (전년도 실적 300만원 이상)
+1006,500000,INLINE,35,골프,UNCLASSIFIED,,,,골프 쇼핑 or 레슨 할인 (전월실적 50만원 이상)
+1006,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,국제 브랜드사 서비스 (플래티늄 등급 선택 시 제공)
+1010,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,이용건별 기부서비스(1+1적립)
+1010,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"K-WORLD/국내전용 티타늄 서비스
+Master 티타늄 서비스"
+1018,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, 롯데시네마, 메가박스 4천원 결제일 할인"
+1019,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 3천원 결제일 할인
+1165,400000,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,골프존 할인 서비스
+1165,400000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"롯데백화점, 롯데면세점, 롯데ON 현장할인"
+1169,0,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"롯데백화점, 롯데ON, 롯데마트 할부 및 할인"
+1169,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,여행서비스
+1172,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"KEB 하나은행 결제계좌 이용고객 월 1회 커피 청구 할인
+스타벅스, 커피빈 4천원 이상 결제 시 4천원 청구할인"
+1174,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외에서도 전월 실적 및 횟수 제한 없는 하나머니 적립 서비스
+1180,500000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"풀무원샵, 풀무원녹즙, 풀무원 로하스, 올가, 베이비밀, 자담터, 아미오, 잇슬림 청구할인"
+1186,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+1198,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,IKEA 점외 가맹점 통합 할인
+1225,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Master 티타늄 서비스
+1229,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,kt M mobile 통신료 청구할인
+1233,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,라이트할부 할인서비스 최대 1만 5천원
+1253,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"지난달 이용실적 30만원 이상 시 청구할인 제공
+CGV, 메가박스, 롯데시네마 3천원 할인"
+1253,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"지난달 이용실적 30만원 이상 시 청구할인 제공
+스타벅스, 커피빈 4천원 할인 (월 4천원 한도, 월 1회)"
+1256,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,U+알뜰모바일 이동통신료 자동이체 캐시백
+1258,250000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,"전국 시내버스, 지하철 2천원 할인"
+1258,250000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,휴대전화 요금 3천원 할인
+1259,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,전국 영화관 2천원 캐시백 할인
+1260,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,모든 영화관 3천원 할인
+1278,0,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,이동통신요금 1천원 할인
+1286,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 2~6천원 청구할인
+1294,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"사업지원 서비스(전자세금계산서 발행, 세금신고 지원) 제공"
+1298,200000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,온/오프라인 쇼핑 할인
+1298,200000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,후불교통기능
+1299,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,플래티늄 바우처_쿠폰 서비스
+1302,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+1309,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,해외 배송대행 업체 배송료 할인
+1315,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"병원,약국 / 주유 / 대형마트 中 택1"
+1315,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,연간 리워드 1만점 적립
+1315,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,스마트 기능
+1323,100000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,온/오프라인 쇼핑 할인
+1339,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,SKT/KT/LGU+ 이동통신요금 자동이체 시 3천원 청구할인
+1339,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"카드를 골프존 시뮬레이터에 접촉 시 자동로그인 가능
+카드를 스마트폰에 터치 시 NFC를 통해 맞춤정보 확인가능"
+1360,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+1379,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"쿠폰서비스 [연1회, 12가지 쿠폰서비스 중 택1]
+최대 11만원 상당 제공"
+1390,400000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,LG U+ 요금 통합 최대 1만 5천원 결제일 할인
+1390,400000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,현대오일뱅크 주유 시 40P/L 적립
+1390,400000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"인터파크, YES24 영화 예매 할인"
+1390,400000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,"롯데월드, 서울랜드 자유이용권 할인"
+1451,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 최대 4천원 청구할인
+1529,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,올레콘텐츠박스 이용쿠폰 제공
+1555,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,전국 영화관 3천원 청구할인
+1573,200000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,티머니 서비스
+1584,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,무이자/영화/테마파크
+1592,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, 메가박스"
+1593,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,모든 주유소 리터당 40~150포인트/충전소 리터당 10~50포인트 적립
+1593,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Platinum # 서비스
+1595,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,"CGV, YES24 영화 7천원 할인"
+1595,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,유명 테마파크 자유이용권 할인
+1595,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Platinum# 서비스 및 국제브랜드사 서비스
+1597,500000,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,"해외 이용금액 1,000원당 총 2마일 적립"
+1597,500000,CARD_LEVEL,15,면세점,UNCLASSIFIED,,,,"신라면세점 더 심플(앱) 1,000원당 총 2마일 적립"
+1597,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,AMEX PLATINUM 서비스 제공
+1599,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Gift Option
+1608,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,SK 7mobile 통신료 청구할인
+1610,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1615,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1616,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1617,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1618,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1619,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1623,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+1630,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,SK주유소(LPG포함) 주유 할인
+1630,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화관 할인
+1630,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,"여행서비스 할인
+골프 라운지 혜택"
+1630,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,한화그룹 계열사 서비스
+1673,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,S-OIL 주유소에소 주유 시 리터당 80 빅포인트 적립
+1695,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,SK주유소(LPG포함) 주유 할인
+1695,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화관 할인
+1695,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,"여행서비스 할인
+뮤지컬, 연극 등 공윤 할인 및 이벤트 제공"
+1695,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,한화그룹 계열사 서비스
+1699,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,한화그룹 계열사 서비스
+1710,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,광복회 후원
+1731,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,100만원 상당 선택 제공 기프트 ①~⑤ 택 1 (연 1회)
+1731,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,CONCIERGE Service
+1731,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,Airport Service
+1731,0,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,Golf Service
+1731,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,Premium Service - Travel
+1731,0,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,Premium Service - Shopping
+1731,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,Premium Service - Life style
+1741,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트(연 1회, 택1)"
+1741,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,프리미엄 여행기프트
+1741,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,프리미엄 서비스 (주유/해외/여행보험)
+1754,0,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,GS칼텍스주유포인트 리터당 60점 적립
+1754,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원
+1754,0,CARD_LEVEL,38,외식,UNCLASSIFIED,,,,신협-신한카드 Hi-Point
+1758,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,"대출 보유 시 매월 최대 6,000 NH포인트 적립"
+1759,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,S-OIL 주유소에서 주유 시 리터당 40 보너스포인트 적립
+1759,0,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,차량 점검 서비스 제공
+1763,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,"대출 보유 시 매월 최대 6,000 NH포인트 적립"
+1763,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,브랜드 서비스 제공
+1768,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트(연 1회, 택1)"
+1768,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,프리미엄 여행기프트
+1768,300000,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,"이용금액 1,000원당 1~2 대한항공 마일리지 적립"
+1768,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,프리미엄 서비스 (주유/해외/여행보험)
+1809,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,UnionPay Platinum 서비스
+1816,300000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,프리미엄 투어 서비스
+1839,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"롯데백화점, 롯데ON, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+1839,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,롯데시네마 할인
+1839,300000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"보네스뻬, 보네스뻬브레드, T.G.I.F, 롯데리아, 엔제리너스커피, 나뚜루 할인"
+1854,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,SK주유소 머핀포인트 적립 서비스
+1854,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"치킨/피자, 영화관, 커피, 놀이공원, 전기차 충전 할인"
+1856,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,하이마트 슬림할부 및 청구할인
+1856,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"영화관, 패밀리레스토랑, 커피전문점 할인"
+1859,300000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"치킨/피자, 영화관, 커피, 놀이공원, 전기차충전 할인"
+1860,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,RAUME O 카드 소개
+1860,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,RAUME 회원만을 위한 퍼스널 라이프 케어
+1860,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"골프, 호텔, 쇼핑 등 프리미엄 기프트 바우처 제공"
+1860,0,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,항공 및 골프클럽 우대 서비스 등
+1860,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,제휴 대상점 할인 및 우대 서비스
+1860,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,RAUME 회원을 위한 특별한 혜택
+1860,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,MASTER 서비스
+1861,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원
+1861,0,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,공연/전시
+1861,0,CARD_LEVEL,38,외식,UNCLASSIFIED,,,,멤버십포인트
+1865,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,RAUME O 카드 소개
+1865,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"골프, 호텔, 쇼핑 등 프리미엄 기프트 바우처 제공"
+1865,0,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,항공 및 골프클럽 우대 서비스 등
+1865,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,제휴 대상점 할인 및 우대 서비스
+1865,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,RAUME 회원을 위한 특별한 혜택
+1865,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,MASTER 서비스
+1866,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,RAUME O 카드 소개
+1866,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,RAUME 회원만을 위한 퍼스널 라이프 케어
+1866,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"골프, 호텔, 쇼핑 등 프리미엄 기프트 바우처 제공"
+1866,0,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,항공 및 골프클럽 우대 서비스 등
+1866,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,제휴 대상점 할인 및 우대 서비스
+1866,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,RAUME 회원을 위한 특별한 혜택
+1866,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,MASTER 서비스
+1882,500000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,삼성스토어에서 가전제품 구매 시 24·36개월 라이트할부 제공
+1899,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,마스터카드 플래티늄 서비스
+1909,300000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,기프트 옵션 서비스(택1)
+1909,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,아멕스 PLATINUM ELITE 등급 서비스
+1926,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,E1 오렌지카드 서비스
+1926,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"롯데백화점, 롯데ON, 롯데면세점, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+1926,300000,CARD_LEVEL,8,패밀리레스토랑,UNCLASSIFIED,,,,"보네스뻬, 보네스뻬브레드, T.G.I.F, 미스터피자 할인"
+1932,200000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,E1 오렌지카드 서비스
+1932,200000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"롯데백화점, 롯데ON, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+1932,200000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,롯데시네마 할인
+1932,200000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"보네스뻬, 보네스뻬브레드, T.G.I.F, 롯데리아, 엔제리너스커피, 나뚜루 할인"
+1944,500000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,주요 놀이공원 할인
+1977,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"GS 제휴 혜택 GS&POINT 할인 및 적립, 사용"
+1977,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,추가 금융 혜택
+1987,200000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원
+1987,200000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,OTT/영화/문화
+1987,200000,CARD_LEVEL,38,외식,UNCLASSIFIED,,,,롯데마트&MAXX 카드
+1990,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,온라인 영화예매 2천원 청구할인
+1991,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,이코노미클래스 좌석을 비즈니스 클래스 좌석으로 또는 비즈니스 클래스 좌석을 퍼스트 클래스 좌석으로 승급
+1991,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,3인 이상 하나투어 해외여행/해외호텔을 예약하실 경우 1인 여행경비에 대해 100만원까지 현장할인
+1991,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,BeV Ⅸ 서비스 / BeV Ⅸ VISA Infinite 전용서비스 등
+1993,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,MASTER 서비스
+1993,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,마스터 월드 서비스
+2005,400000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,GS계열사 이용 시 결제일 청구 할인
+2007,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,전국 영화관 3천원 청구할인
+2016,300000,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외가맹점 할인(JCB브랜드 서비스)
+2016,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,"롯데백화점, 롯데ON, 롯데면세점, 신라아이파크면세점, 롯데마트, 롯데슈퍼, 토이저러스 혜택"
+2016,300000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"T.G.I.F, 롯데리아, 나뚜루, 엔제리너스 할인"
+2060,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외이용 안내
+2060,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,청소년후불교통 서비스
+2070,500000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,"스타벅스, 투썸플레이스, 폴바셋 5천원 결제일 할인"
+2070,500000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,"GS25, CU, 세븐일레븐 1천원 결제일 할인"
+2071,300000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,L.POINT 외식업종 제휴사 청구할인
+2071,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,공연/전시
+2076,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,이동통신비 2천원 할인
+2078,150000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,간편결제 1천원 할인
+2078,150000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 3천원 할인
+2078,150000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"TOEIC, TEPS 2천원 할인"
+2079,0,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,통신비 5천원 할인
+2080,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,커피 1천원 할인
+2080,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 2천원 할인
+2082,0,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,이동통신요금 2천원 할인
+2082,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 2천원 할인
+2084,200000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,그린카드 서비스
+2090,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"글로벌 라이프 서비스 제공
+공항 의전 서비스 (FAST TRACK) / 해외 의료 지원 서비스 제공"
+2090,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,공항/골프장 리무진 서비스
+2091,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"trendy OPTION
+(개인 or 법인카드 연 3개/가족카드 연 1개 선택 가능)"
+2091,0,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,HOTEL & Duty Free
+2091,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,가족카드 서비스
+2091,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"Finance
+- 하나금융그룹 우대서비스"
+2093,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,연 1회 스페셜기프트 제공
+2093,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,호텔/쇼핑/골프 프리미엄 서비스
+2094,150000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,어학시험 2천원 할인
+2094,150000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 2천원 할인
+2097,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"글로벌 라이프 서비스 제공
+공항 의전 서비스 (FAST TRACK) / 해외 의료 지원 서비스 제공"
+2097,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,공항/골프장 리무진 서비스
+2104,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,연 1회 스페셜기프트 제공
+2104,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,호텔/쇼핑/골프 프리미엄 서비스
+2106,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,연 1회 스페셜기프트 제공
+2106,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,호텔/쇼핑/골프 프리미엄 서비스
+2139,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원 할인
+2139,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,여행서비스
+2140,0,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원
+2147,0,CARD_LEVEL,38,외식,UNCLASSIFIED,,,,쇼퍼홀릭 롯데홈쇼핑 롯데체크카드
+2150,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,그린카드 멤버십 서비스
+2179,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"기본 선택서비스 적립 또는 캐시백
+프리미엄 선택서비스 적립 또는 캐시백"
+2179,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,전국 영화관 건당 8천원 이상 이용시 3천원 할인
+2197,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,정부 유류세환급제도 지원
+2197,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,프로스포츠 입장권 할인
+2224,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,모바일쿠폰서비스 최대 3만원
+2226,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,플래티넘(Platinum) 서비스
+2230,750000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,국내 가맹점에서 5만원 이상 2~3개월 할부 결제 시 무이자 할부 혜택이 제공
+2232,0,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,SK주유소 월 최대 6천원 할인
+2232,0,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스/커피빈 4천원 이상 결제시 4천원 청구할인
+2234,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"내 마음대로 고르는 디자인-
+다양한 스타일로 새롭게 선보이는 삼성 iD 카드를 소개합니다."
+2235,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"내 마음대로 고르는 디자인-
+다양한 스타일로 새롭게 선보이는 삼성 iD 카드를 소개합니다."
+2236,0,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,"GS25 행사상품 현장 즉시 할인 및 추가 증정 행사
+GS&POINT: GS리테일 이용 시 적립"
+2236,0,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,모바일 기프티콘 발송 최대 6천원
+2236,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,3가지 카드 디자인 중 선택 가능
+2240,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2241,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택 가능
+2242,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택 가능
+2244,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2245,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2246,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2247,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2248,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2249,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2250,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택가능
+2251,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,오케이몰 상품 구매 시 장기할부 제공
+2255,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,디자인 선택가능
+2256,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,디자인 선택가능
+2259,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"최대 20만원 상당의 바우처 제공
+총 5개 영역에서 최대 20만원까지 선택하여 사용"
+2259,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,"로열티 보너스: 연간 이용금액 2,000만원 이상 시 로열티 보너스 제공(연 1회, 택 1)"
+2259,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"the Red Edition5의 특별한 디자인을 소개합니다.
+내 취향에 맞는 카드 디자인을 선택해서 발급 받으세요."
+2260,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,10만원 상당의 바우처 제공
+2260,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"the Green Edition2의 특별한 디자인을 소개합니다.
+내 취향에 맞는 카드 디자인을 선택해서 발급 받으세요."
+2277,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,신용카드 디자인 선택
+2279,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,신세계백화점 제휴 서비스
+2280,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,한도 제한 없는 기본적립/특별적립
+2280,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,멤버십 리워즈(MR)를 10여개 항공사 마일리지로 전환
+2280,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,"멤버십 리워즈(MR)를 글로벌 체인 호텔 멤버십 포인트로 전환 또는 전세계 호텔 예약에 사용
+글로벌 호텔 체인 멤버십 골드 등급 업그레이드 , 전 세계 호텔/리조트에서 프리미엄 서비스 제공"
+2280,0,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,공항 리무진 • 공항철도 서비스
+2281,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,한도 제한 없는 기본적립/특별적립
+2281,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,멤버십 리워즈(MR)를 10여개 항공사 마일리지로 전환
+2281,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,"멤버십 리워즈(MR)를 글로벌 체인 호텔 멤버십 포인트로 전환
+또는 전세계 호텔 예약에 사용"
+2281,0,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,공항 리무진 • 공항철도 서비스
+2282,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,한도 제한 없는 기본적립/특별적립
+2282,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,멤버십 리워즈(MR)를 10여개 항공사 마일리지로 전환
+2282,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,"멤버십 리워즈(MR)를 글로벌 체인 호텔 멤버십 포인트로 전환
+또는 전세계 호텔 예약에 사용"
+2282,0,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,공항 리무진 • 공항철도 서비스
+2283,500000,CARD_LEVEL,30,렌터카,UNCLASSIFIED,,,,롯데렌터카 장기렌터카 대여료 자동납부 청구할인 최대 2만5천원
+2283,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,주유(LPG 충전)/전기차 충전 청구할인 최대 8천원
+2283,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,주차장 5천원 이상 결제 건당 1천원 할인
+2285,0,CARD_LEVEL,24,마트/편의점,UNCLASSIFIED,,,,"CU, GS25, 세븐일레븐, 이마트24, 올리브영 건당 1만원 이상 결제 시, 1천원 캐시백"
+2285,0,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,"뚜레쥬르, 파리바게트, 버거킹, 맥도날드, 롯데리아 건당 1만원 이상 결제 시, 1천원 캐시백"
+2285,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,"버스, 지하철, 후불교통 이용금액 월 합산 2만원 이상 결제 시, 2천원 캐시백"
+2286,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,"[PLUS] S-OIL, 현대오일뱅크 주유 및 충전시 리터(ℓ)당 60점 적립"
+2287,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,MX Black Zone 할인서비스 제공 기준
+2287,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA/MasterCard 플래티넘서비스
+2287,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,현대카드 MX Black의 특별한 디자인을 소개합니다.
+2291,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메리어트 본보이™ 엘리트 멤버십 제공 (연회비 주기 내 2천만원 이상)
+2292,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"사업구매전용 플레이트(2021. 11. 25 ~ 2022. 11. 24)
+모든 가맹점에서 2~3개월 할부 결제 시 무이자 혜택 제공"
+2293,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"사업구매전용 플레이트(2021. 11. 25 ~ 2022. 11. 24)
+모든 가맹점에서 2~3개월 할부 결제 시 무이자 혜택 제공"
+2304,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,원하는 플레이트 디자인 선택 가능
+2307,100000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,SK주유소(LPG 제외)에서 리터당 50포인트 SK주유포인트 적립
+2315,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,두가지 플레이트 선택 가능
+2318,100000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"내 소비생활의 중심 핀크계좌 + 핀크카드
+AI핀고의정확한 소비 분석"
+2318,100000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"디자인 선택의 즐거움 망설이다 품절주의!
+핀크에만 있는 한정판 디자인"
+2322,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,"전국 버스, 지하철 사용 가능"
+2322,0,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,온라인 쇼핑몰 이용 가능
+2323,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,교통카드 사용 가능
+2324,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,원하는 플레이트 디자인 선택 가능
+2326,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,해피포인트 해피리워드 카드 디자인 선택
+2327,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,[대한항공 마일리지]국내 및 해외 가맹점 대한항공 1마일 기본 적립
+2327,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,"[대한항공 마일리지]해외 이용(직구, 온라인 포함) 대한항공 1마일 추가 적립"
+2327,0,CARD_LEVEL,15,면세점,UNCLASSIFIED,,,,[대한항공 마일리지]면세점 업종 1마일 대한항공 추가 적립
+2327,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[티타늄 전용 서비스] Master 티타늄 공통서비스
+2332,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 선택 가능
+2342,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,투썸플레이스 추가 혜택
+2342,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2343,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2349,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,내 마음대로 고르는 디자인
+2352,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,GS POP서비스 제공
+2353,0,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,[The Premium] 골프 서비스
+2357,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[리워드 서비스] 웰컴 레고랜드 포인트리 7만점 적립
+2357,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[리워드 서비스] 레고랜드 포인트리 8만점 적립
+2358,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인 소개
+2359,300000,CARD_LEVEL,9,주유소,UNCLASSIFIED,,,,현대오빌뱅크/SK에너지 우대 주유소 25~85 포인트 적립
+2359,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,[제휴서비스] Bluemembers 멤버십 서비스
+2359,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2361,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Master / AMEX Platinum Service
+2361,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2364,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드디자인 소개
+2369,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제브랜드사의 Platinum 등급의 서비스 제공
+2369,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+2371,400000,INLINE,6,기타,UNCLASSIFIED,,,,[Weekly 할인 쿠폰] 매주 1회 국내 이용 할인 쿠폰 제공 (전월실적 40만원 이상)
+2371,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2372,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[Weekly 할인 쿠폰] 매월 2회 국내 이용 할인 쿠폰 제공
+2376,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,내 마음대로 고르는 디자인!
+2377,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+2378,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+2379,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2385,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,몽블랑 에디션 패키지
+2385,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,스트리밍·커피 결제일 할인
+2385,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Master WORLD 서비스
+2386,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,K-패스 안내
+2386,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2388,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,연간 6만 넥슨 현대카드 포인트 바우처
+2388,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,생활 편의 영역 6대 업종 결제 시 연간 통합 6만원 청구 할인
+2388,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,차별화된 가치를 담은 메탈플레이트 제공
+2388,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard World서비스
+2389,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,넥슨 현대카드의 특별한 디자인을 소개합니다
+2390,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,넥슨 현대카드 CHECK의특별한 디자인을 소개합니다
+2393,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,SSG.COM카드 Edition2의 특별한 디자인을 소개합니다.
+2394,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 3종 선택
+2396,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[프리미엄 기프트] 프리미엄여행 할인권 20만원 제공
+2396,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[프리미엄 기프트] 신세계 상품권 모바일 교환권 20만원
+2396,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[프리미엄 기프트] 우리WON꿀머니 20만점
+2397,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,"해외, 면세점 2마일 적립"
+2397,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[프리미엄 기프트] 프리미엄여행 할인권 20만원 제공
+2397,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[프리미엄 기프트] 신세계 상품권 모바일 교환권 20만원
+2397,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[프리미엄 기프트] 우리WON꿀머니 20만점
+2398,500000,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,신세계백화점 제휴 서비스
+2398,500000,CARD_LEVEL,15,면세점,UNCLASSIFIED,,,,신세계면세점 멤버십 우대 서비스
+2398,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard PLATINUM 등급 서비스
+2399,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,다양한 플레이트 선택 가능
+2404,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,코오롱 FnC 온/오프라인 매장 상품 구매시 청구할인 제공
+2404,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,코오롱 FnC 온/오프라인 매장 상품 구매시 장기할부 및 12/24/36개월 할부금 청구할인 제공
+2404,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2405,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 선택 가능
+2406,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Special Service 메탈 플레이트 기본 제공
+2406,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제 브랜드 서비스
+2414,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[인플카 전용 혜택]인플카 현대카드 보유 시 인플카 앱 서비스 이용 가능
+2414,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,인플카 현대카드의 특별한 디자인을 소개합니다
+2419,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"보기만 해도 소장 욕구 뿜뿜!
+청소년의 눈길과 마음을 사로잡은 삼성 iD POCKET 카드를 소개합니다."
+2420,500000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,세무지원 서비스
+2430,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,SC제일은행 혜택
+2430,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,M포인트 사용
+2431,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,SC제일은행 혜택
+2431,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,X캐시백 사용
+2432,250000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+2433,0,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,장기할부 서비스
+2433,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,다양한 플레이트 디자인 선택 가능
+2434,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,갤러리아 KB국민카드 디자인 선택
+2435,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"주차앱 5천원 이상 결제 시, 5천원 캐시백"
+2436,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,취향대로 선택하는 럭셔리 라이프 바우처
+2436,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"메탈 플레이트
+the Red Stripe의 헤리티지를 담은 메탈 플레이트"
+2436,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA Signature 서비스
+2436,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard World 서비스
+2436,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"[로열티 보너스] 연간(카드 발급 확정일로부터 1년) 이용 금액 2,000만원 이상 시 로열티 보너스 제공(연 1회, 택1)"
+2436,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,the Red Stripe의 특별한 디자인을 소개합니다
+2441,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,WE:SH 서비스
+2441,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2443,200000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,일상생활업종 NH포인트 적립
+2444,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택 가능
+2446,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,[비교] “내게 딱 맞춤!” 하나카드의 ‘원더카드’ 중 하나를 쓸 거라면
+2447,400000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,신한카드 Mr.Life
+2448,400000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,[비교] “내게 딱 맞춤!” 하나카드의 ‘원더카드’ 중 하나를 쓸 거라면
+2449,400000,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,신한카드 Mr.Life
+2450,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"[HERITAGE 전용혜택] 쿠폰서비스(연 1회 제공, 3가지 중 택1)"
+2450,500000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,[HERITAGE Smart 서비스] 금융서비스
+2450,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[HERITAGE Smart 서비스] Mastercard World 서비스
+2450,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[HERITAGE Smart 서비스] 전용고객센터
+2451,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"[HERITAGE 전용혜택] 쿠폰서비스 (연 1회 제공, 3가지 중 택1)"
+2451,500000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,[HERITAGE 전용혜택] 금융서비스
+2451,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[HERITAGE 전용혜택] Mastercard World 서비스
+2451,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[HERITAGE Smart 서비스] 전용고객센터
+2453,400000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,서비스 대상 배달앱/생활편의 가맹점 이용 시 결제일 할인
+2459,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,GIFT 기프트 서비스
+2459,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제브랜드 서비스(해외겸용카드 전용)
+2460,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[GIFT] 5가지 기프트 중에서 매년 1가지를 선택
+2460,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[SPECIAL PLATE] 특수 소재 카드
+2460,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제브랜드 서비스(해외겸용카드 전용)
+2461,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[GIFT] 5가지 기프트 중에서 매년 2가지를 선택
+2461,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제브랜드 서비스(해외겸용카드 전용)
+2461,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[SPECIAL PLATE] 특수 소재 카드
+2465,0,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,신세계백화점 제휴 서비스
+2465,0,CARD_LEVEL,15,면세점,UNCLASSIFIED,,,,신세계면세점 멤버십 우대 서비스
+2466,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,이디야 멤버스 음료쿠폰 제공
+2466,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,이디야커피 청구할인
+2466,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,다양한 플레이트 선택 가능
+2467,400000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,알뜰폰 통신요금 월최대 1만 5천원 할인
+2468,300000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,"KMVNO 알뜰폰
+통신요금 자동이체 할인 서비스"
+2469,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Platinum Service
+2469,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,원하는 디자인 선택 가능
+2470,0,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,신세계포인트 적립 서비스
+2470,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드플레이트 선택 가능
+2471,200000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드플레이트 선택 가능
+2475,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외에서 ATM 사용 및 물품구매 가능
+2476,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,주유(LPG 충전)/전기차 충전 청구할인
+2476,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,주차장 5천원 이상 결제 건당 1천원 할인
+2484,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"국제 브랜드 서비스
+VISA Young Premium 서비스"
+2486,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,원하는 플레이트 선택 가능
+2487,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,원하는 플레이트 선택 가능
+2491,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[Weekly 할인 쿠폰] 매주 1회 국내 이용 할인 쿠폰 제공
+2491,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2492,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[Weekly 할인 쿠폰] 매월 2회 국내 이용 할인 쿠폰 제공
+2492,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택 가능
+2495,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Platinum 서비스
+2495,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 디자인 선택가능
+2497,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,LG 전자 베스트샵 매장에서 할부 수수료 혜택
+2511,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,버스/지하철 후불교통 이용금액 캐시백
+2512,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,버스/지하철 후불교통 이용금액 캐시백
+2514,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,미래에셋증권 서비스등급 혜택
+2514,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 2종 선택
+2515,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,미래에셋증권 서비스등급 혜택
+2515,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,미래에셋 현대카드 Gold 회원만을 위한 프리미엄 서비스
+2515,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 프리미엄 서비스
+2515,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 3종 선택
+2516,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,미래에셋증권 서비스등급 혜택
+2516,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,미래에셋 현대카드 Diamond 회원만을 위한 프리미엄 서비스
+2516,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 프리미엄 서비스
+2516,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 3종 선택
+2521,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA/AMEX 플래티넘 서비스
+2521,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 6종 선택
+2523,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,전국 영화관 3천원 청구할인
+2527,0,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,One Pick 온라인 쇼핑몰 가맹점 최대 3천 포인트 적립
+2528,0,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,One Pick 맛집 가맹점 최대 3천 포인트 적립
+2529,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택
+2530,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택
+2532,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard Platinum 서비스 제공
+2533,400000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,일상생활 청구할인 서비스
+2534,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 플레이트 선택
+2540,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"Excusive 전용 쿠폰서비스1 [연 1회 제공, 4가지 중 1가지 선택]"
+2540,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"Excusive 전용 쿠폰서비스2 [연 1회 제공, 2가지 중 1가지 선택]"
+2540,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Excusive 전용 특별 서비스
+2540,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Visa Infinite 서비스
+2541,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"Reserve 전용혜택 쿠폰서비스 [연 1회 제공, 3가지 중 1가지 선택]"
+2541,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Reserve 전용혜택 특별서비스
+2541,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Amex Elite & ICON 서비스
+2542,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"Reserve 전용혜택 쿠폰서비스 [연 1회 제공, 3가지 중 1가지 선택]"
+2542,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Reserve 전용혜택 특별서비스
+2542,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Amex Elite & ICON 서비스
+2543,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,교육•할인점•이동통신•병원•약국 할인
+2543,500000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원•워터파크 할인 서비스
+2543,500000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,닥터카 서비스
+2543,500000,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,신세계백화점 제휴 서비스
+2543,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard PLATINUM 등급 서비스
+2546,0,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,One Pick 맛집 가맹점 최대 3천 포인트 적립
+2547,0,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,One Pick 온라인 쇼핑몰 가맹점 최대 3천 포인트 적립
+2549,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,다양한 플레이트 선택 가능
+2551,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 2종 선택
+2552,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 3종 선택
+2554,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외 가맹점 하나머니 적립
+2558,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,특수 소재 카드
+2558,400000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,K-패스 마일리지
+2563,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,K-패스 마일리지
+2567,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 선택
+2571,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 2종 선택
+2572,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,UniMile 적립
+2572,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,UPI 플래티늄 서비스
+2583,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,PAYCO 36 우리카드 장기할부 서비스 제공
+2586,0,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,버스와 지하철 충전 없이 탈 수 있어요
+2587,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 2종 선택
+2592,500000,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,[웰컴기프트] 싱가포르항공 크리스플라이어(이하 KF) 1만 5천 마일리지 적립 (발급 첫해 1회)
+2592,500000,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,[연간기프트] 국내외 가맹점 싱가포르항공 크리스플라이어 마일리지 적립
+2592,500000,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,국내외 가맹점 싱가포르항공 크리스플라이어 마일리지 적립
+2592,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,싱가포르항공 크리스플라이어 엘리트 멤버십 제공
+2592,500000,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,싱가포르항공 크리스플라이어 보너스 마일리지 적립
+2592,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,"[부스터마일즈] 이용금액 1,500원당 1크리스플라이어 마일리지 추가 적립"
+2592,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,싱가포르항공 인천/김해공항 특별 우대
+2596,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,버스/지하철 후불교통 이용금액 캐시백
+2597,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,버스/지하철 후불교통 이용금액 캐시백
+2604,300000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,"후불교통(시내버스, 지하철) 청구할인, 고속/시외버스 환급할인 (최대 4천원)"
+2604,300000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,CU편의점 최대 4천원 환급할인
+2604,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스(사이렌오더 포함) 최대 4천원 환급할인
+2604,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,CGV 최대 4천원 환급할인
+2604,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,텐바이텐 최대 4천원 환급할인
+2606,0,CARD_LEVEL,34,병원,UNCLASSIFIED,,,,GC헬스케어 Basic 서비스
+2606,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,생활편의 가맹점 할인
+2608,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,테마파크 자유이용권 본인 할인
+2611,300000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,iPhone for Life 프로그램 이용 시
+2612,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,"[아코르 서비스] 4,000 ALL 리워드 포인트 기프트 제공"
+2612,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[아코르 서비스] ALL회원 SILVER 등급 제공 및 업그레이드
+2612,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[아코르 서비스] ALL 리워드 포인트 적립
+2612,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,"[아코르 서비스] 2,000 ALL 리워드 포인트 보너스 제공"
+2612,0,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,[Premium Service] 국내외 여행자 보험 서비스 제공
+2613,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,"[아코르 서비스] 14,000 ALL 리워드 포인트 기프트 제공"
+2613,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[아코르 서비스] 아코르 플러스 유료 멤버십 자동 가입
+2613,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[아코르 서비스] ALL 회원 GOLD 등급 제공 및 업그레이드
+2613,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,[아코르 서비스] ALL 리워드 포인트 적립
+2613,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,"[아코르 서비스] 5,000 ALL 리워드 포인트 보너스 제공"
+2613,500000,CARD_LEVEL,29,여행/숙박,UNCLASSIFIED,,,,[Premium Service] 국내외 여행자 보험 서비스 제공
+2613,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,플레이트 선택
+2618,500000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,차량 점검 서비스
+2623,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Amex Selects(셀렉츠) 서비스
+2624,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,놀이공원 현장 할인
+2624,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Amex Selects(셀렉츠) 서비스
+2627,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[기프트 바우처] Voucher : Premium Gift
+2627,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[프리미엄 서비스] 공항라운지 서비스
+2627,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[프리미엄 서비스] 항공사 마일리지 전환
+2627,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[프리미엄 서비스] 메탈 플레이트 제공
+2627,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA Infinite 선택 서비스
+2631,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,매일 모니모를 찾는 당신을 위해 모니모A 카드의 더 새롭고 감각적인 디자인을 소개합니다.
+2632,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,LOCA 나누기 혜택
+2634,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,SPECIAL GIFT 혜택
+2634,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Master Platinum Service
+2636,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,LOCA 나누기 혜택
+2636,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Master World 서비스
+2637,300000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,VISA Platinum
+2638,300000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,VISA Platinum
+2640,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Visa 브랜드 플래티넘서비스
+2642,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[우대 서비스] 2만원 바로할인 보너스 카드 제공(6개월마다 1만원씩 총 2만원)
+2642,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,VISA 플래티넘 서비스
+2652,300000,CARD_LEVEL,11,테마파크,UNCLASSIFIED,,,,에버랜드 꿈빛 솜사탕 등급 적용
+2657,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"바우처 5가지 중 1가지를 선택하여 이용 (연 1회, 서비스 실적 조건 확인)"
+2662,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"Be My Guest 호텔 델리/레스토랑, 패밀리 레스토랑 할인"
+2663,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"Be My Guest 호텔 델리/레스토랑, 패밀리 레스토랑 할인"
+2663,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,The Hotel Collection 객실 업그레이드 및 호텔 크레딧 100달러(USD) 제공
+2663,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2664,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,본인 회원 메탈 플레이트 제공
+2664,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,"호텔 델리/레스토랑, 패밀리 레스토랑 할인"
+2664,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,럭셔리 & 프리미엄 호텔 혜택
+2664,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,American Express PLATINUM ELITE 서비스
+2667,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외 이용금액 현지 통화 결제 서비스
+2667,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외이용 프로모션
+2673,200000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,[필수 생활비] 편의점 적립
+2677,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트 제공(①-④ 중 택 1, 연 1회)"
+2678,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"프리미엄 기프트 제공(①-④ 중 택 1, 연 1회)"
+2701,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제브랜드 서비스(해외겸용카드 전용)
+2702,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,[영화 할인] 영화 5천원 결제일할인
+2703,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"바우처 4가지 중 1가지를 선택하여 이용 (연 1회, 서비스 실적 조건 확인)"
+2703,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"연 누적 이용금액 2,400만원 이상 시 10만 하나머니 적립 (연 1회, 서비스 실적 조건 확인)"
+2703,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,[REWARD] 주유/EV충전 적립 (지난달 실적 조건 및 적립한도 확인)
+2704,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"해외/항공/면세/여행 30만원 청구 할인 (연 30만원 한도, 서비스 실적 조건 확인)"
+2704,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"특급호텔 레스토랑 20만원 현장 할인 (연 1회, 서비스 실적 조건 확인)"
+2705,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[PREMIUM VOUCHER] 바우처 2가지 중 1가지를 선택하여 이용 (연 1회)
+2705,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[DINING VOUCHER] 특급호텔 레스토랑 20만원 현장 할인 (연 1회)
+2705,500000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[SPECIAL PLATE] 특수 소재 카드 신청 가능 (신청 건별 발급수수료 10만원)
+2708,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[선택 할인] 쇼핑/편의/커피/생활/먹빵/취향 택 1
+2708,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,전월실적 채워드림
+2709,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Visa Platinum 서비스
+2710,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,우대 서비스
+2710,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Visa Platinum 서비스
+2711,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,우대 서비스
+2711,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Visa Signature 서비스
+2712,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,우대 서비스
+2712,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Visa Infinite 서비스
+2716,500000,CARD_LEVEL,35,골프,UNCLASSIFIED,,,,"골프장, 골프연습장 캐시백 혜택"
+2717,500000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,주유 캐시백 혜택
+2722,400000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 이용 수수료 빼기 서비스
+2722,400000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 이용 더하기 서비스
+2725,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard Platinum 서비스
+2726,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard Platinum 서비스
+2729,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,외화 하나머니 결제 혜택
+2730,500000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,외화 하나머니 결제 혜택
+2730,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,프리미엄 바우처
+2735,500000,INLINE,10,영화,UNCLASSIFIED,,,,[문화 취미] 메가박스 영화 온라인 예매 7천원 즉시 할인 (전월실적 50만원 이상)
+2737,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트 제공
+2738,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[우대서비스] M긴급적립·무이자 할부·롯데백화점 전용 쿠폰
+2739,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[우대서비스] M긴급적립·무이자 할부·롯데백화점 전용 쿠폰
+2741,0,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,통신요금 할인
+2748,400000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,신한카드 The Premium PET 고객님께 매년 1회 아래 Option 중 선택하신 한 가지의 Gift를 제공해 드립니다.
+2751,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트 제공
+2752,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트 제공
+2753,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트 제공
+2755,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,취향대로 선택하는 럭셔리 라이프 바우처
+2755,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트 제공
+2756,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,국내 Luxury/Gourmet 영역에서 카테고리 구분 없이 사용 가능한 바우처
+2756,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트
+2757,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,국내 Luxury/Gourmet 영역에서 카테고리 구분 없이 사용 가능한 바우처
+2757,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] the Black Concierge
+2761,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 청구할인
+2762,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,기프트 옵션 서비스
+2762,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,공항 라운지 서비스・특수 소재 카드
+2763,400000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,CU 멤버십 서비스
+2764,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트 제공
+2765,300000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,기후동행요금 결제일 할인
+2766,400000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,후불 기후동행카드 서비스 안내
+2767,200000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,후불 기후동행카드 서비스 안내
+2768,100000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,후불교통 기능 이용안내
+2769,400000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,후불 기후동행카드 안내
+2770,0,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,후불 기후동행카드 안내
+2771,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,특수 소재 카드 신청 가능
+2771,400000,CARD_LEVEL,27,교통,UNCLASSIFIED,,,,후불 기후동행카드 안내
+2776,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[우대 서비스] 메탈 플레이트 제공
+2780,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"[Classic 전용혜택] 쿠폰 서비스 연 1회 제공, 3가지 중 택 1
+연간 600만원 이상(초회년도는 실적조건 없음)"
+2780,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[Classic 전용혜택] 브랜드 서비스·금융 서비스·전용고객센터
+2781,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,"[Classic 전용혜택] 쿠폰 서비스 연 1회 제공, 4가지 중 택 1"
+2781,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,[Classic 전용혜택] 브랜드 서비스·금융 서비스·전용고객센터
+2787,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"LGE.COM 플러스 서비스 이용 시, LG전자 온라인몰 LGE.COM에서 제품 구매 시 플러스 서비스 혜택 제공"
+2787,500000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"LGE.COM 플러스 서비스 미이용 시, LGE.COM 플러스 미이용 시에만 제공되는 서비스"
+2788,0,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Gift Option 서비스
+2788,0,CARD_LEVEL,20,항공마일리지,UNCLASSIFIED,,,,대한항공 마일리지/아시아나항공 마일리지 적립(택 1)
+2788,0,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,연(1~12월) 중 3회 선택이 가능한 Premium Box 서비스 제공
+2788,0,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,생활서비스
+2788,0,CARD_LEVEL,15,면세점,UNCLASSIFIED,,,,JDC 면세점 할인 서비스/골프장 부킹 대행 서비스
+2788,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,라이프스타일 Desk 서비스
+2788,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제브랜드사 서비스(플래티늄 등급 선태 시 제공)
+2790,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[연간 보너스] 발급 첫해 누적 이용 금액 100만원 이상 시 5만원 크레딧 제공(연 1회)
+2790,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,우대 서비스
+2791,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[연간 보너스] 발급 첫해 누적 이용 금액 100만원 이상 시 5만원 크레딧 제공(연 1회)
+2791,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,우대 서비스
+2792,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[연간 보너스] 발급 첫해 누적 이용 금액 100만원 이상 시 5만원 크레딧 제공(연 1회)
+2792,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,우대 서비스
+2793,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[연간 보너스] 발급 첫해 누적 이용 금액 100만원 이상 시 5만원 크레딧 제공(연 1회)
+2793,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,우대 서비스
+2795,0,CARD_LEVEL,2,모든가맹점,UNCLASSIFIED,,,,전 가맹점 적립 서비스
+2795,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,선택 할인서비스 (2종 중 택1)
+2799,400000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,K-패스 안내
+2805,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,8가지 혜택 중 선택
+2806,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,8가지 혜택 중 선택
+2807,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Gift Option 서비스 (연 1회/ 택 1/ 연회비 주기 내 1백만원 이상)
+2807,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Bonus Gift 서비스 (연간 누적실적 3천만원 이상)
+2824,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,SPECIAL GIFT - 롯데상품권카드 5만원
+2824,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,MasterCard Platinum Service
+2825,200000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,후불 기후동행카드 서비스 이용 안내
+2826,250000,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,후불 기후동행카드 서비스 이용 안내
+2828,400000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,차량 점검 서비스
+2830,0,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,[편의점 적립] 필수 생활비 - 편의점 적립
+2832,0,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 혜택
+2832,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,소득공제·부가기능
+2835,400000,INLINE,10,영화,UNCLASSIFIED,,,,[Monthly Plan 서비스] 영화 예매 5천원 결제일 할인 (전월실적 40만원 이상)
+2836,400000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,[Monthly Plan 서비스] 영화 예매 5천원 결제일 할인
+2840,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,자동차 정비 가맹점 캐시백
+2842,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2843,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2844,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2845,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,쿠폰 서비스 (2종 중 택1)
+2845,400000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,Mastercard 서비스
+2847,300000,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외 이용금액 현지통화 결제 서비스
+2853,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,특수 소재 카드
+2855,300000,INLINE,32,해외이용,UNCLASSIFIED,,,,해외 이용 적립 서비스 (전월실적 30만원 이상)
+2855,300000,INLINE,32,해외이용,UNCLASSIFIED,,,,일본 이용 추가 적립 서비스 (전월실적 30만원 이상)
+2857,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,계좌가 없어도 간편 발급
+2857,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,충전식(티머니) 교통카드 기능
+2858,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,카드 디자인
+2861,0,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,L.POINT
+2867,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[갤러리아 기본 서비스] 갤러리아 G포인트 서비스
+2867,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[갤러리아 특별 서비스] 갤러리아 백화점 24/36개월 장기할부
+2870,300000,CARD_LEVEL,30,렌터카,UNCLASSIFIED,,,,넥센타이어 렌탈 할인
+2875,300000,CARD_LEVEL,25,정비,UNCLASSIFIED,,,,차량 점검 서비스
+2876,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자 할부 혜택
+2877,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,프리미엄 바우처 제공
+2878,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2879,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2880,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2881,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2882,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2883,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2885,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[SELECT 1] 선택 옵션에 따른 할인 혜택 제공 (택 1)
+2885,400000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[SELECT 2] 선택 옵션에 따른 할인 혜택 제공 (택 1)
+2886,300000,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,"[SELECT] 선택 옵션에 따른 할인 혜택 제공 (택 1)
+음식점, 온라인몰(패션/쇼핑), 온라인 간편결제"
+2886,300000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,[SELECT] 금/토/일엔 쇼핑 2배 할인
+2887,100000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,오늘도 적립 서비스
+2887,100000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,일상 속 적립 서비스
+2889,100000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,오늘도 적립 서비스
+2889,100000,CARD_LEVEL,1,쇼핑,UNCLASSIFIED,,,,일상 속 적립 서비스
+2890,200000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,"[일상 생활비 적립] 가족행사월(5월, 12월) 적립 한도 5천 포인트 추가 제공"
+2890,200000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,[필수 생활비 적립] 편의점 포인트 적립
+2891,200000,CARD_LEVEL,5,통신,UNCLASSIFIED,,,,[일상 서비스] 이동통신요금 자동납부 시 2천원 캐시백
+2891,200000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,[일상 서비스] CGV 영화 예매 5천원 캐시백
+2891,200000,CARD_LEVEL,19,편의점,UNCLASSIFIED,,,,[일상 서비스] 편의점 1천원 캐시백
+2891,200000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,[일상 서비스] 카페 1천원 캐시백
+2891,200000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,[일상 서비스] 생활 가맹점 1천원 캐시백
+2891,200000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,[일상 서비스] 온라인 쇼핑 1천원 캐시백
+2892,200000,CARD_LEVEL,12,푸드,UNCLASSIFIED,,,,[One Pick] 맛집 가맹점 최대 3천 포인트 적립
+2893,200000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,[One Pick] 온라인 쇼핑몰 최대 3천 포인트 적립
+2897,500000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,스타벅스 이용 시 스타벅스 별 리워드 적립
+2897,500000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,스타벅스 선불카드 충전 이용 시 스타벅스 별 리워드 적립
+2898,500000,INLINE,6,기타,UNCLASSIFIED,,,,POINT 추가 적립 (전월실적 50만원 이상)
+2898,500000,INLINE,6,기타,UNCLASSIFIED,,,,인천공항 주차 할인 서비스 (전월실적 50만원 이상)
+2902,500000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,[프리미엄 바우처] 최대 13만원 프리미엄 바우처 제공
+2903,300000,CARD_LEVEL,3,주유,UNCLASSIFIED,,,,경차 유류세 환급 대상자 주유 및 충전(LPG) 시 유류세 환급
+2903,300000,CARD_LEVEL,21,온라인쇼핑,UNCLASSIFIED,,,,현대카드 홈페이지를 통해 제휴 온라인쇼핑몰에 접속하여 결제 시 M포인트 추가 적립
+2906,0,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,온라인 영화 예매 최대 3천원 할인
+2906,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Platinum# 공통 서비스
+2914,0,CARD_LEVEL,7,백화점,UNCLASSIFIED,,,,신세계백화점 제휴 서비스
+2915,500000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,프리미엄 영역 연간 최대 15만원 할인 기프트
+2915,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,국제브랜드 서비스 (해외겸용카드 전용)
+2916,400000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,나를 위한 / 가족을 위한 Gift (연회비 납부 년도 내 1백만원 이상)
+2916,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard Platinum 서비스
+2919,0,CARD_LEVEL,17,대중교통,UNCLASSIFIED,,,,후불교통기능
+2930,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,전월실적 채워드림
+2930,400000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,국제브랜드 서비스
+2931,400000,CARD_LEVEL,14,생활,UNCLASSIFIED,,,,생활 영역 5천원 청구할인
+2934,100000,CARD_LEVEL,4,금융,UNCLASSIFIED,,,,금융 서비스
+2935,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,현지통화 결제 서비스
+2942,400000,INLINE,3,주유,UNCLASSIFIED,,,,[기본 혜택] GS칼텍스 이용 금액 청구 할인 (전월실적 40만원 이상)
+2944,500000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2947,300000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,우대 서비스
+2948,300000,CARD_LEVEL,16,프리미엄,UNCLASSIFIED,,,,우대 서비스
+2950,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자 할부 서비스
+2951,0,CARD_LEVEL,33,무이자할부,UNCLASSIFIED,,,,무이자 할부 서비스
+2953,300000,CARD_LEVEL,18,카페,UNCLASSIFIED,,,,국내 스타벅스 이용 시 2만원당 스타벅스 리워드 별 1개 적립
+2953,300000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 가맹점 이용 시 2만원당 스타벅스 리워드 별 3개 적립
+2955,300000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,특수 소재 카드
+2957,300000,CARD_LEVEL,10,영화,UNCLASSIFIED,,,,영화 할인
+2963,400000,CARD_LEVEL,23,바우처,UNCLASSIFIED,,,,Gift Option (연 1회/택 1)
+2964,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[특별 서비스] 전월실적 채워드림
+2967,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2968,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2969,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2970,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[위시리스트] Happy Birth Month
+2970,400000,CARD_LEVEL,6,기타,UNCLASSIFIED,,,,[위시리스트] 전월실적 채워드림
+2977,0,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,해외 이용금액 현지통화 결제 서비스
+2980,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,Mastercard Platinum 서비스
+2985,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2986,0,CARD_LEVEL,13,선택형,UNCLASSIFIED,,,,[SELECT 서비스] 선택 옵션에 따른 할인 혜택 제공(택 1)
+2989,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2990,400000,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2991,0,CARD_LEVEL,28,프리미엄 서비스,UNCLASSIFIED,,,,메탈 플레이트 제공
+2993,500000,CARD_LEVEL,26,해외,UNCLASSIFIED,,,,해외 청구할인
+2997,500000,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,트래블로그 스위치 서비스
+2998,500000,CARD_LEVEL,32,해외이용,UNCLASSIFIED,,,,트래블로그 스위치 서비스

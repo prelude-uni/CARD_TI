@@ -1,0 +1,2203 @@
+﻿card_id,min_amount,min_amount_source,category_id,group_name,benefit_type,rate,fixed_amount,unit_basis,raw_text
+1,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,백화점/할인점/홈쇼핑·온라인몰 1.0~5.0% 적립
+1,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,2.0,,,"전국 가맹점 0.2~2.0% 적립
+해외 가맹점 1~5% 적립"
+1,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,"S-OIL, 에이치디현대오일뱅크 주유 시 리터 당 60원 적립"
+1,0,CARD_LEVEL,4,금융,RATE_DISCOUNT,0.2,,,"신한투자증권 CMA 결제계좌 0.2% 추가 적립
+마이신한포인트 가맹점 추가 적립"
+1,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,SK텔레콤/KT/LG U+ 이동통신요금 1.0~5.0% 적립
+2,200000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,"국내 유명 백화점, 할인점, 온라인 쇼핑몰 최대 5% 할인"
+2,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,30.0,,,"국내 유명 패밀리레스토랑, 커피 20~30% 할인"
+2,200000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,GS칼텍스 리터당 60원 할인
+2,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,7000,,"CGV, YES24 영화 예매시 최대 7,000원 할인"
+2,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 30~50% 할인 및 스포츠 할인 서비스
+3,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"3대 백화점(롯데,신세계,현대) 및 롯데마트 5% 결제일 할인"
+3,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,국내 유명 패밀리 레스토랑 및 커피 최대 20% 할인
+3,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"맥스무비, 인터파크 YES24 예매시 1,500원 할인"
+3,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,S-OIL 주유 시 리터 당 60원 적립
+3,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 최대 50% 할인
+3,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,2.0,,,"이동통신요금 자동이체 시 2% 결제일 할인(SKT, KT, LGT)"
+8,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,GS칼텍스 주유 시 리터당 60원 결제일 할인
+8,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,커피/제과/택시/화장품/영화 5% 할인
+8,0,CARD_LEVEL,15,면세점,RATE_DISCOUNT,8.0,,,제주 JDC 면세점 이용 시 8% 할인
+10,300000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,200,,"버스, 지하철 후불 교통 이용 금액 일 200원 ~ 일 600원 할인"
+10,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,4대 백화점 5% 할인
+10,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 할인
+10,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 할인
+10,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 할인
+11,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,"전가맹점 0.7% 캐시백, 이동통신요금 자동이체 건 추가 0.7% 캐시백"
+13,300000,INLINE,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 할인 (전월실적 30만원 이상)
+13,300000,INLINE,14,생활,RATE_DISCOUNT,10.0,,,세탁소 업종 10% 할인 (전월실적 30만원 이상)
+13,300000,INLINE,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 할인 (전월실적 30만원 이상)
+13,300000,INLINE,12,푸드,RATE_DISCOUNT,10.0,,,식음료 10% 할인 (전월실적 30만원 이상)
+13,300000,INLINE,22,대형마트,RATE_DISCOUNT,10.0,,,3대 마트 10% 할인 (전월실적 30만원 이상)
+13,300000,INLINE,9,주유소,FIXED_AMOUNT,,60,,4대 정유사 리터당 60원 할인 (전월실적 30만원 이상)
+13,300000,INLINE,21,온라인쇼핑,RATE_DISCOUNT,20.0,,,인테이크몰 20% 할인 (전월실적 30만원 이상)
+15,300000,CARD_LEVEL,15,면세점,RATE_DISCOUNT,8.0,,,제주 JDC 면세점 8% 결제일 할인
+15,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,40,,GS칼텍스 주유 시 리터당 40원 결제일 할인
+15,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,3000,,"스타벅스 3,000원 할인"
+16,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,1~5% 특별적립
+16,500000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,1~5% 특별적립
+16,500000,CARD_LEVEL,25,정비,RATE_DISCOUNT,5.0,,,1~5% 특별적립
+18,500000,INLINE,1,쇼핑,RATE_DISCOUNT,10.0,,,"[쇼핑 할인] 오프라인 쇼핑(백화점, 프리미엄 아울렛, 마트, 창고형 할인매장) 10% 할인
+· 온라인 쇼핑(홈쇼핑, 소셜커머스) 10% 할인 (전월실적 50만원 이상)"
+18,500000,INLINE,14,생활,RATE_DISCOUNT,10.0,,,"[생활 할인] 커피전문점·잡화·온라인서점 10% 할인
+· 주유 60원/L 할인 (전월실적 50만원 이상)"
+18,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,[해외이용 캐시백] 해외이용금액 5% 캐시백 (연간실적 1천만원 이상)
+18,300000,INLINE,12,푸드,RATE_DISCOUNT,10.0,,,"[제휴 할인] 마켓컬리, 프레딧, 집반찬연구소 10% 할인서비스 (전월실적 30만원 이상)"
+21,300000,INLINE,11,테마파크,RATE_DISCOUNT,50.0,,,서울랜드 50% 할인 (전월실적 30만원 이상)
+26,500000,INLINE,14,생활,RATE_DISCOUNT,1.0,,,주요 생활업종 이용시 1% 캐시백 (전월실적 50만원 이상)
+28,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,신세계백화점 5% 결제일 할인
+28,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,Life Care가맹점 5% 결제일 할인
+28,500000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"롯데월드, 서울랜드 자유이용권 50% 할인"
+28,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,해외 매출 5% 캐시백
+35,200000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,GS칼텍스 주유 시 리터당 60~100원 할인
+35,200000,CARD_LEVEL,27,교통,RATE_DISCOUNT,7.0,,,"버스, 지하철, 택시 3~7% 할인"
+36,300000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,"Cube 선택서비스 - 선택서비스 5개, 5% 할인"
+39,300000,INLINE,3,주유,RATE_DISCOUNT,10.0,,,4개의 정유사 중 직접 고른 1개 정유사 주유 이용금액 10% 결제일 할인 (전월실적 30만원 이상)
+39,300000,INLINE,19,편의점,RATE_DISCOUNT,5.0,,,"GS25, CU 5% 결제일 할인 (전월실적 30만원 이상)"
+39,300000,INLINE,18,카페,RATE_DISCOUNT,5.0,,,"스타벅스, 이디야 5% 결제일 할인 (전월실적 30만원 이상)"
+41,300000,INLINE,14,생활,RATE_DISCOUNT,20.0,,,"4대 편의점, 생활/잡화, 커피, 월납 20% 할인 (전월실적 30만원 이상)"
+41,300000,INLINE,28,프리미엄 서비스,RATE_DISCOUNT,10.0,,,"제주항공, 에어부산 10% 할인 (전월실적 30만원 이상)"
+42,300000,CARD_LEVEL,30,렌터카,RATE_DISCOUNT,30.0,,,SOCAR 결제 시 30% 결제일 할인
+42,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,커피전문점 20% 결제일 할인
+42,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"GS25, CU, 세븐일레븐 편의점 5% 결제일 할인"
+42,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,3.0,,,"홈플러스, 이마트, 롯데마트 3대 할인점 3% 결제일 할인"
+43,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,15.0,,,생활쇼핑 최대 15% 결제일 할인
+43,300000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,커피전문점/제과점 업종 10% 결제일 할인
+43,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,주말 복합쇼핑몰 10% 결제일 할인
+43,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,주말 3대 할인점 10% 결제일 할인
+43,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"주말 롯데시네마 현장 예매 시 5,000원 결제일 할인"
+45,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,7.0,,,편의점·배달앱 7% 멤버십리워즈 적립
+45,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스·이디야 20% 결제일 할인
+45,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,교통·통신 5% 멤버십리워즈 적립
+45,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.5,,,쇼핑 1.5% 멤버십리워즈 적립
+45,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,5.0,,,해외 5% 멤버십리워즈 적립
+46,300000,CARD_LEVEL,3,주유,RATE_DISCOUNT,0.2,,,국내외 모든 가맹점에서 0.2%·0.4% 주유포인트 적립
+46,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,전국 주유소 리터당 60원 결제일할인(청구할인) (LPG 30원)
+46,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,50.0,,,CGV 동반 1인 50% 할인
+46,300000,CARD_LEVEL,31,카페/디저트,FIXED_AMOUNT,,1000,,"스타벅스 1,000원 할인"
+49,0,CARD_LEVEL,7,백화점,MILEAGE,1.0,,,"(특별적립) 국내형: 백화점 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립"
+49,0,CARD_LEVEL,9,주유소,MILEAGE,1.0,,,"(특별적립) 국내형: 주유 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립"
+49,0,CARD_LEVEL,18,카페,MILEAGE,1.0,,,"(특별적립) 국내형: 커피 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립"
+49,0,CARD_LEVEL,19,편의점,MILEAGE,1.0,,,"(특별적립) 국내형: 편의점 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립"
+49,0,CARD_LEVEL,26,해외,MILEAGE,1.0,,,"(특별적립) 해외형: 해외 가맹점 및 해외 직접구매 이용건 1,000원당 (스카이패스) 1 마일리지 추가 적립"
+50,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,아웃백스테이크하우스 10% 할인
+50,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,1000,,"스타벅스 1,000원 결제일할인"
+50,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"메가박스, CGV, 인터파크 영화 3,000원 할인"
+50,300000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,백화점·할인점 2~3개월 무이자할부
+50,300000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,의료점 2~3개월 무이자할부
+51,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통·택시 10% 결제일할인
+51,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,이동통신요금 10% 결제일할인
+51,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"CGV 및 롯데시네마 5,000원 결제일할인"
+51,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,해외 1.3% 적립
+52,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,모든 가맹점 1% 빅포인트 적립
+52,500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,2000,,"모든 주유소 및 LPG 충전소 2,000원 결제일 할인"
+52,500000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"모든 영화관 5,000원 결제일 할인"
+53,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,1000,,"스타벅스 1,000원 결제일 할인"
+53,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"놀이공원 자유이용권 50%, 워터파크 입장권 30% 현장할인"
+53,300000,CARD_LEVEL,25,정비,FIXED_AMOUNT,,15000,,"엔진오일 교환 시 15,000원 현장할인"
+54,0,CARD_LEVEL,13,선택형,MILEAGE,2.0,,,[특별 적립] 옵션 적립처에 따라 스카이패스 2 마일리지 적립
+54,500000,INLINE,8,패밀리레스토랑,FIXED_AMOUNT,,30000,,"아웃백스테이크하우스 30,000원 결제일 할인 [전월 실적 50만원 이상]"
+55,300000,CARD_LEVEL,19,편의점,FIXED_AMOUNT,,200,,"CU 1,500원당 200원 결제일할인"
+55,300000,CARD_LEVEL,27,교통,FIXED_AMOUNT,,100,,"대중교통 1,000원당 100원 결제일할인"
+55,300000,CARD_LEVEL,12,푸드,FIXED_AMOUNT,,1000,,"음식점·주점 1,000원 결제일할인"
+56,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 결제일할인
+56,500000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"모든 영화관 5,000원 결제일할인"
+56,500000,CARD_LEVEL,8,패밀리레스토랑,FIXED_AMOUNT,,20000,,"VIPS·계절밥상 20,000원 결제일할인"
+56,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,모든 가맹점 기본 0.5% 청구할인
+56,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.5,,,교육·할인점·이동통신·병원·약국 1.5% 결제일할인
+57,500000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"모든 영화관 5,000원 결제일할인"
+57,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 결제일할인
+57,500000,CARD_LEVEL,12,푸드,FIXED_AMOUNT,,20000,,"VIPS·계절밥상 20,000원 결제일할인"
+57,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,모든 가맹점 기본 0.5% 청구할인
+57,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.5,,,음식점·주점·편의점·주유·택시 1.5% 결제일할인
+57,500000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인
+57,500000,CARD_LEVEL,25,정비,FIXED_AMOUNT,,20000,,"엔진오일 교환 시 20,000원 현장할인"
+58,500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,90,,모든 주유소에서 주유 시 리터당 90원 결제일할인
+58,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,모든 가맹점 기본 0.5% 결제일할인
+59,500000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,3.0,,,여가패키지: 해외·여행 3% 결제일할인
+59,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,3.0,,,일상패키지: 슈퍼마켓·프리미엄 아울렛 등 3% 결제일할인
+59,500000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,30.0,,,일상패키지: 10대 커피전문점·제과점 30% 결제일할인
+59,500000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,일상패키지: 음식점·신선식품 배송 20% 결제일할인
+59,500000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,6000,,"일상패키지: 모든 영화관에서 6,000원 이상 결제 시 6,000원 결제일할인"
+61,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인
+61,0,CARD_LEVEL,25,정비,FIXED_AMOUNT,,20000,,"엔진오일 교환 시 20,000원 현장할인"
+62,0,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,커피전문점·파리바게뜨·배스킨라빈스·던킨도너츠 10% 할인
+62,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 3,000원 할인"
+62,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 50%·워터파크 30% 할인
+63,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,국내외 가맹점 0.3% 결제일 할인
+63,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,이동통신요금 10% 결제일할인
+63,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"CGV·롯데시네마 5,000원 결제일할인"
+64,300000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,주말 5만원 이상 결제 시 2~3개월 무이자할부
+72,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 5% 결제일할인
+72,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피전문점 5% 결제일할인
+73,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"대형마트, 백화점, 주유 등 5% 청구할인"
+73,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,25.0,,,"아웃백, 애슐리, TGIF 등 25% 청구할인"
+73,300000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,20.0,,,"탐앤탐스, 스타벅스 20% 청구할인"
+73,300000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,우리은행 수수료 면제서비스
+74,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,주요 7대 업종 10~5% 청구할인
+74,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"전국 영화관 3,000원 청구할인"
+74,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,커피 20% 청구할인
+74,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+77,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,국내 가맹점 0.7% 위비꿀머니 적립
+77,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.5,,,"대형할인점, 면세점 1.5% 및 위비마켓 2% 위비꿀머니 적립"
+77,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,1.5,,,이동통신 1.5% 위비꿀머니 적립
+77,300000,CARD_LEVEL,34,병원,RATE_DISCOUNT,1.5,,,병의원 1.5% 위비꿀머니 적립
+77,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 이용금액 1.5% 위비꿀머니 적립
+77,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 이디야, 폴바셋 10% 청구할인"
+80,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,PAY 외 결제 시 5% 할인
+80,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,치킨/피자 10% 청구할인
+80,300000,CARD_LEVEL,26,해외,FREE_SERVICE,,,,해외이용 시 이용수수료 면제
+81,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,스타벅스(사이렌오더 포함) 50% 청구 할인
+81,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 업종 10% 청구 할인
+82,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.0,,,"Well Living: 백화점, 온라인 쇼핑, 대형할인점 모아포인트 1% 적립"
+82,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,1.5,,,Well Living: 이동통신 모아포인트 1.5% 적립
+82,300000,CARD_LEVEL,34,병원,RATE_DISCOUNT,1.5,,,Well Living: 병원(동물병원 포함) 모아포인트 1.5% 적립
+82,300000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,1.8,,,"Enjoy Living: 해외, 면세점, 여행사 ,항공사 모아포인트 1.8% 적립"
+82,300000,CARD_LEVEL,35,골프,RATE_DISCOUNT,3.0,,,Enjoy Living: 골프 업종 3% 적립
+84,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.8,,,모아포인트 0.8%~5% 적립
+84,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 업종 모아포인트 5% 적립
+84,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 업종 모아포인트 5% 적립
+84,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,3.0,,,"스타벅스, 엔제리너스, 이디야 모아포인트 3% 적립"
+84,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,3.0,,,"CGV, 롯데시네마 모아포인트 3% 적립"
+84,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.0,,,"백화점, 할인점, 온라인쇼핑 모아포인트 1% 적립"
+84,300000,CARD_LEVEL,3,주유,RATE_DISCOUNT,1.0,,,주유 모아포인트 1% 적립
+84,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 가맹점 1% 적립
+85,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,온·오프라인 쇼핑 10% 청구할인
+85,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,4대 주유소 주말 주유시 리터당 60원 청구할인
+85,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 폴바셋 10% 청구할인"
+86,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,모든 국내 가맹점 0.7~1% 청구할인
+86,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,"S-OIL, 현대오일뱅크 리터당 60~100원 청구할인"
+86,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 청구할인
+86,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 폴바셋 10% 청구할인"
+87,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.3,,,국내외 가맹점 1.3%~0.8% 청구할인
+87,0,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,1.3,,,제과점 1.3% 청구할인
+87,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,1.3,,,편의점 1.3% 청구할인
+87,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,1.3,,,수퍼마켓 1.3% 청구할인
+87,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.3,,,"면세점, 해외이용금액 1.3% 청구할인"
+87,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,1.3,,,대중교통 1.3% 청구할인
+87,0,CARD_LEVEL,3,주유,RATE_DISCOUNT,0.8,,,주유관련 이용금액 0.8% 청구할인
+87,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,0.8,,,통신관련 이용금액 0.8% 청구할인
+88,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,33.0,,,대중교통 33% 청구할인
+88,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,55.0,,,"커피 4대 브랜드 통합 (스타벅스, 투썸플레이스, 커피빈, 폴바셋) 55% 청구할인"
+88,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,11.0,,,편의점 11% 청구할인
+88,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5500,,"영화관 5,500원 할인"
+89,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,200,,SK네트웍스 Most 주유소 리터당 최대 200원 청구할인
+89,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"영화관 업종 5,000원 청구할인"
+89,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 본인 자유이용권 50% 현장할인
+91,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,"현대오일뱅크, S-OIL 주유 및 충전 시 리터당 60원 청구할인"
+92,500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,"현대오일뱅크, S-OIL 주유 및 충전 시 리터당 60원 청구할인"
+93,500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,"현대오일뱅크, S-OIL 주유 및 충전 시 리터당 60원 청구할인"
+94,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,모든 국내 가맹점 0.7%~1.0% 청구할인
+94,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,"S-OIL, 현대오일뱅크 리터당 60~100원 청구할인"
+94,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 청구할인
+94,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 폴바셋 10% 청구할인"
+106,300000,INLINE,3,주유,FIXED_AMOUNT,,60,,"주유소, 충전소 업종 리터당 60원 청구할인 (전월실적 30만원 이상)"
+106,300000,INLINE,5,통신,RATE_DISCOUNT,10.0,,,"전화요금, 인터넷이용료, 케이블TV 업종 10% 청구할인 (전월실적 30만원 이상)"
+106,300000,INLINE,27,교통,RATE_DISCOUNT,10.0,,,"버스, 지하철, 택시 업종 10% 청구할인 (전월실적 30만원 이상)"
+106,600000,INLINE,14,생활,RATE_DISCOUNT,10.0,,,"음식점, 커피전문점, 편의점, 약국 업종 10% 추가 청구할인 (전월실적 60만원 이상)"
+107,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"3대 패밀리레스토랑(아웃백,VIPS,TGIF) 이용 시 10% 청구할인"
+107,300000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,"백화점, 대형마트, 정비, 손해보험 업종 2~3개월 무이자할부 서비스"
+109,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,100,,SK에너지 주유시 리터당 100원 청구할인
+109,300000,CARD_LEVEL,25,정비,FREE_SERVICE,,,,"스피드메이트 엔진오일 무료교환, 차량정비 현장할인 서비스"
+109,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"버스, 지하철 10% 청구할인"
+112,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,GS칼텍스 리터당 100원 현장할인
+112,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,버스/지하철 10% 청구할인
+115,300000,INLINE,3,주유,FIXED_AMOUNT,,60,,"주유소, 충전소 업종 리터당 60원 청구할인 (전월실적 30만원 이상)"
+115,300000,INLINE,22,대형마트,RATE_DISCOUNT,10.0,,,대형마트 10% 청구할인 (전월실적 30만원 이상)
+115,300000,INLINE,5,통신,RATE_DISCOUNT,10.0,,,"전화요금, 인터넷이용료, 케이블TV 업종 10% 청구할인 (전월실적 30만원 이상)"
+115,300000,INLINE,27,교통,RATE_DISCOUNT,10.0,,,"버스, 지하철, 택시 업종 10% 청구할인 (전월실적 30만원 이상)"
+115,300000,INLINE,26,해외,RATE_DISCOUNT,5.0,,,해외이용(해외직구) 5% 할인 캐시백 (전월실적 30만원 이상)
+115,600000,INLINE,12,푸드,RATE_DISCOUNT,10.0,,,"음식점, 커피전문점, 편의점, 약국 업종 10% 추가 청구할인 (전월실적 60만원 이상)"
+116,300000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,커피/제과/아이스크림 5~10% 할인
+116,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,"대중교통, 택시 10% 할인"
+120,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외이용 2.0% 할인 캐시백
+121,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"버스, 지하철 10% 청구할인"
+121,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,"SKT, KT Olleh, LG U+ 10% 청구할인"
+121,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,SK주유소(충전소) 리터당 60원 청구할인
+121,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"CGV/메가박스 온라인 영화예매시 승인건당 3,500원 청구 할인"
+121,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"롯데월드, 에버랜드, 캐리비안베이 30~50% 할인"
+121,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,해외가맹점 5% 할인캐시백
+122,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,3000,,"SKT, KT, LGU+ 이동통신요금 최대 3,000원 청구할인"
+122,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,티머니 후불교통(버스/지하철) 5% 환급할인
+125,500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,E1 LPG충전소 리터당 100원 청구할인
+125,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,인터넷 쇼핑몰/소셜커머스 10% 청구할인
+125,500000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,패밀리레스토랑 이용금액 10% 청구할인
+125,500000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,대중교통 이용금액 10% 청구할인
+127,400000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"대중교통, 택시 5% 적립"
+127,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 적립
+127,400000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,"커피, 디저트 10% 적립"
+127,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,20.0,,,SPA 패션 20% 적립
+127,400000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,3.0,,,해외이용금액 3% 할인 캐시백
+129,300000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,50.0,,,[Great 서비스] 스타벅스 50% 청구할인
+129,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"[Basic 서비스] 대중교통, 택시/이동통신요금 10% 청구할인"
+132,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,20.0,,,편의점 20% 포인트리 적립
+132,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,음식점 5% 포인트리 적립
+132,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 포인트리 적립
+132,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,인터넷쇼핑몰 5% 포인트리 적립
+132,400000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,5.0,,,"숙박앱, 렌트앱 이용 시 5% 포인트리 적립"
+132,400000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"맥스무비 영화 예매 시 1매당 3,500원 현장할인"
+132,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,카카오프렌즈 캐릭터샵 이용 시 5% 포인트리 적립
+134,400000,CARD_LEVEL,25,정비,RATE_DISCOUNT,5.0,,,"차량정비, 주차장, 세차장 업종 5% 적립"
+134,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 3사 자동납부 5% 적립
+134,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,플러스 O2O 이용금액 5% 적립
+134,400000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 30~50% 현장할인
+136,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,국내 전 가맹점 0.7% 기본적립
+136,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,3.0,,,해외이용금액 3% 할인 캐시백
+140,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"3대 패밀리레스토랑(아웃백,VIPS,TGIF) 이용 시 10% 청구할인"
+140,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"맥스무비 1매당 3,500원 할인(본인회원 한정)"
+140,300000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,"백화점, 대형마트, 정비, 손해보험 업종 2~3개월 무이자할부 서비스"
+141,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,"이마트, 홈플러스, 롯데마트 5% 청구할인"
+142,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"대중교통(버스, 지하철) 10% 청구할인"
+142,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,"편의점(GS25, CU) 10% 청구할인"
+144,400000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,20.0,,,"[꿀잠α Relax 할인서비스]
+숙박/숙박App 20% 청구할인"
+144,400000,CARD_LEVEL,27,교통,RATE_DISCOUNT,20.0,,,"[꿀잠α Relax 할인서비스]
+여객/운송 20% 청구할인"
+146,0,CARD_LEVEL,13,선택형,RATE_DISCOUNT,0.7,,,"[적립형] 국내/외 전 가맹점 0.7% 기본적립, 7대 영역 중 월간 이용횟수가 가장 높은 2개 영역 3% 추가적립"
+146,0,CARD_LEVEL,13,선택형,RATE_DISCOUNT,0.7,,,"[할인형] 국내/외 전 가맹점 0.7% 기본할인, 7대 영역 중 월간 이용횟수가 가장 높은 2개 영역 5% 추가할인"
+148,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,주요 생활영역 5% 할인서비스
+152,1000000,CARD_LEVEL,36,약국,RATE_DISCOUNT,10.0,,,약국 이용 시 10% 청구할인
+156,100000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,쇼핑서비스 대상 가맹점 5~10% 적립
+156,100000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 자동이체 시 5% 적립
+156,100000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,"버스, 지하철 이용시 5% 적립"
+162,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"전국 주요 쇼핑업종, 모든 해외가맹점 청구할인 5% 할인(월5천원~2만5천원)"
+163,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,7.0,,,"전국 주요 쇼핑업종, 모든 해외가맹점 청구할인 7% 할인(월5천원~5만원)"
+164,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,7.0,,,전국 음식점 7% 청구할인(해외포함)
+164,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,7.0,,,전국 대중교통 7% 청구할인(해외포함)
+164,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,7.0,,,국내외 온라인쇼핑 7% 청구할인
+164,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,30.0,,,국내외 커피전문점 30% 청구할인
+166,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,국내·외 전 가맹점 0.7~1% 청구할인
+167,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.4,,,국내·외 전 가맹점 0.7~1.4% 청구할인
+167,0,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,대중교통 및 통신요금 5% 청구할인
+175,100000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,10.0,,,농협판매장 이용 시 10% NH포인트 적립
+185,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"커피, 베이커리 5% 할인"
+186,400000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,10.0,,,농협 판매장 10% 할인
+186,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활 업종 10% 할인
+186,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,농협몰 10% 할인
+186,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,통신요금 10% 할인
+191,400000,CARD_LEVEL,11,테마파크,FREE_SERVICE,,,,전국 주요 놀이공원 무료입장 또는 할인
+192,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"커피, 베이커리, 아이스크림 10% 청구할인
+영화 CGV 1천원 청구할인"
+193,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"커피, 베이커리 10% 청구할인 및 CGV 1,000원 청구할인"
+193,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,전국 주요 놀이공원 30~50% 할인
+201,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,15.0,,,롯데백화점 15% 결제일할인
+201,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,롯데백화점 5% 현장할인 e-쿠폰 제공
+203,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,[다 할인 서비스] 모든 가맹점 1% 청구할인
+203,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,1.5,,,[더 할인 서비스] 교통 1.5% 청구할인
+203,500000,CARD_LEVEL,5,통신,RATE_DISCOUNT,1.5,,,[더 할인 서비스] 통신 1.5% 청구할인
+203,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,1.5,,,[더 할인 서비스] 마트 1.5% 청구할인
+203,500000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,1.5,,,[더 할인 서비스] 주유 1.5% 청구할인
+203,500000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.5,,,[더 할인 서비스] 해외 1.5% 청구할인
+204,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,[다 적립 서비스] 모든 가맹점 1% 적립
+204,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,1.5,,,[더 적립 서비스] 교통 1.5% 적립
+204,500000,CARD_LEVEL,5,통신,RATE_DISCOUNT,1.5,,,[더 적립 서비스] 통신 1.5% 적립
+204,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,1.5,,,[더 적립 서비스] 마트 1.5% 적립
+204,500000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,1.5,,,[더 적립 서비스] 주유 1.5% 적립
+204,500000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.5,,,[더 적립 서비스] 해외 1.5% 적립
+205,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,주말 식료품비 5% 할인
+205,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"의료비, 교통비, 편의점 5% 할인"
+206,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,80,,주유소(가스충전소) 리터당 80원 할인
+206,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,"시내버스, 지하철, 택시 10% 할인"
+206,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,롯데마트 10% 할인
+207,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,30.0,,,"뮤지컬, 연극 등 공연 10~30% 할인"
+214,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,주말생활비 - 마트/슈퍼 5~10% 결제일 할인
+214,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"일상생활비 - 의료, 교통, 편의점 5~10% 결제일 할인"
+215,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"출퇴근 할인 - 시내버스, 지하철 10% 결제일 할인"
+217,500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,주말 주유 리터당 60원 할인
+217,500000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,야간요식 5~10% 결제일 할인
+217,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"쇼핑(소셜커머스, SPA브랜드, 편의점) 5~10% 결제일 할인"
+217,500000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,"대중교통(시내버스, 지하철, 택시) 5~10% 결제일 할인"
+227,400000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,150,,"SK주유소 리터당 최대 150원 청구할인
+SK충전소 리터당 최대 70원 청구할인"
+227,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"교통, 영화, 외식, 커피 등 최대 10% 청구할인"
+227,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,"이마트, 홈플러스, 롯데마트 최대 10% 청구할인"
+228,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.8,,,모든 가맹점 0.8% 청구할인
+228,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,1.3,,,온라인 가맹점 1.3% 청구할인
+241,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,4000,,"스타벅스, 커피빈 4,000원 할인"
+242,0,CARD_LEVEL,18,카페,FIXED_AMOUNT,,4000,,"스타벅스 4,000원 청구할인"
+242,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,4000,,"CGV, 롯데시네마 4,000원 청구할인"
+243,0,CARD_LEVEL,18,카페,FIXED_AMOUNT,,4000,,"스타벅스 4,000원 청구할인"
+243,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,4000,,"CGV, 롯데시네마 4,000원 청구할인"
+244,0,CARD_LEVEL,31,카페/디저트,FIXED_AMOUNT,,4000,,"스타벅스 4,000원 청구할인"
+245,0,CARD_LEVEL,31,카페/디저트,FIXED_AMOUNT,,4000,,"스타벅스 4,000원 청구할인"
+246,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,스타벅스 30~50% 청구할인
+246,500000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,이동통신요금 자동이체 시 10% 청구할인
+246,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,"온라인쇼핑, 소셜커머스 5% 청구할인"
+251,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,"해외가맹점 결제 시 국제브랜드 수수료 1% 면제
+해외이용 및 해외직구 이용금액 하나머니 적립"
+252,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,국내 가맹점 0.7% 청구할인
+252,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,1.7,,,국내 온라인 가맹점 1.7% 청구할인
+252,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.7,,,해외 가맹점 1.7% 청구할인
+254,300000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,6가지 옵션 중 선택한 적립대상 가맹점에서 5% 적립
+279,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,7000,,"CGV 영화 예매 시 최대 7,000원 캐시백"
+279,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,CJ mall 5% 캐시백
+279,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,VIPS / 계절밥상 10% 캐시백
+279,200000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,투썸플레이스 / 뚜레쥬르 10% 캐시백
+282,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.5,,,주요 업종 0.5% ~ 1% 마이신한포인트 적립
+282,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"롯데월드, 서울랜드 50% 할인"
+284,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,모든 가맹점 0.3% 포인트 적립
+286,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,3.0,,,대중교통 3% 적립
+286,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,3.0,,,이동통신요금 3% 적립
+286,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,"해외 전가맹점(온라인 포함) 이용금액 1% 적립,
+해외 인출 1건당 US  적립 제공"
+294,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,요식업종 이용금액의 5% 할인
+294,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"버스, 지하철 이용금액의 5% 할인(후불교통 카드 선택 시)
+SK주유소 주유 시 리터당 40원 할인(후불교통카드 미 선택 시)"
+294,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"홈쇼핑 이용금액의 5% 할인
+해외 이용금액의 5% 할인"
+296,200000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,"버스,지하철,택시 이용금액의 10% 할인 (캐시백)"
+296,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,모든 커피 전문점 이용 금액의 20% 할인 (캐시백)
+296,200000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,10.0,,,4대 백화점 및 3대 할인점 이용 금액의 10% 할인 (캐시백)
+300,200000,CARD_LEVEL,30,렌터카,RATE_DISCOUNT,10.0,,,SOCAR 결제 시 10% 할인(캐시백)
+300,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,영화 이용 시 10% 할인(캐시백)
+301,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 캐시백
+301,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,CGV 10% 캐시백
+302,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 편의점 5% 캐시백
+302,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드/서울랜드 50% 현장할인
+306,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,영화 예매시 10% 할인(캐시백)
+307,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,"빽다방 이용시 20% 결제일 할인(캐시백)
+더본(theborn) 모든 매장 이용 시 5% 결제일 할인(캐시백)"
+307,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,CGV 예매시 10% 할인
+311,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.2,,,해외 전 가맹점 이용액 (온라인 포함) 1.2% 캐시백
+311,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,9.0,,,CU 9% 캐시백
+311,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,9.0,,,스타벅스 9% 캐시백
+312,200000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,해외가맹점(해외직구 포함) 이용금액의 1~2% 캐시백
+313,250000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,[해외서비스] 해외가맹점(해외직구 포함) 이용금액의 1~2% 캐시백
+315,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인 쇼핑몰 이용금액 5% 캐쉬백
+315,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,오프라인 쇼핑 이용금액 5% 캐쉬백
+316,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,L.POINT 0.3 ~ 1% 적립
+316,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드 아쿠아리움 입장권 및 놀이공원 자유이용권 50% 현장할인
+317,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.5,,,모아포인트 0.3 ~ 1.5% 적립
+317,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데아쿠아리움 및 주요 놀이공원 50% 현장할인
+318,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,30.0,,,"스타벅스 30%, 편의점 5% 캐시백할인"
+320,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,롯데마트 매장 및 롯데마트몰 10% 캐시백 할인
+320,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 투썸플레이스 20% 캐시백 할인"
+320,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백, TGIF 10% 캐시백 할인"
+320,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"모든 영화관 3,000원 캐시백 할인"
+320,300000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,1500,,"시내버스, 지하철 1,500원 청구할인"
+320,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,40,,GS칼텍스 리터당 40원 캐시백 할인
+320,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+322,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,"전국 시내버스, 지하철 5% 청구할인"
+322,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백, TGIF 10% 청구할인"
+322,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 투썸플레이스 20% 청구할인"
+322,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+325,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,사용업종 또는 결제건당 금액에 따라 0.3~1% 모아포인트 적립
+325,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"치킨, 피자 10% 청구할인"
+325,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"전국 영화관 3,000원 청구할인"
+325,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,SK주유 및 충전 시 리터당 60원 청구할인
+326,200000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,주요할인점 5%할인
+328,250000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,1000,,"커피전문점 1회당 1,000원 할인 캐시백"
+329,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,"갤러리아 백화점, Mall 5% 현장할인"
+329,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.5,,,업종별 0.3~1.5% 모아포인트 적립
+329,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 가맹점(해외직구 포함) 1% 캐시백 할인
+329,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 50% 현장할인
+331,200000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,현대백화점 및 현대아울렛 5% 할인
+331,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 커피빈 20% 캐시백 할인"
+331,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백스테이크하우스, TGIF, VIPS, 우노 10% 캐시백 할인"
+331,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,6000,,"CGV, 메가박스, 롯데시네마 최대 6,000원 캐시백 할인"
+331,200000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,40,,S-OIL 주유소 리터당 40원 캐시백 할인
+331,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 무료입장 및 자유이용권 최대 50% 현장할인
+331,200000,CARD_LEVEL,6,기타,FIXED_AMOUNT,,3000,,"TOEIC 응시료 3,000원 캐시백 할인"
+332,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,1.0,,,커피전문점 업종 이용 시 카카오페이머니 1% 적립
+332,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,1.0,,,CU편의점 이용 시 카카오페이머니 1% 적립
+332,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,1.0,,,"대중교통(버스,지하철) 이용 시 카카오페이머니 1% 적립"
+335,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 업종 5~10% 환급할인
+335,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"대중교통, 택시 5% 환급할인"
+335,300000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,3.0,,,라이프샵 여행 해외패키지 3% 현장할인
+338,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외이용 1% 할인캐시백
+339,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"커피전문점, 베이커리, 아이스크림전문점 5% 평일 환급할인"
+339,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 청구할인
+340,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스·지하철 10% 청구할인
+340,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+340,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+340,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,"아웃백, VIPS / 스타벅스 20% 환급할인"
+340,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+340,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+340,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,GS25/교보문고 5% 환급할인
+341,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 청구할인
+342,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스·지하철 10% 청구할인
+342,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+342,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+342,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+342,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+342,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+342,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+343,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,아웃백·VIPS 10% 포인트리 적립
+343,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 3,000원 포인트리 적립"
+343,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 포인트리 적립
+343,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,3.0,,,G마켓·옥션 3% 포인트리 적립
+343,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드 50% 포인트리 적립
+344,100000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,인터넷쇼핑몰 5% 환급할인 서비스
+344,100000,CARD_LEVEL,36,약국,RATE_DISCOUNT,5.0,,,약국 업종 5% 환급할인 서비스
+345,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,7.0,,,롯데·현대·신세계백화점 7% 환급할인
+345,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 청구할인
+345,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,5.0,,,해외이용 5% 할인 캐시백
+346,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,이마트·롯데마트·홈플러스 5% 환급할인
+346,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,SK에너지 리터당 60원 환급할인
+346,300000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+346,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 청구할인
+346,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,3.0,,,CU편의점 3% CU포인트 적립
+347,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"커피빈 주중 5%, 주말 10% 환급할인"
+347,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,20.0,,,CGV·메가박스 20% 환급할인
+347,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,30.0,,,에버랜드·서울랜드·롯데월드 30% 환급할인
+347,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+347,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 청구할인
+348,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스·지하철 10% 청구할인
+348,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+348,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+348,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,"아웃백, VIPS / 스타벅스 20% 환급할인"
+348,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+348,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+348,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+349,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스·지하철 10% 청구할인
+349,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+349,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+349,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+349,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+349,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+349,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+350,200000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,50,,"GS칼텍스 리터당 주중 50원, 주말 60원 환급할인"
+350,200000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,롯데·현대·신세계백화점 5% 환급할인
+350,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,아웃백 10% 환급할인
+350,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 청구할인
+350,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,1000,,"이동통신요금 1,000원 환급할인 (월 1회)"
+350,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드 50% 환급할인
+351,200000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,50,,"GS칼텍스 리터당 주중 50원, 주말 60원 환급할인"
+351,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,버스·지하철 5% 청구할인
+351,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+351,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 3,000원 환급할인"
+351,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드 50% 환급할인
+351,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,3.0,,,G마켓·옥션 3% 환급할인
+351,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,아웃백·VIPS 10% 환급할인
+353,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,1.0,,,"대중교통(버스,지하철)/택시업종 1% 포인트리 적립"
+354,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,스타벅스 10% 환급할인
+354,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,CGV 10% 환급할인
+359,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,스타벅스 10% 환급할인
+369,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인쇼핑몰/소셜커머스 3~5% 청구할인
+369,200000,CARD_LEVEL,34,병원,RATE_DISCOUNT,3.0,,,전국 병원 업종 3% 청구할인
+369,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피전문점/제과점 5% 청구할인
+369,200000,CARD_LEVEL,11,테마파크,FREE_SERVICE,,,,전국 주요 놀이공원 무료입장 및 할인
+372,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인쇼핑 5% 할인
+372,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,영화 · 커피 10%할인
+389,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,7.0,,,버스/지하철 7% 캐시백
+390,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,7.0,,,후불교통 이용금액 7% 캐시백 서비스
+392,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,업종 및 연간 이용금액에 따라 0.2%~0.8% 빅포인트 적립
+392,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,아웃백스테이크하우스 10% 현장할인
+392,0,CARD_LEVEL,18,카페,FIXED_AMOUNT,,1000,,"스타벅스 1,000원 결제일할인"
+392,0,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,신세계백화점 5% 할인 및 신세계포인트 적립
+393,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,업종 및 연간 이용금액에 따라 0.2%~0.8% 빅포인트 적립
+393,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 3,000원 할인"
+393,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인
+394,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,업종 및 연간 이용금액에 따라 0.2%~0.6% 캐시백
+394,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 3,000원 할인"
+394,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인
+402,100000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,이용금액의 0.2% L.POINT 적립
+406,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인 몰 5% 청구 할인
+421,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,200,,"현대오일뱅크/SK에너지 주유시 리터당 200원·400원 할인
+모든 충전소(LPG) 이용 시 리터당 100원·200원 할인"
+421,300000,CARD_LEVEL,25,정비,FREE_SERVICE,,,,스피드메이트 엔진오일 교환 및 타이어 펑크 수리 무료서비스 제공
+423,0,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"특수 소재 카드 플레이트 제공
+전 세계 800여 개 공항라운지 무료 이용 등"
+424,0,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"특수소재 카드 플레이트 제공
+전 세계 800여 개 공항라운지 무료 이용 등"
+451,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,일반 업종 이용금액 1% 포인트 기본적립
+451,0,CARD_LEVEL,15,면세점,RATE_DISCOUNT,2.0,,,면세점 및 백화점 이용금액 2% 포인트 특별적립
+451,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,해외 이용금액 2% 포인트 특별적립
+452,0,CARD_LEVEL,15,면세점,MILEAGE,2.0,,1500,"면세점 및 백화점 이용금액 1,500원당 2마일리지 특별적립"
+452,0,CARD_LEVEL,32,해외이용,MILEAGE,2.0,,1500,"해외 이용금액 1,500원당 2마일리지 특별적립"
+452,0,CARD_LEVEL,9,주유소,MILEAGE,3.0,,,SK 주유소 이용금액 리터당 3마일리지 적립
+453,0,CARD_LEVEL,15,면세점,MILEAGE,2.0,,1000,"면세점 및 백화점 이용금액 1,000원당 2마일리지 특별적립"
+453,0,CARD_LEVEL,32,해외이용,MILEAGE,2.0,,1000,"해외 이용금액 1,000원당 2마일리지 특별적립"
+453,0,CARD_LEVEL,9,주유소,MILEAGE,3.0,,,SK 주유소 이용금액 리터당 3마일리지 적립
+454,100000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,국내외 가맹점 0.2% 포인트리 기본 적립
+454,100000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,0.2,,,커피/제과아이스크림 업종 0.2% 포인트리 추가 적립
+454,100000,CARD_LEVEL,5,통신,RATE_DISCOUNT,0.2,,,이동통신요금 자동이체 시 0.2% 포인트리 추가 적립
+454,100000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,0.2,,,GS25 편의점 0.2% 포인트리 추가 적립
+454,100000,CARD_LEVEL,27,교통,RATE_DISCOUNT,0.2,,,"대중교통(버스, 지하철), 택시 0.2% 포인트리 추가 적립"
+454,100000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,0.8,,,대형마트 0.8% 포인트리 추가 적립
+454,100000,CARD_LEVEL,3,주유,RATE_DISCOUNT,0.8,,,GS칼텍스 주유소 0.8% 포인트리 추가 적립
+455,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,쇼핑 5% 결제일 할인
+455,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,교통 10% 결제일 할인
+457,250000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,[해외서비스] 해외가맹점(해외직구 포함) 이용금액의 1~2% 캐시백
+458,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,[일상팩] 커피전문점·편의점·배달앱 5% 네이버페이 포인트 적립
+469,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[Easy 서비스] 인터넷쇼핑몰 5% 적립
+469,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,[Easy 서비스] 대형마트 5% 적립
+469,500000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,[Easy 서비스] 주유소/충전소 5% 적립
+469,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,[Basic 서비스] 대중교통 5% 적립
+469,500000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,[Basic 서비스] 이동통신 5% 적립
+469,500000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,[Pick 서비스] 선호영역(택1) 5% 적립
+470,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[Easy on 특화서비스] 인터넷 쇼핑몰 5% 할인
+470,500000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,[Easy on 특화서비스] 음식 업종 5% 할인
+470,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,[Easy on 특화서비스] 백화점 5% 할인
+470,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,[Easy on 특화서비스] 커피 5% 할인
+470,500000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,[Easy on 특화서비스] 편의점 5% 할인
+470,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,[Easy on Plus 서비스] 대중교통 5% 할인
+470,500000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,[Easy on Plus 서비스] 이동통신요금 5% 할인
+470,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"[Easy on Plus 서비스] 온라인 음원, 숙박앱 5% 할인"
+471,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.5,,,기본적립 0.5% L.POINT 적립
+471,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,3.0,,,특별적립 3% L.POINT 적립
+473,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,[특별적립] 해외이용 2% UniMile 적립
+473,300000,CARD_LEVEL,15,면세점,RATE_DISCOUNT,2.0,,,[특별적립] 면세점 2% UniMile 적립
+473,300000,CARD_LEVEL,30,렌터카,RATE_DISCOUNT,1.0,,,[특별적립] 렌터카 1% UniMile 적립
+473,300000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,1.0,,,[특별적립] 주유소 1% UniMile 적립
+473,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.7,,,[기본적립] 국내가맹점 0.7% UniMile 적립
+476,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"백화점, 마트, 홈쇼핑, 온라인쇼핑, 소셜몰, 패션&뷰티 1~5% 적립"
+476,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,"커피전문점, 편의점, 베이커리, 배달앱 1~5% 적립"
+476,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,"해외, 항공&면세점 1~5% 적립"
+476,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"주유, 교육, 병원, 이동통신, 대중교통 1~5% 적립"
+477,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,2.0,,,[Taking 10 서비스] 가장 많이 이용한 5개 영역 각 2%씩 적립
+477,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,"백화점, 마트, 홈쇼핑, 온라인쇼핑, 소셜몰, 패션&뷰티 2% 적립"
+477,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,2.0,,,"커피전문점, 편의점, 베이커리, 배달앱 2% 적립"
+477,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,"해외, 항공&면세점 2% 적립"
+477,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,"주유, 교육, 병원, 이동통신, 대중교통 2% 적립"
+478,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,1.2,,,홈플러스 포인트 1.2% 적립
+478,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"YES24, 인터파크 영화 예매 1,500원 할인"
+479,0,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,0.6,,,홈플러스포인트 0.6% 적립
+480,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,주유소 리터당 60원 할인
+481,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 청구할인
+481,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"백화점, 아울렛, 잡화 10% 청구할인"
+481,300000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,10.0,,,"대형할인점, 편의점 등 10% 청구할인"
+481,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 이용금액 1% 청구할인
+481,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,주말 4대 주유소 리터당 60원 청구할인
+481,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 폴바셋 10% 청구할인"
+482,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 청구할인
+482,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"백화점, 아울렛, 잡화 10% 청구할인"
+482,300000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,10.0,,,"대형할인점, 편의점 등 10% 청구할인"
+482,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 이용금액 1% 청구할인
+482,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,주말 4대 주유소 리터당 60원 청구할인
+482,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 폴바셋 10% 청구할인"
+487,300000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,200,,"버스, 지하철 후불 교통 이용 금액 일 200원 ~ 일 600원 할인"
+487,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,4대 백화점 5% 할인
+487,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 할인
+487,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 할인
+487,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 할인
+490,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,1.0,,,11번가에서 SK pay 결제 시 이용금액 1% 적립
+491,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,0.5,,,11번가에서 SK pay 결제 시 이용금액 0.5% 적립
+500,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.2,,,전 가맹점 0.8~1.2% 적립/청구할인
+501,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.5,,,"실적 관계없이, 한도 제한없이 전 가맹점 1~1.5% 적립/청구할인"
+507,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,온라인/오프라인 쇼핑 5% 할인
+507,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,전 가맹점 0.5% 기본할인
+508,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,10대 업종 0.5~1% 청구할인
+508,400000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,전자금융 수수료 면제
+516,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,할인한도 없이 0.7%~1.4% 할인
+516,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외이용가맹점 1.0% 청구할인
+516,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.4,,,선택영역 1개 영역 1.4%~2.1% 청구할인
+517,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,국내·외 전 가맹점 0.2~0.3% 청구할인
+521,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 청구할인
+521,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,오프라인 쇼핑 10% 청구할인
+521,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,5.0,,,베트남 현지 오프라인 全가맹점 5% 청구할인
+521,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,주말 4대 주유소 리터당 60원 청구할인
+521,300000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,"스타벅스, 폴바셋 10% 청구할인"
+523,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 환급할인
+523,300000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,3.0,,,야놀자 3% 환급할인
+523,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,3.0,,,CU편의점 3% 환급할인
+529,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,"국내외 가맹점에서 1% 기본 M포인트 적립
+100만원 이상 이용 시 1.5배 적립 / 200만원 이상 이용 시 2배 적립"
+529,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"특수 소재 카드 플레이트 제공
+공항라운지 무료이용 / 발레파킹서비스 제공"
+534,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,인터파크 5.0% 결제일 청구할인
+535,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,15.0,,,"롯데면세점 5~15% 할인우대, 롯데백화점 5% 할인 e-쿠폰 등"
+535,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"T.G.I. FRiDAY'S 10% 할인, 미스터피자 15% 현장할인 등"
+535,0,CARD_LEVEL,6,기타,RATE_DISCOUNT,50.0,,,"롯데월드 본인 종합이용권 50% 할인, 롯데시네마 관람권 1,500원 할인 등"
+539,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"외식업종, 마트, 학원업종 10% 할인"
+539,0,CARD_LEVEL,34,병원,INSTALLMENT_FREE,,3,,의료업종 2~3개월 무이자 할부
+542,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 가맹점(해외직구 포함) 1% 청구할인
+542,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,4대 주유소 주말 주유시 리터당 60원 청구할인
+542,300000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"공항라운지 무료,
+발렛 파킹 무료"
+543,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,30.0,,,"유튜브 프리미엄 정기권 30% 청구할인,
+넷플릭스 정기권 30% 청구할인"
+544,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,30.0,,,"유튜브 프리미엄 정기권 30% 청구할인,
+넷플릭스 정기권 30% 청구할인"
+544,400000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"전 세계 1,000여개 공항라운지 무료 입장 서비스,
+프리미엄 투어 서비스"
+545,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,30.0,,,유튜브 프리미엄 정기권 30% 캐시백
+546,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통요금 10% 할인
+546,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,70,,GS칼텍스 리터당 최대 70원 청구할인
+559,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스·지하철 10% 청구할인
+559,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+559,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+559,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,"아웃백, VIPS / 스타벅스 20% 환급할인"
+559,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+559,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+559,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+561,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스·지하철 10% 청구할인
+561,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+561,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+561,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,"아웃백, VIPS / 스타벅스 20% 환급할인"
+561,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+561,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+561,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+568,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 및 롯데시네마 3,000원 결제일할인"
+568,0,CARD_LEVEL,14,생활,FREE_SERVICE,,,,부가세환급 편의지원서비스 및 전자세금계산서 월 250건 무료 제공
+578,0,CARD_LEVEL,4,금융,RATE_DISCOUNT,5.0,,,"금융포인트 0.5~5% 적립
+KB증권 매매수수료의 5% 금융포인트 적립"
+580,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[Easy 서비스] 인터넷쇼핑몰 5% 적립
+580,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,[Easy 서비스] 대형마트 5% 적립
+580,500000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,[Easy 서비스] 주유소/충전소 5% 적립
+580,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,[Basic 서비스] 대중교통 5% 적립
+580,500000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,[Basic 서비스] 이동통신 5% 적립
+580,500000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,[Pick 서비스] 선호영역(택1) 5% 적립
+581,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 가맹점 0.5% 결제일 할인
+582,300000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"공항라운지(The Lounge Members) 무료 이용 서비스,
+Mastercard Platinum 서비스"
+587,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 적립
+587,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,생활 쇼핑 5% 적립
+589,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 모든 가맹점 2% 토스머니 적립 (월 1만 토스머니 한도)
+592,0,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,1.0,,,조건 없이 마트/편의점 1% 할인
+592,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"커피/교통 5% 할인
+쇼핑/배달앱 3% 할인"
+594,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"전국 영화관 3,000원 청구할인"
+597,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,국내가맹점 이용액 0.2% 위비꿀머니(모아포인트) 적립
+597,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+598,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,국내가맹점 이용액 0.2% 위비꿀머니(모아포인트) 적립
+598,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+599,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.1,,,국내가맹점 이용액 0.1% 우리WON꿀머니(모아포인트) 적립
+599,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+601,0,CARD_LEVEL,18,카페,FIXED_AMOUNT,,500,,"스타벅스, 폴바셋, 이디야 결제 건당 500원 할인"
+602,0,CARD_LEVEL,16,프리미엄,FREE_SERVICE,,,,국내 특급호텔 및 공항 무료 발레파킹서비스
+602,0,CARD_LEVEL,18,카페,FIXED_AMOUNT,,500,,"스타벅스, 폴바셋, 이디야 결제 건당 500원 할인"
+603,0,CARD_LEVEL,16,프리미엄,FREE_SERVICE,,,,국내 특급호텔 및 공항 무료 발레파킹서비스
+603,0,CARD_LEVEL,18,카페,FIXED_AMOUNT,,500,,"스타벅스, 폴바셋, 이디야 결제 건당 500원 할인"
+606,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,20.0,,,정기결제 최대 20% 청구할인
+606,400000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 가맹점 (온라인/오프라인) 1% 청구할인
+607,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,20.0,,,정기결제 최대 20% 청구할인
+607,400000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,해외 가맹점 (온라인/오프라인) 2% 청구할인
+615,500000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,1500,,"통신요금 자동납부 1만원당 1,500원 청구 할인"
+615,500000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,온라인쇼핑 5% 청구할인
+616,0,CARD_LEVEL,14,생활,FIXED_AMOUNT,,2000,,"다이소 2,000원 ~ 4,000원 결제일할인"
+616,0,CARD_LEVEL,18,카페,FIXED_AMOUNT,,2000,,"커피전문점 2,000원 결제일할인"
+616,0,CARD_LEVEL,6,기타,RATE_DISCOUNT,1.0,,,할인점.온라인쇼핑몰.편의점.의료 1% 결제일할인
+618,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 이용금액 5% 캐시백
+618,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.2,,,"해외 전 가맹점(온라인포함) 1.2% 캐시백
+해외인출 1건 당 US  캐시백 제공"
+621,1500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,SK 에너지ㆍS-OILㆍGS칼텍스ㆍ현대오일뱅크 100원/L 할인
+621,1500000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,GS25ㆍCUㆍ세븐일레븐 5% 할인
+622,1500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,스타벅스ㆍ폴바셋ㆍ빽다방ㆍ투썸플레이스 50% 할인
+622,1500000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,버스ㆍ지하철ㆍ택시 10% 할인
+622,1500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,쿠팡ㆍSSG닷컴ㆍ마켓컬리 5% 할인
+624,1500000,CARD_LEVEL,34,병원,RATE_DISCOUNT,10.0,,,병원ㆍ약국ㆍ동물병원 10% 할인
+624,1500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"백화점, 슈퍼 5% 할인"
+624,1500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스ㆍ지하철 10% 할인
+625,1500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,이마트ㆍ홈플러스ㆍ롯데마트 10% 할인
+625,1500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,쿠팡ㆍ위메프ㆍ티몬ㆍG마켓 ㆍ옥션ㆍ11번가 10% 할인
+625,1500000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,세븐일레븐ㆍGS25ㆍCU 10% 할인
+628,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.5,,,모아포인트 0.3 ~ 1.5% 적립
+628,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데아쿠아리움 및 주요 놀이공원 50% 현장할인
+638,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,모든 가맹점 0.3% 포인트 적립
+638,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활가맹점 총 2% 포인트 적립 (기본 0.3%+추가 1.7%)
+638,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.0,,,쇼핑가맹점 총 1% 포인트 적립(기본 0.3%+추가 0.7%)
+638,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 가맹점 이용금액 총 1% 포인트 적립(기본 0.3%+추가 0.7%)
+644,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,3.0,,,"대중교통(버스-마을, 시내, 시외, 광역, 공항버스/지하철) 이용금액 3% 캐시백"
+644,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,스타벅스(사이렌오더 포함)/JYP-Soulcup 5% 캐시백
+644,200000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,"편의점(GS25), 올리브영 5% 캐시백"
+644,200000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,"해외 전가맹점(온라인 포함) 이용금액의 1% 캐시백,
+해외인출 1건당 3$ 캐시백"
+645,0,CARD_LEVEL,27,교통,RATE_DISCOUNT,0.5,,,"후불교통(버스/지하철) 및 택시, 롯데 더드림영역 이용금액 0.5% 포인트 적립"
+646,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.6,,,[더해드림] 자주 가는 DREAM영역은 기본의 3배 (총 0.6%) 포인트 적립
+646,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,[챙겨드림] DREAM영역 중 가장 많이 이용한 영역은 기본의 5배 (총 1.0%) 포인트 자동적립
+646,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,40,,"주말(토,일) 전 주유소 리터당 40원 적립"
+647,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,전 가맹점 이용금액의 0.2% ~ 0.5% 마이신한포인트 적립
+647,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,요식업종 이용금액의 5% 할인
+647,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"버스, 지하철 이용금액의 5% 할인(후불교통 카드 선택 시)
+SK주유소 주유 시 리터당 40원 할인(후불교통카드 미 선택 시)"
+647,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"홈쇼핑 이용금액의 5% 할인
+해외 이용금액의 5% 할인"
+649,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,쇼핑/배달 5% 포인트리 적립
+650,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,푸드(#외식 #커피) 5% 청구할인
+650,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의(#편의점 #뷰티) 5% 청구할인
+650,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활(#마트 #주유 #통신) 5% 청구할인
+650,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,쇼핑/배달 5% 청구할인
+652,400000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,2000,,"커피전문점 2,000원 청구할인(월 2회)"
+652,400000,CARD_LEVEL,19,편의점,FIXED_AMOUNT,,1000,,"편의점 1,000원 청구할인(월 2회)"
+656,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외가맹점(해외직구 포함) 이용금액의 2.0%~0.5% 캐시백
+657,300000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,10.0,,,편의점·헬스&뷰티·생활잡화 10% 결제일할인
+657,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 결제일할인
+658,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,주유 리터당 60원~150원 할인
+658,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.0,,,온라인 간편결제·온라인쇼핑몰 1% 할인
+658,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 결제일 할인
+659,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인 쇼핑 5% 할인
+659,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,오프라인 쇼핑 5% 할인
+659,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 할인
+661,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,20.0,,,정기결제 10~20% 청구할인
+661,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 가맹점 (온라인/오프라인) 1% 적립
+662,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,5.0,,,삼성페이로 결제 시 해외 오프라인 가맹점 5% 결제일 할인
+662,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.5,,,해외 가맹점 1.5% 결제일 할인
+663,400000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,1.0,,,SK 주유소 롤라머니 1% 적립
+663,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,[플레이롯데] 롯데 주요 매장 5% 할인
+667,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,대형마트 5% 적립
+667,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피 5% 적립
+667,300000,CARD_LEVEL,34,병원,RATE_DISCOUNT,5.0,,,병원/동물병원 5% 적립
+677,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,"G마켓, 옥션, 우리WON마켓 10% 캐시백"
+677,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스(사이렌오더 포함) 20% 캐시백
+677,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,"파리바게뜨, 배스킨라빈스, 던킨도너츠 10% 캐시백"
+677,300000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,2000,,"전국 시내버스 지하철 2,000원 캐시백"
+679,50000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,"문구점 5% 환급할인
+독서실 5% 환급할인"
+679,50000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"GS25, CU편의점 5% 환급할인"
+679,50000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,"대중교통(버스, 지하철) 5% 청구할인"
+680,50000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,"문구점 5% 환급할인
+독서실 5% 환급할인"
+680,50000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"GS25, CU편의점 5% 환급할인"
+680,50000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,"대중교통(버스, 지하철) 5% 청구할인"
+681,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활편의영역 5% SSG MONEY 추가 적립
+681,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% SSG MONEY 적립
+687,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"온·오프라인, 대·소형몰 먹거리까지 구분 없이
+10% 캐시백 서비스"
+688,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.5,,,모아포인트 0.3 ~ 1.5% 적립
+688,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데아쿠아리움 및 주요 놀이공원 50% 현장할인
+689,300000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,5.0,,,"면세점, 항공사, 관광여행사 업종 5% 환급할인"
+689,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,스타벅스 5% 환급할인
+689,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 편의점 5% 환급할인
+690,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,[국내] 전월실적 및 횟수 제한 없이 하나머니 0.3%~0.4% 적립
+690,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,0.4,,,[해외] 전월실적 및 횟수 제한 없이 하나머니 0.4% 적립
+691,0,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,커피전문점·편의점·생활잡화 5% 결제일할인
+692,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스 사이렌오더, 와인앤모어 10% 결제일 할인"
+693,400000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,80,,"전국 모든 주유소 이용금액 리터당 80원 결제일 할인
+전국 모든 충전소 이용금액 리터당 40원 결제일 할인"
+694,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,2.0,,,온라인 쇼핑 배민포인트 2% 적립
+694,300000,CARD_LEVEL,6,기타,FREE_SERVICE,,,,배민 앱에서 배민페이 연간 이용금액 10만원 이상 시 차년도 연회비 면제
+695,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 가맹점 L.POINT 0.5% 적립
+695,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,50.0,,,"커피 50% 할인
+스트리밍 30% 할인"
+695,500000,CARD_LEVEL,15,면세점,RATE_DISCOUNT,15.0,,,롯데면세점 5~15% 현장할인 (정상가 기준)
+696,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통(버스/지하철) 10% 적립
+696,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,통신요금 자동납부 10% 적립
+697,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,20.0,,,"[선택형3] 3대 대형할인점(이마트, 홈플러스, 롯데마트), 하나로식자재매장 20% 포인트리 적립"
+697,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,20.0,,,"[선택형4] 6대 인터넷쇼핑몰(G마켓, 옥션, 11번가, 인터파크, 롯데ON, 신세계몰) 20% 포인트리 적립"
+699,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,스타벅스 50% 할인
+699,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,"대중교통(버스, 지하철) 5% 할인"
+701,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,"[기본 할인] 모든 가맹점에서 1%/1.5% 할인
+당월 이용금액별 최대 1.5% 할인"
+704,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,"[기본 할인] 모든 가맹점에서 1%/1.5% 할인
+당월 이용금액별 최대 1.5% 할인"
+705,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,"[기본 할인] 모든 가맹점에서 1%/1.5% 할인
+당월 이용금액별 최대 1.5% 할인"
+708,300000,CARD_LEVEL,30,렌터카,RATE_DISCOUNT,3.0,,,쏘카 앱 이용 시 최대 3% 크레딧 적립
+712,300000,INLINE,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,"쿠팡, SSG닷컴, 롯데ON, 11번가, G마켓 5% 결제일 할인 (전월실적 30만원 이상)"
+713,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,"쿠팡, SSG닷컴, 롯데ON, 11번가, G마켓 5% 결제일 할인"
+717,0,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"전세계 공항 라운지 무료 이용 서비스
+국내 지정 골프장 무료 커피 제공(골프장 카페 서비스), 골프연습장 무료 제공(골프연습장 타석 서비스)"
+717,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,SK 주유 및 충전 시 리터(ℓ)당 60원 청구 할인
+717,0,CARD_LEVEL,29,여행/숙박,FREE_SERVICE,,,,"국내 호텔/리조트/카라반/글램핑 2박 연박 시 1박 무료
+해외 패키지 여행 할인 등 제공"
+718,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,7.0,,,백화점·프리미엄 아울렛·할인점·온라인쇼핑몰·생활잡화·신선식품 배송 7% 결제일할인
+718,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 결제일할인
+719,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,스타벅스 사이렌오더 10% 할인
+719,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"일상 생활(대중교통, 휴대전화, 해외) 할인 5%"
+720,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,스타벅스 사이렌오더 5% 적립
+720,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,"일상 생활(대형마트, 슈퍼마켓, 영화, 커피, 대중교통, 휴대전화, 해외) 적립 1%"
+720,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,3.0,,,온라인쇼핑 적립 3%
+724,0,CARD_LEVEL,16,프리미엄,FREE_SERVICE,,,,"신규 발급 시 본인 회원에 한해 1회 무료로 특수 소재 플레이트 제공,
+전 세계 800여 개 공항 라운지 무료 이용 가능한 Priority Pass 카드 제공 외"
+725,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 편의점 5% 할인
+725,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"쏘카, 야놀자, LiivM 이동통신 5% 할인"
+725,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"스타벅스, 파리바게뜨 5% 할인"
+728,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,"온라인쇼핑, 홈쇼핑 5% 할인"
+728,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,교통 최대 5% 할인
+729,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,3.0,,,삼성닷컴 3% 결제일할인
+729,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,3.0,,,주유·온라인쇼핑몰 3%·6% 결제일할인
+729,300000,CARD_LEVEL,6,기타,FIXED_AMOUNT,,3000,,"라이트할부 이용 시 삼성케어플러스 3,000원~5,000원 결제일할인"
+730,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인쇼핑몰 이용금액의 10% 청구 할인
+730,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,대형마트 이용금액의 10% 청구 할인
+730,400000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,100,,주유 시 리터당 100원 청구 할인
+730,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,7.0,,,생활요금 정기결제 시 7% 청구 할인
+730,400000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,모든 가맹점에서 2~3개월 무이자할부 혜택 제공
+731,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,커피전문점 이용금액의 50% 청구 할인
+731,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 이용금액의 10% 청구 할인
+731,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 이용금액의 10% 청구 할인
+731,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,7.0,,,이동통신요금 정기결제 시 7% 청구 할인
+731,400000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,모든 가맹점에서 2~3개월 무이자할부 혜택 제공
+732,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,70.0,,,온라인쇼핑 멤버십 이용금액의 70% 청구 할인
+732,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,커피전문점 스마트오더 이용금액의 50% 청구 할인
+732,400000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,모든 가맹점에서 2~3개월 무이자할부 혜택 제공
+733,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,무신사 및 솔드아웃에서 결제 시 5% 청구 할인
+735,500000,CARD_LEVEL,18,카페,VOUCHER,,10000,,"커피빈 이용 시 청구 할인(최대 1만 8천원),
+커피빈 모바일 쿠폰 제공(1만원권)"
+735,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,주요 생활 영역 5% 청구 할인
+736,1000000,INLINE,14,생활,RATE_DISCOUNT,30.0,,,라이프스타일 30% 결제일할인 [전월 실적 100만원 이상]
+738,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,주요 마트 최대 10% 적립
+738,0,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,"모든 주유소 이용금액 5% 포인트 적립
+전기차 충전소 이용금액 30% 포인트 적립"
+738,0,CARD_LEVEL,21,온라인쇼핑,FIXED_AMOUNT,,2500,,"온라인 쇼핑몰 이용 시 2,500원 결제일 할인"
+738,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스 이용금액 10% 결제일 할인
+738,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 자동이체 5% 결제일 할인
+739,100000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,20.0,,,대중교통(전국 버스/지하철) 20% 청구할인
+739,100000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신 자동납부 2,500원 환급할인"
+739,100000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"GS홈쇼핑, CJ홈쇼핑, G마켓, 옥션 5% 환급할인"
+744,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"IKEA 매장(푸드 제외) 이용 시 이용금액의 10% 결제일 할인
+IKEA 푸드 이용 시 이용금액의 15% 결제일 할인"
+744,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,백화점/프리미엄 아울렛 및 대형 할인점 5% 결제일 할인
+744,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 결제일 할인
+744,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,5.0,,,영화 예매 5% 결제일 할인
+744,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피 5% 결제일 할인
+744,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 자동이체 5% 결제일 할인
+745,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,20.0,,,대중교통 20% 청구할인
+745,500000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 청구할인
+745,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 청구할인
+746,250000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,15.0,,,대중교통 15% 캐시백
+746,250000,CARD_LEVEL,26,해외,RATE_DISCOUNT,20.0,,,"해외 직접 구매 배송 대행료 20% 할인,
+해외 이용 수수료 우대"
+749,0,CARD_LEVEL,32,해외이용,FREE_SERVICE,,,,해외 가맹점 이용 수수료 면제 서비스
+750,250000,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.5,,,요식/대형마트/백화점/병원/약국/인터넷 쇼핑몰 0.5% 캐시백
+751,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,대형마트/온라인쇼핑몰/홈쇼핑 5% 할인
+752,300000,CARD_LEVEL,34,병원,RATE_DISCOUNT,5.0,,,병원 5% 할인
+753,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"특별가맹점(할인점, 백화점, 면세점, 카페 등) 5% 적립"
+754,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,백화점·프리미엄 아울렛·할인점·온라인쇼핑몰·생활잡화·신선식품 배송 2% 캐시백
+754,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,의료·산후조리원·학원·학습지·온라인서점·어린이집·유치원 2% 캐시백
+757,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,3.0,,,온라인 이용 건 3% 캐시백
+757,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"쿠팡, 티몬, 위메프, 11번가, 옥션, G마켓 5% 캐시백"
+758,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,30.0,,,다이소 30% 할인
+758,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,"GS25, CU 10% 할인"
+758,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 커피빈 10% 할인"
+758,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,20.0,,,"CGV, 롯데시네마 20% 할인"
+760,50000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+760,50000,CARD_LEVEL,10,영화,RATE_DISCOUNT,5.0,,,CGV 5% 환급할인
+761,500000,CARD_LEVEL,35,골프,FREE_SERVICE,,,,"국내 지정 골프장 커피(4잔) 무료 제공
+국내 지정 골프연습장 타석권 무료 제공"
+762,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인 쇼핑 5% 캐시백
+762,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,안경/렌즈 5% 캐시백
+762,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피 5% 캐시백
+762,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통(버스/지하철) 5% 캐시백
+762,200000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 5% 캐시백
+762,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,해외 5% 캐시백
+762,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,"OTT서비스, 공연티켓, 어학시험 5% 캐시백"
+763,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,"국내외 가맹점 1% 적립
+월 200만원 이상 이용 시 2배, 월 100만원 이상 이용 시 1.5배 적립"
+763,500000,CARD_LEVEL,6,기타,VOUCHER,,100000,,"M포인트로 상품권 교환, 면세점에서 사용 가능한 the Pink 바우처 교환(10만원권)"
+763,500000,CARD_LEVEL,23,바우처,VOUCHER,,100000,,the Pink 최초 발급 시 웰컴 바우처 10만원권 1매 제공
+763,500000,CARD_LEVEL,16,프리미엄,FREE_SERVICE,,,,"인천국제공항라운지, 발레파킹 무료 서비스 제공"
+764,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 1% 카카오페이포인트 적립
+768,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,20.0,,,"친환경 마켓 20% 포인트리 적립
+업사이클링 제품, 반려식물 10% 포인트리 적립"
+769,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,0.5,,,"[추가 적립] 음식점, 커피 전문점 업종 0.5% 추가적립 (전월실적 없음)"
+769,0,CARD_LEVEL,27,교통,RATE_DISCOUNT,0.5,,,"[추가 적립] 버스/지하철, 택시 0.5% 추가적립 (전월실적 없음)"
+769,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,0.5,,,[추가 적립] 이동통신요금 0.5% 추가적립 (전월실적 없음)
+770,300000,CARD_LEVEL,35,골프,RATE_DISCOUNT,5.0,,,"골프연습장/스크린골프, 골프관광(그린재킷 투어) 5% 환급할인
+골프웨어/골프용품 5% 환급할인"
+770,300000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,5.0,,,주유소 5% 환급할인
+774,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,15.0,,,쿠팡 15% 할인
+774,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"롯데리아, 엔제리너스, 나뚜루, TGIF, 보네스뻬, 크리스피크림도넛 10% 할인 (1만원 이상 결제 시 할인)"
+774,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드 종합이용권 50% 할인
+774,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"롯데시네마 관람료 1,500원 할인"
+774,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,15.0,,,미스터피자 15% 현장 할인
+775,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 이용금액의 1% 해피포인트 적립
+776,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,1.0,,,홈플러스에서 결제 시 1%·5% 결제일할인(청구할인)
+776,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,80,,GS칼텍스에서 주유 시 리터당 80원 결제일할인(청구할인)
+777,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드 아쿠아리움 입장권 및 놀이공원 자유이용권 50% 현장할인
+778,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,12.0,,,GS SHOP 12% 청구 할인
+778,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,대형마트 5% 청구 할인
+778,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 5% 청구 할인
+778,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 청구 할인
+778,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 청구 할인
+779,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,2.0,,,"위메프 적립 2%
+위메프오 적립 1%"
+779,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활영역/구독서비스 적립 5%
+780,0,CARD_LEVEL,6,기타,FREE_SERVICE,,,,"부가세환급 편의지원서비스
+전자세금계산서 월 250건 무료"
+783,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,4.0,,,SSG.COM에서 결제 시 2~4% 신세계포인트 적립
+783,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활편의영역에서 결제 시 3~5% 신세계포인트 적립
+788,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 50%·워터파크 30% 할인
+788,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,15.0,,,CJ푸드빌 15% 현장할인
+788,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,4000,,"CGV 4,000원·8,000원 할인"
+788,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,CJ푸드빌 20%·30% 현장할인
+789,0,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,이마트 7대 가맹점에서 결제 시 최대 5% 신세계포인트 적립
+789,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활편의영역에서 결제 시 최대 5% 신세계포인트 적립
+789,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,그 외 모든 가맹점에서 결제 시 최대 0.5% 신세계포인트 적립
+816,0,CARD_LEVEL,9,주유소,RATE_DISCOUNT,2.0,,,전주유소 이용액의 2% 할인(LPG제외)
+816,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"전국 주요영화관 1,500원 할인"
+816,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,주요 패밀리레스토랑 10% 할인
+816,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 할인
+852,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,2.0,,,"스마일페이 가맹점/해외에서 스마일페이로 결제 시 2% 스마일캐시 적립
+그 외 가맹점 이용 시 1% 스마일캐시 적립"
+852,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,모든 가맹점에서 5만원 이상 결제 시 2~3개월 무이자할부
+853,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,모든 가맹점에서 5만원 이상 결제 시 2~3개월 무이자할부
+854,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,200,,"현대오일뱅크/SK에너지에서 주유 시 리터당 200원·400원 청구 할인
+모든 충전소(LPG) 이용 시 리터당 100원·200원 청구 할인"
+859,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,200,,"현대오일뱅크/SK에너지에서 주유 시 리터당 200원·400원 청구 할인
+모든 충전소(LPG) 이용 시 리터당 100원·200원 청구 할인"
+865,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,7.0,,,"홈플러스 매장, 온라인몰 결제 시 마이홈플러스 포인트 7% 적립"
+865,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,홈플러스 매장 외 가맹점 결제 시 0.3% 결제일 할인
+889,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,1.0,,,(공통서비스) 3대 마트 1% 할인
+890,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,12.0,,,영라이프할인 - 라이프 가맹점 10~12% 결제일 할인
+895,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,모든 가맹점 0.7% 포인트 적립
+895,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.3,,,"신한은행 결제계좌 연결 시, 쇼핑 1.3% 추가적립"
+895,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,"신한은행 결제계좌 연결 시, 해외 1.3% 추가적립"
+895,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,3.3,,,"신한은행 결제계좌 연결 시, 통신/대중교통/도시가스 3.3% 추가적립"
+905,0,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,1.0,,,"메가마트 매장 결제 시 메가포인트 1.0% 적립
+메가마트 자체 추가적립 0.5%, 총 1.5% 적립"
+905,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,메가마트 제외 모든가맹점 메가포인트 0.5% 적립
+905,0,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"택시, 버스, 지하철 3~5% 할인 (모바일 교통거래 포함)"
+905,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,GS칼텍스 60원/L 할인
+906,0,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,0.5,,,"메가마트 매장 결제 시 메가포인트 0.5% 적립
+메가마트 자체 추가적립 0.2%, 총 0.7% 적립"
+906,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.1,,,메가마트 제외 모든가맹점 메가포인트 0.1% 적립
+912,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"온라인쇼핑몰, 대형마트, 소셜커머스, 백화점 10% 포인트리 적립"
+912,500000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,"아파트 관리비, 편의점, 배달앱 5% 포인트리 적립"
+916,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,80,,알뜰주유소 리터당 80원~100원 청구할인
+916,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,치킨·피자 10% 청구할인
+916,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,12000,,"전국 영화관 12,000원 이상 결제 시 3,000원 청구할인"
+916,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 청구할인
+940,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.1,,,전 가맹점 OK캐쉬백 0.1% 기본적립
+942,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,10.0,,,"AK PLAZA 청구할인 최대 10%
+AK 멤버스 서비스"
+942,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"[생활영역 청구 할인] 학원, 패밀리레스토랑,커피,미용실 5% 할인"
+942,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"인터파크 영화예매 1매당 3,500원 청구 할인"
+942,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 최대 50% 할인
+945,3000000,INLINE,2,모든가맹점,RATE_DISCOUNT,1.0,,,"일시불, 할부 이용금액 마이신한포인트 1% 적립
+전월 300만원 이상 이용 시 일시불, 할부 이용금액 0.5% 추가적립"
+945,500000,INLINE,26,해외,RATE_DISCOUNT,2.0,,,[Travel 적립] 해외/면세점 이용금액 2% 추가 적립(전월실적 50만원 이상)
+949,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,모든 가맹점 이용액 0.5% 캐시백
+949,0,CARD_LEVEL,6,기타,FREE_SERVICE,,,,ATM 출금 수수료 면제
+949,0,CARD_LEVEL,13,선택형,RATE_DISCOUNT,1.2,,,선택한 2가지 업종 1.2% 캐시백
+949,0,CARD_LEVEL,13,선택형,RATE_DISCOUNT,2.0,,,선택한 업종 2.0% 캐시백(혜택 추가시 연회비 3천원 추가)
+951,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백, TGIF 10% 청구할인"
+951,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 투썸플레이스 20% 청구할인"
+951,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"모든 영화관 3,000원 청구할인"
+951,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 50% 현장할인
+952,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백, TGIF 10% 청구할인"
+952,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 투썸플레이스 20% 청구할인"
+952,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 50% 현장할인
+952,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"모든 영화관 3,000원 청구할인"
+953,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,70,,주유소/충전소 리터당 70원 할인
+953,300000,CARD_LEVEL,30,렌터카,RATE_DISCOUNT,70.0,,,SK렌터카 최대 70% 현장할인
+1002,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,국내 모든 가맹점 최대 1% 할인
+1003,0,CARD_LEVEL,1,쇼핑,INSTALLMENT_FREE,,3,,"전국 유명 백화점, 할인점, 온라인 쇼핑몰 5% 할인
+전국 유명 백화점 및 할인점 상시 2~3개월 무이자 할부"
+1003,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,GS칼텍스 60원/L 할인
+1003,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,30.0,,,"불고기브라더스, 제일제면소 30% 할인
+아웃백, 카페마마스, 스타벅스 20% 할인"
+1003,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,LG계열 제휴사 최대 5~10% 할인 및 포인트 적립
+1010,500000,CARD_LEVEL,6,기타,RATE_DISCOUNT,50.0,,,"전기/수소차 충전 50% 적립
+올가홀푸드, 바이올가, SSG.COM, 쿠팡 5% 적립"
+1018,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,커피 업종 이용시 20% 결제일 할인
+1019,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,30.0,,,빽다방 30% 결제일 할인
+1019,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,더본(theborn) 모든 매장 10% 결제일 할인
+1019,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 결제일 할인
+1035,200000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,50,,"SK주유소 50원/ℓ 할인
+엔진오일 교환 시 최대 1만 5천원 현장할인"
+1035,200000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,백화점/대형마트 2~3개월 무이자 할부
+1035,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 이용금액 10% 할인
+1073,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"모든 영화관 3,000원 할인"
+1073,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 50% 할인
+1155,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"온라인쇼핑몰, 대형마트, 소셜커머스, 백화점 10% 포인트리 적립"
+1155,500000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,"아파트 관리비, 편의점, 배달앱 5% 포인트리 적립"
+1165,400000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드 본인 종합이용권 50% 할인
+1165,400000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"롯데시네마 영화관람료 1,500원 할인"
+1165,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,T.G.I.FRiDAY'S 10% 현장할인(주류 제외)
+1169,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"파리바게뜨, 던킨도너츠 10% 할인"
+1169,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 최대 50% 할인
+1169,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,50,,SK주유소 리터당 SK주유포인트 50원적립
+1169,0,CARD_LEVEL,6,기타,FREE_SERVICE,,,,연회비 면제 및 SMS 무료 서비스
+1171,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,모든 이용금액(일부 제외)0.5% 적립
+1171,0,CARD_LEVEL,7,백화점,RATE_DISCOUNT,1.0,,,현대백화점그룹내 1%추가적립
+1171,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"커피, 편의점, 약국 업종 5%청구할인"
+1171,0,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,"학원, 골프/골프연습장, 미용실 업종 5%청구할인"
+1171,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"인터파크 영화 예매 시 1매당 3,500원 청구할인"
+1171,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드/에버랜드/캐리비안베이 30 ~ 50% 현장할인
+1172,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,하나로마트 대상점 이용 시 이용금액 10% 청구 할인
+1172,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,"통신 자동이체 이용 시, 이용금액의 5% 청구 할인"
+1186,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활 가맹점 이용당 5% 하나머니 적립
+1198,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,IKEA 매장 이용 시 10% 할인
+1213,400000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,"대형마트 5% 청구할인
+편의점 5% 청구할인"
+1213,400000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,전국 주유소 리터당 60원 할인
+1248,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,3.0,,,"이마트, 이마트 트레이더스, 홈플러스, 롯데마트 이용금액 3% 청구할인"
+1248,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피빈 이용금액 10% 청구할인
+1253,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,7.0,,,랭킹닭컴 이용 시 7% 청구할인
+1253,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,5.0,,,"지난달 이용실적 30만원 이상 시 청구할인 제공
+해외 전 가맹점 5% 할인"
+1253,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,7.0,,,"지난달 이용실적 70만원 이상 시 제공
+통신, 대중교통, 온라인 7% 청구할인"
+1258,250000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,"G마켓, 옥션 10% 할인"
+1258,250000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,20.0,,,"스타벅스 20% 할인(사이렌오더 포함)
+파리바게뜨, 배스킨라빈스, 던킨도너츠 10% 할인"
+1258,250000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"맥도날드, 롯데리아, 버거킹, 피자헛, 미스터피자, 도미노피자 10% 할인"
+1258,250000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,"편의점(CU), 올리브영 5% 할인"
+1258,250000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,"CGV, 롯데시네마, 메가박스 10% 할인"
+1258,250000,CARD_LEVEL,37,교육,RATE_DISCOUNT,10.0,,,"YBM시사(토익응시료 포함), 파고다, 해커스어학원 10% 할인"
+1259,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,패밀리레스토랑 10% 캐시백 할인
+1259,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 커피빈 10% 캐시백 할인"
+1259,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+1260,300000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,1500,,"전국 시내버스, 지하철 1,500원 할인"
+1260,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, TGIF 20% 현장 할인"
+1260,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 투썸플레이스 20% 할인"
+1260,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,40,,GS칼텍스 40원/L 할인
+1278,0,CARD_LEVEL,34,병원,RATE_DISCOUNT,5.0,,,의료비 5% 할인
+1278,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인 쇼핑 5% 할인
+1278,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,패밀리레스토랑 10% 할인
+1278,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,커피전문점 20% 할인
+1278,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,5.0,,,키즈파크 5% 할인
+1285,200000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"대중교통, 택시 5% 캐쉬백"
+1285,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"온라인쇼핑, 생활영역 5% 캐쉬백"
+1286,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,"CJ오쇼핑, CJmall 5% 청구할인"
+1286,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,CJ푸드빌 10~20% 현장할인
+1288,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,전 가맹점 이용 시 기본 1.0% 토스포인트 기본적립
+1288,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,4.0,,,스타벅스 이용 시 추가 4.0% 토스포인트 추가적립
+1290,200000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"대중교통, 택시 5% 캐쉬백"
+1290,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"온라인쇼핑, 생활영역 5% 캐쉬백"
+1298,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 할인
+1298,200000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,"베이커리 업종 10% 할인
+커피전문점 10% 할인"
+1299,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.3,,,국내가맹점 1~1.3% 포인트리 적립
+1299,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,해외이용(직구포함) 5% 할인 캐시백
+1299,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"인천공항 음료(HOT/ICE 아메리카노) 무료제공 등 고품격 서비스
+Master / Local 플래티늄 전용서비스"
+1309,200000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,0.7,,,쇼핑 특화 영역 포인트리 0.7% 추가 적립
+1309,200000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,0.7,,,여행 특화 영역 포인트리 0.7% 추가 적립
+1309,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,3.0,,,해외이용 최대 3% 적립
+1311,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.4,,,국내 이용금액 0.2~0.4% 캐시백
+1311,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 이용금액 1% 캐시백
+1315,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 이용금액 2% 할인 캐시백
+1339,300000,CARD_LEVEL,35,골프,RATE_DISCOUNT,20.0,,,스크린골프 및 직영매장 20% 청구할인
+1339,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,전 주유소 리터당 60원 청구할인
+1360,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,빅포인트 0.5% 기본적립 (빅포인트계열)
+1379,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,"[주유] 주유소, 충전소 업종 리터당 60원 청구할인"
+1379,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,"[통신] 전화요금, 인터넷이용료, 케이블TV 업종 10% 청구할인"
+1379,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,"[교통] 버스, 지하철, 택시 업종10% 청구할인"
+1379,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"음식점, 커피전문점, 편의점, 약국 업종 10% 추가 청구할인"
+1379,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"학원, 휘트니스센터 업종 10% 추가 청구할인"
+1379,300000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"인천공항 음료 무료제공 등 고품격 서비스
+Master / VISA / AMEX / Local 플래티늄 전용서비스"
+1380,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"인터파크 영화예매 시 3,500원 청구할인"
+1380,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 최대 50% 할인
+1381,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,외식 10% 청구할인
+1381,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 청구할인
+1382,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,3.0,,,해외 전 가맹점 최대 3% 포인트리 적립
+1382,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,몰테일 배송료 이용금액 2% 적립 및 수수료 할인
+1383,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,이마트 · 롯데마트 · 홈플러스 5%청구할인
+1383,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,G마켓 · 옥션 · 인터파크 · 11번가 5%청구할인
+1394,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,"모든 가맹점 0.2% 캐시백
+특정업종 추가로 0.2% 캐시백"
+1394,0,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,현대백화점 5% 현장할인
+1438,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,패밀리레스토랑 10% 캐시백
+1438,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 캐시백
+1443,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"에버랜드 자유이용권(대인 동반 소인 1매) 50% 현장할인
+캐리비안베이 입장권 30% 현장할인"
+1443,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"VIPS, 아웃백, TGIF 20% 청구할인"
+1451,0,CARD_LEVEL,4,금융,RATE_DISCOUNT,50.0,,,"외환 환전 송금 최대 50% 환율 우대
+우리원송금클럽"
+1451,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 및 테마파크 30~50% 할인
+1451,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,대형마트 5% 청구할인
+1526,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"롯데월드, 에버랜드 자유이용권 50% 할인"
+1529,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,5대 커피업종 5% 청구할인
+1529,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"영화업종 3,000원 청구할인"
+1532,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"모든 영화관 3,000원 청구할인"
+1532,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50% 현장할인
+1544,100000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,옥션 · G마켓 5% 청구할인
+1544,100000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"인터파크 3,500원 청구할인"
+1544,100000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,10.0,,,제너두 둔내 펜션 10%~40% 현장할인
+1544,100000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,"백화점 및 할인점 2~3개월 무이자할부
+국내 면세점 2~3개월 무이자할부"
+1549,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"인터파크 영화예매 1매당 3,500원 청구 할인"
+1549,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,2~3개월 무이자할부 서비스
+1549,0,CARD_LEVEL,4,금융,RATE_DISCOUNT,30.0,,,외국통화 매매 및 여행자 수표 매도 시 매매마진율의 30% 우대
+1555,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"VIPS, TGIF 10% 청구할인"
+1555,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"할리스, 엔제리너스 20% 청구할인"
+1555,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"롯데월드, 에버랜드, 서울랜드, 이월드(대구), 경주월드, 통도환타지아 자유이용권 50% 현장할인"
+1558,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,3대 대형마트 / 3대 백화점 10% 청구할인
+1558,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"대중교통(버스, 지하철), 택시 5% 청구할인"
+1558,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 청구할인
+1558,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,20.0,,,"외국인 선호 관광지 20% 청구할인
+외국인 선호/거주 지역 음식 청구할인 5% 청구할인"
+1572,100000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,0.2,,,"음식점, 커피전문점 업종 0.2% 추가 포인트리 적립"
+1572,100000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,0.2,,,"대중교통(버스·지하철), 택시 0.2% 추가 포인트리 적립"
+1572,100000,CARD_LEVEL,5,통신,RATE_DISCOUNT,0.2,,,이동통신요금 0.2% 추가 포인트리 적립
+1573,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백·VIPS·TGIF·세븐스프링스
+주중 10%, 주말 15% 환급할인"
+1573,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,20.0,,,CGV·메가박스 20% 환급할인
+1573,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,30.0,,,에버랜드·서울랜드·롯데월드 30% 환급할인
+1573,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"커피빈 주중 5%, 주말 10% 환급할인"
+1573,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+1573,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+1584,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,백화점/할인점/홈쇼핑·온라인몰 1.0~5.0% 적립
+1584,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,2.0,,,"전국 가맹점 0.2~2.0% 적립
+해외 가맹점 1~5% 적립"
+1584,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,"S-OIL, 현대오일뱅크 주유 시 리터 당 60원 적립"
+1584,0,CARD_LEVEL,4,금융,RATE_DISCOUNT,0.2,,,"신한금융투자 CMA 결제계좌 0.2% 추가 적립
+마이신한포인트 가맹점 추가 적립"
+1584,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,SK텔레콤/KT/LG U+ 이동통신요금 1.0~5.0% 적립
+1586,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,오프라인 쇼핑 10% 할인
+1586,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 할인
+1586,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 커피빈, 카페베네,엔제리너스, 투썸플레이스 10% 할인"
+1586,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"다이소, 올리브영, 온라인 서점 10% 할인"
+1586,500000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,주유소 리터당 60원 할인
+1586,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,해외이용금액 5% 캐시백
+1586,500000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"마켓컬리, 하이프레시, 집반찬연구소 10% 할인서비스"
+1592,300000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,200,,"버스, 지하철 후불 교통 이용 금액 일 200원 ~ 일 600원 할인"
+1592,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,4대 백화점 5% 할인
+1592,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 할인
+1592,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 할인
+1592,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 할인
+1593,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,1~5% 특별적립
+1593,500000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,1~5% 특별적립
+1593,500000,CARD_LEVEL,25,정비,RATE_DISCOUNT,5.0,,,1~5% 특별적립
+1593,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,2.0,,,국내/외 모든 가맹점 0.2~2.0% 적립
+1595,0,CARD_LEVEL,1,쇼핑,INSTALLMENT_FREE,,3,,"전국 유명 백화점, 할인점, 온라인 쇼핑몰 5% 할인
+전국 유명 백화점 및 할인점 상시 2~3개월 무이자 할부"
+1595,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,60,,GS칼텍스 60원/L 할인
+1595,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,30.0,,,"불고기브라더스, 제일제면소 30% 할인
+아웃백, 카페마마스, 스타벅스 20% 할인"
+1595,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,LG계열 제휴사 최대 5~10% 할인 및 포인트 적립
+1599,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,40,,GS칼텍스 주유 시 리터당 40원 결제일 할인
+1599,300000,CARD_LEVEL,15,면세점,RATE_DISCOUNT,8.0,,,제주 JDC 면세점 8% 결제일 할인
+1599,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,3000,,"스타벅스 3,000원 할인"
+1599,300000,CARD_LEVEL,16,프리미엄,FREE_SERVICE,,,,인천공항 무료 발렛 파킹
+1610,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+1610,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+1610,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+1610,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+1610,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+1610,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+1610,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+1615,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+1615,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+1615,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+1615,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+1615,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+1615,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+1615,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+1616,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+1616,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+1616,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+1616,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+1616,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+1616,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+1616,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+1617,0,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+1617,0,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+1617,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+1617,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+1617,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+1617,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+1617,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+1618,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+1618,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+1618,200000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+1618,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+1618,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+1618,200000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+1618,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+1619,0,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"이동통신요금 2,500원 환급할인"
+1619,0,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+1619,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+1619,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+1619,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+1619,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+1619,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+1623,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,빅포인트 0.5% 기본적립
+1630,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"대중교통 건당 50~100원 청구할인
+택시 5% 청구할인 / KTX 10% 할인"
+1630,300000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,5.0,,,"국내선 5%, 국제선 7% 발권 수수료 할인 (횟수제한 없음)
+롯데렌터카 35% 현장할인"
+1630,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,3.0,,,"KT, SKT, LGU+ 매월 청구금액의 3% 청구할인"
+1630,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50% 현장할인
+1648,300000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,"Sk에너지, 농협주유소 5% 청구할인(충전소 제외)"
+1648,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,3.0,,,"국내음식점, 커피전문점, 제과점, 아이스크림점, 패밀리레스토랑 및 패스트푸드점 3% 청구할인"
+1673,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 현장 결제 시 3,000원 현장할인 및 온라인 예매 시 3,000원 즉시할인"
+1695,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"대중교통 건당 50~100원 청구할인
+택시 5% 청구할인 / KTX 10% 할인"
+1695,300000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,5.0,,,"국내선 5%, 국제선 7% 발권 수수료 할인 (횟수제한 없음)
+롯데렌터카 35% 현장할인"
+1695,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,3.0,,,"KT, SKT, LGU+ 매월 청구금액의 3% 청구할인"
+1695,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50% 현장할인
+1699,200000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,40,,SK주유소(LPG포함) 40원/L 청구할인
+1699,200000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,50,,"전국 버스, 지하철 건당 50원 청구할인"
+1699,200000,CARD_LEVEL,5,통신,RATE_DISCOUNT,3.0,,,휴대폰 요금 3% 청구할인
+1699,200000,CARD_LEVEL,30,렌터카,RATE_DISCOUNT,35.0,,,롯데렌터카 35% 현장할인
+1699,200000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,5.0,,,커피/베이커리 5% 청구할인
+1702,300000,CARD_LEVEL,26,해외,FREE_SERVICE,,,,"해외이용금액 외화결제계좌 달러 인출
+해외가맹점(해외직구 포함) 이용 시 이용수수료 면제"
+1702,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,국내 전가맹점 0.3% 모아포인트 적립
+1714,200000,CARD_LEVEL,19,편의점,POINT_PER_UNIT,7.0,,1000,"세븐일레븐에서 결제 시 1,000원당 7포인트 적립"
+1714,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,테마파크 최대 50% 할인
+1714,200000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,롯데멤버스 제휴사 최대 10% 할인
+1714,200000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,7.0,,,롯데카드 여행서비스 최대 7% 할인
+1714,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,외식 10% 할인
+1714,200000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,50,,SK주유소 리터당 SK주유포인트 50원적립
+1754,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"롯데시네마 관람료 1,500원 청구할인"
+1759,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인
+1807,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 캐시백
+1809,300000,CARD_LEVEL,20,항공마일리지,RATE_DISCOUNT,1.5,,,UniMile 0.2~ 1.5% 적립
+1816,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,12000,,"전국 영화관 12,000원 이상 결제 시 3,000원 청구할인"
+1816,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 청구할인
+1818,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"전국 영화관 3,000원 청구할인"
+1818,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,1000,,"스타벅스, 투썸플레이스 1,000원 청구할인"
+1829,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,12000,,"영화 12,000원 이상 결제 시 6,000원 청구할인"
+1829,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"스타벅스, 커피빈, 카페베네, 투썸플레이스에서 결제 시 5% 청구할인"
+1829,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,전국 놀이공원 자유이용권 50% 현장할인
+1839,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 최대 50% 할인
+1859,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,7.0,,,"각영역별 주요 9대 업종 7% 청구할인
+자동이체시 매월 포인트 적립"
+1868,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,12000,,"전국 영화관 12,000원 이상 결제 시 3,000원 청구할인"
+1868,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"에버랜드, 롯데월드, 서울랜드, 대구이월드, 경주월드, 통도환타지아 자유이용권 50% 현장할인"
+1868,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백, TGIF, 베니건스 10% 청구 할인"
+1868,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 투썸플레이스 20% 청구할인"
+1882,500000,CARD_LEVEL,1,쇼핑,FIXED_AMOUNT,,11000,,"삼성스토어 라이트할부 이용 시 11,000원·미이용 시 4,000원 결제대금 차감"
+1882,500000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,대중교통·택시 5% 결제일할인(청구할인)
+1882,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,10대 커피전문점 5% 결제일할인(청구할인)
+1882,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,3.0,,,삼성닷컴 3% 결제일할인(청구할인)
+1882,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,삼성전자 서비스센터 10% 결제일할인(청구할인)
+1883,400000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,5.0,,,커피전문점·헬스&뷰티 5% PAYCO 포인트 적립
+1883,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점·배달앱 5% PAYCO 포인트 적립
+1884,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,30000,,"주유소에서 30,000원 이상 결제 시 3,000원 결제일할인(청구할인)"
+1884,300000,CARD_LEVEL,22,대형마트,FIXED_AMOUNT,,30000,,"할인점에서 30,000원 이상 결제 시 2,000원 결제일할인(청구할인)"
+1884,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,12000,,"영화 티켓 12,000원 이상 결제 시 5,000원 결제일할인(청구할인)"
+1887,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,"GS25, CU 10% 할인"
+1887,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 커피빈 10% 할인"
+1887,400000,CARD_LEVEL,10,영화,RATE_DISCOUNT,20.0,,,"CGV, 롯데시네마 20% 할인"
+1889,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,모든 가맹점 1% 빅포인트 적립
+1889,500000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,2000,,"모든 주유소·LPG 2,000원 결제일할인"
+1899,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"LG전자 5~10% 청구할인
+LG전자 베스트샵 멤버십 포인트 0.5% 적립"
+1899,500000,CARD_LEVEL,33,무이자할부,RATE_DISCOUNT,3.0,,,베스트 플러스 할부 포인트 최고 3% 적립
+1899,500000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"롯데월드, 서울랜드 50% 할인"
+1909,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,2000,,"스타벅스 1만원 이상 결제 시 2,000원 결제일할인(청구할인)"
+1926,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 최대 50% 할인
+1932,200000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 최대 50% 할인
+1944,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,3.0,,,농협하나로 클럽·마트 3% 청구할인
+1977,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,[쇼핑할인혜택] GS25 10% 할인
+1977,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[쇼핑할인혜택] 온라인쇼핑 5% 할인
+1977,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,[쇼핑할인혜택] 오프라인쇼핑 5% 할인
+1977,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,[쇼핑할인혜택] 스타벅스 20% 할인
+1987,200000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,"롯데마트 온/오프라인 매장에서 5만원 이상 결제시, 10%청구할인"
+1987,200000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,롯데마트 및 토이저러스 2~3개월 무이자할부
+1990,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,엉 서비스 - O2O 앱 이용 시 10% 청구할인
+1990,300000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,10.0,,,"GS 25, GS 수퍼 10% 청구할인
+GS POP 서비스"
+1990,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,스타벅스 10% 청구할인
+1991,0,CARD_LEVEL,23,바우처,FREE_SERVICE,,,,동반자 1인에 대한 대한항공 이코노미 클래스 또는 비즈니스 클래스 왕복항공권을 무료로 제공
+1991,0,CARD_LEVEL,23,바우처,FREE_SERVICE,,,,"서비스 ① CGV CINE de CHEF 동반자 1인 무료 서비스
+서비스 ② 인터파크 공연 동반자 1인 무료 서비스"
+1996,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,전국 주요 놀이공원 할인 50% 할인
+2007,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,"아웃백, VIPS 10% 청구할인"
+2007,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 커피빈 20% 청구할인"
+2007,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+2016,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피전문점 5% 청구할인
+2016,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드 본인 종합이용권 50% 현장할인
+2016,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"롯데시네마 관람료 1,500원 청구할인"
+2019,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,전국 주요 놀이공원 할인 50% 할인
+2021,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,전국 주요 놀이공원 할인 50% 할인
+2023,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,전국 주요 놀이공원 할인 50% 할인
+2026,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,[On-line 쇼핑] 온라인 쇼핑 10% 청구할인
+2026,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,[Off-line 쇼핑] 편의점 및 드럭스토어 5% 청구할인
+2072,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,15.0,,,나들가게 15% 할인
+2072,300000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2000,,"이동통신요금 2,000원 할인"
+2072,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,교통 5% 할인
+2076,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,"병원, 약국 5% 할인"
+2076,300000,CARD_LEVEL,35,골프,RATE_DISCOUNT,5.0,,,"골프장, 골프연습장 5% 할인"
+2076,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,대형마트 5% 할인
+2076,300000,CARD_LEVEL,25,정비,FIXED_AMOUNT,,5000,,"자동차정비 5,000원 할인"
+2076,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,2000,,"영화 2,000원 할인"
+2076,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,"고속버스, KTX/SRT, 렌터카 5% 할인"
+2079,0,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,백화점 5% 할인
+2080,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,7.0,,,백화점 7% 할인
+2080,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인쇼핑 10% 할인
+2082,0,CARD_LEVEL,34,병원,RATE_DISCOUNT,5.0,,,"병원, 약국 5% 할인"
+2082,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,인터넷쇼핑 5% 할인
+2082,0,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,"백화점, 대형마트 5% 할인"
+2083,250000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,전국 주유 리터당 최대 60원 할인
+2083,250000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 할인
+2083,250000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,대형마트 5% 할인
+2083,250000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 할인
+2084,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 할인
+2084,200000,CARD_LEVEL,6,기타,FIXED_AMOUNT,,2000,,"어학응시료 2,000원 할인"
+2084,200000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,백화점 5% 할인
+2084,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,인터넷 쇼핑 10% 할인
+2090,0,CARD_LEVEL,35,골프,FREE_SERVICE,,,,"홀인원 축하금 300만원 서비스
+제휴 골프장 그린피 무료 서비스 및 부킹 대행 서비스"
+2090,0,CARD_LEVEL,15,면세점,RATE_DISCOUNT,10.0,,,국내 유명 면세점 10% 할인
+2091,0,CARD_LEVEL,20,항공마일리지,FREE_SERVICE,,,,"대한항공 / 아시아나 항공 마일리지 적립
+항공 좌석 승급(비즈니스→퍼스트 또는 비즈니스 스위트) 또는 동반자 비즈니스석 무료 항공권 (택1)"
+2091,0,CARD_LEVEL,35,골프,FREE_SERVICE,,,,"KLPGA 하나금융그룹 Championship
+홀인원 상금 지원 서비스 / 골프 상해보험 무료 가입 서비스"
+2094,150000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 할인
+2094,150000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인쇼핑 10% 할인
+2094,150000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 할인
+2097,0,CARD_LEVEL,35,골프,FREE_SERVICE,,,,"홀인원 축하금 300만원 서비스
+제휴 골프장 그린피 무료 서비스 및 부킹 대행 서비스"
+2097,0,CARD_LEVEL,15,면세점,RATE_DISCOUNT,10.0,,,국내 유명 면세점 10% 할인
+2104,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,국내외 가맹점 1% L.POINT 적립
+2132,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,100,,전국 모든 정유사 대상 리터당 100원 할인
+2139,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,세븐일레븐매장 10%할인
+2139,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,50,,SK주유소 리터당 SK주유포인트 50원적립
+2140,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,쇼핑 5% 할인
+2140,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"롯데시네마 관람료 1,500원 청구할인"
+2140,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,50,,SK주유소 리터당 SK주유포인트 50원적립
+2147,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,놀이공원 최대 50% 현장할인
+2147,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,1500,,"롯데시네마 1,500원 할인"
+2149,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,7.0,,,이랜드리테일 이용금액 7% 결제일할인
+2149,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,주요 마트 이용금액 5% 결제일 할인
+2151,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 청구할인
+2151,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,2000,,"영화관 2,000원 청구 할인"
+2151,300000,CARD_LEVEL,6,기타,FREE_SERVICE,,,,"전자금융(인터넷뱅킹, 텔레뱅킹) 이용수수료 면제
+그린카드 특화서비스 (모든 그린카드 제공되는 공통서비스)"
+2172,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 청구 할인
+2172,200000,CARD_LEVEL,5,통신,RATE_DISCOUNT,3.0,,,이동통신요금 3% 청구 할인
+2172,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,7.0,,,편의점(CU) 최대 7% 청구 할인
+2172,200000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,20.0,,,"패밀리레스토랑(VIPS) 20% 청구 할인
+커피전문점 20% 청구 할인"
+2175,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,120,,"SK주유소, 충전소 리터당 최대 120원 청구할인"
+2175,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활 할인 서비스 5~10% 청구할인
+2178,0,CARD_LEVEL,13,선택형,RATE_DISCOUNT,1.0,,,"Triple 적립서비스
+- 전월실적, 한도제한없이 선택 타입 업종 최대 1% 적립"
+2179,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,전 가맹점 이용액 0.5% 적립/캐시백
+2179,0,CARD_LEVEL,6,기타,FREE_SERVICE,,,,당행 ATM 출금 수수료 면제
+2189,200000,CARD_LEVEL,6,기타,FREE_SERVICE,,,,"전북은행 ATM 출금수수료 면제 (월5회)
+카드디자인"
+2190,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"영화(CGV, 메가박스, 롯데시네마) 2천원 청구할인
+대중교통(버스/지하철) 및 편의점 10% 청구할인"
+2214,300000,CARD_LEVEL,4,금융,RATE_DISCOUNT,0.1,,,"CMA 우대금리 0.1% 제공
+업무시간 內 롯데ATM 입/출금 수수료 면제 등"
+2215,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피할인 10%(월10회)
+2215,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점할인 10%(월10회)
+2218,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 할인
+2218,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 할인
+2219,300000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,대형마트 이용금액의 5% 할인
+2219,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인쇼핑몰 이용금액의 5% 할인
+2219,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,40,,주유 시 리터당 40원 할인
+2219,300000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,출금 및 이체수수료 면제 서비스
+2220,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,모든 가맹점 0.3% 캐쉬백
+2220,0,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,GS칼텍스 리터당 100원 캐쉬백
+2220,0,CARD_LEVEL,5,통신,FIXED_AMOUNT,,5000,,"이동통신요금 5,000원 할인"
+2220,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,"수시입출금의 편리함과 주식거래, 고금리를 하나의 계좌로,
+결제계좌 이체/출금 수수료 면제"
+2221,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.6,,,"모든 가맹점 0.6% 캐쉬백
+금융상품가입 시 최대 2.5% 추가 캐쉬백"
+2221,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,"수시입출금의 편리함과 주식거래, 고금리를 하나의 계좌로,
+결제계좌 이체/출금 수수료 면제"
+2224,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,"able 금융서비스
+언제 어디서나 수수료 면제!"
+2225,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,"able 금융서비스
+언제 어디서나 수수료 면제!"
+2226,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,"기본캐시백: 전월 실적조건 없이 0.5% 캐시백
+특별캐시백: 최대 5% 캐시백"
+2228,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,"스타벅스 50% 결제일 할인
+간편결제 시 스타벅스 60% 결제일 할인"
+2228,400000,CARD_LEVEL,10,영화,RATE_DISCOUNT,50.0,,,"롯데시네마, CGV 50% 결제일 할인"
+2228,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"시내버스, 지하철 10% 결제일 할인"
+2228,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,"SKT, KT, LG U+ 10% 결제일 할인"
+2230,750000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활업종 5% 결제일 할인
+2234,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.5,,,주유·이동통신·아파트 관리비 2.5% 할인
+2234,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 가맹점 0.5% 할인
+2235,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,교통·이동통신·스트리밍 10% 할인
+2238,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드 운영 시설 이용권 본인 및 동반 1인 50% 현장할인
+2238,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,25.0,,,롯데월드 운영 시설 연간이용권 25% 현장할인
+2238,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,10.0,,,"전월 이용금액 관계없이, 할인한도 없이 롯데월드 직영 기념품샵 10% 현장할인"
+2238,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,20.0,,,전월 이용금액에 관계없이 롯데월드 운영 시설 기타 서비스 20%·50% 현장할인
+2238,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,7.0,,,"생활 필수 영역 7% 결제일할인
+(아파트 관리비, 온라인쇼핑몰, 주유, 배달앱, 신선식품 배송, 온라인서점)"
+2238,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,"전월 이용금액에 관계없이, 할인한도 없이 국내 가맹점 0.5% 결제일할인"
+2238,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,전월 이용금액에 관계없이 해외 1.5% 결제일할인
+2240,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활영역 이용금액의 10% Weverse Shop 캐시 적립
+2240,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,50.0,,,"HYBE INSIGHT 내 매장 결제 시 50% 할인,
+연 1회 Gift 서비스"
+2242,300000,CARD_LEVEL,3,주유,RATE_DISCOUNT,15.0,,,GS칼텍스 이용금액 최대 15% 할인 및 Mobility 업종 이용금액 5% 할인
+2243,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,GS리테일 점내 이용 시 GS&POINT 2% 적립
+2243,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,그 외 모든 가맹점 이용 시 GS&POINT 0.3% 기본 적립
+2244,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활영역 이용금액의 5% Weverse Shop 캐시 적립
+2244,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,25.0,,,HYBE INSIGHT 내 매장 결제 시 25% 할인
+2245,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활영역 이용금액의 5% Weverse Shop 캐시 적립
+2245,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,25.0,,,HYBE INSIGHT 내 매장 결제 시 25% 할인
+2246,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활영역 이용금액의 5% Weverse Shop 캐시 적립
+2246,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,25.0,,,HYBE INSIGHT 내 매장 결제 시 25% 할인
+2247,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활영역 이용금액의 5% Weverse Shop 캐시 적립
+2247,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,25.0,,,HYBE INSIGHT 내 매장 결제 시 25% 할인
+2248,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활영역 이용금액의 10% Weverse Shop 캐시 적립
+2248,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,50.0,,,"HYBE INSIGHT 내 매장 결제 시 50% 할인,
+연 1회 Gift 서비스"
+2249,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활영역 이용금액의 10% Weverse Shop 캐시 적립
+2249,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,50.0,,,"HYBE INSIGHT 내 매장 결제 시 50% 할인,
+연 1회 Gift 서비스"
+2250,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활영역 이용금액의 10% Weverse Shop 캐시 적립
+2250,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,50.0,,,"HYBE INSIGHT 내 매장 결제 시 50% 할인,
+연 1회 Gift 서비스"
+2251,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"스타벅스, 투썸플레이스, 이디야, 폴바셋 이용금액 5% 할인"
+2251,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"GS25, CU, 세븐일레븐, 이마트24 이용금액 5% 할인"
+2257,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,이동통신요금 정기결제 시 10% 삼성전자 포인트 적립
+2257,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,배달앱·편의점·주유 5% 삼성전자 포인트 적립
+2259,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"전 세계 공항라운지 / 무료 발레파킹 서비스
+VISA Signature / MasterCard World 서비스"
+2260,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"전 세계 공항라운지 / 무료 발레파킹 서비스
+VISA Signature / MasterCard World 서비스"
+2261,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,1.5,,,온라인 1.5% 결제일 할인
+2262,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,60.0,,,"스타벅스, 투썸플레이스, 할리스커피, 폴바셋 60% 결제일 할인"
+2263,400000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,60.0,,,"SK에너지, S-OIL, GS칼텍스, 현대오일뱅크 60% 결제일 할인"
+2263,400000,CARD_LEVEL,10,영화,RATE_DISCOUNT,60.0,,,"롯데시네마, CGV, 메가박스 60% 결제일 할인"
+2264,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,60.0,,,"쿠팡, SSG.COM, 티몬 60% 결제일 할인"
+2264,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,60.0,,,"GS25, CU, 세븐일레븐 60% 결제일 할인"
+2270,0,CARD_LEVEL,26,해외,FREE_SERVICE,,,,"수수료 면제, 추가 캐시백 혜택"
+2277,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활업종 청구할인 5%
+2278,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,주유·커피전문점·제과점·편의점·생활잡화 5% 결제일할인
+2278,400000,CARD_LEVEL,14,생활,FIXED_AMOUNT,,10000,,"생활요금 정기결제 10,000원 이상 결제건별 1,000원 결제일할인"
+2279,400000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,7.0,,,할인점·슈퍼마켓·편의점 7% 결제일할인
+2279,400000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,커피전문점·제과점 10% 결제일할인
+2279,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,전월 이용금액에 관계없이 해외 1.5% 결제일할인
+2280,0,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"메탈 플레이트 기본 제공 (교통카드 기능 탑재)
+국내 주요 공항 및 특급호텔 월 5회 무료 발레파킹, Amex THE PLATINUM 서비스"
+2280,0,CARD_LEVEL,18,카페,FREE_SERVICE,,,,공항 무료 커피서비스
+2281,0,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"메탈 플레이트 기본 제공(교통카드 기능 탑재)
+국내 주요 공항 및 특급호텔 월 5회 무료 발레파킹, Amex PLATINUM ELITE 서비스"
+2281,0,CARD_LEVEL,18,카페,FREE_SERVICE,,,,공항 무료 커피서비스
+2282,0,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,"국내 주요 공항 및 국내 특급호텔 월 2회 무료 발레파킹
+Amex PLATINUM ELITE 서비스"
+2282,0,CARD_LEVEL,18,카페,FREE_SERVICE,,,,공항 무료 커피서비스
+2287,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,[MX Black Zone] Shopping Zone 10% 청구 할인
+2287,500000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,[MX Black Zone] Food & Drink Zone 10% 청구 할인
+2287,500000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,[MX Black Zone] Mobility Zone 10% 청구 할인
+2288,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"신세계백화점, 신세계 아카데미, 시코르닷컴 5% 할인"
+2288,400000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,20.0,,,커피/제과/택시 20% 할인(1만원 이상 결제 건)
+2288,400000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,30.0,,,놀이공원/워터파크 30% 할인
+2289,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,"전월 이용금액에 관계없이, 할인한도 없이 해외 1% 결제일할인"
+2289,300000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,50.0,,,미래지향적 라이프스타일-친환경 소재(Recycling-PVC)를 50% 이상 사용한 삼성 iD EV 카드
+2290,500000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,10000,,"주유 10,000원 결제일할인"
+2290,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통·택시·전기차 충전요금 10% 결제일할인
+2290,500000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,고속도로 통행료 10% 결제일할인
+2290,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,30.0,,,스타벅스 드라이브 스루 30% 결제일할인
+2290,500000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,50.0,,,미래지향적 라이프스타일-친환경 소재(Recycling-PVC)를 50% 이상 사용한 삼성 iD ENERGY 카드
+2292,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,모든 가맹점에서 이용 시 0.7% 할인
+2293,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,모든 가맹점에서 이용 시 0.7% 할인
+2294,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,모든 가맹점에서 이용 시 0.7% 할인
+2296,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 청구할인
+2296,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 5% 청구할인
+2297,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,50.0,,,"패션플랫폼(지그재그, 무신사, 브랜디, 에이블리) 50% 청구할인"
+2297,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 청구할인
+2297,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 5% 청구할인
+2298,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 청구할인
+2298,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 5% 청구할인
+2299,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 청구할인
+2299,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 5% 청구할인
+2300,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 전 가맹점 0.5% 하나머니 적립
+2300,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"백화점, 홈쇼핑, 마트 5% 하나머니 적립"
+2300,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"패션, 명품 5% 하나머니 적립"
+2300,500000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,"주유 5% 하나머니 적립
+EV충전 20% 하나머니 적립"
+2300,500000,CARD_LEVEL,35,골프,RATE_DISCOUNT,10.0,,,골프장 / 골프연습장 / 스크린골프 / 카카오골프 10% 하나머니 적립
+2300,500000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,10.0,,,"숙박, 고속철도, 항공 10% 하나머니 적립"
+2302,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"할인점, 온라인쇼핑 이용 시 5% 적립
+생활친화업종 이용 시 10% 적립"
+2304,400000,CARD_LEVEL,4,금융,FREE_SERVICE,,,,"[적립포인트 투자 서비스]
+신한은행 달러 예금 계좌 혜택: 마이신한포인트 외화체인지업 계좌 입금 시 환전수수료 면제(USD 계좌에 한함)"
+2311,200000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,15.0,,,커피빈 15% 할인
+2311,200000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,10.0,,,"GS25, 세븐일레븐 10% 캐시백"
+2311,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,3.0,,,단골 매장 3% 캐시백
+2312,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,15.0,,,커피빈 15% 할인
+2312,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,"GS25, 세븐일레븐 10% 캐시백"
+2312,0,CARD_LEVEL,6,기타,RATE_DISCOUNT,3.0,,,단골 매장 3% 캐시백
+2316,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,2.0,,,대중교통 2% 캐시백
+2324,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내 가맹점 0.5% 결제일할인
+2324,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,3.0,,,주유·전기차 충전요금·이동통신·인터넷/유선통신·렌탈·보안·방역 3% 결제일할인
+2325,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,프레딧 10% 청구 할인
+2325,300000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,"스타벅스, 파리바게뜨, 뚜레쥬르 10% 청구 할인"
+2325,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,"SKT, KT, LG U+ 통신요금 자동이체 5% 청구 할인"
+2325,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 전 가맹점 0.5% 청구 할인
+2326,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"학원, 골프/골프연습장, 약국, 미용실 5% 적립"
+2329,0,CARD_LEVEL,4,금융,RATE_DISCOUNT,0.6,,,전월 실적 없이 최대 0.6% 무제한 캐시백
+2330,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,[생활업종]대중교통 10% 할인
+2330,500000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,"[생활업종]SKT, KT, LG U+ 10% 할인"
+2330,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2331,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 이용금액 마이신한포인트 5% 적립
+2332,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,세탁소 10% 할인
+2332,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,정육점 10% 할인
+2332,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,반찬가게 5% 할인
+2332,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,야채과일가게 5% 할인
+2332,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,번개장터(번개페이) 5% 할인
+2333,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,2.0,,,스타벅스 이용금액 마이신한포인트 2% 적립
+2333,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,2.0,,,편의점 이용금액 마이신한포인트 2% 적립
+2334,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,전가맹점 이용금액 마이신한포인트 0.2% 적립
+2334,0,CARD_LEVEL,9,주유소,RATE_DISCOUNT,0.2,,,주유소 이용금액 마이신한포인트 0.2% 추가 적립
+2334,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,0.2,,,편의점 이용금액 마이신한포인트 0.2% 추가 적립
+2338,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통(버스/지하철) 이용 시 최대 5% 적립
+2338,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활편의영역 이용 시 최대 2% 적립
+2338,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,해외 이용금액에 대해 1.3% 적립
+2340,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,7.0,,,"[온라인] 쿠팡, G마켓, 옥션 7% 청구할인"
+2340,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,7.0,,,"[온라인] 로켓와우, 스마일클럽 멤버십 7% 청구할인"
+2340,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,7.0,,,[라이프] 편의점 7% 청구할인
+2342,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,투썸플레이스 20% 캐시백
+2343,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활편의영역 이용 시 최대 2% 적립
+2343,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,해외 이용금액에 대해 1.3% 적립
+2349,300000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,30.0,,,"[맞춤혜택] 옵션 서비스 1(Needs & Identity Option)
+온라인패션·오늘의집 30% 할인 / 스타벅스 50%, 교보문고·스트리밍 30% 할인"
+2349,300000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,7.0,,,"[맞춤혜택] 옵션 서비스 2(My Shopping Otion)
+온라인쇼핑몰 / 편의점·다이소·올리브영 / 해외 7% 할인"
+2349,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,이동통신요금·아파트 관리비 10% 결제일 할인
+2349,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,대중교통·택시 10% 결제일 할인
+2352,0,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,3.0,,,GS가맹점 최대 3% GS&POINT 적립
+2352,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,국내 전 가맹점 0.7% GS&POINT 적립
+2353,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.8,,,국내 전 가맹점 1~1.8% 포인트적립
+2353,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,3.0,,,해외 전 가맹점 3% 포인트적립
+2353,0,CARD_LEVEL,17,대중교통,FREE_SERVICE,,,,[The Premium] K리무진 버스 무료 이용
+2354,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내 가맹점 0.5%할인
+2354,400000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.3,,,국내 가맹점 우리페이 결제시 0.3% 추가할인
+2354,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,1.5,,,"[LIVING] 이마트, 롯데마트, 홈플러스 1.5% 할인"
+2354,400000,CARD_LEVEL,27,교통,RATE_DISCOUNT,1.5,,,"[LIVING] 대중교통, 택시, 전기차, 주유 1.5% 할인"
+2354,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"[ENJOY] 스타벅스, 투썸플레이스, 폴바셋, 이디야, 커피빈, 탐앤탐스, 카페베네, 할리스, 엔제리너스 5% 할인"
+2355,400000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,10.0,,,[레고랜드] 레고랜드 리조트 10% 청구할인
+2355,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,[배달간식] 배달앱/커피/제과/패스트푸드 10% 청구할인
+2355,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,[쇼핑교육] 대형마트/온라인쇼핑/소셜커머스/교육 5% 청구할인
+2355,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,[해외이용] 해외 가맹점 이용 5% 캐시백
+2356,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,5.0,,,레고랜드 코리아 5% 환급할인
+2356,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통(버스/지하철) 10% 환급할인
+2356,300000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"SKT, KT, LGU+, LiivM 2,500원 환급할인"
+2356,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+2356,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+2357,400000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,30.0,,,레고랜드 리조트 30% 청구할인
+2357,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,레고/완구 구매 10% 청구할인
+2357,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,백화점/대형마트 10% 청구할인
+2357,400000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,10.0,,,해외 가맹점 이용 10% 캐시백
+2358,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,50.0,,,온라인쇼핑몰 멤버십 50% 결제일할인
+2358,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 결제일 할인
+2359,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,일반 가맹점 이용 시 0.2% 블루멤버스 포인트 적립
+2360,1500000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,10.0,,,"[지역 특화 서비스]롯데월드 부산, 스카이라인루지 부산 10% 할인"
+2360,1500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,[지역 특화 서비스] 오프라인 쇼핑 5% 할인
+2360,1500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[지역 특화 서비스] 온라인 쇼핑 5% 할인
+2361,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,모든 가맹점 0.5% 기본 캐시백
+2361,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,"전월 실적 충족하면, 모든 가맹점 1% 특별캐시백"
+2363,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,식음료 10% 청구할인
+2363,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,자기관리(미용/스포츠) 5% 청구할인
+2364,400000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,대중교통·택시 10% 결제일할인
+2364,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,이동통신·스트리밍 10% 결제일할인
+2364,400000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,커피전문점·편의점 10% 결제일할인
+2364,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,1.5,,,해외·항공·철도 1.5% 결제일 할인
+2365,400000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,15000,,"[자동이체 청구할인] 통신요금 자동이체 최대 15,000원 청구할인"
+2365,400000,CARD_LEVEL,6,기타,FIXED_AMOUNT,,15000,,"[자동이체 청구할인] 기타 자동이체 가맹점 최대 15,000원 청구할인"
+2369,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"일상 가맹점, 업종에서 5% 해피포인트 적립"
+2369,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 온·오프라인 가맹점에서 최대 0.5% 해피포인트 적립
+2370,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.2,,,국내 가맹점 0.2% 적립
+2370,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.0,,,"[DAILY] 해외, 쿠팡, 11번가, 이마트, 롯데마트 1% 적립"
+2370,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,1.0,,,"[DAILY] 대중교통, 전기차충전, 주유 1% 적립"
+2370,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,0.5,,,[DAILY] UNIQ DAILY 0.5% 한번 더 적립
+2370,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,1.0,,,"[EAT] 스타벅스, 투썸플레이스, 이디야 1% 적립"
+2370,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,1.0,,,"[EAT] CU, 세븐일레븐, GS25 1% 적립"
+2373,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활편의영역 이용 시 최대 2% 적립
+2373,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,해외 이용금액에 대해 1.3% 적립
+2374,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통(버스/지하철) 이용 시 최대 5% 적립
+2374,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활편의영역 이용 시 최대 2% 적립
+2374,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,해외 이용금액에 대해 1.3% 적립
+2376,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.7,,,국내외 가맹점 0.7% 할인
+2376,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,국내외 가맹점 1% 할인
+2376,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,50.0,,,"온라인쇼핑몰 멤버십 50% 할인
+전월 이용금액 30만원 이상 시 제공"
+2376,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"영화 3,000원 할인
+전월 이용금액 30만원 이상 시 제공"
+2378,300000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,10.0,,,"A팩: 온라인쇼핑, 대형마트, 렌탈/이동통신요금 10% 적립
+B팩: 학원/서점 업종, 식품/배달 업체, 슈퍼마켓, 제과/아이스크림업종 10% 적립"
+2379,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활편의영역 이용 시 최대 2% 적립
+2379,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,해외 이용금액에 대해 1.3% 적립
+2385,500000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 가맹점 L.POINT 0.5% 적립
+2385,500000,CARD_LEVEL,15,면세점,RATE_DISCOUNT,15.0,,,롯데면세점 5~15% 현장할인
+2386,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,30.0,,,"[교통서비스 할인(모바일티머니)]
+대중교통(버스, 지하철) 30% 결제일 할인"
+2386,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,20.0,,,"[교통서비스 할인(티머니GO)]
+고속/시외 버스, 따릉이, 킥보드, 택시 20% 결제일 할인"
+2386,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,"[생활서비스 할인]
+4대 백화점 5% 결제일 할인"
+2386,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"[생활서비스 할인]
+5대 편의점 5% 결제일 할인"
+2386,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,"[생활서비스 할인]
+이동통신요금 자동이체 5% 결제일 할인"
+2386,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"[생활서비스 할인]
+커피전문점 5% 결제일 할인"
+2388,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,3.0,,,전월 이용금액에 따라 국내외 가맹점 이용금액 최대 3% 넥슨 현대카드 포인트 적립
+2389,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,제한 없이 기본 0.5% 적립
+2389,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.5,,,이용금액 30만원 이상 시 1.5% 추가 적립
+2390,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,월 이용금액 50만원 한도까지 실적 조건 없이 0.5% 넥슨 현대카드 포인트 적립
+2392,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,7.0,,,CJ온스타일 7% 결제일 할인
+2392,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,VIPS 20% 결제일할인
+2392,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,4000,,"CGV 4,000원·8,000원 결제일할인"
+2392,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 결제일할인
+2392,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 결제일할인
+2393,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,7.0,,,SSG.COM 결제 시 SSG MONEY 7% 적립
+2393,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,SSG.COM 외 가맹점 결제 시 SSG MONEY 0.5% 적립
+2394,0,CARD_LEVEL,32,해외이용,FREE_SERVICE,,,,해외 가맹점 이용수수료 면제
+2396,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,"해외, 면세점 2% 포인트 적립"
+2396,0,CARD_LEVEL,27,교통,FREE_SERVICE,,,,[프리미엄 서비스] K리무진 버스 무료 이용
+2396,0,CARD_LEVEL,35,골프,FREE_SERVICE,,,,"[프리미엄 서비스] 국내 지정 골프장 커피(4잔) 무료 제공, 국내 지정 골프연습장 타석권 무료 제공"
+2396,0,CARD_LEVEL,23,바우처,FREE_SERVICE,,,,[프리미엄 기프트] 공항 라운지 무료이용권 8매
+2396,0,CARD_LEVEL,23,바우처,VOUCHER,,200000,,[프리미엄 기프트] 신라면세점 선불카드 20만원권 교환쿠폰
+2397,0,CARD_LEVEL,27,교통,FREE_SERVICE,,,,[프리미엄 서비스] K리무진 버스 무료 이용
+2397,0,CARD_LEVEL,35,골프,FREE_SERVICE,,,,"[프리미엄 서비스] 국내 지정 골프장 커피(4잔) 무료 제공, 국내 지정 골프연습장 타석권 무료 제공"
+2397,0,CARD_LEVEL,23,바우처,FREE_SERVICE,,,,[프리미엄 기프트] 공항 라운지 무료이용권 8매
+2397,0,CARD_LEVEL,23,바우처,VOUCHER,,200000,,[프리미엄 기프트] 신라면세점 선불카드 20만원권 교환쿠폰
+2398,500000,CARD_LEVEL,2,모든가맹점,MILEAGE,1.0,,,국내외 가맹점 스카이패스 1마일리지 적립
+2398,500000,CARD_LEVEL,1,쇼핑,MILEAGE,1.0,,,신세계백화점·신세계면세점 스카이패스 1마일리지 추가적립
+2399,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,"[YUMMY!] 편의점(GS25/CU), 커피/음료 전문점 5% 환급할인"
+2399,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,"[Enjoy!] 올리브영, 다이소 결제 시 5% 환급할인"
+2400,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,8.0,,,종일커피/점심식사/저녁간식 페이북머니 8% 적립
+2400,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.1,,,국내 가맹점 이용금액 0.1% 기부 기금 적립
+2401,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,[친환경 생활] 대중교통 (버스/지하철) 10% 적립
+2401,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,[친환경 생활] 공유 모빌리티 10% 적립
+2401,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,[디지털 생활] 커피 10% 적립
+2402,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,"국내 이용금액의 1%, 국외 이용금액의 2% NH포인트 적립"
+2403,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,[Daily 할인] 주유 리터당 60~100원 청구할인
+2403,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,[Daily 할인] 대중교통 10% 청구할인
+2403,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,[Daily 할인] 커피 10% 청구할인
+2404,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 청구할인 서비스
+2406,500000,CARD_LEVEL,20,항공마일리지,MILEAGE,1.0,,,국내 이용금액 1천원당 1마일리지 적립
+2406,500000,CARD_LEVEL,20,항공마일리지,MILEAGE,2.0,,,해외 이용금액 1천원당 2마일리지 적립 (지난달 실적 조건 확인)
+2407,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 할인
+2407,400000,CARD_LEVEL,31,카페/디저트,FIXED_AMOUNT,,1000,,"커피전문점/편의점 1,000원 할인"
+2409,200000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,300,,대중교통 건당 300원 할인
+2409,200000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,300,,커피 건당 300원 할인
+2409,200000,CARD_LEVEL,19,편의점,FIXED_AMOUNT,,300,,편의점 건당 300원 할인
+2409,200000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,3000,,"주유/충전 건당 3,000원 할인"
+2409,200000,CARD_LEVEL,1,쇼핑,FIXED_AMOUNT,,3000,,"쇼핑 건당 3,000원 할인"
+2409,200000,CARD_LEVEL,14,생활,FIXED_AMOUNT,,3000,,"생활요금 건당 3,000원 할인"
+2409,200000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,#MYWAY 2~3개월 무이자 할부 서비스
+2411,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,1.7,,,국내 온라인 가맹점 1.7% 청구할인
+2411,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.7,,,해외 가맹점 1.7% 청구할인
+2414,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활 필수 영역 이용 금액의 10% M포인트 적립
+2416,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,30.0,,,이마트/트레이더스 최대 30% 청구할인
+2416,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,스타벅스 최대 10% 청구할인
+2416,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활업종 최대 10% 청구할인
+2417,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,1.0,,,편의점 1% M포인트 적립
+2417,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,1.0,,,통신요금 자동이체 1% M포인트 적립
+2419,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,1.0,,,대중교통 1%·2% 결제일할인
+2419,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,편의점·배달앱·델리·커피전문점 1%·8% 결제일 할인
+2420,500000,CARD_LEVEL,6,기타,RATE_DISCOUNT,1.5,,,온라인 간편결제/커피전문점/해외 1.5% 결제일할인
+2421,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.3,,,매일 가는 곳은 혜택 고민 없이 0.3% 캐시백
+2422,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"[일상] 스타벅스, 커피빈 10% 할인"
+2422,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"[일상] GS25, CU 5% 할인"
+2422,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"[일상] SKT, KT, LG U+, Liiv M 2,500원 할인"
+2422,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,4000,,"[일상] CGV 4,000원 할인"
+2422,200000,CARD_LEVEL,11,테마파크,FIXED_AMOUNT,,15000,,"[일상] 에버랜드, 롯데월드 15,000원 할인"
+2423,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"[일상] 스타벅스, 커피빈 10% 할인"
+2423,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"[일상] GS25, CU 5% 할인"
+2423,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"[일상] SKT, KT, LG U+, Liiv M 2,500원 할인"
+2423,200000,CARD_LEVEL,11,테마파크,FIXED_AMOUNT,,15000,,"[일상] 에버랜드, 롯데월드 15,000원 할인"
+2423,200000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,[Global] 해외 가맹점 2% 할인
+2434,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,갤러리아 백화점 5% 현장할인
+2434,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,갤러리아 백화점(Mall) 5% 청구할인
+2435,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 5% 캐시백
+2435,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 캐시백
+2435,400000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,5.0,,,베이커리·커피전문점 5% 캐시백
+2436,500000,CARD_LEVEL,13,선택형,MILEAGE,1.0,,,"항공 마일리지와 M포인트 중 선택 적립
+[선택1] 대한항공 마일리지 이용 금액 1천원당 1마일리지 적립"
+2436,500000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,2.0,,,"항공 마일리지와 M포인트 중 선택 적립
+[선택2] M포인트 당월 이용 금액에 따라 1~2% 적립"
+2436,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,무료 발레파킹 서비스
+2440,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 가맹점 2% 청구할인
+2440,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,50.0,,,"쇼핑 멤버십 50%, OTT 10%, 이동통신요금 5% 청구할인(자동납부 할인)"
+2441,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"[나한테 진심 서비스] 음식점, 편의점 10% 할인"
+2441,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,[나한테 진심 서비스] 이동통신요금 10% 할인
+2441,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,[더욱 진심 서비스] 먹는데 진심-배달/커피 5% 할인
+2441,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,"[더욱 진심 서비스] 노는데 진심-택시/커피 5%, 영화관 30% 할인"
+2441,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,"[더욱 진심 서비스] 관리에 진심-미용실, 스포츠, 온라인서점, 올리브영 5% 할인"
+2442,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,[1st 선택] 마트중심/백화점중심/동네중심 5% 할인 (택 1)
+2442,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,10.0,,,[2nd 선택] 둘이중심/자녀중심/돌봄중심 10% 할인 (택 1)
+2442,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,"[YOU With 기본 서비스]
+이동통신자동납부 10% 할인 / Happy Family Month / 전월실적 채워드림"
+2444,0,CARD_LEVEL,22,대형마트,FIXED_AMOUNT,,30000,,"롯데마트, MAXX 월 최대 30,000원 결제일 할인"
+2444,0,CARD_LEVEL,14,생활,FIXED_AMOUNT,,25000,,"5대 생활업종 월 최대 25,000원 결제일 할인"
+2445,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 할인
+2445,400000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,택시 10% 할인
+2445,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 할인
+2445,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,하나페이 맛집 10% 할인
+2445,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인식품&쇼핑 10% 할인
+2446,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,"쿠팡/마트/베이커리 2% 할인
+대중교통 3% 할인"
+2447,400000,CARD_LEVEL,3,주유,RATE_DISCOUNT,10.0,,,주유/LPG충전 10% 할인
+2447,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 할인
+2447,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,세탁 10% 할인
+2448,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,마트 5% 할인
+2448,400000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,주유/LPG충전 5% 할인
+2448,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피 5% 할인
+2448,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,5.0,,,뷰티&펫 5% 할인
+2449,400000,CARD_LEVEL,3,주유,RATE_DISCOUNT,10.0,,,SK주유&쇼핑 10% 하나머니 적립
+2449,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,마트 10% 하나머니 적립
+2449,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 하나머니 적립
+2452,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 전 가맹점 기본 0.5% 할인
+2455,400000,CARD_LEVEL,6,기타,RATE_DISCOUNT,50.0,,,카카오톡 선물하기 50% 할인
+2459,500000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"영화 5,000원 할인"
+2460,500000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,3000,,"[DAILY LIFESTYLE] 스타벅스 3,000원 할인"
+2461,500000,CARD_LEVEL,14,생활,FIXED_AMOUNT,,50000,,"[PREMIUM LIFESTYLE] 라이프스타일 50,000원 할인"
+2463,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,50.0,,,대중교통 50% 할인
+2463,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,커피 50% 할인
+2463,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,50.0,,,온라인쇼핑 50% 할인
+2463,400000,CARD_LEVEL,27,교통,FREE_SERVICE,,,,"LOCA Mobility 반띵 카드 발급 시, '로카모빌리티카드' 1매 무료 제공"
+2466,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,교통 5% 청구할인
+2469,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,50.0,,,"[라이프 캐시백]
+대중교통(버스, 지하철) 50% 캐시백"
+2469,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,"[라이프 캐시백]
+커피(스타벅스 사이렌 오더) 50% 캐시백"
+2470,0,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,트레이더스 홀세일 클럽 1/3/5% TR CASH 적립
+2470,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활 편의 영역 1/2% TR CASH 적립
+2471,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통(버스/지하철) 이용 시 최대 5% 적립
+2471,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활편의영역 이용 시 최대 2% 적립
+2471,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.3,,,해외 이용금액에 대해 1.3% 적립
+2473,500000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,모든 주유소(LPG 포함) 5% 및 전기차 충전 50% 결제일 할인
+2475,0,CARD_LEVEL,6,기타,MILEAGE,400.0,,,"G마켓/옥션 결제시 2만원당 400마일리지 적립, G마켓 SVIP+옥션 VIP 서비스
+CU편의점 결제시 CU 포인트 2% 적립 ＋OK캐쉬백 1% 동시적립"
+2475,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,KEB하나은행 자동화기기(CD/ATM) 수수료 월 10회 면제
+2479,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,쇼핑 10% 할인
+2479,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활 10% 할인
+2481,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,7.0,,,생활쇼핑 가맹점 7% 결제일 할인
+2481,300000,CARD_LEVEL,31,카페/디저트,RATE_DISCOUNT,10.0,,,커피전문점/제과점 10% 결제일 할인
+2481,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,"주말 복합쇼핑몰 10% 결제일 할인
+주말 3대 할인점 10% 결제일 할인"
+2483,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,"6대 생활영역 이용금액 1% 기본캐시백
+음식점, 온라인쇼핑, 대형마트·편의점, 통신비, 병원비, 교통"
+2484,500000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,1.0,,,SK 주유소 1% 청구할인
+2486,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,LFmall (lfmall.co.kr) 이용 시 5% 청구할인
+2486,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.5,,,국내외 가맹점 이용 시 0.5% 포인트리 적립
+2487,300000,CARD_LEVEL,10,영화,FREE_SERVICE,,,,"CGV 영화관람권 1매 무료 예매, CGV 영화관람권 5천원 할인
+CGV 매점 콤보 할인"
+2488,500000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,베베쿡 10% 할인
+2488,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"일상생활 쇼핑 할 때에도 5% 결제일 할인
+할인점/백화점/창고형 할인매장/신선식품 배송"
+2488,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"주요 커피점, 잡화, 온라인서점 쇼핑할 때에도 5% 결제일 할인"
+2489,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.0,,,전 가맹점 1% 할인
+2489,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.5,,,생활 편의 업종 0.5% 추가 할인
+2489,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,페이북 쇼핑 5% 할인
+2489,0,CARD_LEVEL,29,여행/숙박,FREE_SERVICE,,,,비씨투어 멤버스 서비스 무료 가입
+2491,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.9,,,[Daily 결제일 할인] 국내 이용금액 최대 0.9% / 해외 이용금액 0.5% 결제일 할인
+2495,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,7.0,,,"신세계백화점 최대 7% 할인, 마이신한포인트 1% 적립"
+2495,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,신세계 계열사 5% 할인
+2495,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,커피·배달앱·온라인서점·잡화 5% 할인
+2496,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,7.0,,,신세계 계열사 7% 할인
+2496,400000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,40,,"GS칼텍스, S-OIL 리터 당 40원 할인"
+2497,500000,CARD_LEVEL,6,기타,FIXED_AMOUNT,,11000,,"할부 이용 시 월 11,000원 캐시백"
+2515,500000,CARD_LEVEL,23,바우처,VOUCHER,,100000,,투자/쇼핑/호텔/골프 바우처 중 택1 10만원 상당 바우처 제공 (연 1회)
+2516,500000,CARD_LEVEL,23,바우처,VOUCHER,,300000,,"투자/쇼핑/호텔/골프 바우처 중 택3, 30만원 상당 바우처 제공 (연 1회)"
+2517,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인쇼핑몰 5% 네이버페이 포인트 적립
+2517,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 1% 네이버페이 포인트 적립
+2519,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,30.0,,,패션 30% 캐시백
+2523,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,패밀리레스토랑 10% 청구할인
+2523,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,커피 20% 청구할인
+2523,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,주요 놀이공원 자유이용권 50% 현장할인
+2525,0,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,100,,[Daily 할인] 주유 리터당 60~100원 청구할인
+2525,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,[Daily 할인] 대중교통 10% 청구할인
+2525,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,[Daily 할인] 커피 10% 청구할인
+2526,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,LG트윈스 용품 구매 시 10% 현장 할인
+2526,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"전국 CGV 영화관 3,000원(2매 기준) 현장할인"
+2526,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"롯데월드, 서울랜드, 에버랜드 자유이용권 50% 및 캐리비안베이 입장권 30% 할인"
+2527,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,4대 편의점 이용 시 10% 적립
+2527,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 업종 이용 시 10% 적립
+2527,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 이용금액 1% 적립
+2528,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,4대 편의점 이용 시 10% 적립
+2528,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 업종 이용 시 10% 적립
+2528,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,해외 이용금액 1% 적립
+2528,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,놀이 영역 이용 시 10% 적립
+2529,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,3.0,,,해외 가맹점 3% 하나머니 적립 (신용카드 결제 시)
+2529,0,CARD_LEVEL,15,면세점,RATE_DISCOUNT,3.0,,,면세점 3% 하나머니 적립
+2530,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피음료전문점 업종 5% 환급할인 (평일만)
+2530,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,"대중교통(버스, 지하철) 5% 청구할인"
+2533,400000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,2~3개월 무이자 할부 서비스
+2534,500000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,10.0,,,할인점 10% 결제일 할인
+2534,500000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,"전월 이용금액에 관계없이, 할인한도 없이 해외 1% 결제일할인"
+2537,0,CARD_LEVEL,22,대형마트,FIXED_AMOUNT,,30000,,"롯데마트, MAXX 월 최대 30,000원 결제일 할인"
+2539,300000,CARD_LEVEL,9,주유소,RATE_DISCOUNT,10.0,,,S-OIL 주유 10% 결제일할인
+2539,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,30.0,,,스타벅스 드라이브스루 30% 결제일할인
+2539,300000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,주차장/대리운전 10% 결제일 할인
+2543,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,1.0,,,신세계백화점 1% 할인
+2543,500000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,10000,,"모든 영화관 10,000원 결제일할인"
+2543,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,커피전문점 20% 결제일할인
+2543,500000,CARD_LEVEL,8,패밀리레스토랑,FIXED_AMOUNT,,20000,,"VIPS•더플레이스 20,000원 결제일할인"
+2546,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,4대 편의점 10% 적립
+2546,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 업종 10% 적립
+2546,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,놀이 영역 이용 시 10% 적립
+2547,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,4대 편의점 이용 시 10% 적립
+2547,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 업종 이용 시 10% 적립
+2550,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"[일상] 스타벅스, 커피빈 10% 할인"
+2550,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"[일상] GS25, CU 5% 할인"
+2550,200000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"[일상] SKT, KT, LG U+, Liiv M 2,500원 할인"
+2550,200000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,4000,,"[일상] CGV 4,000원 할인"
+2550,200000,CARD_LEVEL,11,테마파크,FIXED_AMOUNT,,15000,,"[일상] 에버랜드, 롯데월드 15,000원 할인"
+2558,400000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,대중교통 10% 결제일 할인
+2558,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,커피전문점 20% 결제일 할인
+2558,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,3.0,,,온라인쇼핑 3% 결제일 할인
+2563,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 캐시백
+2563,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,이동통신 10% 캐시백
+2563,300000,CARD_LEVEL,19,편의점,FIXED_AMOUNT,,1000,,"편의점/커피전문점/제과 1,000원 캐시벡"
+2563,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 3,000원 할인"
+2565,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인쇼핑 10% 할인
+2565,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 할인
+2565,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,5.0,,,대형마트 5% 할인
+2565,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 할인
+2566,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,1.2,,,국내 가맹점 1.2% 결제일 할인
+2566,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 가맹점 2.0% 결제일 할인
+2567,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,1.0,,,GS25 1%/5%/10% 결제일 할인
+2567,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점/배달앱 10% 결제일할인
+2567,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 1% 결제일 할인
+2568,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,버스·지하철 10% 청구할인
+2568,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 5% 환급할인
+2568,0,CARD_LEVEL,10,영화,RATE_DISCOUNT,35.0,,,CGV 35% 환급할인
+2568,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"아웃백, VIPS 20% 환급할인"
+2568,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,스타벅스 20% 환급할인
+2568,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드·롯데월드 50% 환급할인
+2568,0,CARD_LEVEL,4,금융,FREE_SERVICE,,,,금융수수료 면제 서비스
+2568,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,GS25 5% 환급할인
+2570,200000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[오늘 하루 SHOPPING] 온라인 쇼핑 5% 캐시백
+2570,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,[오늘 하루 SHOPPING] 안경/렌즈 5% 캐시백
+2570,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,[오늘 하루 EAT] 커피 5% 캐시백
+2570,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,[오늘 하루 LIFE] 대중교통(버스/지하철) 5% 캐시백
+2570,200000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,[오늘 하루 LIFE] 이동통신 5% 캐시백
+2570,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,[오늘 하루 LIFE] 해외 5% 캐시백
+2570,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,[오늘 하루 LIFE] 어학시험 5% 캐시백
+2571,300000,CARD_LEVEL,14,생활,FIXED_AMOUNT,,3000,,"생활요금 정기결제 월 최대 3,000원 할인"
+2583,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피전문점 5% 청구할인
+2583,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 청구할인
+2585,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통(버스/지하철) 이용 시 최대 5% 적립
+2585,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활편의영역(통신·편의점·생활잡화·디지털컨텐츠·커피) 이용시 2% 적립
+2585,200000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.3,,,해외 이용금액에 대해 1.3% 적립
+2588,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"스타벅스, 커피빈 10% 할인"
+2588,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"GS25, CU 5% 할인"
+2588,0,CARD_LEVEL,5,통신,FIXED_AMOUNT,,2500,,"SKT, KT, LG U+, Liiv M 2,500원 할인"
+2588,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,4000,,"CGV 4,000원 할인"
+2588,0,CARD_LEVEL,11,테마파크,FIXED_AMOUNT,,15000,,"에버랜드, 롯데월드 15,000원 할인"
+2588,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,해외 가맹점 2% 할인
+2589,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.0,,,GS리테일 점내 이용 시 GS&POINT 1% 적립
+2589,0,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.1,,,그 외 모든 가맹점 이용 시 GS&POINT 0.1% 기본 적립
+2595,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,20.0,,,랭킹닭컴 20% 청구할인
+2595,300000,CARD_LEVEL,35,골프,RATE_DISCOUNT,10.0,,,골프(연습)장 최대 10% 청구할인
+2598,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,30.0,,,빕스/뚜레쥬르/CGV 이용금액 30% CJ ONE 포인트 적립
+2603,400000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,150,,주유소(충전소 포함) 리터당 150원~300원 청구할인
+2605,400000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,주유 5% 청구 할인
+2605,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,식음료 5% 청구 할인
+2608,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,40,,GS칼텍스 주유시 리터랑 40원 결제일 할인
+2612,0,CARD_LEVEL,29,여행/숙박,FREE_SERVICE,,,,[Premium Service] KAL 리무진 버스 무료이용 서비스 제공
+2613,500000,CARD_LEVEL,29,여행/숙박,FREE_SERVICE,,,,[Premium Service] KAL 리무진 버스 무료이용 서비스 제공
+2613,500000,CARD_LEVEL,35,골프,FREE_SERVICE,,,,[Premium Service] 국내 지정 골프장 무료 커피 또는 지정 골프연습장 무료 타석권 제공
+2618,500000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,70,,주유 리터당 70원·90원 결제일 할인
+2618,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.5,,,할인점·온라인쇼핑몰·편의점·배달앱·커피전문점 1.5% 결제일 할인
+2618,500000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5000,,"영화 5,000원 결제일 할인"
+2623,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 할인(KB Pay 결제 시)
+2623,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피/편의점 10% 할인(KB Pay 결제 시)
+2623,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,오프라인 쇼핑 5% 할인(KB Pay 결제 시)
+2624,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 할인 (KB Pay 결제 시)
+2624,300000,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,"주유 100원/L, 편의점 5% 할인"
+2624,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,"이동통신 10%, OTT 30% 할인"
+2624,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,30.0,,,패밀리레스토랑 30% 할인
+2624,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,5.0,,,해외 가맹점 5% 할인
+2625,200000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,100,,커피 업종 100원 할인
+2625,200000,CARD_LEVEL,19,편의점,FIXED_AMOUNT,,200,,편의점 200원 할인
+2625,200000,CARD_LEVEL,17,대중교통,FIXED_AMOUNT,,1000,,"대중교통 1,000원 할인"
+2630,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"에버랜드 종일권(대인 동반 소인 1매) 50% 현장할인
+캐리비안베이 종일권 30% 현장할인"
+2630,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,20.0,,,"직영 기념품 매장 20% 현장할인
+정기권 10% 현장할인"
+2630,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,SK주유소 리터당 60원 청구할인
+2630,300000,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,20.0,,,"VIPS, 아웃백, TGIF 20% 청구할인"
+2631,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,생활 필수 영역 1% 모니머니 리워드 추가 적립
+2631,300000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,5000,,"스타벅스 5,000원 할인"
+2633,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인 쇼핑 최대 5% 결제일 할인
+2634,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인 쇼핑 최대 5% 결제일 할인
+2634,0,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,"SKT, KT, LG U+ 5% 결제일 할인"
+2635,400000,CARD_LEVEL,13,선택형,FIXED_AMOUNT,,30000,,"Triple in 혜택
+5개의 생활 업종 중 3개 최대 30,000원 할인"
+2636,0,CARD_LEVEL,23,바우처,VOUCHER,,50000,,"Special Gift 혜택 (롯데상품권카드 5만원권 1매 / 3개월간 1,000만원 이상 이용시 제공)"
+2637,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,커피전문점 업종 이용금액에 5% 카카오페이포인트 적립
+2637,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 이용금액에 5% 카카오페이포인트 적립(버스/지하철)
+2637,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외(온라인 포함) 이용금액에 1% 카카오페이포인트 적립
+2638,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 이용금액에 5% 카카오페이포인트 적립
+2638,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,통신요금 자동이체 이용금액에 5% 카카오페이포인트 적립
+2638,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외(온라인 포함) 이용금액에 1% 카카오페이포인트 적립
+2639,50000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,"[DO EAT] 편의점, 배달의민족 5% 적립"
+2639,50000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"[DO BUY] 쿠팡, 무신사 5% 적립"
+2641,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중 교통(10% 에코머니포인트 적립)
+2641,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,공유 모빌리티 (10% 에코머니포인트 적립)
+2641,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 전문점 (10% 에코머니포인트 적립)
+2643,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,0.6,,,"마트, SSM, 백화점 0.6% 하나머니 적립"
+2643,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,1.0,,,"버스, 지하철 1.0% 하나머니 적립"
+2651,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,7.0,,,커피전문점/헬스&뷰티/온라인쇼핑몰/이동통신 7% W POINT 적립
+2651,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% W POINT 적립
+2652,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드 50%/캐리비안 베이 30% 할인
+2652,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,3.0,,,에버랜드리조트 3% 솜 적립
+2652,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 솜 적립
+2654,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 할인
+2654,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 10% 할인
+2654,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 할인
+2655,300000,CARD_LEVEL,2,모든가맹점,RATE_DISCOUNT,0.8,,,기본 Discount - 0.8% 기본 청구할인
+2656,0,CARD_LEVEL,5,통신,FIXED_AMOUNT,,20000,,"SKT, KT, LG U+ 월 최대 20,000원 결제일 할인"
+2657,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,[REWARD] 커피 50% 하나머니 적립 (지난달 실적 조건 및 적립한도 확인)
+2661,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 1% 할인
+2662,500000,CARD_LEVEL,23,바우처,VOUCHER,,120000,,연간 12만원 상당 바우처 제공(연 1회)
+2662,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,공항 및 국내 특급 호텔 무료 발레파킹 서비스
+2663,500000,CARD_LEVEL,23,바우처,VOUCHER,,250000,,연간 25만원 상당 바우처 제공(연 1회)
+2663,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,공항 및 국내 특급 호텔 무료 발레파킹 서비스
+2664,500000,CARD_LEVEL,23,바우처,VOUCHER,,850000,,국내 트래블・패션/뷰티 영역에서 사용 가능한 85만원 상당 바우처 제공(연 1회)
+2664,500000,CARD_LEVEL,28,프리미엄 서비스,FREE_SERVICE,,,,인천국제공항 및 국내 특급호텔 무료 발레파킹
+2667,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 대중교통 컨택리스 방식으로 이용 시 1% 결제일 할인
+2671,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,쿠팡&슈퍼마켓 2% 할인
+2671,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,4.0,,,온라인식품&쇼핑 4% 할인
+2671,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,4.0,,,오픈마켓 4% 할인
+2671,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,2~3개월 무이자할부
+2673,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,[일상 생활비 적립 서비스] 국내 건당 결제금액별 0.2~1% 포인트 적립・해외 결제금액 1% 포인트 적립
+2676,500000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,해외 2% 할인
+2676,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,일상 필수 영역 1% 할인
+2677,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,[퍼스널 쇼핑 적립] 패션/럭셔리/라이프/해외 5% 적립
+2678,500000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,5.0,,,퍼스널 트래블(패키지/플랫폼/교통/해외) 5% 적립
+2680,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑몰 10% 청구 할인
+2680,500000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 10% 청구 할인
+2680,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점 10% 청구 할인
+2680,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,대중교통 10% 청구 할인(K-패스 또는 후불형 기후동행카드 신청 가능)
+2681,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"버스/지하철 10% 청구할인 (월 1만원, 월 2만원)"
+2681,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,스타벅스/커피빈 10% 청구할인 (월 5천원)
+2682,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"버스/지하철 10% 캐시백 (월 3천원, 월 6천원)"
+2682,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,1.0,,,스타벅스/커피빈 1% 캐시백 (월 5천원)
+2683,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑몰 10% 청구 할인
+2683,500000,CARD_LEVEL,3,주유,RATE_DISCOUNT,10.0,,,주유 10% 청구 할인
+2683,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,생활 요금 정기 결제 10% 청구 할인
+2684,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑몰 10% 청구 할인
+2684,500000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,영화 10% 청구 할인
+2684,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,10.0,,,해외 가맹점 10% 청구 할인
+2685,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,100.0,,,해외 이용 환율우대 100% (USD기준)
+2685,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,자주 쓰는 일상 영역 10% 할인 (KB Pay 결제 시)
+2685,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,온라인 항공/면세점 5% 할인 (KB Pay 결제 시)
+2685,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,철도・고속버스 10% 할인
+2686,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,55.0,,,"[Discount 4 서비스] 하나. Discount 55% 커피 4대 브랜드통합 스타벅스, 투썸플레이스, 커피빈, 폴바셋"
+2686,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,33.0,,,"[Discount 4 서비스] 둘. Discount 33% 대중교통 시내버스/지하철 (후불 교통기능 선택 시 제공), 택시"
+2686,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,11.0,,,[Discount 4 서비스] 셋. Discount 11% 편의점
+2686,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,5500,,"[Discount 4 서비스] 넷. Discount 5,500원 영화관"
+2687,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,[쇼핑 할인의 정석] 온라인 쇼핑 10% 청구할인
+2687,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,[쇼핑 할인의 정석] 오프라인 쇼핑 10% 청구할인
+2687,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,60,,[생활밀착 할인의 정석] 4대 주유소 주말 주유시 리터당 60원 청구할인
+2687,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,"[생활밀착 할인의 정석] 스타벅스, 폴바셋 10% 청구할인"
+2688,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,100,,[Daily 할인] 주유 리터당 60~100원 청구할인
+2688,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,[Daily 할인] 대중교통 10% 청구할인
+2688,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,[Daily 할인] 커피 10% 청구할인
+2690,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"대중교통(버스, 지하철) 이용 시 10% 결제일 할인"
+2690,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활서비스 5% 결제일 할인
+2691,200000,CARD_LEVEL,26,해외,FREE_SERVICE,,,,"[해외 혜택] 해외 가맹점, ATM 이용 수수료 면제"
+2691,200000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,1000,,"[국내 혜택] 카페 1,000원 할인"
+2691,200000,CARD_LEVEL,12,푸드,FIXED_AMOUNT,,5000,,"[국내 혜택] 전국맛집 5,000원 할인"
+2692,500000,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,5.0,,,[추가 혜택] 전월 이용 금액 100만원 이상 시 여행 영역 5% M포인트 적립
+2692,500000,CARD_LEVEL,35,골프,RATE_DISCOUNT,5.0,,,[추가 혜택] 전월 이용 금액 100만원 이상 시 골프 영역 5% M포인트 적립
+2692,500000,CARD_LEVEL,23,바우처,VOUCHER,,150000,,"[바우처] 전년도(카드 발급 확정월 포함 12개월) 이용 금액 1,200만원 이상 시
+15만원권 바우처 제공(연 1회)"
+2692,500000,CARD_LEVEL,6,기타,FREE_SERVICE,,,,전월 이용 금액 50만원 이상 시 공항 및 특급호텔 발레파킹 무료 이용
+2693,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"대중교통(버스, 지하철) 이용 시 10% 결제일 할인"
+2693,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,생활서비스 2% 결제일 할인
+2694,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,[일상 속 5% 적립 서비스] 생활·여행·패션 5% 마이신한포인트 적립
+2697,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,[추가혜택] 전월 이용 금액 100만원 이상 시 10% 할인
+2697,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,10.0,,,[추가혜택] 전월 이용 금액 100만원 이상 시 10% 할인
+2697,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,[추가혜택] 전월 이용 금액 100만원 이상 시 10% 할인
+2697,500000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,[추가혜택] 전월 이용 금액 100만원 이상 시 10% 할인
+2697,500000,CARD_LEVEL,3,주유,RATE_DISCOUNT,10.0,,,[추가혜택] 전월 이용 금액 100만원 이상 시 10% 할인
+2697,500000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,[추가혜택] 전월 이용 금액 100만원 이상 시 10% 할인
+2697,500000,CARD_LEVEL,6,기타,FREE_SERVICE,,,,공항 및 특급호텔 발레파킹 무료 이용
+2700,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,5.0,,,해외 5% 캐시백
+2700,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,쇼핑 5% 캐시백
+2700,0,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,푸드 5% 캐시백
+2700,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,일상 5% 캐시백
+2701,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활요금 정기결제 5%/10% 할인
+2701,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,일상 필수 영역 5%/10% 할인
+2701,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 1.5% 할인
+2702,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,[커피전문점 할인] 커피전문점 20% 결제일 할인
+2704,500000,CARD_LEVEL,23,바우처,RATE_DISCOUNT,50.0,,,연 누적 이용금액별 골프/프리미엄 아울렛 50% 할인 (서비스 실적 조건 확인)
+2705,500000,CARD_LEVEL,23,바우처,RATE_DISCOUNT,50.0,,,[BONUS VOUCHER] 연 누적 이용금액별 골프/프리미엄 아울렛 50% 청구 할인
+2707,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2713,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2714,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2715,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2716,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2717,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자할부
+2718,400000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,20000,,"SKT, KT, LG U+ 및 알뜰폰 월 최대 20,000원 결제일 할인"
+2733,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,2~3개월 무이자 할부
+2733,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,쿠팡 2.0% 청구할인
+2733,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,4.0,,,오픈마켓 4.0% 청구할인
+2733,0,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,4.0,,,온라인식품&쇼핑 4.0% 청구할인
+2735,500000,INLINE,14,생활,RATE_DISCOUNT,1.0,,,[생활비] 1% 캐시백 (전월실적 50만원 이상)
+2737,500000,CARD_LEVEL,23,바우처,VOUCHER,,300000,,"[추가혜택] 전년도(카드 발급 확정월 포함 12개월) 이용 금액 1,200만원 이상 시 30만원 바우처 제공(연 1회)"
+2740,0,CARD_LEVEL,32,해외이용,FREE_SERVICE,,,,해외 가맹점 이용 수수료 면제 · 해외 ATM 인출 수수료 면제
+2743,500000,CARD_LEVEL,16,프리미엄,FREE_SERVICE,,,,[우대 서비스] 메탈 플레이트 제공·공항 라운지 무료 이용·무료 발레파킹 서비스
+2746,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,4대 생활 영역(백화점/할인점/온라인쇼핑몰/주유) 10% 빅포인트 적립
+2746,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,3.0,,,아파트관리비/이동통신 정기결제 시 3% 빅포인트 적립
+2746,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 1% 빅포인트 적립
+2747,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,30.0,,,5개 펫 온라인 전용몰 30% 결제일 할인
+2747,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,일반 온라인 쇼핑몰 10% 결제일 할인
+2748,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,30.0,,,5개 펫 온라인 전용몰 30% 결제일 할인
+2748,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,일반 온라인 쇼핑몰 10% 결제일 할인
+2751,500000,CARD_LEVEL,23,바우처,VOUCHER,,300000,,"[추가혜택] 전년도(카드 발급 확정월 포함 12개월) 이용 금액 1,200만원 이상 시
+30만원 바우처 제공(연 1회)"
+2759,300000,INLINE,14,생활,RATE_DISCOUNT,5.0,,,[일상 속 5% 적립 서비스] 생활·여행·패션 5% 마이신한포인트적립 (전월실적 30만원 이상)
+2760,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,칼퇴(음식점·주점·카페·편의점) 5% 캐시백 (저녁 6~11시 결제 건)
+2760,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,교통(대중교통·택시·카셰어링) 5% 캐시백
+2761,300000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,10.0,,,온라인 쇼핑 10% 청구할인
+2761,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,오프라인 쇼핑 5% 청구할인
+2761,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동 통신 요금 자동납부 5% 청구할인
+2763,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,20.0,,,CU 편의점 최대 20% 현장할인
+2771,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피전문점/편의점 10% 결제일할인
+2771,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신요금 정기결제 시 5%/7% 결제일할인
+2771,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,배달앱/온라인쇼핑몰/헬스&뷰티/생활잡화 5%/7% 결제일할인
+2771,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,"전월 이용금액에 관계없이, 할인한도 없이 해외 1% 결제일 할인"
+2775,200000,CARD_LEVEL,32,해외이용,FREE_SERVICE,,,,해외 이용수수료 면제 서비스
+2784,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"[생활 할인] 스타벅스, 폴바셋 10% 청구할인"
+2784,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,"[생활 할인] CU, GS25 10% 청구할인"
+2784,400000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"[대중교통 할인] 버스, 지하철 10% 청구할인"
+2789,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,20.0,,,KB Pay 오픈마켓 20% 청구할인
+2799,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,15.0,,,대중교통 & 생활비 최대 15% 결제일 할일
+2807,500000,INLINE,14,생활,RATE_DISCOUNT,7.0,,,[Life Experience 서비스] 커피전문점 2천원 할인/택시 이용금액 7% 할인 (전월실적 50만원 이상)
+2809,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"GS25, CU, 이마트24, 세븐일레븐 5% 캐시백"
+2809,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,10.0,,,"버스, 지하철 10% 캐시백"
+2809,0,CARD_LEVEL,18,카페,RATE_DISCOUNT,20.0,,,"스타벅스, 투썸플레이스 20% 캐시백"
+2810,300000,CARD_LEVEL,5,통신,FIXED_AMOUNT,,5000,,"통신 요금 대상 가맹점 자동이체 1만원 이상 납부 시 5,000원 캐시백"
+2810,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,"스타벅스, 커피빈, 투썸플레이스 1만원 이상 결제 시 5% 캐시백"
+2817,200000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,대중교통 요금 10% 할인
+2817,200000,CARD_LEVEL,5,통신,RATE_DISCOUNT,2.0,,,이동통신 2% 할인
+2817,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,2.0,,,커피·생활용품·편의점 2% 할인
+2817,200000,CARD_LEVEL,10,영화,RATE_DISCOUNT,2.0,,,영화 2% 할인
+2820,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,쿠팡&슈퍼마켓 2% 청구할인
+2820,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,4.0,,,"컬리, SSG.COM, 롯데ON, 더현대닷컴 4% 청구할인"
+2820,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,4.0,,,"G마켓, 옥션, 11번가, 인터파크, 위메프, 티몬 4% 청구할인"
+2820,400000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 5만원 이상 결제건 2~3개월 무이자 할부
+2821,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,2.0,,,쿠팡 2% 할인
+2821,400000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,2.0,,,백화점 2% 할인
+2821,400000,CARD_LEVEL,22,대형마트,RATE_DISCOUNT,2.0,,,마트 2% 할인
+2821,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,2.0,,,편의점 2% 할인
+2827,400000,CARD_LEVEL,3,주유,RATE_DISCOUNT,10.0,,,GS칼텍스에서 주유 시 10% 결제일할인
+2827,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,통신요금 정기결제 시 5% 결제일할인
+2827,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 결제일할인
+2827,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인쇼핑몰 5% 결제일할인
+2828,400000,CARD_LEVEL,3,주유,RATE_DISCOUNT,10.0,,,SK주유(충전)소에서 주유 시 10% 결제일할인
+2828,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,통신요금 정기결제 시 5% 결제일할인
+2828,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 결제일할인
+2828,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인쇼핑몰 5% 결제일할인
+2830,0,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,[일상 생활비 적립] 국내 건당 결제금액별 0.2~1% 포인트 적립
+2831,300000,INLINE,1,쇼핑,RATE_DISCOUNT,10.0,,,알리익스프레스 국내 / 해외 배송상품 10% 결제일 할인 (전월실적 30만원 이상)
+2831,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 이용 시 1% 마이신한포인트 적립
+2835,400000,INLINE,1,쇼핑,RATE_DISCOUNT,10.0,,,[Daily Plan 서비스] 쇼핑 10% 결제일 할인 (전월실적 40만원 이상)
+2835,400000,INLINE,27,교통,RATE_DISCOUNT,5.0,,,[Daily Plan 서비스] 이동 5% 결제일 할인 (전월실적 40만원 이상)
+2835,400000,INLINE,14,생활,RATE_DISCOUNT,5.0,,,[Daily Plan 서비스] 생활 5% 결제일 할인 (전월실적 40만원 이상)
+2836,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,[Daily Plan 서비스] 쇼핑 10% 결제일 할인
+2836,400000,CARD_LEVEL,27,교통,RATE_DISCOUNT,5.0,,,[Daily Plan 서비스] 이동 5% 결제일 할인
+2836,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,[Daily Plan 서비스] 생활 5% 결제일 할인
+2837,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 가맹점 2% 할인
+2840,300000,CARD_LEVEL,9,주유소,FIXED_AMOUNT,,80,,주유 리터당 80원~120원 캐시백
+2840,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 20대 브랜드 10% 캐시백
+2840,300000,CARD_LEVEL,10,영화,RATE_DISCOUNT,10.0,,,영화 가맹점 10% 캐시백
+2841,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 20대 브랜드 10% 캐시백
+2845,400000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,10.0,,,"음식점, 편의점 10% 할인"
+2845,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,이동통신요금 10% 할인
+2847,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,[해외 이용 서비스] 국제 브랜드 수수료(1%) / 해외 서비스 수수료(0.2%) 면제
+2847,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,[해외 이용 서비스] 해외 ATM 이용 인출 수수료(건당 ) 및 국제 브랜드 수수료(1%) 면제
+2847,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,[해외 이용 서비스] 해외 대중교통 컨택리스 방식으로 이용 시 1% 결제일 할인
+2847,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,50.0,,,[일본 여행 서비스] 돈키호테/스타벅스 50% 할인
+2847,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,[국내 이용 서비스] 국내 4대 편의점 5% 결제일 할인
+2847,300000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,1.0,,,[국내 이용 서비스] 국내 대중교통 1% 결제일 할인
+2852,0,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"[공통] CU, 세븐일레븐 5% 할인"
+2852,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,"[공통] 다이소, 올리브영, KB Pay 쇼핑 5% 할인"
+2852,0,CARD_LEVEL,8,패밀리레스토랑,RATE_DISCOUNT,10.0,,,[외식 3구간] 패밀리레스토랑 업종 10% 할인
+2856,1000000,CARD_LEVEL,14,생활,RATE_DISCOUNT,0.4,,,[Life 영역] 0.4% ~ 1% 적립
+2856,1000000,CARD_LEVEL,6,기타,RATE_DISCOUNT,1.0,,,[Biz 1. 영역] 제약/의료기기 0.4 ~ 1% 적립
+2856,1000000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.4,,,[해외이용] 해외 가맹점 1.4% 적립
+2859,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,KB Pay 쇼핑 이용 5~10% 청구할인
+2863,0,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,2.0,,,"[특별적립] 항공권 2%, 호텔/렌터카 3% 트래블마일 적립"
+2864,0,CARD_LEVEL,29,여행/숙박,RATE_DISCOUNT,3.0,,,"[특별적립] 항공권 3%, 호텔/렌터카 5% 트래블마일 적립"
+2867,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,[갤러리아 기본 서비스] 갤러리아 백화점 5% 현장할인
+2867,500000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,7.0,,,[갤러리아 특별 서비스] 갤러리아 백화점 / 갤러리아몰 5~7% 청구할인
+2867,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,6,,[갤러리아 특별 서비스] 갤러리아 백화점 최대 6개월 무이자할부
+2867,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,3.0,,,[생활 서비스] 생활 영역 3% 청구할인
+2868,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,KB Pay 쇼핑 이용 5% 환급할인
+2869,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,편의점 업종 10% 청구할인
+2869,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,커피 업종 10% 청구할인
+2873,400000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,[스타필드] 스타필드 이용금액 10% 결제일 할인
+2873,400000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,5.0,,,[신세계 계열사] 신세계백화점 5% 결제일 할인
+2873,400000,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,"[신세계 계열사] 할인점, 편의점 5% 결제일 할인"
+2873,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[신세계 계열사] 온라인쇼핑 5% 결제일 할인
+2873,400000,CARD_LEVEL,18,카페,RATE_DISCOUNT,5.0,,,[신세계 계열사] 스타벅스 5% 결제일 할인
+2873,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,[신세계 계열사] 까사미아 5% 결제일 할인
+2873,400000,CARD_LEVEL,10,영화,RATE_DISCOUNT,5.0,,,[라이프] 영화관 5% 결제일 할인
+2875,300000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 5% 할인
+2876,0,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,대중교통 5% 청구할인
+2876,0,CARD_LEVEL,24,마트/편의점,RATE_DISCOUNT,5.0,,,"편의점, 슈퍼마켓 5% 청구할인"
+2876,0,CARD_LEVEL,3,주유,RATE_DISCOUNT,5.0,,,주유 5% 청구할인
+2877,500000,CARD_LEVEL,26,해외,RATE_DISCOUNT,10.0,,,해외여행 10% 청구할인
+2877,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,쇼핑 10% 청구할인
+2877,500000,CARD_LEVEL,35,골프,RATE_DISCOUNT,10.0,,,골프 10% 청구할인
+2877,500000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,커피 50% 청구할인
+2882,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,[추가 혜택] 실적·한도 제한 없이 해외 온·오프라인 가맹점 2% 청구 할인
+2885,400000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,[기본] 생활 편의 영역 5% 할인
+2885,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,[기본] 해외 2% 할인
+2886,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,생활 편의 영역 5% 할인
+2886,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 2% 할인
+2890,200000,CARD_LEVEL,14,생활,RATE_DISCOUNT,1.0,,,[일상 생활비 적립] 국내 건당 결제금액별 0.2~1% 포인트 적립
+2890,200000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,[일상 생활비 적립] 해외 결제금액 1% 포인트 적립
+2891,200000,CARD_LEVEL,17,대중교통,RATE_DISCOUNT,5.0,,,[일상 서비스] 대중교통 이용금액 5% 캐시백
+2891,200000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.2,,,"[해외 서비스] 해외 전 가맹점(온라인포함) 1.2% 캐시백
+해외인출 1건 당 US  캐시백 제공"
+2892,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,[생활 영역] 4대 편의점 10% 적립
+2892,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,[생활 영역] 커피 업종 10% 적립
+2892,200000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,[생활 영역] 해외이용 1% 적립
+2892,200000,CARD_LEVEL,6,기타,RATE_DISCOUNT,10.0,,,"[놀이 영역] 사진관, 볼링장, 테니스장, 스키장 10% 적립"
+2893,200000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,10.0,,,[생활 영역] 4대 편의점 10% 적립
+2893,200000,CARD_LEVEL,18,카페,RATE_DISCOUNT,10.0,,,[생활 영역] 커피 업종 10% 적립
+2893,200000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,1.0,,,[생활 영역] 해외이용 1% 적립
+2894,300000,CARD_LEVEL,18,카페,RATE_DISCOUNT,50.0,,,스타벅스 50% 할인
+2894,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 2% 할인
+2898,500000,INLINE,6,기타,FREE_SERVICE,,,,국내공항 무료 발레파킹 서비스 (전월실적 50만원 이상)
+2902,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,[라이프] OTT/뷰티/여가 10% 할인
+2903,300000,CARD_LEVEL,3,주유,FIXED_AMOUNT,,150,,"SK에너지·HD현대오일뱅크에서 주유 시 리터당 150원 청구 할인
+모든 충전소(LPG) 이용 시 리터당 150원 청구 할인"
+2904,500000,CARD_LEVEL,14,생활,RATE_DISCOUNT,10.0,,,"8가지 생활영역에서 10% 청구할인
+(병원/의원, 관리비, 통신, 쇼핑, 학원, 커피, 보험, 골프)"
+2905,200000,CARD_LEVEL,26,해외,FREE_SERVICE,,,,"[해외 혜택] 해외 가맹점, ATM 이용 수수료 면제"
+2905,200000,CARD_LEVEL,18,카페,FIXED_AMOUNT,,1000,,"[국내 혜택] 카페 1,000원 할인"
+2905,200000,CARD_LEVEL,12,푸드,FIXED_AMOUNT,,5000,,"[국내 혜택] 전국맛집 5,000원 할인"
+2906,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,테마파크 서울랜드 50% 할인
+2907,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,50.0,,,[일본 여행] 일본 3대 편의점 50% 캐시백
+2907,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,50.0,,,[일본 여행] 일본 커피/패스트푸드 50% 캐시백
+2907,300000,CARD_LEVEL,26,해외,RATE_DISCOUNT,10.0,,,[국내외 캐시백] 해외 10% 캐시백
+2907,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,[국내외 캐시백] 국내 쇼핑 5% 캐시백
+2907,300000,CARD_LEVEL,12,푸드,RATE_DISCOUNT,5.0,,,[국내외 캐시백] 국내 푸드 5% 캐시백
+2907,300000,CARD_LEVEL,14,생활,RATE_DISCOUNT,5.0,,,[국내외 캐시백] 국내 일상 5% 캐시백
+2909,300000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,쇼핑 5% 청구할인
+2913,300000,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3500,,"메가박스/CGV 온라인 영화 예매 시 3,500원 청구할인"
+2913,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,롯데월드 어드벤처 종합이용권 50% 현장 할인
+2913,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,에버랜드 페스티벌월드 자유이용권 50% 현장 할인
+2913,300000,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,30.0,,,캐리비안베이 입장권 30% 현장 할인
+2914,0,CARD_LEVEL,7,백화점,RATE_DISCOUNT,0.5,,,국내외 가맹점 0.5% ~ 3% 신백리워드 포인트 적립
+2914,0,CARD_LEVEL,22,대형마트,FIXED_AMOUNT,,6000,,"이마트 6,000원 할인 (통합 월 1회, 전월 이용금액 20만원 이상 시 제공)"
+2914,0,CARD_LEVEL,10,영화,FIXED_AMOUNT,,3000,,"CGV 3,000원 할인 (월 1회, 전월 이용금액 30만원 이상 시 제공)"
+2914,0,CARD_LEVEL,11,테마파크,RATE_DISCOUNT,50.0,,,"놀이공원 50% / 워터파크 30% 할인 (연 5회, 전월 이용금액 30만원 이상 시 제공)"
+2914,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 주말 2~3개월 무이자할부
+2914,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,신세계백화점 / 이마트 2~3개월 무이자할부
+2923,300000,CARD_LEVEL,7,백화점,RATE_DISCOUNT,3.0,,,신세계백화점 최대 3% 결제일 할인 서비스
+2923,300000,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,해외 가맹점 2% 할인 서비스
+2929,200000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,50.0,,,"[A팩] 6개 영역 최대 50% 할인
+OTT, APP, 여가, 교통, 편의점, 영화관"
+2929,200000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,50.0,,,"[B팩] 6개 영역 최대 50% 할인
+쇼핑 멤버십, 통신요금, 패션/라이프, 배달, 편의점, 데이트"
+2930,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,10.0,,,"[일상팩] 6개 영역 최대 10% 청구할인
+주유, 배달, 통신/보험/APP, 온라인쇼핑, 편의점, 취미/자기관리"
+2930,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,10.0,,,"[가족팩] 6개 영역 최대 10% 청구할인
+생활요금, 온라인장보기, 일상케어, 학원, 대형마트, 카페"
+2943,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,G마켓/옥션 5% 빅포인트 적립
+2943,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,이동통신 5% 빅포인트 적립
+2943,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 가맹점 2% 빅포인트 적립
+2944,500000,CARD_LEVEL,23,바우처,VOUCHER,,150000,,"[연간 보너스] 쇼핑, 호텔, 여행 영역 15만원권 바우처 제공(연 1회, 서비스 실적 조건 확인)"
+2952,400000,CARD_LEVEL,3,주유,RATE_DISCOUNT,10.0,,,HD현대오일뱅크 10% 할인
+2952,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,5.0,,,통신 5% 할인
+2952,400000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,편의점 5% 할인
+2952,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,온라인쇼핑몰 5% 할인
+2954,300000,CARD_LEVEL,19,편의점,RATE_DISCOUNT,5.0,,,"편의점 이용 시 최대 5% 적립(GS25, CU, 세븐일레븐, 이마트24)"
+2955,300000,CARD_LEVEL,27,교통,RATE_DISCOUNT,10.0,,,대중교통/택시 10% 할인
+2964,400000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,5.0,,,[국내 할인 서비스] 온라인패션몰 5% 할인
+2964,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,[특별 서비스] 해외 가맹점 2% 할인
+2970,400000,CARD_LEVEL,5,통신,RATE_DISCOUNT,10.0,,,[위시 베이직] 이동통신요금 10% 할인
+2970,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,[위시 픽] 배달/커피 5% 할인 (배달/일상/관리 중 택 1)
+2970,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,"[위시 픽] 택시/커피 5%, 영화관 30% 할인 (배달/일상/관리 중 택 1)"
+2970,400000,CARD_LEVEL,13,선택형,RATE_DISCOUNT,5.0,,,"[위시 픽] 미용실, 스포츠, 온라인서점, 올리브영 5% 할인 (배달/일상/관리 중 택 1)"
+2975,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.5,,,해외 가맹점 1.5% 결제일 할인
+2975,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2977,0,CARD_LEVEL,32,해외이용,FREE_SERVICE,,,,"국제 브랜드 수수료 / 해외 서비스 수수료 면제
+해외 ATM 이용 인출 수수료 및 국제 브랜드 수수료 면제"
+2977,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,50.0,,,"일본 돈키호테 50% 할인
+일본 편의점 50% 할인"
+2978,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,10.0,,,온·오프라인 쇼핑 10% 청구할인
+2978,500000,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,5.0,,,주중 온라인/주말 오프라인 쇼핑 5% 추가 청구할인
+2978,500000,CARD_LEVEL,21,온라인쇼핑,RATE_DISCOUNT,50.0,,,온라인 쇼핑 멤버십 50% 청구할인
+2980,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,2~3개월 무이자 할부 서비스
+2981,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,3.5,,,해외 가맹점 3.5% 청구할인
+2986,0,CARD_LEVEL,1,쇼핑,RATE_DISCOUNT,1.0,,,[기본 서비스] 쇼핑 1% 할인
+2986,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,[기본 서비스] 병원/약국 2~3개월 무이자할부
+2987,0,CARD_LEVEL,26,해외,RATE_DISCOUNT,2.0,,,해외 가맹점 2.0% 결제일 할인
+2987,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 가맹점 2~3개월 무이자 할부
+2988,400000,CARD_LEVEL,26,해외,RATE_DISCOUNT,1.0,,,해외 가맹점 1% 할인
+2989,400000,INLINE,12,푸드,RATE_DISCOUNT,10.0,,,"[기본 혜택] 일반음식점, 배달 앱 10% 청구 할인 (전월실적 40만원 이상)"
+2991,0,CARD_LEVEL,32,해외이용,RATE_DISCOUNT,2.0,,,[추가 혜택] 실적·한도 제한 없이 해외 온·오프라인 가맹점 2% 청구 할인
+2993,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,2~3개월 무이자할부 서비스
+2997,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 2~3개월 무이자할부
+2998,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_FREE,,3,,국내 2~3개월 무이자할부
