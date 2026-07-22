@@ -1,0 +1,12 @@
+﻿source_file,card_id,raw_text,before_rate,before_unit_basis,after_rate,after_unit_basis,after_unit_type,reason
+benefits_patched.csv,49,"(특별적립) 국내형: 백화점 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립",1.0,,1.0,1000,WON,WON_UNIT_RECOVERED
+benefits_patched.csv,49,"(특별적립) 국내형: 주유 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립",1.0,,1.0,1000,WON,WON_UNIT_RECOVERED
+benefits_patched.csv,49,"(특별적립) 국내형: 커피 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립",1.0,,1.0,1000,WON,WON_UNIT_RECOVERED
+benefits_patched.csv,49,"(특별적립) 국내형: 편의점 이용금액 1,000원당 (스카이패스) 1 마일리지 추가 적립",1.0,,1.0,1000,WON,WON_UNIT_RECOVERED
+benefits_patched.csv,49,"(특별적립) 해외형: 해외 가맹점 및 해외 직접구매 이용건 1,000원당 (스카이패스) 1 마일리지 추가 적립",1.0,,1.0,1000,WON,WON_UNIT_RECOVERED
+benefits_patched.csv,452,SK 주유소 이용금액 리터당 3마일리지 적립,3.0,,3.0,,LITER,LITER_UNIT_RECOVERED
+benefits_patched.csv,453,SK 주유소 이용금액 리터당 3마일리지 적립,3.0,,3.0,,LITER,LITER_UNIT_RECOVERED
+benefits_patched.csv,2406,국내 이용금액 1천원당 1마일리지 적립,1.0,,1.0,1000,WON,CHEONWON_UNIT_RECOVERED
+benefits_patched.csv,2406,해외 이용금액 1천원당 2마일리지 적립 (지난달 실적 조건 확인),2.0,,2.0,1000,WON,CHEONWON_UNIT_RECOVERED
+benefits_patched.csv,2436,"항공 마일리지와 M포인트 중 선택 적립
+[선택1] 대한항공 마일리지 이용 금액 1천원당 1마일리지 적립",1.0,,1.0,1000,WON,CHEONWON_UNIT_RECOVERED

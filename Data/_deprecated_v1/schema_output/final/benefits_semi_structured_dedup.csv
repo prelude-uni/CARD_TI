@@ -1,0 +1,468 @@
+﻿card_id,min_amount,min_amount_source,category_id,group_name,benefit_type,rate,fixed_amount,unit_basis,raw_text
+1,0,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,무이자/영화/테마파크
+11,0,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,"생활친화가맹점 잔돈할인 서비스, Coin-Save"
+12,0,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,마이신한포인트 추가 적립
+15,300000,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,항공 마일리지 적립 서비스
+16,500000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,국내 주유소 리터당 40~150포인트/충전소 리터당 10~50포인트 적립
+21,300000,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,잔돈 할인 서비스(Coin-Save)
+35,200000,CARD_LEVEL,11,테마파크,DISCOUNT_SERVICE_GENERIC,,,,주요 놀이공원 할인 서비스
+36,300000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Platinum# 서비스 및 국제브랜드사 서비스
+37,300000,CARD_LEVEL,13,선택형,MILEAGE_UNSPECIFIED,,,,"캐시백(캐시백형 선택 시)
+마일리지 적립(마일리지 적립형 선택 시)"
+38,300000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,Platinum# 서비스 및 국제브랜드사 서비스
+50,300000,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+50,300000,CARD_LEVEL,11,테마파크,DISCOUNT_SERVICE_GENERIC,,,,놀이공원 할인 서비스
+53,300000,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,"S-OIL 주유소에서 휘발유, 경유, 등유 주유시 리터당 40보너스포인트 적립"
+56,500000,CARD_LEVEL,11,테마파크,DISCOUNT_SERVICE_GENERIC,,,,놀이공원 할인 서비스
+61,0,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,S-OIL 주유소 주유 시 리터당 40 보너스포인트 적립
+62,0,CARD_LEVEL,26,해외,POINT_UNSPECIFIED,,,,해외 쇼핑 빅포인트 적립
+64,300000,CARD_LEVEL,1,쇼핑,MEMBERSHIP_BENEFIT,,,,신세계백화점·이마트 제휴 혜택
+72,400000,CARD_LEVEL,7,백화점,MEMBERSHIP_BENEFIT,,,,신세계백화점 제휴 서비스
+73,300000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,할부전환서비스 / 무이자할부
+77,300000,CARD_LEVEL,29,여행/숙박,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+91,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"프리미엄 기프트 서비스(연 1회, 택1)"
+91,0,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+92,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"프리미엄 기프트 서비스(연 1회, 택1)"
+92,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+93,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"프리미엄 기프트 서비스(연 1회, 택1)"
+93,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+107,300000,CARD_LEVEL,25,정비,DISCOUNT_SERVICE_GENERIC,,,,스피드메이트 차량정비 현장할인 서비스
+108,0,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,특별 포인트리
+108,0,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,기본 포인트리
+113,0,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,대한항공 마일리지 1~2마일 적립
+114,0,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,아시아나 마일리지 1~2마일 적립
+116,300000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,연간 리워드 1만점 적립
+121,300000,CARD_LEVEL,26,해외,DISCOUNT_SERVICE_GENERIC,,,,KB투어할인 서비스
+121,300000,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,선택 적립 서비스팩 - 생활/교육/쇼핑/직장인/레저팩 중 택 1
+121,300000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,"연간 이용에 따른 다담리워드 서비스,
+함께하는 기부 서비스"
+127,400000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,"SK, GS칼텍스 주유소 리터당 100점 적립"
+127,400000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,플러스 O2O 적립 서비스
+127,400000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,서비스 제공 조건 및 적립한도
+131,500000,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,대한항공 마일리지 적립
+133,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,쿠폰서비스
+133,500000,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,BeV Ⅲ카드 우대 서비스
+134,400000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,전 주유소 및 충전소 110~150점/L 적립
+140,300000,CARD_LEVEL,25,정비,DISCOUNT_SERVICE_GENERIC,,,,스피드메이트 차량정비 현장할인 서비스
+143,400000,CARD_LEVEL,12,푸드,DISCOUNT_SERVICE_GENERIC,,,,"[꿀맛α Food 할인서비스]
+음식업종 건당 2천원 청구할인"
+143,400000,CARD_LEVEL,31,카페/디저트,DISCOUNT_SERVICE_GENERIC,,,,"[꿀맛α Food 할인서비스]
+커피/제과 업종 건당 1천원 청구할인"
+145,400000,CARD_LEVEL,10,영화,DISCOUNT_SERVICE_GENERIC,,,,"[꿀잼α Fun 할인서비스]
+영화 건당 4천원 청구할인"
+146,0,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,추가 적립/할인 7대 영역 안내
+174,300000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,각종 바우처 제공
+186,400000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,에코머니 포인트 적립
+191,400000,CARD_LEVEL,31,카페/디저트,DISCOUNT_SERVICE_GENERIC,,,,생활 할인 서비스
+194,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,6개월 슬림할부(부분 무이자할부) 서비스
+201,300000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,롯데백화점 12개월 할부서비스
+207,300000,CARD_LEVEL,6,기타,DISCOUNT_SERVICE_GENERIC,,,,경차 유류세 환급
+207,300000,CARD_LEVEL,9,주유소,DISCOUNT_SERVICE_GENERIC,,,,주유 할인 서비스
+207,300000,CARD_LEVEL,17,대중교통,DISCOUNT_SERVICE_GENERIC,,,,교통 할인 서비스
+207,300000,CARD_LEVEL,1,쇼핑,DISCOUNT_SERVICE_GENERIC,,,,쇼핑 할인 서비스
+207,300000,CARD_LEVEL,25,정비,DISCOUNT_SERVICE_GENERIC,,,,정비(엔진오일) 할인 서비스
+227,400000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"면세점/여행 관련 서비스,
+하나은행 결제 계좌 고객 우대 서비스"
+231,300000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,아파트관리비 자동이체 시 하나머니 적립
+232,300000,CARD_LEVEL,1,쇼핑,POINT_UNSPECIFIED,,,,국내 특화가맹점/해외 모든가맹점 하나머니 적립
+232,300000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,아파트관리비 자동이체 시 하나머니 적립
+234,300000,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,Daily/Monthly 하나머니 적립
+234,300000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,아파트관리비 자동이체 시 하나머니 적립
+237,300000,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,6개 영역 중 선택한 3개 영역 하나머니 적립
+237,300000,CARD_LEVEL,21,온라인쇼핑,POINT_UNSPECIFIED,,,,온라인쇼핑 적립(공통서비스)
+237,300000,CARD_LEVEL,5,통신,POINT_UNSPECIFIED,,,,통신요금 적립(공통서비스)
+237,300000,CARD_LEVEL,27,교통,POINT_UNSPECIFIED,,,,대중교통 적립(공통서비스)
+237,300000,CARD_LEVEL,10,영화,POINT_UNSPECIFIED,,,,영화 적립(공통서비스)
+240,300000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,"[리빙 적립]
+주유, 학원 이용금액 하나머니 적립(월 최대 4만 머니)"
+241,300000,CARD_LEVEL,1,쇼핑,POINT_UNSPECIFIED,,,,쇼핑 또는 주유 이용금액 스페셜 적립
+241,300000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,"온라인쇼핑, 통신/교통/자동이체, 해외 이용금액 플러스적립"
+242,0,CARD_LEVEL,20,항공마일리지,POINT_UNSPECIFIED,,,,HANA Mile 적립
+243,0,CARD_LEVEL,20,항공마일리지,POINT_UNSPECIFIED,,,,HANA Mile 적립
+244,0,CARD_LEVEL,20,항공마일리지,POINT_UNSPECIFIED,,,,HANA Mile 적립
+245,0,CARD_LEVEL,20,항공마일리지,POINT_UNSPECIFIED,,,,HANA Mile 적립
+251,300000,CARD_LEVEL,29,여행/숙박,POINT_UNSPECIFIED,,,,"저가항공(LCC), 면세점 이용금액 하나머니 적립"
+281,0,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,추가 포인트 적립
+281,0,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,주유소 적립
+284,300000,CARD_LEVEL,1,쇼핑,POINT_UNSPECIFIED,,,,신한은행 결제 계좌 연결 제공 서비스(추가 포인트 적립)
+286,0,CARD_LEVEL,10,영화,POINT_UNSPECIFIED,,,,CGV 영화 최대 3천원 적립
+294,300000,CARD_LEVEL,4,금융,MEMBERSHIP_BENEFIT,,,,금융 우대 서비스
+303,0,CARD_LEVEL,3,주유,DISCOUNT_SERVICE_GENERIC,,,,GS칼텍스 주유할인 서비스(LPG포함)
+309,200000,CARD_LEVEL,18,카페,DISCOUNT_SERVICE_GENERIC,,,,EDIYA 특화 할인 서비스
+313,250000,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,"[국내서비스] 쇼핑, 커피, 영화 등 다양한 국내 가맹점 할인 서비스"
+324,300000,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,"커피, 영화, 외식 등 다양한 국내 가맹점 할인 서비스"
+333,300000,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,국내외 가맹점 기본적립
+333,300000,CARD_LEVEL,31,카페/디저트,POINT_UNSPECIFIED,,,,커피/제과아이스크림 업종 추가적립
+333,300000,CARD_LEVEL,10,영화,POINT_UNSPECIFIED,,,,영화관 업종 추가적립
+333,300000,CARD_LEVEL,5,통신,POINT_UNSPECIFIED,,,,"이동통신요금(SKT, KT, LG U+) 자동이체 시 추가적립"
+333,300000,CARD_LEVEL,17,대중교통,POINT_UNSPECIFIED,,,,"대중교통(버스, 지하철) 추가적립"
+333,300000,CARD_LEVEL,19,편의점,POINT_UNSPECIFIED,,,,GS25 편의점 추가적립
+336,100000,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,모든 가맹점 포인트리 기본적립
+336,100000,CARD_LEVEL,12,푸드,POINT_UNSPECIFIED,,,,"음식점, 커피전문점 업종 포인트리 추가적립"
+336,100000,CARD_LEVEL,27,교통,POINT_UNSPECIFIED,,,,"대중교통, 택시 포인트리 추가적립"
+336,100000,CARD_LEVEL,5,통신,POINT_UNSPECIFIED,,,,이동통신요금 포인트리 추가적립
+338,300000,CARD_LEVEL,2,모든가맹점,DISCOUNT_SERVICE_GENERIC,,,,모든 가맹점 기본 환급할인 및 주말·공휴일 추가 환급할인
+338,300000,CARD_LEVEL,12,푸드,DISCOUNT_SERVICE_GENERIC,,,,"음식점, 커피전문점 업종 추가 환급할인"
+338,300000,CARD_LEVEL,27,교통,DISCOUNT_SERVICE_GENERIC,,,,"대중교통(버스·지하철), 택시 추가 환급할인"
+338,300000,CARD_LEVEL,5,통신,DISCOUNT_SERVICE_GENERIC,,,,이동통신요금 추가 환급할인
+343,200000,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,"GS칼텍스 리터당 주중 50점, 주말 60점 포인트리 적립"
+343,200000,CARD_LEVEL,5,통신,POINT_UNSPECIFIED,,,,"이동통신요금 2,500점 포인트리 적립"
+343,200000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,통합적립한도
+347,200000,CARD_LEVEL,8,패밀리레스토랑,PREMIUM_SERVICE,,,,아웃백·VIPS·TGIF·세븐스프링스
+354,300000,CARD_LEVEL,5,통신,DISCOUNT_SERVICE_GENERIC,,,,LG U+ 이동통신요금 자동납부 시 4~6천원 환급할인
+355,300000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,H.Point 적립
+369,200000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,공통/제휴서비스
+402,100000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA Platinum 국제브랜드 서비스
+408,0,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,사용금액별 X캐시백 적립
+410,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+414,0,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,당월 이용금액별 M포인트 적립
+421,300000,CARD_LEVEL,3,주유,DISCOUNT_SERVICE_GENERIC,,,,경차 유류세 환급 대상자 주유 및 충전(LPG) 시 유류세 환급
+422,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"M포인트로 여행, 면세점, 호텔에서 사용 가능한 the Green 바우처 교환"
+424,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"[공통 제공 혜택]
+연 1회, 여행과 쇼핑을 위한 바우처"
+424,0,CARD_LEVEL,13,선택형,MILEAGE_UNSPECIFIED,,,,"[선택 제공 혜택]
+항공마일리지(대한항공/아시아나항공) 또는 M포인트 적립"
+425,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,코스트코 리워드 포인트 매년 1회 바우처 교환
+430,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA/MASTER Platinum 서비스
+447,500000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,하나머니 적립
+448,500000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,하나머니 적립
+451,0,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,SK 주유소 이용금액 리터당 60포인트 적립
+457,250000,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,"[국내서비스] 쇼핑, 커피, 영화 등 다양한 국내 가맹점 할인 서비스"
+473,300000,CARD_LEVEL,29,여행/숙박,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+473,300000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,UnionPay Platinum 서비스
+476,400000,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,[Making 17 서비스] 포인트 적립받을 영역과 적립율을 직접 선택하는 DIY 서비스!
+478,0,CARD_LEVEL,6,기타,DISCOUNT_SERVICE_GENERIC,,,,생활친화가맹점 잔돈할인 서비스
+488,500000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,주유 리터당 150점 포인트리 적립
+488,500000,CARD_LEVEL,31,카페/디저트,POINT_UNSPECIFIED,,,,제과/아이스크림 2천점 포인트리 적립
+488,500000,CARD_LEVEL,19,편의점,POINT_UNSPECIFIED,,,,"편의점, 올리브영 1천점 포인트리 적립"
+502,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Platinum Service
+535,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,스페셜기프트 제공(연 1회)
+535,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,AMEX Platinum 서비스
+536,400000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,디지털 구독 서비스 정기결제 이용 시 마이신한포인트 적립
+537,400000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,7개 디지털 구독 서비스 정기결제 이용 시 마이신한 포인트 적립
+537,400000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,"커피, 편의점, 해외 이용시 마이신한포인트 적립"
+539,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,마스터 플래티넘 서비스
+546,0,CARD_LEVEL,1,쇼핑,DISCOUNT_SERVICE_GENERIC,,,,"유명의류, 한국프뢰벨, 현대홈쇼핑, 특별할인서비스"
+558,500000,CARD_LEVEL,6,기타,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+579,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,Mastercard Platinum 서비스
+588,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,MasterCard Platinum 서비스 제공
+589,0,CARD_LEVEL,32,해외이용,MEMBERSHIP_BENEFIT,,,,해외 인출 수수료 우대 서비스
+594,300000,CARD_LEVEL,1,쇼핑,INSTALLMENT_SERVICE,,,,삼성디지털프라자 장기할부 및 청구할인
+600,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,MasterCard 플래티넘서비스
+601,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,MasterCard 플래티넘서비스
+601,0,CARD_LEVEL,6,기타,MILEAGE_UNSPECIFIED,,,,웰컴보너스 5천 마일리지 적립
+602,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"마일리지, 항공권, 면세점 바우처 서비스"
+602,0,CARD_LEVEL,6,기타,MILEAGE_UNSPECIFIED,,,,웰컴보너스 5천 마일리지 적립
+603,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"마일리지, 항공권, 면세점, Special 바우처 서비스"
+603,0,CARD_LEVEL,6,기타,MILEAGE_UNSPECIFIED,,,,웰컴보너스 1만5천 마일리지 적립
+608,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA 플래티넘 / Young Premium 서비스 제공
+608,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+609,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA 플래티넘 / Young Premium 서비스 제공
+609,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+610,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA 플래티넘 / Young Premium 서비스 제공
+610,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+611,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA 플래티넘 / Young Premium 서비스 제공
+611,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+613,500000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,마리아쥬 서비스 적립
+613,500000,CARD_LEVEL,21,온라인쇼핑,POINT_UNSPECIFIED,,,,온라인쇼핑 지원 적립
+613,500000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,홈DIY 적립
+617,300000,CARD_LEVEL,9,주유소,DISCOUNT_SERVICE_GENERIC,,,,주유할인 서비스
+626,1500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Master Platinum 서비스(Master 플래티넘 카드 발급 시 제공)
+627,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Master Platinum 서비스(Master 플래티넘 카드 발급 시 제공)
+647,300000,CARD_LEVEL,4,금융,MEMBERSHIP_BENEFIT,,,,금융 우대 서비스
+649,500000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,편의점/택시 1천점 포인트리 적립
+673,300000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,"VISA 플래티넘서비스
+MasterCard 플래티넘서비스"
+685,100000,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,라이프 할인서비스(편의점/푸드/음료)
+685,100000,CARD_LEVEL,6,기타,DISCOUNT_SERVICE_GENERIC,,,,스터디 할인서비스
+687,400000,CARD_LEVEL,6,기타,DISCOUNT_SERVICE_GENERIC,,,,언박싱 스페셜 할인 서비스
+697,400000,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,"[선택형1] 주유소, 대형할인점, 인터넷쇼핑몰 포인트리 적립"
+697,400000,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,"[선택형2] SK, GS칼텍스 주유소 리터당 130점 포인트리 적립"
+700,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+700,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+701,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+701,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+702,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+702,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+702,500000,CARD_LEVEL,6,기타,PREMIUM_SERVICE,,,,현대카드 플래티넘서비스
+703,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+703,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+703,500000,CARD_LEVEL,6,기타,PREMIUM_SERVICE,,,,현대카드 플래티넘서비스
+704,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+704,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+704,500000,CARD_LEVEL,6,기타,PREMIUM_SERVICE,,,,현대카드 플래티넘서비스
+705,500000,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자할부 서비스
+705,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,"VISA 플래티넘 / MasterCard 플래티넘 서비스 제공
+VISA Young Premium 서비스 제공"
+705,500000,CARD_LEVEL,6,기타,PREMIUM_SERVICE,,,,현대카드 플래티넘서비스
+718,0,CARD_LEVEL,6,기타,VOUCHER_GIFT,,,,"임신, 출산, 육아 등 국가가 지원하는 바우처를 해당 카드로 이용 가능,
+신세계백화점 제휴 서비스"
+721,300000,CARD_LEVEL,29,여행/숙박,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+726,500000,CARD_LEVEL,5,통신,DISCOUNT_SERVICE_GENERIC,,,,알뜰폰 통신료 자동이체 최대 1만 5천원 할인 서비스
+726,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,"티타늄 전용 서비스(공항/호텔 발레바킹, 공항 라운지 등)"
+727,300000,CARD_LEVEL,5,통신,DISCOUNT_SERVICE_GENERIC,,,,알뜰폰 통신료 자동이체 할인 서비스
+739,100000,CARD_LEVEL,6,기타,DISCOUNT_SERVICE_GENERIC,,,,"군마트(P.X) 및 GS25 해군마트 환급할인
+군 KT공중전화 할인"
+741,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,현대카드 플래티넘서비스
+741,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,VISA/MasterCard 플래티넘서비스
+754,300000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,신세계백화점 제휴 서비스
+761,500000,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,"주유, 전기차, 커피전문점 할인 서비스"
+761,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,MasterCard Platinum 서비스
+764,0,CARD_LEVEL,5,통신,POINT_UNSPECIFIED,,,,"이동통신요금 카카오페이포인트 3,000P 적립"
+768,400000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,기부포인트 적립 서비스
+791,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA 브랜드 플래티넘서비스 제공
+853,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA 플래티넘서비스
+859,0,CARD_LEVEL,3,주유,DISCOUNT_SERVICE_GENERIC,,,,경차 유류세 환급 대상자 주유 및 충전(LPG) 시 유류세 환급
+881,300000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,모바일쿠폰 서비스
+889,400000,CARD_LEVEL,5,통신,DISCOUNT_SERVICE_GENERIC,,,,"(생활형) 통신, 인터넷, 보안업체 자동이체 시 결제일 할인서비스 제공"
+889,400000,CARD_LEVEL,4,금융,MEMBERSHIP_BENEFIT,,,,(기본 제공) 신한은행 우대 서비스
+890,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA Platinum 서비스
+993,0,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,항공 마일리지 적립 서비스
+993,0,CARD_LEVEL,35,골프,DISCOUNT_SERVICE_GENERIC,,,,골프 할인 서비스
+1003,0,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,Platinum# 서비스 및 국제브랜드사 서비스
+1010,500000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,이용건별 기부서비스(1+1적립)
+1165,400000,CARD_LEVEL,35,골프,DISCOUNT_SERVICE_GENERIC,,,,골프존 할인 서비스
+1169,0,CARD_LEVEL,1,쇼핑,INSTALLMENT_SERVICE,,,,"롯데백화점, 롯데ON, 롯데마트 할부 및 할인"
+1174,0,CARD_LEVEL,26,해외,POINT_UNSPECIFIED,,,,해외에서도 전월 실적 및 횟수 제한 없는 하나머니 적립 서비스
+1233,300000,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,라이트할부 할인서비스 최대 1만 5천원
+1299,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,플래티늄 바우처_쿠폰 서비스
+1302,300000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+1315,300000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,연간 리워드 1만점 적립
+1360,300000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+1390,400000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,현대오일뱅크 주유 시 40P/L 적립
+1529,300000,CARD_LEVEL,6,기타,VOUCHER_GIFT,,,,올레콘텐츠박스 이용쿠폰 제공
+1584,0,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,무이자/영화/테마파크
+1593,500000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,모든 주유소 리터당 40~150포인트/충전소 리터당 10~50포인트 적립
+1593,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,Platinum # 서비스
+1595,0,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,Platinum# 서비스 및 국제브랜드사 서비스
+1610,200000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1615,200000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1616,200000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1617,0,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1618,200000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1619,0,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"KB국민 티머니 체크카드
+(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+1623,300000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,S-OIL 리터당 40 보너스포인트 적립
+1630,300000,CARD_LEVEL,29,여행/숙박,PREMIUM_SERVICE,,,,"여행서비스 할인
+골프 라운지 혜택"
+1673,0,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,S-OIL 주유소에소 주유 시 리터당 80 빅포인트 적립
+1741,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"프리미엄 기프트(연 1회, 택1)"
+1741,0,CARD_LEVEL,29,여행/숙박,VOUCHER_GIFT,,,,프리미엄 여행기프트
+1754,0,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,GS칼텍스주유포인트 리터당 60점 적립
+1758,0,CARD_LEVEL,4,금융,POINT_UNSPECIFIED,,,,"대출 보유 시 매월 최대 6,000 NH포인트 적립"
+1759,0,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,S-OIL 주유소에서 주유 시 리터당 40 보너스포인트 적립
+1763,0,CARD_LEVEL,4,금융,POINT_UNSPECIFIED,,,,"대출 보유 시 매월 최대 6,000 NH포인트 적립"
+1768,300000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"프리미엄 기프트(연 1회, 택1)"
+1768,300000,CARD_LEVEL,29,여행/숙박,VOUCHER_GIFT,,,,프리미엄 여행기프트
+1809,300000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,UnionPay Platinum 서비스
+1816,300000,CARD_LEVEL,29,여행/숙박,PREMIUM_SERVICE,,,,프리미엄 투어 서비스
+1854,0,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,SK주유소 머핀포인트 적립 서비스
+1856,300000,CARD_LEVEL,1,쇼핑,INSTALLMENT_SERVICE,,,,하이마트 슬림할부 및 청구할인
+1860,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"골프, 호텔, 쇼핑 등 프리미엄 기프트 바우처 제공"
+1860,0,CARD_LEVEL,35,골프,MEMBERSHIP_BENEFIT,,,,항공 및 골프클럽 우대 서비스 등
+1860,0,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,제휴 대상점 할인 및 우대 서비스
+1861,0,CARD_LEVEL,38,외식,POINT_UNSPECIFIED,,,,멤버십포인트
+1865,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"골프, 호텔, 쇼핑 등 프리미엄 기프트 바우처 제공"
+1865,0,CARD_LEVEL,35,골프,MEMBERSHIP_BENEFIT,,,,항공 및 골프클럽 우대 서비스 등
+1865,0,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,제휴 대상점 할인 및 우대 서비스
+1866,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"골프, 호텔, 쇼핑 등 프리미엄 기프트 바우처 제공"
+1866,0,CARD_LEVEL,35,골프,MEMBERSHIP_BENEFIT,,,,항공 및 골프클럽 우대 서비스 등
+1866,0,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,제휴 대상점 할인 및 우대 서비스
+1882,500000,CARD_LEVEL,1,쇼핑,INSTALLMENT_SERVICE,,,,삼성스토어에서 가전제품 구매 시 24·36개월 라이트할부 제공
+1909,300000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,기프트 옵션 서비스(택1)
+1977,0,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,"GS 제휴 혜택 GS&POINT 할인 및 적립, 사용"
+2071,300000,CARD_LEVEL,12,푸드,MEMBERSHIP_BENEFIT,,,,L.POINT 외식업종 제휴사 청구할인
+2091,0,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,"Finance
+- 하나금융그룹 우대서비스"
+2093,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,연 1회 스페셜기프트 제공
+2104,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,연 1회 스페셜기프트 제공
+2106,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,연 1회 스페셜기프트 제공
+2150,0,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,그린카드 멤버십 서비스
+2179,0,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,"기본 선택서비스 적립 또는 캐시백
+프리미엄 선택서비스 적립 또는 캐시백"
+2197,0,CARD_LEVEL,6,기타,DISCOUNT_SERVICE_GENERIC,,,,정부 유류세환급제도 지원
+2226,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,플래티넘(Platinum) 서비스
+2236,0,CARD_LEVEL,19,편의점,VOUCHER_GIFT,,,,"GS25 행사상품 현장 즉시 할인 및 추가 증정 행사
+GS&POINT: GS리테일 이용 시 적립"
+2251,300000,CARD_LEVEL,1,쇼핑,INSTALLMENT_SERVICE,,,,오케이몰 상품 구매 시 장기할부 제공
+2279,400000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,신세계백화점 제휴 서비스
+2280,0,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,한도 제한 없는 기본적립/특별적립
+2280,0,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,멤버십 리워즈(MR)를 10여개 항공사 마일리지로 전환
+2280,0,CARD_LEVEL,29,여행/숙박,POINT_UNSPECIFIED,,,,"멤버십 리워즈(MR)를 글로벌 체인 호텔 멤버십 포인트로 전환 또는 전세계 호텔 예약에 사용
+글로벌 호텔 체인 멤버십 골드 등급 업그레이드 , 전 세계 호텔/리조트에서 프리미엄 서비스 제공"
+2281,0,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,한도 제한 없는 기본적립/특별적립
+2281,0,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,멤버십 리워즈(MR)를 10여개 항공사 마일리지로 전환
+2281,0,CARD_LEVEL,29,여행/숙박,POINT_UNSPECIFIED,,,,"멤버십 리워즈(MR)를 글로벌 체인 호텔 멤버십 포인트로 전환
+또는 전세계 호텔 예약에 사용"
+2282,0,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,한도 제한 없는 기본적립/특별적립
+2282,0,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,멤버십 리워즈(MR)를 10여개 항공사 마일리지로 전환
+2282,0,CARD_LEVEL,29,여행/숙박,POINT_UNSPECIFIED,,,,"멤버십 리워즈(MR)를 글로벌 체인 호텔 멤버십 포인트로 전환
+또는 전세계 호텔 예약에 사용"
+2286,300000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,"[PLUS] S-OIL, 현대오일뱅크 주유 및 충전시 리터(ℓ)당 60점 적립"
+2287,500000,CARD_LEVEL,6,기타,DISCOUNT_SERVICE_GENERIC,,,,MX Black Zone 할인서비스 제공 기준
+2287,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA/MasterCard 플래티넘서비스
+2291,0,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,메리어트 본보이™ 엘리트 멤버십 제공 (연회비 주기 내 2천만원 이상)
+2292,0,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,"사업구매전용 플레이트(2021. 11. 25 ~ 2022. 11. 24)
+모든 가맹점에서 2~3개월 할부 결제 시 무이자 혜택 제공"
+2293,0,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,"사업구매전용 플레이트(2021. 11. 25 ~ 2022. 11. 24)
+모든 가맹점에서 2~3개월 할부 결제 시 무이자 혜택 제공"
+2307,100000,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,SK주유소(LPG 제외)에서 리터당 50포인트 SK주유포인트 적립
+2326,300000,CARD_LEVEL,13,선택형,POINT_UNSPECIFIED,,,,해피포인트 해피리워드 카드 디자인 선택
+2327,0,CARD_LEVEL,2,모든가맹점,MILEAGE_UNSPECIFIED,,,,[대한항공 마일리지]국내 및 해외 가맹점 대한항공 1마일 기본 적립
+2327,0,CARD_LEVEL,32,해외이용,MILEAGE_UNSPECIFIED,,,,"[대한항공 마일리지]해외 이용(직구, 온라인 포함) 대한항공 1마일 추가 적립"
+2327,0,CARD_LEVEL,15,면세점,MILEAGE_UNSPECIFIED,,,,[대한항공 마일리지]면세점 업종 1마일 대한항공 추가 적립
+2357,400000,CARD_LEVEL,28,프리미엄 서비스,POINT_UNSPECIFIED,,,,[리워드 서비스] 웰컴 레고랜드 포인트리 7만점 적립
+2357,400000,CARD_LEVEL,28,프리미엄 서비스,POINT_UNSPECIFIED,,,,[리워드 서비스] 레고랜드 포인트리 8만점 적립
+2359,300000,CARD_LEVEL,9,주유소,POINT_UNSPECIFIED,,,,현대오빌뱅크/SK에너지 우대 주유소 25~85 포인트 적립
+2359,300000,CARD_LEVEL,25,정비,MEMBERSHIP_BENEFIT,,,,[제휴서비스] Bluemembers 멤버십 서비스
+2361,0,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,Master / AMEX Platinum Service
+2369,300000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,국제브랜드사의 Platinum 등급의 서비스 제공
+2372,300000,CARD_LEVEL,6,기타,VOUCHER_GIFT,,,,[Weekly 할인 쿠폰] 매월 2회 국내 이용 할인 쿠폰 제공
+2388,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,연간 6만 넥슨 현대카드 포인트 바우처
+2396,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,[프리미엄 기프트] 우리WON꿀머니 20만점
+2397,0,CARD_LEVEL,26,해외,MILEAGE_UNSPECIFIED,,,,"해외, 면세점 2마일 적립"
+2397,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,[프리미엄 기프트] 우리WON꿀머니 20만점
+2398,500000,CARD_LEVEL,7,백화점,MEMBERSHIP_BENEFIT,,,,신세계백화점 제휴 서비스
+2398,500000,CARD_LEVEL,15,면세점,MEMBERSHIP_BENEFIT,,,,신세계면세점 멤버십 우대 서비스
+2404,300000,CARD_LEVEL,1,쇼핑,INSTALLMENT_SERVICE,,,,코오롱 FnC 온/오프라인 매장 상품 구매시 장기할부 및 12/24/36개월 할부금 청구할인 제공
+2430,0,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,M포인트 사용
+2433,0,CARD_LEVEL,4,금융,INSTALLMENT_SERVICE,,,,장기할부 서비스
+2436,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,취향대로 선택하는 럭셔리 라이프 바우처
+2443,200000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,일상생활업종 NH포인트 적립
+2450,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"[HERITAGE 전용혜택] 쿠폰서비스(연 1회 제공, 3가지 중 택1)"
+2451,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"[HERITAGE 전용혜택] 쿠폰서비스 (연 1회 제공, 3가지 중 택1)"
+2459,500000,CARD_LEVEL,28,프리미엄 서비스,VOUCHER_GIFT,,,,GIFT 기프트 서비스
+2460,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,[GIFT] 5가지 기프트 중에서 매년 1가지를 선택
+2461,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,[GIFT] 5가지 기프트 중에서 매년 2가지를 선택
+2465,0,CARD_LEVEL,7,백화점,MEMBERSHIP_BENEFIT,,,,신세계백화점 제휴 서비스
+2465,0,CARD_LEVEL,15,면세점,MEMBERSHIP_BENEFIT,,,,신세계면세점 멤버십 우대 서비스
+2466,300000,CARD_LEVEL,18,카페,VOUCHER_GIFT,,,,이디야 멤버스 음료쿠폰 제공
+2468,300000,CARD_LEVEL,5,통신,DISCOUNT_SERVICE_GENERIC,,,,"KMVNO 알뜰폰
+통신요금 자동이체 할인 서비스"
+2469,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Platinum Service
+2470,0,CARD_LEVEL,7,백화점,POINT_UNSPECIFIED,,,,신세계포인트 적립 서비스
+2491,0,CARD_LEVEL,6,기타,VOUCHER_GIFT,,,,[Weekly 할인 쿠폰] 매주 1회 국내 이용 할인 쿠폰 제공
+2492,0,CARD_LEVEL,6,기타,VOUCHER_GIFT,,,,[Weekly 할인 쿠폰] 매월 2회 국내 이용 할인 쿠폰 제공
+2495,500000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,Platinum 서비스
+2497,500000,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,LG 전자 베스트샵 매장에서 할부 수수료 혜택
+2521,400000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA/AMEX 플래티넘 서비스
+2527,0,CARD_LEVEL,21,온라인쇼핑,POINT_UNSPECIFIED,,,,One Pick 온라인 쇼핑몰 가맹점 최대 3천 포인트 적립
+2528,0,CARD_LEVEL,12,푸드,POINT_UNSPECIFIED,,,,One Pick 맛집 가맹점 최대 3천 포인트 적립
+2532,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Mastercard Platinum 서비스 제공
+2533,400000,CARD_LEVEL,14,생활,DISCOUNT_SERVICE_GENERIC,,,,일상생활 청구할인 서비스
+2540,0,CARD_LEVEL,28,프리미엄 서비스,VOUCHER_GIFT,,,,"Excusive 전용 쿠폰서비스1 [연 1회 제공, 4가지 중 1가지 선택]"
+2540,0,CARD_LEVEL,28,프리미엄 서비스,VOUCHER_GIFT,,,,"Excusive 전용 쿠폰서비스2 [연 1회 제공, 2가지 중 1가지 선택]"
+2541,0,CARD_LEVEL,28,프리미엄 서비스,VOUCHER_GIFT,,,,"Reserve 전용혜택 쿠폰서비스 [연 1회 제공, 3가지 중 1가지 선택]"
+2542,0,CARD_LEVEL,28,프리미엄 서비스,VOUCHER_GIFT,,,,"Reserve 전용혜택 쿠폰서비스 [연 1회 제공, 3가지 중 1가지 선택]"
+2543,500000,CARD_LEVEL,11,테마파크,DISCOUNT_SERVICE_GENERIC,,,,놀이공원•워터파크 할인 서비스
+2543,500000,CARD_LEVEL,7,백화점,MEMBERSHIP_BENEFIT,,,,신세계백화점 제휴 서비스
+2546,0,CARD_LEVEL,12,푸드,POINT_UNSPECIFIED,,,,One Pick 맛집 가맹점 최대 3천 포인트 적립
+2547,0,CARD_LEVEL,21,온라인쇼핑,POINT_UNSPECIFIED,,,,One Pick 온라인 쇼핑몰 가맹점 최대 3천 포인트 적립
+2554,0,CARD_LEVEL,32,해외이용,POINT_UNSPECIFIED,,,,해외 가맹점 하나머니 적립
+2558,400000,CARD_LEVEL,27,교통,MILEAGE_UNSPECIFIED,,,,K-패스 마일리지
+2563,300000,CARD_LEVEL,17,대중교통,MILEAGE_UNSPECIFIED,,,,K-패스 마일리지
+2572,0,CARD_LEVEL,20,항공마일리지,POINT_UNSPECIFIED,,,,UniMile 적립
+2583,400000,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,PAYCO 36 우리카드 장기할부 서비스 제공
+2592,500000,CARD_LEVEL,20,항공마일리지,VOUCHER_GIFT,,,,[웰컴기프트] 싱가포르항공 크리스플라이어(이하 KF) 1만 5천 마일리지 적립 (발급 첫해 1회)
+2592,500000,CARD_LEVEL,20,항공마일리지,VOUCHER_GIFT,,,,[연간기프트] 국내외 가맹점 싱가포르항공 크리스플라이어 마일리지 적립
+2592,500000,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,국내외 가맹점 싱가포르항공 크리스플라이어 마일리지 적립
+2592,500000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,싱가포르항공 크리스플라이어 엘리트 멤버십 제공
+2592,500000,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,싱가포르항공 크리스플라이어 보너스 마일리지 적립
+2604,300000,CARD_LEVEL,17,대중교통,DISCOUNT_SERVICE_GENERIC,,,,"후불교통(시내버스, 지하철) 청구할인, 고속/시외버스 환급할인 (최대 4천원)"
+2604,300000,CARD_LEVEL,19,편의점,DISCOUNT_SERVICE_GENERIC,,,,CU편의점 최대 4천원 환급할인
+2604,300000,CARD_LEVEL,18,카페,DISCOUNT_SERVICE_GENERIC,,,,스타벅스(사이렌오더 포함) 최대 4천원 환급할인
+2604,300000,CARD_LEVEL,10,영화,DISCOUNT_SERVICE_GENERIC,,,,CGV 최대 4천원 환급할인
+2604,300000,CARD_LEVEL,1,쇼핑,DISCOUNT_SERVICE_GENERIC,,,,텐바이텐 최대 4천원 환급할인
+2612,0,CARD_LEVEL,16,프리미엄,VOUCHER_GIFT,,,,"[아코르 서비스] 4,000 ALL 리워드 포인트 기프트 제공"
+2612,0,CARD_LEVEL,16,프리미엄,POINT_UNSPECIFIED,,,,[아코르 서비스] ALL 리워드 포인트 적립
+2612,0,CARD_LEVEL,16,프리미엄,POINT_UNSPECIFIED,,,,"[아코르 서비스] 2,000 ALL 리워드 포인트 보너스 제공"
+2613,500000,CARD_LEVEL,16,프리미엄,VOUCHER_GIFT,,,,"[아코르 서비스] 14,000 ALL 리워드 포인트 기프트 제공"
+2613,500000,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,[아코르 서비스] 아코르 플러스 유료 멤버십 자동 가입
+2613,500000,CARD_LEVEL,16,프리미엄,POINT_UNSPECIFIED,,,,[아코르 서비스] ALL 리워드 포인트 적립
+2613,500000,CARD_LEVEL,16,프리미엄,POINT_UNSPECIFIED,,,,"[아코르 서비스] 5,000 ALL 리워드 포인트 보너스 제공"
+2627,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,[기프트 바우처] Voucher : Premium Gift
+2627,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,[프리미엄 서비스] 공항라운지 서비스
+2627,0,CARD_LEVEL,28,프리미엄 서비스,MILEAGE_UNSPECIFIED,,,,[프리미엄 서비스] 항공사 마일리지 전환
+2634,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Master Platinum Service
+2637,300000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,VISA Platinum
+2638,300000,CARD_LEVEL,16,프리미엄,PREMIUM_SERVICE,,,,VISA Platinum
+2640,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Visa 브랜드 플래티넘서비스
+2642,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,VISA 플래티넘 서비스
+2657,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"바우처 5가지 중 1가지를 선택하여 이용 (연 1회, 서비스 실적 조건 확인)"
+2673,200000,CARD_LEVEL,19,편의점,POINT_UNSPECIFIED,,,,[필수 생활비] 편의점 적립
+2677,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"프리미엄 기프트 제공(①-④ 중 택 1, 연 1회)"
+2678,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"프리미엄 기프트 제공(①-④ 중 택 1, 연 1회)"
+2703,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"바우처 4가지 중 1가지를 선택하여 이용 (연 1회, 서비스 실적 조건 확인)"
+2703,500000,CARD_LEVEL,3,주유,POINT_UNSPECIFIED,,,,[REWARD] 주유/EV충전 적립 (지난달 실적 조건 및 적립한도 확인)
+2705,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,[PREMIUM VOUCHER] 바우처 2가지 중 1가지를 선택하여 이용 (연 1회)
+2709,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Visa Platinum 서비스
+2710,500000,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2710,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Visa Platinum 서비스
+2711,500000,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2712,500000,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2725,300000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Mastercard Platinum 서비스
+2726,400000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Mastercard Platinum 서비스
+2730,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,프리미엄 바우처
+2737,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트 제공
+2738,500000,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,[우대서비스] M긴급적립·무이자 할부·롯데백화점 전용 쿠폰
+2739,500000,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,[우대서비스] M긴급적립·무이자 할부·롯데백화점 전용 쿠폰
+2751,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트 제공
+2752,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트 제공
+2753,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트 제공
+2755,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,취향대로 선택하는 럭셔리 라이프 바우처
+2755,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트 제공
+2756,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,국내 Luxury/Gourmet 영역에서 카테고리 구분 없이 사용 가능한 바우처
+2756,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트
+2757,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,국내 Luxury/Gourmet 영역에서 카테고리 구분 없이 사용 가능한 바우처
+2757,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] the Black Concierge
+2762,0,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,기프트 옵션 서비스
+2762,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,공항 라운지 서비스・특수 소재 카드
+2763,400000,CARD_LEVEL,19,편의점,MEMBERSHIP_BENEFIT,,,,CU 멤버십 서비스
+2764,400000,CARD_LEVEL,6,기타,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트 제공
+2776,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,[우대 서비스] 메탈 플레이트 제공
+2781,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,"[Classic 전용혜택] 쿠폰 서비스 연 1회 제공, 4가지 중 택 1"
+2788,0,CARD_LEVEL,20,항공마일리지,MILEAGE_UNSPECIFIED,,,,대한항공 마일리지/아시아나항공 마일리지 적립(택 1)
+2788,0,CARD_LEVEL,15,면세점,DISCOUNT_SERVICE_GENERIC,,,,JDC 면세점 할인 서비스/골프장 부킹 대행 서비스
+2790,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2791,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2792,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2793,500000,CARD_LEVEL,28,프리미엄 서비스,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2795,0,CARD_LEVEL,2,모든가맹점,POINT_UNSPECIFIED,,,,전 가맹점 적립 서비스
+2795,0,CARD_LEVEL,13,선택형,DISCOUNT_SERVICE_GENERIC,,,,선택 할인서비스 (2종 중 택1)
+2824,500000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,MasterCard Platinum Service
+2830,0,CARD_LEVEL,19,편의점,POINT_UNSPECIFIED,,,,[편의점 적립] 필수 생활비 - 편의점 적립
+2845,400000,CARD_LEVEL,6,기타,VOUCHER_GIFT,,,,쿠폰 서비스 (2종 중 택1)
+2867,500000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,[갤러리아 기본 서비스] 갤러리아 G포인트 서비스
+2867,500000,CARD_LEVEL,6,기타,INSTALLMENT_SERVICE,,,,[갤러리아 특별 서비스] 갤러리아 백화점 24/36개월 장기할부
+2876,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자 할부 혜택
+2877,500000,CARD_LEVEL,23,바우처,VOUCHER_GIFT,,,,프리미엄 바우처 제공
+2887,100000,CARD_LEVEL,12,푸드,POINT_UNSPECIFIED,,,,오늘도 적립 서비스
+2887,100000,CARD_LEVEL,1,쇼핑,POINT_UNSPECIFIED,,,,일상 속 적립 서비스
+2889,100000,CARD_LEVEL,12,푸드,POINT_UNSPECIFIED,,,,오늘도 적립 서비스
+2889,100000,CARD_LEVEL,1,쇼핑,POINT_UNSPECIFIED,,,,일상 속 적립 서비스
+2890,200000,CARD_LEVEL,14,생활,POINT_UNSPECIFIED,,,,"[일상 생활비 적립] 가족행사월(5월, 12월) 적립 한도 5천 포인트 추가 제공"
+2890,200000,CARD_LEVEL,19,편의점,POINT_UNSPECIFIED,,,,[필수 생활비 적립] 편의점 포인트 적립
+2892,200000,CARD_LEVEL,12,푸드,POINT_UNSPECIFIED,,,,[One Pick] 맛집 가맹점 최대 3천 포인트 적립
+2893,200000,CARD_LEVEL,21,온라인쇼핑,POINT_UNSPECIFIED,,,,[One Pick] 온라인 쇼핑몰 최대 3천 포인트 적립
+2897,500000,CARD_LEVEL,18,카페,POINT_UNSPECIFIED,,,,스타벅스 이용 시 스타벅스 별 리워드 적립
+2897,500000,CARD_LEVEL,6,기타,POINT_UNSPECIFIED,,,,스타벅스 선불카드 충전 이용 시 스타벅스 별 리워드 적립
+2903,300000,CARD_LEVEL,3,주유,DISCOUNT_SERVICE_GENERIC,,,,경차 유류세 환급 대상자 주유 및 충전(LPG) 시 유류세 환급
+2903,300000,CARD_LEVEL,21,온라인쇼핑,POINT_UNSPECIFIED,,,,현대카드 홈페이지를 통해 제휴 온라인쇼핑몰에 접속하여 결제 시 M포인트 추가 적립
+2906,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Platinum# 공통 서비스
+2914,0,CARD_LEVEL,7,백화점,MEMBERSHIP_BENEFIT,,,,신세계백화점 제휴 서비스
+2916,400000,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Mastercard Platinum 서비스
+2947,300000,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2948,300000,CARD_LEVEL,16,프리미엄,MEMBERSHIP_BENEFIT,,,,우대 서비스
+2950,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자 할부 서비스
+2951,0,CARD_LEVEL,33,무이자할부,INSTALLMENT_SERVICE,,,,무이자 할부 서비스
+2980,0,CARD_LEVEL,28,프리미엄 서비스,PREMIUM_SERVICE,,,,Mastercard Platinum 서비스
