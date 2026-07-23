@@ -1,0 +1,1248 @@
+﻿source_id,source_url,card_name,issuer_id,issuer_code,card_type,category_main,annual_fee_domestic,annual_fee_overseas
+1,https://www.card-gorilla.com/card/detail/1,신한카드 Hi-Point,1,SHINHAN,CREDIT,교통자동차,,8000
+2,https://www.card-gorilla.com/card/detail/2,신한카드 Love,1,SHINHAN,CREDIT,문화여가,,8000
+3,https://www.card-gorilla.com/card/detail/3,신한카드 Lady,1,SHINHAN,CREDIT,생활,,5000
+8,https://www.card-gorilla.com/card/detail/8,신한카드 The CLASSIC-Y,1,SHINHAN,CREDIT,문화여가,,100000
+10,https://www.card-gorilla.com/card/detail/10,신한카드 B.Big(삑),1,SHINHAN,CHECK,문화여가,,10000
+11,https://www.card-gorilla.com/card/detail/11,신한카드 Simple+,1,SHINHAN,CREDIT,문화여가,10000,13000
+12,https://www.card-gorilla.com/card/detail/12,신한카드 Air Platinum#,1,SHINHAN,CREDIT,여행항공,,40000
+13,https://www.card-gorilla.com/card/detail/13,신한카드 Mr.Life,1,SHINHAN,CREDIT,쇼핑,,15000
+14,https://www.card-gorilla.com/card/detail/14,신한카드 YOLO ⓘ,1,SHINHAN,CREDIT,쇼핑,,18000
+15,https://www.card-gorilla.com/card/detail/15,신한카드 The CLASSIC+,1,SHINHAN,CREDIT,여행항공,,120000
+16,https://www.card-gorilla.com/card/detail/16,신한카드 RPM+ Platinum#,1,SHINHAN,CREDIT,교통자동차,,32000
+18,https://www.card-gorilla.com/card/detail/18,신한카드 Shopping,1,SHINHAN,CREDIT,쇼핑,,20000
+21,https://www.card-gorilla.com/card/detail/21,신한카드 Simple Platinum#,1,SHINHAN,CREDIT,문화여가,,30000
+26,https://www.card-gorilla.com/card/detail/26,신한카드 Edu,1,SHINHAN,CREDIT,생활,,20000
+28,https://www.card-gorilla.com/card/detail/28,신세계 신한카드,1,SHINHAN,CREDIT,쇼핑,,12000
+35,https://www.card-gorilla.com/card/detail/35,GS칼텍스 신한카드 Shine,1,SHINHAN,CREDIT,교통자동차,,7000
+36,https://www.card-gorilla.com/card/detail/36,신한카드 Cube Platinum#,1,SHINHAN,CREDIT,교통자동차,,32000
+37,https://www.card-gorilla.com/card/detail/37,신한카드 The BEST-F,1,SHINHAN,CREDIT,여행항공,,202000
+38,https://www.card-gorilla.com/card/detail/38,신한카드 Lesson Platinum#,1,SHINHAN,CREDIT,생활,,27000
+39,https://www.card-gorilla.com/card/detail/39,신한카드 Deep Oil,1,SHINHAN,CREDIT,교통자동차,,10000
+41,https://www.card-gorilla.com/card/detail/41,신한카드 Deep On Platinum+,1,SHINHAN,CHECK,여행항공,,33000
+42,https://www.card-gorilla.com/card/detail/42,SOCAR 제휴 SOCAR 신한카드,1,SHINHAN,CREDIT,쇼핑,,13000
+43,https://www.card-gorilla.com/card/detail/43,신한카드 Deep Store,1,SHINHAN,CREDIT,쇼핑,,13000
+45,https://www.card-gorilla.com/card/detail/45,American Express Blue,3,SAMSUNG,CREDIT,외식카페,,15000
+46,https://www.card-gorilla.com/card/detail/46,삼성카앤모아카드,3,SAMSUNG,CREDIT,외식카페,,10000
+49,https://www.card-gorilla.com/card/detail/49,삼성카드 & MILEAGE PLATINUM (스카이패스),3,SAMSUNG,CREDIT,여행항공,,49000
+50,https://www.card-gorilla.com/card/detail/50,아시아나 삼성지엔미플래티늄카드,3,SAMSUNG,CREDIT,문화여가,,
+51,https://www.card-gorilla.com/card/detail/51,삼성카드 taptap O,3,SAMSUNG,CREDIT,문화여가,,10000
+52,https://www.card-gorilla.com/card/detail/52,삼성카드 taptap S,3,SAMSUNG,CREDIT,문화여가,,10000
+53,https://www.card-gorilla.com/card/detail/53,아시아나 삼성애니패스플래티늄카드,3,SAMSUNG,CREDIT,문화여가,,
+54,https://www.card-gorilla.com/card/detail/54,삼성카드 스페셜마일리지(스카이패스),3,SAMSUNG,CREDIT,여행항공,,99000
+55,https://www.card-gorilla.com/card/detail/55,CU·배달의민족 삼성카드 taptap,3,SAMSUNG,CREDIT,쇼핑,,10000
+56,https://www.card-gorilla.com/card/detail/56,삼성카드 지엔미+,3,SAMSUNG,CREDIT,생활,,
+57,https://www.card-gorilla.com/card/detail/57,삼성카드 애니패스+,3,SAMSUNG,CREDIT,교통자동차,,
+58,https://www.card-gorilla.com/card/detail/58,카라이프 삼성카드 DISCOUNT+,3,SAMSUNG,CREDIT,교통자동차,,49000
+59,https://www.card-gorilla.com/card/detail/59,삼성카드 taptap I,3,SAMSUNG,CREDIT,여행항공,,49000
+61,https://www.card-gorilla.com/card/detail/61,스카이패스 삼성아멕스카드,3,SAMSUNG,CREDIT,교통자동차,,
+62,https://www.card-gorilla.com/card/detail/62,글로벌쇼핑 삼성카드 5 V2,3,SAMSUNG,CREDIT,문화여가,,18000
+63,https://www.card-gorilla.com/card/detail/63,삼성페이 삼성카드 taptap,3,SAMSUNG,CHECK,문화여가,,10000
+64,https://www.card-gorilla.com/card/detail/64,신세계이마트 삼성카드7,3,SAMSUNG,CREDIT,쇼핑,,20000
+72,https://www.card-gorilla.com/card/detail/72,트레이더스신세계 삼성카드,3,SAMSUNG,CREDIT,생활,,15000
+73,https://www.card-gorilla.com/card/detail/73,카드의정석 NEW우리V카드,6,WOORI,CREDIT,쇼핑,,5000
+74,https://www.card-gorilla.com/card/detail/74,All For Me카드,6,WOORI,CREDIT,외식카페,,10000
+77,https://www.card-gorilla.com/card/detail/77,위비멤버스카드,6,WOORI,CREDIT,외식카페,,12000
+80,https://www.card-gorilla.com/card/detail/80,썸(SUM) 페이 카드,6,WOORI,CHECK,외식카페,,10000
+81,https://www.card-gorilla.com/card/detail/81,위메프 우리카드,6,WOORI,CREDIT,외식카페,,12000
+82,https://www.card-gorilla.com/card/detail/82,우리 XGOLF 카드,6,WOORI,CHECK,여행항공,,15000
+83,https://www.card-gorilla.com/card/detail/83,ONLY 나만의카드,6,WOORI,CREDIT,외식카페,,15000
+84,https://www.card-gorilla.com/card/detail/84,카드의정석 POINT,6,WOORI,CHECK,외식카페,,12000
+85,https://www.card-gorilla.com/card/detail/85,카드의정석 SHOPPING,6,WOORI,CREDIT,쇼핑,,12000
+86,https://www.card-gorilla.com/card/detail/86,카드의정석 DISCOUNT,6,WOORI,CREDIT,교통자동차,,12000
+87,https://www.card-gorilla.com/card/detail/87,DA@카드의정석,6,WOORI,CREDIT,생활,,10000
+88,https://www.card-gorilla.com/card/detail/88,D4@카드의정석,6,WOORI,CREDIT,외식카페,,10000
+89,https://www.card-gorilla.com/card/detail/89,우리Most카드,6,WOORI,CREDIT,문화여가,,20000
+90,https://www.card-gorilla.com/card/detail/90,카드의정석 위비온 플러스,6,WOORI,CREDIT,기타,,15000
+91,https://www.card-gorilla.com/card/detail/91,카드의정석 PREMIUM POINT,6,WOORI,CREDIT,교통자동차,,110000
+92,https://www.card-gorilla.com/card/detail/92,카드의정석 PREMIUM MILEAGE(SKYPASS),6,WOORI,CHECK,여행항공,,135000
+93,https://www.card-gorilla.com/card/detail/93,카드의정석 PREMIUM MILEAGE(AsianaClub),6,WOORI,CREDIT,여행항공,,135000
+94,https://www.card-gorilla.com/card/detail/94,LoL CHAMPIONS KOREA 우리카드,6,WOORI,CREDIT,교통자동차,,10000
+106,https://www.card-gorilla.com/card/detail/106,굿데이카드,2,KB,CREDIT,쇼핑,,10000
+107,https://www.card-gorilla.com/card/detail/107,SK LPG SAVE KB국민카드,2,KB,CREDIT,쇼핑,,5000
+108,https://www.card-gorilla.com/card/detail/108,와이즈카드,2,KB,CREDIT,쇼핑,,10000
+109,https://www.card-gorilla.com/card/detail/109,SK에너지 러브유 KB국민카드,1,SHINHAN,CREDIT,교통자동차,,12000
+112,https://www.card-gorilla.com/card/detail/112,GS행복가득카드,1,SHINHAN,CREDIT,교통자동차,,12000
+113,https://www.card-gorilla.com/card/detail/113,마일리지 가온카드(대한항공),2,KB,CREDIT,여행항공,,20000
+114,https://www.card-gorilla.com/card/detail/114,마일리지 가온카드(아시아나),2,KB,CREDIT,여행항공,,20000
+115,https://www.card-gorilla.com/card/detail/115,굿데이올림카드,2,KB,CREDIT,쇼핑,,20000
+116,https://www.card-gorilla.com/card/detail/116,청춘대로카드,2,KB,CHECK,쇼핑,,20000
+120,https://www.card-gorilla.com/card/detail/120,ONE카드,2,KB,CHECK,쇼핑,,15000
+121,https://www.card-gorilla.com/card/detail/121,다담카드,2,KB,CREDIT,문화여가,,15000
+122,https://www.card-gorilla.com/card/detail/122,모바일101카드,2,KB,CREDIT,생활,,1000
+125,https://www.card-gorilla.com/card/detail/125,E1 LPG KB국민카드,2,KB,CREDIT,문화여가,,20000
+126,https://www.card-gorilla.com/card/detail/126,아시아나 올림카드,2,KB,CREDIT,여행항공,,30000
+127,https://www.card-gorilla.com/card/detail/127,청춘대로 매니아i카드,2,KB,CHECK,교통자동차,,15000
+129,https://www.card-gorilla.com/card/detail/129,청춘대로 톡톡카드,2,KB,CREDIT,외식카페,,12000
+130,https://www.card-gorilla.com/card/detail/130,BeV V카드(포인트형),2,KB,CREDIT,쇼핑,,295000
+131,https://www.card-gorilla.com/card/detail/131,BeV V카드(스카이패스형),2,KB,CREDIT,여행항공,,295000
+132,https://www.card-gorilla.com/card/detail/132,청춘대로 1코노미 카드,2,KB,CREDIT,쇼핑,,17000
+133,https://www.card-gorilla.com/card/detail/133,BeV Ⅲ 카드,2,KB,CREDIT,쇼핑,,200000
+134,https://www.card-gorilla.com/card/detail/134,탄탄대로 온리유카드,2,KB,CREDIT,교통자동차,,15000
+136,https://www.card-gorilla.com/card/detail/136,가온 워킹업카드,2,KB,CREDIT,쇼핑,,15000
+138,https://www.card-gorilla.com/card/detail/138,스카이패스 KB국민카드,2,KB,CREDIT,여행항공,,15000
+139,https://www.card-gorilla.com/card/detail/139,아시아나항공 KB국민카드,2,KB,CREDIT,여행항공,,15000
+140,https://www.card-gorilla.com/card/detail/140,S-OIL LPG KB국민카드,2,KB,CREDIT,쇼핑,,10000
+141,https://www.card-gorilla.com/card/detail/141,KB국민 펫코노미 카드,2,KB,CREDIT,쇼핑,,30000
+142,https://www.card-gorilla.com/card/detail/142,톡톡 Pay카드,2,KB,CREDIT,쇼핑,,20000
+143,https://www.card-gorilla.com/card/detail/143,청춘대로 꿀맛α카드,2,KB,CREDIT,외식카페,,15000
+144,https://www.card-gorilla.com/card/detail/144,청춘대로 꿀잠α카드,2,KB,CREDIT,여행항공,,15000
+145,https://www.card-gorilla.com/card/detail/145,청춘대로 꿀잼α카드,2,KB,CREDIT,문화여가,,15000
+146,https://www.card-gorilla.com/card/detail/146,The Easy카드,2,KB,CREDIT,쇼핑,,15000
+148,https://www.card-gorilla.com/card/detail/148,삼성페이 KB국민카드,2,KB,CHECK,생활,,15000
+152,https://www.card-gorilla.com/card/detail/152,에듀카드,1,SHINHAN,CREDIT,생활,,35000
+156,https://www.card-gorilla.com/card/detail/156,Shopping Save카드,1,SHINHAN,CREDIT,교통자동차,,8000
+162,https://www.card-gorilla.com/card/detail/162,#ing(샵핑)카드,1,SHINHAN,CREDIT,쇼핑,,10000
+163,https://www.card-gorilla.com/card/detail/163,#ing+(샵핑플러스)카드,3,SAMSUNG,CREDIT,외식카페,,25000
+164,https://www.card-gorilla.com/card/detail/164,ME+(미플러스)카드,1,SHINHAN,CREDIT,외식카페,,25000
+166,https://www.card-gorilla.com/card/detail/166,BAZIC(베이직)카드,4,HYUNDAI,CHECK,여행항공,,8000
+167,https://www.card-gorilla.com/card/detail/167,BAZIC+(베이직플러스)카드,5,LOTTE,CREDIT,여행항공,,25000
+174,https://www.card-gorilla.com/card/detail/174,국민행복카드(신용),3,SAMSUNG,CREDIT,여행항공,,
+175,https://www.card-gorilla.com/card/detail/175,NH올원 하나로카드,2,KB,CREDIT,여행항공,,10000
+176,https://www.card-gorilla.com/card/detail/176,부자되세요 HomeShopping카드(비씨),3,SAMSUNG,CREDIT,쇼핑,,10000
+185,https://www.card-gorilla.com/card/detail/185,NH농협 부자되세요 아파트카드(비씨),1,SHINHAN,CREDIT,외식카페,,10000
+186,https://www.card-gorilla.com/card/detail/186,NH농협 콕카드,1,SHINHAN,CREDIT,쇼핑,,10000
+191,https://www.card-gorilla.com/card/detail/191,T라이트카드,4,HYUNDAI,CREDIT,생활,,10000
+192,https://www.card-gorilla.com/card/detail/192,KT수퍼할부카드(비씨),1,SHINHAN,CREDIT,문화여가,,15000
+193,https://www.card-gorilla.com/card/detail/193,NH올원 LGU+카드,1,SHINHAN,CREDIT,문화여가,,15000
+194,https://www.card-gorilla.com/card/detail/194,롯데포인트 플러스 카드,5,LOTTE,CREDIT,쇼핑,,5000
+197,https://www.card-gorilla.com/card/detail/197,올마이쇼핑 카드 (교통),5,LOTTE,CREDIT,교통자동차,,15000
+198,https://www.card-gorilla.com/card/detail/198,올마이쇼핑 카드 (통신),1,SHINHAN,CREDIT,생활,,15000
+199,https://www.card-gorilla.com/card/detail/199,올마이쇼핑 카드 (점심),1,SHINHAN,CREDIT,기타,,15000
+200,https://www.card-gorilla.com/card/detail/200,올마이쇼핑 카드 (해외),5,LOTTE,CREDIT,쇼핑,,15000
+201,https://www.card-gorilla.com/card/detail/201,롯데백화점 롯데카드,5,LOTTE,CREDIT,쇼핑,,15000
+203,https://www.card-gorilla.com/card/detail/203,ALL MY DC,5,LOTTE,CREDIT,교통자동차,,18000
+204,https://www.card-gorilla.com/card/detail/204,ALL MY POINT,5,LOTTE,CREDIT,교통자동차,,18000
+205,https://www.card-gorilla.com/card/detail/205,ALL MY LIVING,5,LOTTE,CREDIT,쇼핑,,18000
+206,https://www.card-gorilla.com/card/detail/206,ALL MY DRIVING,3,SAMSUNG,CREDIT,교통자동차,,15000
+207,https://www.card-gorilla.com/card/detail/207,경차 smart 롯데카드,5,LOTTE,CREDIT,교통자동차,,
+214,https://www.card-gorilla.com/card/detail/214,I’m GREAT,5,LOTTE,CREDIT,생활,,15000
+215,https://www.card-gorilla.com/card/detail/215,I’m CHEERFUL,5,LOTTE,CREDIT,문화여가,,15000
+217,https://www.card-gorilla.com/card/detail/217,I’m JOYFUL,5,LOTTE,CREDIT,교통자동차,,15000
+227,https://www.card-gorilla.com/card/detail/227,CLUB SK 카드,7,HANA,CREDIT,쇼핑,,25000
+228,https://www.card-gorilla.com/card/detail/228,Smart Any 카드(스마트애니),4,HYUNDAI,CREDIT,쇼핑,,5000
+231,https://www.card-gorilla.com/card/detail/231,하나멤버스 1Q(원큐) 카드 Living,7,HANA,CREDIT,외식카페,,10000
+232,https://www.card-gorilla.com/card/detail/232,하나멤버스 1Q(원큐) 카드 Shopping,7,HANA,CREDIT,쇼핑,,10000
+234,https://www.card-gorilla.com/card/detail/234,하나멤버스 1Q(원큐) 카드 Daily,7,HANA,CREDIT,외식카페,,10000
+237,https://www.card-gorilla.com/card/detail/237,하나멤버스 1Q카드 내맘대로,7,HANA,CREDIT,쇼핑,,10000
+238,https://www.card-gorilla.com/card/detail/238,1Q Daily+,7,HANA,CREDIT,외식카페,,10000
+239,https://www.card-gorilla.com/card/detail/239,1Q Shopping+,7,HANA,CREDIT,쇼핑,,10000
+240,https://www.card-gorilla.com/card/detail/240,1Q Living+,7,HANA,CREDIT,생활,,10000
+241,https://www.card-gorilla.com/card/detail/241,1Q Special+,7,HANA,CREDIT,외식카페,,10000
+242,https://www.card-gorilla.com/card/detail/242,Mile 1.6 대한항공,7,HANA,CREDIT,여행항공,,45000
+243,https://www.card-gorilla.com/card/detail/243,Mile 1.6 아시아나,7,HANA,CREDIT,여행항공,,45000
+244,https://www.card-gorilla.com/card/detail/244,Mile 1.8 대한항공,7,HANA,CHECK,여행항공,,130000
+245,https://www.card-gorilla.com/card/detail/245,Mile 1.8 아시아나,7,HANA,CHECK,여행항공,,130000
+246,https://www.card-gorilla.com/card/detail/246,통커 카드,7,HANA,CREDIT,외식카페,,17000
+247,https://www.card-gorilla.com/card/detail/247,#tag1카드 Orange,7,HANA,CREDIT,문화여가,,12000
+248,https://www.card-gorilla.com/card/detail/248,#tag1카드 Navy,7,HANA,CREDIT,문화여가,,12000
+250,https://www.card-gorilla.com/card/detail/250,my pass 마패 카드,1,SHINHAN,CREDIT,쇼핑,,17000
+251,https://www.card-gorilla.com/card/detail/251,1Q Global VIVA,7,HANA,CREDIT,여행항공,,15000
+252,https://www.card-gorilla.com/card/detail/252,Any PLUS 카드,7,HANA,CREDIT,쇼핑,,15000
+254,https://www.card-gorilla.com/card/detail/254,1Q My Lunch,7,HANA,CREDIT,외식카페,,17000
+270,https://www.card-gorilla.com/card/detail/270,아모레퍼시픽 IBK카드,1,SHINHAN,CREDIT,쇼핑,,10000
+279,https://www.card-gorilla.com/card/detail/279,CJ ONE 신한카드 체크,1,SHINHAN,CHECK,쇼핑,,
+281,https://www.card-gorilla.com/card/detail/281,신한카드 Deep Dream 체크,1,SHINHAN,CHECK,교통자동차,,
+282,https://www.card-gorilla.com/card/detail/282,신세계 신한카드 체크,1,SHINHAN,CHECK,쇼핑,,
+284,https://www.card-gorilla.com/card/detail/284,신한카드 주거래 체크,1,SHINHAN,CREDIT,기타,,
+286,https://www.card-gorilla.com/card/detail/286,카카오페이 신한 체크카드,1,SHINHAN,CHECK,문화여가,,
+294,https://www.card-gorilla.com/card/detail/294,신한카드 S-Line 체크,1,SHINHAN,CREDIT,외식카페,,
+296,https://www.card-gorilla.com/card/detail/296,신한 S-Choice체크카드,1,SHINHAN,CHECK,쇼핑,,
+300,https://www.card-gorilla.com/card/detail/300,SOCAR 제휴 SOCAR 신한카드 체크,1,SHINHAN,CREDIT,문화여가,,
+301,https://www.card-gorilla.com/card/detail/301,KT 신한카드 체크,1,SHINHAN,CHECK,쇼핑,,
+302,https://www.card-gorilla.com/card/detail/302,LG U+ 신한카드 Smart 체크,1,SHINHAN,CHECK,쇼핑,,
+303,https://www.card-gorilla.com/card/detail/303,GS칼텍스 신한카드 경차사랑 체크,1,SHINHAN,CREDIT,교통자동차,,
+306,https://www.card-gorilla.com/card/detail/306,리디 신한카드 체크,1,SHINHAN,CREDIT,외식카페,,
+307,https://www.card-gorilla.com/card/detail/307,더본 신한카드 체크,1,SHINHAN,CHECK,외식카페,,
+309,https://www.card-gorilla.com/card/detail/309,EDIYA 신한카드 체크,1,SHINHAN,CHECK,외식카페,,
+311,https://www.card-gorilla.com/card/detail/311,몰테일 신한카드 체크,1,SHINHAN,CREDIT,쇼핑,,
+312,https://www.card-gorilla.com/card/detail/312,카드의정석 COOKIE CHECK,6,WOORI,CHECK,생활,,
+313,https://www.card-gorilla.com/card/detail/313,LoL CHAMPIONS KOREA 우리체크카드,6,WOORI,CHECK,문화여가,,
+315,https://www.card-gorilla.com/card/detail/315,카카오페이 체크카드,6,WOORI,CHECK,쇼핑,,
+316,https://www.card-gorilla.com/card/detail/316,카드의정석 L.POINT CHECK,6,WOORI,CHECK,생활,,
+317,https://www.card-gorilla.com/card/detail/317,카드의정석 POINT CHECK,6,WOORI,CHECK,문화여가,,
+318,https://www.card-gorilla.com/card/detail/318,위메프 우리체크,6,WOORI,CHECK,외식카페,,5000
+320,https://www.card-gorilla.com/card/detail/320,롯데마트 라서 즐거운 체크카드,6,WOORI,CHECK,외식카페,,
+322,https://www.card-gorilla.com/card/detail/322,우리 아이행복체크카드,6,WOORI,CHECK,외식카페,,
+323,https://www.card-gorilla.com/card/detail/323,우리국민행복체크카드,5,LOTTE,CHECK,생활,,
+324,https://www.card-gorilla.com/card/detail/324,우리 YG 체크카드,6,WOORI,CHECK,외식카페,,
+325,https://www.card-gorilla.com/card/detail/325,그랑블루 체크카드,6,WOORI,CHECK,여행항공,,95000
+326,https://www.card-gorilla.com/card/detail/326,해피포인트 우리체크카드,2,KB,CHECK,쇼핑,,
+328,https://www.card-gorilla.com/card/detail/328,라떼 우리체크카드,6,WOORI,CHECK,외식카페,,
+329,https://www.card-gorilla.com/card/detail/329,갤러리아 체크카드,1,SHINHAN,CHECK,쇼핑,,
+330,https://www.card-gorilla.com/card/detail/330,카드의정석 CREAM TEENS CHECK,6,WOORI,CHECK,쇼핑,,
+331,https://www.card-gorilla.com/card/detail/331,New 현대백화점 체크카드,6,WOORI,CHECK,문화여가,,
+332,https://www.card-gorilla.com/card/detail/332,카카오페이 KB국민 체크카드,2,KB,CHECK,쇼핑,,
+333,https://www.card-gorilla.com/card/detail/333,Liiv Mate 체크카드,2,KB,CHECK,쇼핑,,
+334,https://www.card-gorilla.com/card/detail/334,아시아나 체크카드,2,KB,CHECK,여행항공,,
+335,https://www.card-gorilla.com/card/detail/335,청춘대로 싱글 체크카드,2,KB,CHECK,쇼핑,,
+336,https://www.card-gorilla.com/card/detail/336,가온체크카드,2,KB,CHECK,교통자동차,,
+338,https://www.card-gorilla.com/card/detail/338,누리체크카드,2,KB,CHECK,교통자동차,,
+339,https://www.card-gorilla.com/card/detail/339,음 체크카드,2,KB,CHECK,외식카페,,
+340,https://www.card-gorilla.com/card/detail/340,락스타 체크카드,2,KB,CHECK,문화여가,,
+341,https://www.card-gorilla.com/card/detail/341,훈 체크카드,2,KB,CHECK,생활,,
+342,https://www.card-gorilla.com/card/detail/342,해피노리체크카드,2,KB,CHECK,문화여가,,
+343,https://www.card-gorilla.com/card/detail/343,포인트리체크카드,2,KB,CHECK,쇼핑,,
+344,https://www.card-gorilla.com/card/detail/344,아이행복 체크카드,2,KB,CHECK,쇼핑,,
+345,https://www.card-gorilla.com/card/detail/345,정 체크카드,2,KB,CHECK,쇼핑,,
+346,https://www.card-gorilla.com/card/detail/346,민 체크카드,2,KB,CHECK,쇼핑,,
+347,https://www.card-gorilla.com/card/detail/347,비트윈체크카드,2,KB,CHECK,문화여가,,
+348,https://www.card-gorilla.com/card/detail/348,노리체크카드,2,KB,CHECK,문화여가,,
+349,https://www.card-gorilla.com/card/detail/349,해피락스타 체크카드,2,KB,CHECK,문화여가,,
+350,https://www.card-gorilla.com/card/detail/350,직장인보너스체크카드,2,KB,CHECK,교통자동차,,
+351,https://www.card-gorilla.com/card/detail/351,스타체크카드,2,KB,CHECK,쇼핑,,
+353,https://www.card-gorilla.com/card/detail/353,해피CU포인트 체크카드,1,SHINHAN,CHECK,쇼핑,,
+354,https://www.card-gorilla.com/card/detail/354,LG U+ 체크카드,1,SHINHAN,CHECK,외식카페,,
+355,https://www.card-gorilla.com/card/detail/355,H.Point 체크카드,2,KB,CHECK,쇼핑,,
+357,https://www.card-gorilla.com/card/detail/357,AK KB국민 체크카드,1,SHINHAN,CHECK,쇼핑,,
+359,https://www.card-gorilla.com/card/detail/359,아모레퍼시픽 체크카드,1,SHINHAN,CHECK,외식카페,,
+364,https://www.card-gorilla.com/card/detail/364,국민행복체크카드(비씨),5,LOTTE,CHECK,쇼핑,,
+366,https://www.card-gorilla.com/card/detail/366,jumjum(점점) 체크카드(비씨),1,SHINHAN,CHECK,기타,,
+369,https://www.card-gorilla.com/card/detail/369,아이행복체크카드(비씨),2,KB,CHECK,쇼핑,,
+372,https://www.card-gorilla.com/card/detail/372,NC다이노스체크카드,6,WOORI,CHECK,쇼핑,,
+378,https://www.card-gorilla.com/card/detail/378,VIVA+ 체크카드,7,HANA,CHECK,생활,,
+380,https://www.card-gorilla.com/card/detail/380,하나멤버스 1Q 체크카드,7,HANA,CHECK,생활,,
+382,https://www.card-gorilla.com/card/detail/382,카카오페이 체크카드,7,HANA,CHECK,생활,,
+383,https://www.card-gorilla.com/card/detail/383,해피포인트 체크카드,1,SHINHAN,CHECK,생활,,
+388,https://www.card-gorilla.com/card/detail/388,하나멤버스 Mega 체크카드,1,SHINHAN,CHECK,생활,,
+389,https://www.card-gorilla.com/card/detail/389,시코르 체크카드,1,SHINHAN,CHECK,생활,,
+390,https://www.card-gorilla.com/card/detail/390,신세계 하나 체크카드,1,SHINHAN,CHECK,생활,,
+391,https://www.card-gorilla.com/card/detail/391,신한카드 하이패스(전용) 체크,1,SHINHAN,CHECK,기타,,
+392,https://www.card-gorilla.com/card/detail/392,국민행복 삼성체크카드,3,SAMSUNG,CHECK,쇼핑,,
+393,https://www.card-gorilla.com/card/detail/393,삼성체크카드 & POINT,1,SHINHAN,CHECK,문화여가,,
+394,https://www.card-gorilla.com/card/detail/394,삼성체크카드 & CASHBACK,3,SAMSUNG,CHECK,문화여가,,
+400,https://www.card-gorilla.com/card/detail/400,롯데포인트플러스 체크카드,5,LOTTE,CHECK,기타,,
+402,https://www.card-gorilla.com/card/detail/402,롯데 플래티넘 체크카드,1,SHINHAN,CHECK,기타,,1000
+403,https://www.card-gorilla.com/card/detail/403,롯데체크카드,5,LOTTE,CHECK,교통자동차,,
+404,https://www.card-gorilla.com/card/detail/404,롯데 국민행복 체크카드,5,LOTTE,CHECK,생활,,
+406,https://www.card-gorilla.com/card/detail/406,부자되세요 더 마일리지 체크카드,6,WOORI,CHECK,여행항공,,
+407,https://www.card-gorilla.com/card/detail/407,현대카드M CHECK,1,SHINHAN,CHECK,기타,,
+408,https://www.card-gorilla.com/card/detail/408,현대카드X CHECK,4,HYUNDAI,CREDIT,기타,,
+410,https://www.card-gorilla.com/card/detail/410,현대카드ZERO(할인형),4,HYUNDAI,CREDIT,여행항공,,5000
+414,https://www.card-gorilla.com/card/detail/414,현대카드M HYBRID,4,HYUNDAI,CREDIT,기타,,
+415,https://www.card-gorilla.com/card/detail/415,현대카드X HYBRID,4,HYUNDAI,CREDIT,기타,,
+418,https://www.card-gorilla.com/card/detail/418,현대카드ZERO MOBILE(포인트형),4,HYUNDAI,CREDIT,여행항공,,5000
+419,https://www.card-gorilla.com/card/detail/419,현대카드ZERO MOBILE(할인형),4,HYUNDAI,CREDIT,여행항공,,5000
+420,https://www.card-gorilla.com/card/detail/420,현대카드ZERO(포인트형),4,HYUNDAI,CREDIT,여행항공,,5000
+421,https://www.card-gorilla.com/card/detail/421,현대카드M-경차전용카드(유류세 환급),4,HYUNDAI,CREDIT,교통자동차,,
+422,https://www.card-gorilla.com/card/detail/422,the Green,4,HYUNDAI,CREDIT,여행항공,,150000
+423,https://www.card-gorilla.com/card/detail/423,the Red Edition3,4,HYUNDAI,CREDIT,여행항공,,300000
+424,https://www.card-gorilla.com/card/detail/424,the Purple Edition2,4,HYUNDAI,CREDIT,여행항공,,800000
+425,https://www.card-gorilla.com/card/detail/425,코스트코 리워드 현대카드,4,HYUNDAI,CREDIT,쇼핑,,10000
+426,https://www.card-gorilla.com/card/detail/426,알파원카드,1,SHINHAN,CREDIT,쇼핑,,
+430,https://www.card-gorilla.com/card/detail/430,아시아나클럽 롯데 플래티넘 카드,3,SAMSUNG,CREDIT,여행항공,,120000
+432,https://www.card-gorilla.com/card/detail/432,SKYPASS 롯데 아멕스카드,3,SAMSUNG,CREDIT,여행항공,,20000
+434,https://www.card-gorilla.com/card/detail/434,SSG카드,3,SAMSUNG,CREDIT,쇼핑,,10000
+439,https://www.card-gorilla.com/card/detail/439,케이뱅크X해피포인트 체크카드,2,KB,CHECK,생활,,
+444,https://www.card-gorilla.com/card/detail/444,참! 좋은 글로벌 체크카드,2,KB,CHECK,생활,,3000
+447,https://www.card-gorilla.com/card/detail/447,CLUB Premier (Travel 형),7,HANA,CREDIT,여행항공,,210000
+448,https://www.card-gorilla.com/card/detail/448,CLUB Premier (Hotel형),7,HANA,CREDIT,여행항공,,210000
+449,https://www.card-gorilla.com/card/detail/449,CLUB Signature SKYPASS 카드,7,HANA,CREDIT,여행항공,,145000
+450,https://www.card-gorilla.com/card/detail/450,CLUB Signature Asiana Club 카드,7,HANA,CREDIT,여행항공,,145000
+451,https://www.card-gorilla.com/card/detail/451,CLUB Primus Point 카드,7,HANA,CREDIT,쇼핑,,100000
+452,https://www.card-gorilla.com/card/detail/452,CLUB Primus Skypass 카드,7,HANA,CREDIT,여행항공,,100000
+453,https://www.card-gorilla.com/card/detail/453,CLUB Primus Asiana Club 카드,7,HANA,CREDIT,여행항공,,100000
+454,https://www.card-gorilla.com/card/detail/454,가온 올포인트 체크카드,2,KB,CHECK,교통자동차,,
+455,https://www.card-gorilla.com/card/detail/455,롯데 국민행복카드,5,LOTTE,CREDIT,생활,,
+457,https://www.card-gorilla.com/card/detail/457,썸타는 우리 체크,6,WOORI,CHECK,여행항공,,
+458,https://www.card-gorilla.com/card/detail/458,네이버페이 taptap,3,SAMSUNG,CHECK,생활,,15000
+459,https://www.card-gorilla.com/card/detail/459,카드의정석 WOWRI,6,WOORI,CREDIT,생활,,12000
+465,https://www.card-gorilla.com/card/detail/465,K리그 축덕 하나멤버스 1Q Play1 카드,7,HANA,CREDIT,문화여가,,12000
+466,https://www.card-gorilla.com/card/detail/466,신한카드 Air One,1,SHINHAN,CREDIT,여행항공,,49000
+469,https://www.card-gorilla.com/card/detail/469,Easy pick카드,2,KB,CREDIT,쇼핑,,20000
+470,https://www.card-gorilla.com/card/detail/470,Easy on카드,2,KB,CREDIT,쇼핑,,20000
+471,https://www.card-gorilla.com/card/detail/471,LOTTE ONers 롯데카드,5,LOTTE,CREDIT,생활,,5000
+473,https://www.card-gorilla.com/card/detail/473,카드의정석 UniMile,6,WOORI,CHECK,여행항공,,20000
+476,https://www.card-gorilla.com/card/detail/476,신한카드 Deep Making,1,SHINHAN,CREDIT,쇼핑,,30000
+477,https://www.card-gorilla.com/card/detail/477,신한카드 Deep Taking,1,SHINHAN,CREDIT,쇼핑,,20000
+478,https://www.card-gorilla.com/card/detail/478,마이 홈플러스 신한카드,1,SHINHAN,CREDIT,쇼핑,,15000
+479,https://www.card-gorilla.com/card/detail/479,마이 홈플러스 체크카드,1,SHINHAN,CHECK,쇼핑,,
+480,https://www.card-gorilla.com/card/detail/480,카카오 T 하나카드,1,SHINHAN,CREDIT,교통자동차,,22000
+481,https://www.card-gorilla.com/card/detail/481,카드의정석 댕댕냥이(강아지),6,WOORI,CHECK,쇼핑,,12000
+482,https://www.card-gorilla.com/card/detail/482,카드의정석 댕댕냥이(고양이),6,WOORI,CHECK,쇼핑,,12000
+486,https://www.card-gorilla.com/card/detail/486,CJ ONE 우리카드 체크,6,WOORI,CHECK,문화여가,,
+487,https://www.card-gorilla.com/card/detail/487,신한카드 B.Big(마이펫 스노우볼 삑),1,SHINHAN,CREDIT,쇼핑,,13000
+488,https://www.card-gorilla.com/card/detail/488,Easy auto 티타늄카드,2,KB,CREDIT,쇼핑,,30000
+489,https://www.card-gorilla.com/card/detail/489,Easy fly 티타늄카드,2,KB,CREDIT,여행항공,,35000
+490,https://www.card-gorilla.com/card/detail/490,11번가 신한카드,1,SHINHAN,CREDIT,쇼핑,,8000
+491,https://www.card-gorilla.com/card/detail/491,11번가 신한카드 체크,1,SHINHAN,CHECK,쇼핑,,
+498,https://www.card-gorilla.com/card/detail/498,농부의마음 Farmers Heart 체크카드,1,SHINHAN,CHECK,기타,,
+500,https://www.card-gorilla.com/card/detail/500,신세계면세점 SSG카드,3,SAMSUNG,PREPAID,쇼핑,,110000
+501,https://www.card-gorilla.com/card/detail/501,이마트에브리데이 SSG카드,3,SAMSUNG,CREDIT,쇼핑,,10000
+502,https://www.card-gorilla.com/card/detail/502,네이버페이 플래티넘 롯데카드,5,LOTTE,CREDIT,생활,,15000
+507,https://www.card-gorilla.com/card/detail/507,쇼핑조아카드,1,SHINHAN,CREDIT,여행항공,,15000
+508,https://www.card-gorilla.com/card/detail/508,올바른 Edu 카드,1,SHINHAN,CREDIT,생활,,25000
+516,https://www.card-gorilla.com/card/detail/516,올바른 BAZIC+ 카드,4,HYUNDAI,CREDIT,여행항공,,23000
+517,https://www.card-gorilla.com/card/detail/517,NH1934 체크카드,6,WOORI,CHECK,기타,,
+521,https://www.card-gorilla.com/card/detail/521,카드의정석 베트남여행,6,WOORI,CREDIT,외식카페,,12000
+522,https://www.card-gorilla.com/card/detail/522,Liiv M 카드,2,KB,CREDIT,쇼핑,,20000
+523,https://www.card-gorilla.com/card/detail/523,Liiv M 체크카드,2,KB,CHECK,쇼핑,,
+529,https://www.card-gorilla.com/card/detail/529,the Red Edition4,4,HYUNDAI,CREDIT,여행항공,,300000
+533,https://www.card-gorilla.com/card/detail/533,I’m DRIVING,5,LOTTE,CREDIT,교통자동차,,18000
+534,https://www.card-gorilla.com/card/detail/534,인터파크 롯데카드,5,LOTTE,CHECK,문화여가,,10000
+535,https://www.card-gorilla.com/card/detail/535,샤롯데 플래티넘 스타 카드,5,LOTTE,CREDIT,쇼핑,,35000
+536,https://www.card-gorilla.com/card/detail/536,신한카드 Deep Once,1,SHINHAN,CREDIT,문화여가,,23000
+537,https://www.card-gorilla.com/card/detail/537,신한카드 Deep Once Plus,1,SHINHAN,CREDIT,문화여가,,30000
+538,https://www.card-gorilla.com/card/detail/538,Easy study 티타늄카드,2,KB,CHECK,쇼핑,,35000
+539,https://www.card-gorilla.com/card/detail/539,샤롯데 비앤 롯데카드,2,KB,PREPAID,외식카페,,50000
+540,https://www.card-gorilla.com/card/detail/540,I’m ACTIVE,5,LOTTE,CREDIT,생활,,15000
+541,https://www.card-gorilla.com/card/detail/541,I’m Wonderful Plus,4,HYUNDAI,CREDIT,기타,,15000
+542,https://www.card-gorilla.com/card/detail/542,갤러리아 우리카드,6,WOORI,CREDIT,문화여가,,12000
+543,https://www.card-gorilla.com/card/detail/543,카드의정석 APT,6,WOORI,CREDIT,문화여가,,15000
+544,https://www.card-gorilla.com/card/detail/544,카드의정석 APT Platinum,6,WOORI,CHECK,문화여가,,29000
+545,https://www.card-gorilla.com/card/detail/545,카드의정석 APT CHECK,6,WOORI,CHECK,문화여가,,9000
+546,https://www.card-gorilla.com/card/detail/546,다둥이 행복카드,4,HYUNDAI,CREDIT,교통자동차,,
+548,https://www.card-gorilla.com/card/detail/548,카드의정석 MILEAGE SKYPASS,6,WOORI,CREDIT,여행항공,,39000
+551,https://www.card-gorilla.com/card/detail/551,Easy link 티타늄카드,2,KB,CREDIT,여행항공,,32000
+558,https://www.card-gorilla.com/card/detail/558,카드의정석 MILEAGE Asiana Club,6,WOORI,CREDIT,여행항공,,39000
+559,https://www.card-gorilla.com/card/detail/559,펭수 노리 체크카드(펭카),2,KB,CHECK,문화여가,,
+561,https://www.card-gorilla.com/card/detail/561,펭수 노리 체크카드(펭모티콘),2,KB,CHECK,문화여가,,
+568,https://www.card-gorilla.com/card/detail/568,부릉 삼성카드 BIZ,3,SAMSUNG,CREDIT,문화여가,,10000
+569,https://www.card-gorilla.com/card/detail/569,현대카드 DIGITAL LOVER,4,HYUNDAI,CREDIT,여행항공,,20000
+578,https://www.card-gorilla.com/card/detail/578,금융포인트리카드,2,KB,CHECK,쇼핑,,5000
+579,https://www.card-gorilla.com/card/detail/579,I’m YOLO 플래티넘,5,LOTTE,CHECK,여행항공,,50000
+580,https://www.card-gorilla.com/card/detail/580,Easy pick 티타늄 카드,2,KB,CREDIT,쇼핑,,30000
+581,https://www.card-gorilla.com/card/detail/581,I’m Powerful,5,LOTTE,CREDIT,생활,,15000
+582,https://www.card-gorilla.com/card/detail/582,I’m WONDERFUL platinum,5,LOTTE,CREDIT,여행항공,,35000
+583,https://www.card-gorilla.com/card/detail/583,우리 K-패스(신용),6,WOORI,CREDIT,교통자동차,,15000
+584,https://www.card-gorilla.com/card/detail/584,우리 K-패스 (COOKIE CHECK),6,WOORI,CHECK,쇼핑,,
+587,https://www.card-gorilla.com/card/detail/587,모두의 쇼핑,7,HANA,CREDIT,쇼핑,,15000
+588,https://www.card-gorilla.com/card/detail/588,네이버페이 우리카드 체크,6,WOORI,CHECK,여행항공,,5000
+589,https://www.card-gorilla.com/card/detail/589,토스 신용카드,7,HANA,CHECK,외식카페,,10000
+591,https://www.card-gorilla.com/card/detail/591,카카오뱅크 KB국민카드,2,KB,CHECK,쇼핑,,15000
+592,https://www.card-gorilla.com/card/detail/592,카카오뱅크 삼성카드,3,SAMSUNG,CHECK,문화여가,,7000
+594,https://www.card-gorilla.com/card/detail/594,카드의정석 삼성디지털프라자,4,HYUNDAI,CREDIT,외식카페,,20000
+595,https://www.card-gorilla.com/card/detail/595,아이파킹 크레딧 카,1,SHINHAN,CREDIT,교통자동차,,18000
+596,https://www.card-gorilla.com/card/detail/596,셀리턴 우리카드,6,WOORI,CREDIT,기타,,20000
+597,https://www.card-gorilla.com/card/detail/597,AK우리카드,6,WOORI,CHECK,외식카페,,12000
+598,https://www.card-gorilla.com/card/detail/598,AK우리카드 VIP,6,WOORI,CREDIT,외식카페,,25000
+599,https://www.card-gorilla.com/card/detail/599,AK우리카드 체크,4,HYUNDAI,CHECK,외식카페,,3000
+600,https://www.card-gorilla.com/card/detail/600,대한항공카드 030,4,HYUNDAI,CREDIT,여행항공,,30000
+601,https://www.card-gorilla.com/card/detail/601,대한항공카드 070,4,HYUNDAI,CREDIT,여행항공,,70000
+602,https://www.card-gorilla.com/card/detail/602,대한항공카드 150,4,HYUNDAI,CREDIT,여행항공,,150000
+603,https://www.card-gorilla.com/card/detail/603,대한항공카드 the First,4,HYUNDAI,CREDIT,여행항공,,500000
+606,https://www.card-gorilla.com/card/detail/606,카드의정석 UNTACT,6,WOORI,CREDIT,쇼핑,,12000
+607,https://www.card-gorilla.com/card/detail/607,카드의정석 UNTACT PLATINUM,6,WOORI,CHECK,쇼핑,,25000
+608,https://www.card-gorilla.com/card/detail/608,현대카드ZERO Edition2(할인형),4,HYUNDAI,CREDIT,여행항공,,10000
+609,https://www.card-gorilla.com/card/detail/609,현대카드ZERO MOBILE Edition2(할인형),4,HYUNDAI,CREDIT,여행항공,,10000
+610,https://www.card-gorilla.com/card/detail/610,현대카드ZERO Edition2(포인트형),4,HYUNDAI,CREDIT,여행항공,,10000
+611,https://www.card-gorilla.com/card/detail/611,현대카드ZERO MOBILE Edition2(포인트형),4,HYUNDAI,CREDIT,여행항공,,10000
+613,https://www.card-gorilla.com/card/detail/613,신한카드 YaY,1,SHINHAN,CREDIT,쇼핑,,26000
+614,https://www.card-gorilla.com/card/detail/614,위글위글 첵첵 체크카드,2,KB,CHECK,쇼핑,,
+615,https://www.card-gorilla.com/card/detail/615,Easy ring 티타늄카드,2,KB,CREDIT,쇼핑,,30000
+616,https://www.card-gorilla.com/card/detail/616,다이소 삼성카드,1,SHINHAN,CREDIT,쇼핑,,8000
+617,https://www.card-gorilla.com/card/detail/617,카드의정석 UniMile in JEJU,6,WOORI,CREDIT,여행항공,,15000
+618,https://www.card-gorilla.com/card/detail/618,신한카드 Hey Young 체크,1,SHINHAN,CHECK,문화여가,,
+620,https://www.card-gorilla.com/card/detail/620,LOCA CLASSIC,5,LOTTE,CREDIT,기타,,20000
+621,https://www.card-gorilla.com/card/detail/621,LOCA for Auto,5,LOTTE,CREDIT,교통자동차,,20000
+622,https://www.card-gorilla.com/card/detail/622,LOCA for Coffee,5,LOTTE,CREDIT,외식카페,,20000
+623,https://www.card-gorilla.com/card/detail/623,LOCA for Edu,5,LOTTE,CREDIT,생활,,20000
+624,https://www.card-gorilla.com/card/detail/624,LOCA for Health,5,LOTTE,CREDIT,생활,,20000
+625,https://www.card-gorilla.com/card/detail/625,LOCA for Shopping,5,LOTTE,CREDIT,쇼핑,,20000
+626,https://www.card-gorilla.com/card/detail/626,LOCA PLATINUM 할인형,5,LOTTE,CREDIT,여행항공,,100000
+627,https://www.card-gorilla.com/card/detail/627,LOCA PLATINUM 마일리지형,5,LOTTE,CREDIT,여행항공,,100000
+628,https://www.card-gorilla.com/card/detail/628,카드의정석 POINT CHECK x 아기상어,6,WOORI,CHECK,문화여가,,
+630,https://www.card-gorilla.com/card/detail/630,Easy all 카드,2,KB,CHECK,쇼핑,,20000
+634,https://www.card-gorilla.com/card/detail/634,Easy all 티타늄카드,2,KB,CREDIT,쇼핑,,30000
+638,https://www.card-gorilla.com/card/detail/638,신한 슈퍼SOL 체크,1,SHINHAN,CREDIT,기타,,
+644,https://www.card-gorilla.com/card/detail/644,JYP Fan’s EDM 체크,1,SHINHAN,CHECK,쇼핑,,
+645,https://www.card-gorilla.com/card/detail/645,L.pay 신한카드 체크,1,SHINHAN,CHECK,교통자동차,,
+646,https://www.card-gorilla.com/card/detail/646,신한카드 Deep Dream 체크(미니언즈),1,SHINHAN,CHECK,교통자동차,,
+647,https://www.card-gorilla.com/card/detail/647,신한카드 S-Line 체크(마이펫),1,SHINHAN,CHECK,교통자동차,,
+649,https://www.card-gorilla.com/card/detail/649,마이핏카드(적립형),2,KB,CHECK,쇼핑,,30000
+650,https://www.card-gorilla.com/card/detail/650,마이핏카드(할인형),2,KB,CHECK,쇼핑,,10000
+651,https://www.card-gorilla.com/card/detail/651,네이버페이 라인프렌즈 신한카드,1,SHINHAN,CREDIT,생활,,10000
+652,https://www.card-gorilla.com/card/detail/652,올바른 OIL&PASS,1,SHINHAN,CREDIT,교통자동차,,15000
+656,https://www.card-gorilla.com/card/detail/656,카드의 정석 SSO3 NEW-TRO CHECK,6,WOORI,CHECK,쇼핑,,
+657,https://www.card-gorilla.com/card/detail/657,taptap DIGITAL,3,SAMSUNG,CHECK,문화여가,,10000
+658,https://www.card-gorilla.com/card/detail/658,taptap DRIVE,3,SAMSUNG,CREDIT,쇼핑,,10000
+659,https://www.card-gorilla.com/card/detail/659,taptap SHOPPING,3,SAMSUNG,CREDIT,쇼핑,,10000
+661,https://www.card-gorilla.com/card/detail/661,카드의정석 UNTACT AIR,6,WOORI,CREDIT,쇼핑,,15000
+662,https://www.card-gorilla.com/card/detail/662,삼성페이카드,3,SAMSUNG,CHECK,생활,,15000
+663,https://www.card-gorilla.com/card/detail/663,롤라카드,5,LOTTE,CREDIT,교통자동차,,15000
+664,https://www.card-gorilla.com/card/detail/664,New PAYCO 롯데카드,4,HYUNDAI,CREDIT,생활,,15000
+667,https://www.card-gorilla.com/card/detail/667,모두의 건강,7,HANA,CREDIT,외식카페,,15000
+673,https://www.card-gorilla.com/card/detail/673,스타벅스 현대카드,4,HYUNDAI,CREDIT,여행항공,,30000
+677,https://www.card-gorilla.com/card/detail/677,배달의민족 비장의카드 V.2,6,WOORI,CHECK,외식카페,,3000
+679,https://www.card-gorilla.com/card/detail/679,샘 쏘영 체크카드,2,KB,CHECK,쇼핑,,
+680,https://www.card-gorilla.com/card/detail/680,쏘영 체크카드,2,KB,CHECK,쇼핑,,
+681,https://www.card-gorilla.com/card/detail/681,SSG.COM 삼성카드,3,SAMSUNG,CHECK,쇼핑,,15000
+684,https://www.card-gorilla.com/card/detail/684,리틀프렌즈 체크카드,7,HANA,CHECK,쇼핑,,
+685,https://www.card-gorilla.com/card/detail/685,하이틴즈 체크카드,2,KB,CHECK,쇼핑,,
+687,https://www.card-gorilla.com/card/detail/687,신한카드 Unboxing,1,SHINHAN,CREDIT,쇼핑,,35000
+688,https://www.card-gorilla.com/card/detail/688,카드의정석 POINT CHECK x 핑크퐁,1,SHINHAN,CHECK,문화여가,,
+689,https://www.card-gorilla.com/card/detail/689,해외에선 체크카드,2,KB,CHECK,여행항공,,
+690,https://www.card-gorilla.com/card/detail/690,모두의 일상 체크카드,7,HANA,CHECK,생활,,
+691,https://www.card-gorilla.com/card/detail/691,요기요 삼성카드,1,SHINHAN,CREDIT,쇼핑,,10000
+692,https://www.card-gorilla.com/card/detail/692,요기요 신한카드,1,SHINHAN,CREDIT,외식카페,,27000
+693,https://www.card-gorilla.com/card/detail/693,신한카드 MY CAR,1,SHINHAN,CREDIT,교통자동차,,30000
+694,https://www.card-gorilla.com/card/detail/694,배민현대카드,4,HYUNDAI,CREDIT,여행항공,,10000
+695,https://www.card-gorilla.com/card/detail/695,롯데백화점 FLEX카드,5,LOTTE,CREDIT,외식카페,,100000
+696,https://www.card-gorilla.com/card/detail/696,카드의정석 US,6,WOORI,CHECK,교통자동차,,15000
+697,https://www.card-gorilla.com/card/detail/697,탄탄대로 Biz 카드,2,KB,CREDIT,쇼핑,,15000
+699,https://www.card-gorilla.com/card/detail/699,톡톡 with카드,2,KB,CREDIT,외식카페,,12000
+700,https://www.card-gorilla.com/card/detail/700,현대카드 M BOOST,4,HYUNDAI,CREDIT,여행항공,,30000
+701,https://www.card-gorilla.com/card/detail/701,현대카드 X BOOST,4,HYUNDAI,CREDIT,여행항공,,30000
+702,https://www.card-gorilla.com/card/detail/702,현대카드 M2 BOOST,4,HYUNDAI,CREDIT,여행항공,,60000
+703,https://www.card-gorilla.com/card/detail/703,현대카드 M3 BOOST,4,HYUNDAI,CREDIT,여행항공,,90000
+704,https://www.card-gorilla.com/card/detail/704,현대카드 X2 BOOST,4,HYUNDAI,CREDIT,여행항공,,60000
+705,https://www.card-gorilla.com/card/detail/705,현대카드 X3 BOOST,4,HYUNDAI,CREDIT,여행항공,,90000
+706,https://www.card-gorilla.com/card/detail/706,LOCA MONEY,5,LOTTE,CREDIT,기타,,20000
+707,https://www.card-gorilla.com/card/detail/707,LOCA 100,5,LOTTE,CREDIT,기타,,20000
+708,https://www.card-gorilla.com/card/detail/708,쏘카카드,4,HYUNDAI,CREDIT,여행항공,,10000
+712,https://www.card-gorilla.com/card/detail/712,신한카드 국민행복,1,SHINHAN,CREDIT,쇼핑,,
+713,https://www.card-gorilla.com/card/detail/713,신한카드 국민행복 체크,1,SHINHAN,CHECK,쇼핑,,
+716,https://www.card-gorilla.com/card/detail/716,메리어트 본보이™ 더 베스트 신한카드,1,SHINHAN,CREDIT,여행항공,,267000
+717,https://www.card-gorilla.com/card/detail/717,그랑블루 1st,6,WOORI,CHECK,여행항공,,100000
+718,https://www.card-gorilla.com/card/detail/718,국민행복 삼성카드 V2,3,SAMSUNG,CREDIT,생활,,
+719,https://www.card-gorilla.com/card/detail/719,WON DISCOUNT(원 디스카운트) AIR,6,WOORI,CREDIT,외식카페,,10000
+720,https://www.card-gorilla.com/card/detail/720,WON POINT(원 포인트) AIR,6,WOORI,CREDIT,외식카페,,10000
+721,https://www.card-gorilla.com/card/detail/721,국민행복카드 S2,6,WOORI,CREDIT,쇼핑,,
+722,https://www.card-gorilla.com/card/detail/722,국민행복 체크카드 S2,6,WOORI,CHECK,쇼핑,,
+724,https://www.card-gorilla.com/card/detail/724,the Purple osée,4,HYUNDAI,CREDIT,여행항공,,800000
+725,https://www.card-gorilla.com/card/detail/725,새로이 체크카드,2,KB,CHECK,쇼핑,,
+726,https://www.card-gorilla.com/card/detail/726,알뜰폰 Hub 카드,2,KB,CREDIT,쇼핑,,20000
+727,https://www.card-gorilla.com/card/detail/727,알뜰폰 Hub Ⅱ 카드,2,KB,CREDIT,쇼핑,,15000
+728,https://www.card-gorilla.com/card/detail/728,언택트 L 하나카드,6,WOORI,CREDIT,쇼핑,,10000
+729,https://www.card-gorilla.com/card/detail/729,삼성스토어 BENEFIT 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,20000
+730,https://www.card-gorilla.com/card/detail/730,현대카드Z family,4,HYUNDAI,CREDIT,쇼핑,,10000
+731,https://www.card-gorilla.com/card/detail/731,현대카드Z work,4,HYUNDAI,CREDIT,외식카페,,10000
+732,https://www.card-gorilla.com/card/detail/732,현대카드Z ontact,4,HYUNDAI,CREDIT,쇼핑,,10000
+733,https://www.card-gorilla.com/card/detail/733,무신사 현대카드,4,HYUNDAI,CREDIT,여행항공,,10000
+735,https://www.card-gorilla.com/card/detail/735,커피빈 신용카드,2,KB,CREDIT,쇼핑,,20000
+736,https://www.card-gorilla.com/card/detail/736,American Express® Reserve,3,SAMSUNG,CREDIT,쇼핑,,150000
+738,https://www.card-gorilla.com/card/detail/738,신한카드 혼디모앙,1,SHINHAN,CREDIT,쇼핑,,33000
+739,https://www.card-gorilla.com/card/detail/739,나라사랑체크카드,2,KB,CHECK,생활,,
+740,https://www.card-gorilla.com/card/detail/740,Hyundai Mobility(모빌리티) 카드,4,HYUNDAI,CREDIT,교통자동차,,30000
+741,https://www.card-gorilla.com/card/detail/741,Hyundai Mobility(모빌리티) Platinum,4,HYUNDAI,CREDIT,교통자동차,,70000
+744,https://www.card-gorilla.com/card/detail/744,IKEA(이케아) Family with 신한카드,1,SHINHAN,CREDIT,쇼핑,,18000
+745,https://www.card-gorilla.com/card/detail/745,알뜰교통 my pass 마패 신용카드(Hana-BC),7,HANA,CREDIT,쇼핑,,17000
+746,https://www.card-gorilla.com/card/detail/746,알뜰교통 비바 e 플래티늄 체크카드,7,HANA,CHECK,생활,,
+747,https://www.card-gorilla.com/card/detail/747,Liiv M Ⅱ 카드,2,KB,CREDIT,쇼핑,,15000
+749,https://www.card-gorilla.com/card/detail/749,VIVA X 체크카드,6,WOORI,CHECK,생활,,
+750,https://www.card-gorilla.com/card/detail/750,하나 국민행복 체크카드,1,SHINHAN,CHECK,생활,,
+751,https://www.card-gorilla.com/card/detail/751,KB국민 국민행복카드,2,KB,CREDIT,생활,,
+752,https://www.card-gorilla.com/card/detail/752,KB국민 국민행복체크,1,SHINHAN,CHECK,생활,,
+753,https://www.card-gorilla.com/card/detail/753,아모레퍼시픽 신한카드,1,SHINHAN,CHECK,쇼핑,,20000
+754,https://www.card-gorilla.com/card/detail/754,국민행복 삼성체크카드 V2,3,SAMSUNG,CHECK,생활,,
+755,https://www.card-gorilla.com/card/detail/755,LIKIT fun 체크카드,5,LOTTE,CHECK,쇼핑,,
+756,https://www.card-gorilla.com/card/detail/756,LIKIT all 체크카드,5,LOTTE,CHECK,기타,,
+757,https://www.card-gorilla.com/card/detail/757,LIKIT on 체크카드,1,SHINHAN,CHECK,쇼핑,,
+758,https://www.card-gorilla.com/card/detail/758,다이소 신한카드,1,SHINHAN,CREDIT,쇼핑,,10000
+760,https://www.card-gorilla.com/card/detail/760,Young Youth 체크카드,2,KB,CHECK,쇼핑,,
+761,https://www.card-gorilla.com/card/detail/761,Hole In:WON(홀인원) 카드,6,WOORI,CREDIT,문화여가,,49000
+762,https://www.card-gorilla.com/card/detail/762,NU 오하쳌(오늘하루체크),6,WOORI,CHECK,생활,,
+763,https://www.card-gorilla.com/card/detail/763,the Pink,4,HYUNDAI,CREDIT,여행항공,,150000
+764,https://www.card-gorilla.com/card/detail/764,카카오페이 신용카드,3,SAMSUNG,CHECK,생활,,10000
+768,https://www.card-gorilla.com/card/detail/768,Green Wave 1.5℃카드,2,KB,CREDIT,쇼핑,,15000
+769,https://www.card-gorilla.com/card/detail/769,KB ALL point 카드,2,KB,CREDIT,문화여가,,15000
+770,https://www.card-gorilla.com/card/detail/770,그린재킷 체크카드,2,KB,CHECK,문화여가,,
+771,https://www.card-gorilla.com/card/detail/771,L.pay 롯데카드 Ⅱ,5,LOTTE,CREDIT,생활,,10000
+774,https://www.card-gorilla.com/card/detail/774,쿠팡 롯데카드,5,LOTTE,CREDIT,쇼핑,,10000
+775,https://www.card-gorilla.com/card/detail/775,해피포인트 우리체크 V.2,6,WOORI,CHECK,기타,,
+776,https://www.card-gorilla.com/card/detail/776,홈플러스 삼성카드,1,SHINHAN,CREDIT,쇼핑,,15000
+777,https://www.card-gorilla.com/card/detail/777,카드의정석 L.POINT,4,HYUNDAI,CREDIT,문화여가,,12000
+778,https://www.card-gorilla.com/card/detail/778,GS SHOP KB국민카드,2,KB,CHECK,쇼핑,,25000
+779,https://www.card-gorilla.com/card/detail/779,위메프페이 신용카드,2,KB,CHECK,쇼핑,,20000
+780,https://www.card-gorilla.com/card/detail/780,삼성카드 BIZ LEADERS,3,SAMSUNG,CREDIT,생활,,20000
+783,https://www.card-gorilla.com/card/detail/783,SSG.COM카드,3,SAMSUNG,CREDIT,쇼핑,,20000
+784,https://www.card-gorilla.com/card/detail/784,LG U+ 삼성카드,1,SHINHAN,CREDIT,생활,,20000
+785,https://www.card-gorilla.com/card/detail/785,KT 삼성카드,1,SHINHAN,CREDIT,생활,,20000
+788,https://www.card-gorilla.com/card/detail/788,CJ ONE 삼성카드,3,SAMSUNG,CREDIT,문화여가,,10000
+789,https://www.card-gorilla.com/card/detail/789,이마트 e카드 Edition2,3,SAMSUNG,CREDIT,쇼핑,,20000
+791,https://www.card-gorilla.com/card/detail/791,코스트코 리워드 비즈니스 현대카드,4,HYUNDAI,CREDIT,여행항공,,10000
+816,https://www.card-gorilla.com/card/detail/816,단디체크카드,1,SHINHAN,CHECK,문화여가,,
+852,https://www.card-gorilla.com/card/detail/852,SmileCard Edition2,4,HYUNDAI,CREDIT,여행항공,,10000
+853,https://www.card-gorilla.com/card/detail/853,SmileCard the Club,4,HYUNDAI,CREDIT,여행항공,,50000
+854,https://www.card-gorilla.com/card/detail/854,Kia Members 경차전용카드,4,HYUNDAI,CREDIT,교통자동차,,
+859,https://www.card-gorilla.com/card/detail/859,Kia Members 경차전용카드(유류세 환급),4,HYUNDAI,CREDIT,교통자동차,,
+865,https://www.card-gorilla.com/card/detail/865,홈플러스 스페셜 신한카드,1,SHINHAN,CREDIT,쇼핑,,18000
+881,https://www.card-gorilla.com/card/detail/881,IBK-Syrup카드[신용],2,KB,CREDIT,여행항공,,5000
+884,https://www.card-gorilla.com/card/detail/884,신한카드 후불하이패스+ (하이패스 전용),1,SHINHAN,CREDIT,교통자동차,,
+889,https://www.card-gorilla.com/card/detail/889,신한카드 집,1,SHINHAN,CREDIT,생활,,12000
+890,https://www.card-gorilla.com/card/detail/890,e플래티넘 롯데카드,5,LOTTE,CREDIT,생활,,20000
+895,https://www.card-gorilla.com/card/detail/895,신한카드 주거래 신용,1,SHINHAN,CREDIT,교통자동차,,15000
+905,https://www.card-gorilla.com/card/detail/905,메가쇼핑 신한카드,1,SHINHAN,CREDIT,교통자동차,,15000
+906,https://www.card-gorilla.com/card/detail/906,메가쇼핑 신한카드 체크,1,SHINHAN,CHECK,쇼핑,,
+912,https://www.card-gorilla.com/card/detail/912,Easy shopping 티타늄카드,2,KB,CREDIT,쇼핑,,30000
+916,https://www.card-gorilla.com/card/detail/916,위비 알뜰주유소 할인카드,1,SHINHAN,CREDIT,외식카페,,12000
+940,https://www.card-gorilla.com/card/detail/940,CHALLENGE BAG KB국민카드,1,SHINHAN,CREDIT,쇼핑,,15000
+942,https://www.card-gorilla.com/card/detail/942,AK KB국민카드,2,KB,CHECK,쇼핑,,12000
+945,https://www.card-gorilla.com/card/detail/945,신한카드 The CLASSIC-S,1,SHINHAN,CREDIT,여행항공,,100000
+949,https://www.card-gorilla.com/card/detail/949,1st카드 (캐시백형),6,WOORI,CREDIT,여행항공,,10000
+951,https://www.card-gorilla.com/card/detail/951,넥센타이어 우리카드,2,KB,CREDIT,외식카페,,10000
+952,https://www.card-gorilla.com/card/detail/952,SK Oil 400 우리카드,1,SHINHAN,CREDIT,외식카페,,10000
+953,https://www.card-gorilla.com/card/detail/953,마이카 우리카드,6,WOORI,CREDIT,교통자동차,,12000
+993,https://www.card-gorilla.com/card/detail/993,신한카드 The BEST+,1,SHINHAN,CREDIT,여행항공,,295000
+1002,https://www.card-gorilla.com/card/detail/1002,Mobile x LOCA 롯데카드,2,KB,CREDIT,생활,,20000
+1003,https://www.card-gorilla.com/card/detail/1003,신한카드 Love Platinum#,1,SHINHAN,CREDIT,외식카페,,50000
+1006,https://www.card-gorilla.com/card/detail/1006,신한카드 LABE,1,SHINHAN,CREDIT,여행항공,,200000
+1007,https://www.card-gorilla.com/card/detail/1007,Clip카드,2,KB,CREDIT,생활,,15000
+1010,https://www.card-gorilla.com/card/detail/1010,EVO 티타늄카드,2,KB,CREDIT,쇼핑,,30000
+1018,https://www.card-gorilla.com/card/detail/1018,리디 신한카드,1,SHINHAN,CHECK,문화여가,,10000
+1019,https://www.card-gorilla.com/card/detail/1019,더본 신한카드,1,SHINHAN,CREDIT,외식카페,,10000
+1032,https://www.card-gorilla.com/card/detail/1032,후불하이패스 카드,1,SHINHAN,CREDIT,기타,,
+1035,https://www.card-gorilla.com/card/detail/1035,한화손해보험 카드,7,HANA,CREDIT,교통자동차,,5000
+1073,https://www.card-gorilla.com/card/detail/1073,KT 카드의정석 SUPER DC Ⅱ,3,SAMSUNG,CREDIT,문화여가,,20000
+1155,https://www.card-gorilla.com/card/detail/1155,Easy shopping 카드,2,KB,CREDIT,쇼핑,,15000
+1165,https://www.card-gorilla.com/card/detail/1165,골프존 롯데카드,5,LOTTE,CREDIT,문화여가,,15000
+1169,https://www.card-gorilla.com/card/detail/1169,교보문고 롯데체크카드,5,LOTTE,CHECK,쇼핑,,
+1171,https://www.card-gorilla.com/card/detail/1171,H.Point KB국민카드,2,KB,CREDIT,쇼핑,,12000
+1172,https://www.card-gorilla.com/card/detail/1172,하나로마트 하나카드,7,HANA,CREDIT,외식카페,,15000
+1174,https://www.card-gorilla.com/card/detail/1174,하나 원큐 카드,5,LOTTE,CREDIT,기타,,15000
+1180,https://www.card-gorilla.com/card/detail/1180,풀무원 하나카드,1,SHINHAN,CREDIT,쇼핑,,23000
+1184,https://www.card-gorilla.com/card/detail/1184,Z:IN 인테리어 신한카드,1,SHINHAN,CREDIT,기타,,25000
+1186,https://www.card-gorilla.com/card/detail/1186,포켓몬을 사랑하는 고객용 하나멤버스 1Q 체크카드,1,SHINHAN,CHECK,생활,,
+1188,https://www.card-gorilla.com/card/detail/1188,펫 사랑 카드,1,SHINHAN,CREDIT,생활,,15000
+1198,https://www.card-gorilla.com/card/detail/1198,IKEA for Business with 신한카드,1,SHINHAN,CREDIT,기타,,30000
+1202,https://www.card-gorilla.com/card/detail/1202,부산 동백전 체크카드,2,KB,CHECK,생활,,
+1213,https://www.card-gorilla.com/card/detail/1213,펫(PET)카드,1,SHINHAN,CREDIT,쇼핑,,12000
+1215,https://www.card-gorilla.com/card/detail/1215,아모레퍼시픽 카드,1,SHINHAN,CREDIT,문화여가,,12000
+1225,https://www.card-gorilla.com/card/detail/1225,KB국민 윙크카드,1,SHINHAN,CREDIT,생활,,20000
+1229,https://www.card-gorilla.com/card/detail/1229,kt M mobile카드,2,KB,CREDIT,생활,,15000
+1233,https://www.card-gorilla.com/card/detail/1233,LG전자 KB국민카드,1,SHINHAN,CREDIT,쇼핑,,15000
+1243,https://www.card-gorilla.com/card/detail/1243,U＋ 알뜰모바일카드,1,SHINHAN,CREDIT,생활,,15000
+1246,https://www.card-gorilla.com/card/detail/1246,소노시즌 하나카드,7,HANA,CREDIT,기타,,25000
+1248,https://www.card-gorilla.com/card/detail/1248,바디프랜드 하나카드,6,WOORI,CREDIT,쇼핑,,12000
+1253,https://www.card-gorilla.com/card/detail/1253,랭킹닭컴 하나카드,7,HANA,CREDIT,외식카페,,15000
+1256,https://www.card-gorilla.com/card/detail/1256,카드의정석 U+알뜰모바일 CHECK,6,WOORI,CHECK,생활,,
+1258,https://www.card-gorilla.com/card/detail/1258,OK캐쉬백 썸(SUM)타는 우리체크카드,6,WOORI,CHECK,쇼핑,,
+1259,https://www.card-gorilla.com/card/detail/1259,LGU+ 라서즐거운 체크카드,1,SHINHAN,CHECK,외식카페,,
+1260,https://www.card-gorilla.com/card/detail/1260,우리성당 체크카드,6,WOORI,CHECK,외식카페,,
+1278,https://www.card-gorilla.com/card/detail/1278,국민행복카드,3,SAMSUNG,CREDIT,생활,,
+1285,https://www.card-gorilla.com/card/detail/1285,넥슨 메이플스토리 하나BC 체크카드,4,HYUNDAI,CHECK,교통자동차,,
+1286,https://www.card-gorilla.com/card/detail/1286,The CJ KB국민카드,2,KB,CREDIT,쇼핑,,10000
+1288,https://www.card-gorilla.com/card/detail/1288,toss KB국민카드,2,KB,CHECK,외식카페,,20000
+1289,https://www.card-gorilla.com/card/detail/1289,T-Premium KB국민카드,2,KB,CREDIT,쇼핑,,25000
+1290,https://www.card-gorilla.com/card/detail/1290,넥슨 던전앤파이터 체크카드,6,WOORI,CHECK,교통자동차,,
+1294,https://www.card-gorilla.com/card/detail/1294,가온 Biz카드,2,KB,CREDIT,쇼핑,,15000
+1298,https://www.card-gorilla.com/card/detail/1298,청소년 후불교통 체크카드,3,SAMSUNG,CHECK,외식카페,,
+1299,https://www.card-gorilla.com/card/detail/1299,가온 플래티늄바우처카드,2,KB,CREDIT,쇼핑,,100000
+1302,https://www.card-gorilla.com/card/detail/1302,제주도 삼성체크카드,1,SHINHAN,CHECK,교통자동차,,
+1309,https://www.card-gorilla.com/card/detail/1309,가온글로벌카드,2,KB,CREDIT,여행항공,,20000
+1311,https://www.card-gorilla.com/card/detail/1311,BNK 프렌즈 체크카드,2,KB,CHECK,생활,,1000
+1315,https://www.card-gorilla.com/card/detail/1315,골든라이프올림카드,2,KB,CREDIT,생활,,20000
+1323,https://www.card-gorilla.com/card/detail/1323,카카오페이 체크카드,1,SHINHAN,CHECK,쇼핑,,
+1339,https://www.card-gorilla.com/card/detail/1339,골프존 KB국민카드,2,KB,CREDIT,생활,,17000
+1340,https://www.card-gorilla.com/card/detail/1340,New Happy 하나카드,5,LOTTE,CHECK,기타,,10000
+1360,https://www.card-gorilla.com/card/detail/1360,삼성포인트체크카드,3,SAMSUNG,CHECK,교통자동차,,
+1379,https://www.card-gorilla.com/card/detail/1379,굿데이 플래티늄카드,2,KB,CREDIT,쇼핑,,100000
+1380,https://www.card-gorilla.com/card/detail/1380,넥센타이어 KB국민카드,1,SHINHAN,CREDIT,문화여가,,12000
+1381,https://www.card-gorilla.com/card/detail/1381,모두투어 투어마일리지 KB국민카드,2,KB,CREDIT,여행항공,,15000
+1382,https://www.card-gorilla.com/card/detail/1382,몰테일 KB국민카드,1,SHINHAN,CREDIT,쇼핑,,12000
+1383,https://www.card-gorilla.com/card/detail/1383,반려愛카드(강아지),2,KB,CREDIT,쇼핑,,8000
+1390,https://www.card-gorilla.com/card/detail/1390,LG U+ Bora 신한카드 Big Plus,1,SHINHAN,CREDIT,생활,,25000
+1394,https://www.card-gorilla.com/card/detail/1394,현대백화점 체크카드,1,SHINHAN,CHECK,문화여가,,1000
+1433,https://www.card-gorilla.com/card/detail/1433,후불 하이패스카드,1,SHINHAN,CREDIT,교통자동차,,
+1438,https://www.card-gorilla.com/card/detail/1438,해피포인트 체크카드,6,WOORI,CHECK,쇼핑,,
+1443,https://www.card-gorilla.com/card/detail/1443,에버랜드 판다카드,2,KB,CREDIT,쇼핑,,12000
+1446,https://www.card-gorilla.com/card/detail/1446,웅진씽크빅 카드,2,KB,CREDIT,쇼핑,,15000
+1451,https://www.card-gorilla.com/card/detail/1451,우리V외국인체크카드,1,SHINHAN,CHECK,문화여가,,
+1468,https://www.card-gorilla.com/card/detail/1468,제주항공 Refresh Point KB국민카드,2,KB,CREDIT,여행항공,,20000
+1519,https://www.card-gorilla.com/card/detail/1519,LG전자 렌탈 플러스 하나카드,2,KB,CREDIT,기타,,15000
+1523,https://www.card-gorilla.com/card/detail/1523,L.PAY 하나 체크카드,1,SHINHAN,CHECK,생활,,
+1526,https://www.card-gorilla.com/card/detail/1526,K리그 축덕 Young Hana 체크카드 with OKcashbag,7,HANA,CHECK,문화여가,,
+1529,https://www.card-gorilla.com/card/detail/1529,KT Super DC,6,WOORI,CREDIT,생활,,15000
+1532,https://www.card-gorilla.com/card/detail/1532,LGU+ 카드의정석 Ⅱ,3,SAMSUNG,CREDIT,문화여가,,20000
+1544,https://www.card-gorilla.com/card/detail/1544,해피포인트 KB국민카드,2,KB,CHECK,쇼핑,,5000
+1549,https://www.card-gorilla.com/card/detail/1549,하나투어 KB국민카드,2,KB,CREDIT,여행항공,,10000
+1555,https://www.card-gorilla.com/card/detail/1555,SKT 우리카드,6,WOORI,CREDIT,문화여가,,10000
+1558,https://www.card-gorilla.com/card/detail/1558,탄탄대로 웰컴카드,1,SHINHAN,CREDIT,쇼핑,,15000
+1572,https://www.card-gorilla.com/card/detail/1572,탐나는전 체크카드,2,KB,CHECK,교통자동차,,
+1573,https://www.card-gorilla.com/card/detail/1573,티머니 체크카드,2,KB,CHECK,문화여가,,
+1577,https://www.card-gorilla.com/card/detail/1577,New후불하이패스카드,1,SHINHAN,CREDIT,교통자동차,,
+1584,https://www.card-gorilla.com/card/detail/1584,신협-신한카드 Hi-Point,1,SHINHAN,CREDIT,교통자동차,,8000
+1586,https://www.card-gorilla.com/card/detail/1586,신협-신한카드 Shopping,1,SHINHAN,CREDIT,외식카페,,20000
+1592,https://www.card-gorilla.com/card/detail/1592,신협-신한카드 B.Big(삑),1,SHINHAN,CREDIT,문화여가,,10000
+1593,https://www.card-gorilla.com/card/detail/1593,신협-신한카드 RPM+Platinum#,1,SHINHAN,CREDIT,교통자동차,,32000
+1595,https://www.card-gorilla.com/card/detail/1595,신협-신한카드 Love Platinum#,1,SHINHAN,CREDIT,외식카페,,50000
+1597,https://www.card-gorilla.com/card/detail/1597,신협-신한카드 Air One,1,SHINHAN,CREDIT,여행항공,,49000
+1599,https://www.card-gorilla.com/card/detail/1599,신협-신한카드 The CLASSIC+,1,SHINHAN,CREDIT,여행항공,,120000
+1608,https://www.card-gorilla.com/card/detail/1608,SK 7mobile카드,2,KB,CHECK,쇼핑,,15000
+1610,https://www.card-gorilla.com/card/detail/1610,KB국민 티머니 노리 학생증체크카드(퍼플),2,KB,CHECK,문화여가,,
+1611,https://www.card-gorilla.com/card/detail/1611,PlayStation® - 현대카드M,4,HYUNDAI,CREDIT,여행항공,,20000
+1615,https://www.card-gorilla.com/card/detail/1615,KB국민 티머니노리학생증 체크카드(세로형_퍼플),2,KB,CHECK,문화여가,,
+1616,https://www.card-gorilla.com/card/detail/1616,KB국민 티머니노리학생증 체크카드(블루_세로형),2,KB,CHECK,문화여가,,
+1617,https://www.card-gorilla.com/card/detail/1617,KB국민 티머니노리학생증 체크카드(그린_세로형),2,KB,CHECK,문화여가,,
+1618,https://www.card-gorilla.com/card/detail/1618,KB국민 티머니노리학생증 체크카드(그린),2,KB,CHECK,문화여가,,
+1619,https://www.card-gorilla.com/card/detail/1619,KB국민 티머니노리학생증 체크카드(블루),2,KB,CHECK,문화여가,,
+1623,https://www.card-gorilla.com/card/detail/1623,삼성빅보너스체크카드,3,SAMSUNG,CHECK,교통자동차,,
+1630,https://www.card-gorilla.com/card/detail/1630,한화생명 Family카드 (골프형),6,WOORI,CREDIT,문화여가,,5000
+1648,https://www.card-gorilla.com/card/detail/1648,NH올원 Direct&DB손해보험카드,6,WOORI,CREDIT,외식카페,,10000
+1673,https://www.card-gorilla.com/card/detail/1673,S-OIL 삼성카드 & POINT,3,SAMSUNG,CREDIT,문화여가,,12000
+1695,https://www.card-gorilla.com/card/detail/1695,한화생명 Family 카드 (문화형),6,WOORI,CREDIT,교통자동차,,5000
+1699,https://www.card-gorilla.com/card/detail/1699,한화생명 Family 체크카드,2,KB,CHECK,교통자동차,,
+1702,https://www.card-gorilla.com/card/detail/1702,FC EXPRESS 체크,1,SHINHAN,CHECK,기타,,
+1710,https://www.card-gorilla.com/card/detail/1710,카드의정석 HEROES,4,HYUNDAI,CREDIT,생활,,12000
+1714,https://www.card-gorilla.com/card/detail/1714,세븐일레븐 멤버십롯데체크카드,5,LOTTE,CHECK,쇼핑,,
+1731,https://www.card-gorilla.com/card/detail/1731,로얄블루1000카드 [SKYPASS],6,WOORI,CREDIT,여행항공,,1000000
+1741,https://www.card-gorilla.com/card/detail/1741,ROYAL BLUE POINT,6,WOORI,CREDIT,여행항공,,300000
+1754,https://www.card-gorilla.com/card/detail/1754,뉴GS칼텍스 롯데카드,1,SHINHAN,CREDIT,문화여가,,10000
+1758,https://www.card-gorilla.com/card/detail/1758,올바른SAFE카드,5,LOTTE,CREDIT,여행항공,,12000
+1759,https://www.card-gorilla.com/card/detail/1759,SC제일은행 아시아나 삼성지엔미카드,3,SAMSUNG,CREDIT,교통자동차,,20000
+1763,https://www.card-gorilla.com/card/detail/1763,올바른SAFE Platinum카드,3,SAMSUNG,CREDIT,여행항공,,100000
+1768,https://www.card-gorilla.com/card/detail/1768,ROYAL BLUE MILEAGE[SKYPASS],6,WOORI,CREDIT,여행항공,,330000
+1787,https://www.card-gorilla.com/card/detail/1787,NU 후불하이패스,1,SHINHAN,CREDIT,교통자동차,,
+1807,https://www.card-gorilla.com/card/detail/1807,LineageM 신한카드 체크,1,SHINHAN,CHECK,외식카페,,
+1809,https://www.card-gorilla.com/card/detail/1809,카드의정석 UniMile CHECK,6,WOORI,CHECK,여행항공,,
+1816,https://www.card-gorilla.com/card/detail/1816,카드의정석 시니어플러스,6,WOORI,CREDIT,여행항공,,12000
+1818,https://www.card-gorilla.com/card/detail/1818,카드의정석 삼성화재 당신에게 좋은보험,3,SAMSUNG,CREDIT,외식카페,,20000
+1829,https://www.card-gorilla.com/card/detail/1829,바디프랜드 카드,6,WOORI,CREDIT,외식카페,,10000
+1839,https://www.card-gorilla.com/card/detail/1839,AIA생명 롯데 리얼체크카드,5,LOTTE,CHECK,문화여가,,
+1854,https://www.card-gorilla.com/card/detail/1854,ALL 다모아카드,6,WOORI,CREDIT,쇼핑,,12000
+1856,https://www.card-gorilla.com/card/detail/1856,카드의정석 하이마트,3,SAMSUNG,CREDIT,쇼핑,,18000
+1859,https://www.card-gorilla.com/card/detail/1859,OK캐쉬백 위비할인카드,1,SHINHAN,CREDIT,문화여가,,12000
+1860,https://www.card-gorilla.com/card/detail/1860,RAUME O,3,SAMSUNG,CREDIT,여행항공,,2000000
+1861,https://www.card-gorilla.com/card/detail/1861,롭스 롯데카드,5,LOTTE,CREDIT,문화여가,,10000
+1865,https://www.card-gorilla.com/card/detail/1865,RAUME O (스카이패스),3,SAMSUNG,CREDIT,여행항공,,2000000
+1866,https://www.card-gorilla.com/card/detail/1866,RAUME O (아시아나),3,SAMSUNG,CREDIT,여행항공,,2000000
+1868,https://www.card-gorilla.com/card/detail/1868,라이나생명 라서즐거운카드,6,WOORI,CREDIT,외식카페,,10000
+1882,https://www.card-gorilla.com/card/detail/1882,삼성스토어 삼성카드,3,SAMSUNG,CREDIT,교통자동차,,20000
+1883,https://www.card-gorilla.com/card/detail/1883,PAYCO taptap,3,SAMSUNG,CHECK,생활,,9900
+1884,https://www.card-gorilla.com/card/detail/1884,라이프파트너 삼성카드,3,SAMSUNG,CREDIT,생활,,20000
+1887,https://www.card-gorilla.com/card/detail/1887,넷마블 신한카드,1,SHINHAN,CREDIT,쇼핑,,13000
+1889,https://www.card-gorilla.com/card/detail/1889,Toss taptap S,1,SHINHAN,CREDIT,문화여가,,10000
+1899,https://www.card-gorilla.com/card/detail/1899,New LG전자 베스트샵 PLUS 신한카드,1,SHINHAN,CREDIT,문화여가,,12000
+1906,https://www.card-gorilla.com/card/detail/1906,후불하이패스카드(비씨),1,SHINHAN,CREDIT,교통자동차,,2000
+1909,https://www.card-gorilla.com/card/detail/1909,THE 1 (스카이패스),3,SAMSUNG,CREDIT,여행항공,,250000
+1926,https://www.card-gorilla.com/card/detail/1926,E1 LPG 롯데카드,5,LOTTE,CHECK,문화여가,,
+1932,https://www.card-gorilla.com/card/detail/1932,E1 LPG 롯데 체크카드,5,LOTTE,CHECK,문화여가,,
+1944,https://www.card-gorilla.com/card/detail/1944,엘포인트카드(비씨),5,LOTTE,CREDIT,쇼핑,,15000
+1977,https://www.card-gorilla.com/card/detail/1977,SB 팝 체크카드,1,SHINHAN,CHECK,쇼핑,,
+1980,https://www.card-gorilla.com/card/detail/1980,LG전자 베스트렌탈 우리카드,1,SHINHAN,CREDIT,기타,,15000
+1984,https://www.card-gorilla.com/card/detail/1984,동양생명 우리카드,2,KB,CREDIT,생활,,15000
+1987,https://www.card-gorilla.com/card/detail/1987,롯데마트 롯데카드,5,LOTTE,CREDIT,문화여가,,15000
+1990,https://www.card-gorilla.com/card/detail/1990,엉 카드,6,WOORI,CREDIT,쇼핑,,12000
+1991,https://www.card-gorilla.com/card/detail/1991,BeV Ⅸ 토탈마일 카드,2,KB,CREDIT,여행항공,,1000000
+1993,https://www.card-gorilla.com/card/detail/1993,롯데백화점 AVENUEL 카드,5,LOTTE,CREDIT,쇼핑,,50000
+1996,https://www.card-gorilla.com/card/detail/1996,NH올원 LG전자BEST카드,2,KB,CREDIT,문화여가,,15000
+2005,https://www.card-gorilla.com/card/detail/2005,GS&POINT 롯데카드,1,SHINHAN,CREDIT,쇼핑,,15000
+2007,https://www.card-gorilla.com/card/detail/2007,LG전자 라서즐거운 카드,2,KB,CREDIT,외식카페,,10000
+2016,https://www.card-gorilla.com/card/detail/2016,Jin Air - 롯데카드,5,LOTTE,CREDIT,문화여가,,6000
+2019,https://www.card-gorilla.com/card/detail/2019,NH올원 Rental&넥센타이어카드,1,SHINHAN,CREDIT,문화여가,,12000
+2021,https://www.card-gorilla.com/card/detail/2021,NH올원 Rental&바디프랜드카드,6,WOORI,CREDIT,문화여가,,14000
+2023,https://www.card-gorilla.com/card/detail/2023,NH올원 Rental&코웨이카드,1,SHINHAN,CREDIT,문화여가,,12000
+2026,https://www.card-gorilla.com/card/detail/2026,카카오페이 체크카드,6,WOORI,CHECK,쇼핑,,
+2060,https://www.card-gorilla.com/card/detail/2060,롯데체크카드,3,SAMSUNG,CHECK,기타,,
+2070,https://www.card-gorilla.com/card/detail/2070,뱅크샐러드 빨대카드,5,LOTTE,CHECK,쇼핑,,20000
+2071,https://www.card-gorilla.com/card/detail/2071,삼성페이 롯데카드,3,SAMSUNG,CREDIT,문화여가,,
+2072,https://www.card-gorilla.com/card/detail/2072,시장愛 체크카드,2,KB,CHECK,생활,,
+2076,https://www.card-gorilla.com/card/detail/2076,WITH 후불교통 체크카드,6,WOORI,CHECK,생활,,
+2078,https://www.card-gorilla.com/card/detail/2078,ON 후불교통 체크카드,7,HANA,CHECK,문화여가,,
+2079,https://www.card-gorilla.com/card/detail/2079,부자되세요 홈쇼핑 체크카드,2,KB,CHECK,생활,,
+2080,https://www.card-gorilla.com/card/detail/2080,PEACH 체크카드,2,KB,CHECK,문화여가,,
+2082,https://www.card-gorilla.com/card/detail/2082,IN 체크카드,2,KB,CHECK,쇼핑,,
+2083,https://www.card-gorilla.com/card/detail/2083,ForU(油) 체크카드,2,KB,CHECK,쇼핑,,
+2084,https://www.card-gorilla.com/card/detail/2084,MG Life 체크카드,7,HANA,CHECK,문화여가,,
+2090,https://www.card-gorilla.com/card/detail/2090,신한카드 The PREMIER GOLD EDITION (스카이패스),1,SHINHAN,CREDIT,여행항공,,1900000
+2091,https://www.card-gorilla.com/card/detail/2091,CLUB1카드 200,7,HANA,CREDIT,여행항공,,2000000
+2093,https://www.card-gorilla.com/card/detail/2093,L.CLASS L60 (스카이패스형),3,SAMSUNG,CREDIT,여행항공,,600000
+2094,https://www.card-gorilla.com/card/detail/2094,카카오페이 체크카드,6,WOORI,CHECK,쇼핑,,
+2097,https://www.card-gorilla.com/card/detail/2097,신한카드 The PREMIER GOLD EDITION (아시아나클럽),1,SHINHAN,CREDIT,여행항공,,1900000
+2104,https://www.card-gorilla.com/card/detail/2104,L.CLASS L60 (L.POINT형),5,LOTTE,CREDIT,쇼핑,,600000
+2106,https://www.card-gorilla.com/card/detail/2106,L.CLASS L60 (아시아나클럽형),3,SAMSUNG,CREDIT,여행항공,,600000
+2132,https://www.card-gorilla.com/card/detail/2132,제주 삼다수카드(신용),1,SHINHAN,CREDIT,외식카페,,15000
+2139,https://www.card-gorilla.com/card/detail/2139,세븐일레븐 멤버쉽롯데카드,5,LOTTE,CHECK,문화여가,,
+2140,https://www.card-gorilla.com/card/detail/2140,쇼퍼홀릭 롯데홈쇼핑 롯데체크카드,5,LOTTE,CHECK,문화여가,,
+2147,https://www.card-gorilla.com/card/detail/2147,위클리 VISA 롯데체크카드,3,SAMSUNG,CHECK,문화여가,,
+2149,https://www.card-gorilla.com/card/detail/2149,이랜드리테일 롯데카드,3,SAMSUNG,CHECK,쇼핑,,15000
+2150,https://www.card-gorilla.com/card/detail/2150,국민행복카드,3,SAMSUNG,CREDIT,여행항공,,
+2151,https://www.card-gorilla.com/card/detail/2151,제주그린카드,4,HYUNDAI,CHECK,여행항공,,
+2172,https://www.card-gorilla.com/card/detail/2172,탐나는J체크카드,2,KB,CHECK,생활,,
+2175,https://www.card-gorilla.com/card/detail/2175,SK OIL&LPG 카드,2,KB,CREDIT,교통자동차,,15000
+2178,https://www.card-gorilla.com/card/detail/2178,1st TRIPLE 카드,1,SHINHAN,CREDIT,외식카페,,
+2179,https://www.card-gorilla.com/card/detail/2179,1st 카드(레드),4,HYUNDAI,CREDIT,문화여가,,10000
+2189,https://www.card-gorilla.com/card/detail/2189,1st TRIPLE 체크카드,6,WOORI,CHECK,기타,,
+2190,https://www.card-gorilla.com/card/detail/2190,해피포인트 체크카드,1,SHINHAN,CHECK,문화여가,,
+2191,https://www.card-gorilla.com/card/detail/2191,Smart Cashback 체크카드,2,KB,CHECK,기타,,
+2192,https://www.card-gorilla.com/card/detail/2192,국민행복 체크카드,6,WOORI,CHECK,교통자동차,,
+2194,https://www.card-gorilla.com/card/detail/2194,유안타 Daily+ 체크카드,2,KB,CHECK,쇼핑,,
+2195,https://www.card-gorilla.com/card/detail/2195,Kia Members 신용카드 Edition2,4,HYUNDAI,CREDIT,교통자동차,,30000
+2196,https://www.card-gorilla.com/card/detail/2196,Kia Members 전기차 신용카드,4,HYUNDAI,CREDIT,교통자동차,,30000
+2197,https://www.card-gorilla.com/card/detail/2197,현대카드M CHECK-경차전용카드(유류세 환급),4,HYUNDAI,CREDIT,교통자동차,,
+2198,https://www.card-gorilla.com/card/detail/2198,캐롯손해보험-현대카드M Edition3,4,HYUNDAI,CREDIT,여행항공,,30000
+2199,https://www.card-gorilla.com/card/detail/2199,산림조합-현대카드M(청구할인형),1,SHINHAN,CREDIT,여행항공,,10000
+2214,https://www.card-gorilla.com/card/detail/2214,Syrup Membership Wealth 마이카드(체크),6,WOORI,CHECK,기타,,
+2215,https://www.card-gorilla.com/card/detail/2215,LUNCH 체크카드,7,HANA,CHECK,쇼핑,,
+2218,https://www.card-gorilla.com/card/detail/2218,NAMUH 체크카드,4,HYUNDAI,CHECK,쇼핑,,
+2219,https://www.card-gorilla.com/card/detail/2219,able 카드 Ⅱ,4,HYUNDAI,CREDIT,쇼핑,,
+2220,https://www.card-gorilla.com/card/detail/2220,DB금융투자 해피플러스 체크카드,2,KB,CHECK,교통자동차,,
+2221,https://www.card-gorilla.com/card/detail/2221,DB 캐쉬백 3.1 체크카드,1,SHINHAN,CHECK,기타,,
+2224,https://www.card-gorilla.com/card/detail/2224,able 시럽카드,1,SHINHAN,CHECK,여행항공,,
+2225,https://www.card-gorilla.com/card/detail/2225,able Premier Members 카드,4,HYUNDAI,CHECK,여행항공,,
+2226,https://www.card-gorilla.com/card/detail/2226,카카오뱅크 롯데카드,5,LOTTE,CHECK,생활,,15000
+2228,https://www.card-gorilla.com/card/detail/2228,LOCA LIKIT,5,LOTTE,CREDIT,외식카페,,10000
+2230,https://www.card-gorilla.com/card/detail/2230,LOCA 100 Life,2,KB,CREDIT,교통자동차,,20000
+2232,https://www.card-gorilla.com/card/detail/2232,1Q Daily+[40주년 에디션],7,HANA,CREDIT,외식카페,,10000
+2233,https://www.card-gorilla.com/card/detail/2233,네이버 현대카드,4,HYUNDAI,CREDIT,문화여가,,10000
+2234,https://www.card-gorilla.com/card/detail/2234,삼성 iD ALL 카드,3,SAMSUNG,CREDIT,쇼핑,,20000
+2235,https://www.card-gorilla.com/card/detail/2235,삼성 iD ON 카드,3,SAMSUNG,CREDIT,생활,,20000
+2236,https://www.card-gorilla.com/card/detail/2236,신한카드 My TeenS,1,SHINHAN,CREDIT,쇼핑,,
+2237,https://www.card-gorilla.com/card/detail/2237,하나 스카이패스 아멕스 플래티늄 카드,7,HANA,CREDIT,여행항공,,45000
+2238,https://www.card-gorilla.com/card/detail/2238,롯데월드카드,3,SAMSUNG,CREDIT,문화여가,,10000
+2240,https://www.card-gorilla.com/card/detail/2240,위버스 신한카드(BTS),1,SHINHAN,CREDIT,기타,,35000
+2241,https://www.card-gorilla.com/card/detail/2241,Kakaopage 롯데카드,5,LOTTE,CREDIT,생활,,15000
+2242,https://www.card-gorilla.com/card/detail/2242,에너지플러스카드 Edition2,1,SHINHAN,CREDIT,교통자동차,,10000
+2243,https://www.card-gorilla.com/card/detail/2243,GS Prime 신한카드,1,SHINHAN,CREDIT,기타,,18000
+2244,https://www.card-gorilla.com/card/detail/2244,위버스 신한카드 체크(BTS),1,SHINHAN,CHECK,기타,,
+2245,https://www.card-gorilla.com/card/detail/2245,위버스 신한카드 체크(TXT),1,SHINHAN,CHECK,기타,,
+2246,https://www.card-gorilla.com/card/detail/2246,위버스 신한카드 체크(ENHYPEN),1,SHINHAN,CHECK,생활,,
+2247,https://www.card-gorilla.com/card/detail/2247,위버스 신한카드 체크(SEVENTEEN),1,SHINHAN,CHECK,기타,,
+2248,https://www.card-gorilla.com/card/detail/2248,위버스 신한카드(ENHYPEN),1,SHINHAN,CREDIT,기타,,35000
+2249,https://www.card-gorilla.com/card/detail/2249,위버스 신한카드(SEVENTEEN),1,SHINHAN,CREDIT,기타,,35000
+2250,https://www.card-gorilla.com/card/detail/2250,위버스 신한카드(TXT),1,SHINHAN,CREDIT,기타,,35000
+2251,https://www.card-gorilla.com/card/detail/2251,오케이몰 우리카드,1,SHINHAN,CREDIT,쇼핑,,15000
+2255,https://www.card-gorilla.com/card/detail/2255,KB Pay 챌린지카드,2,KB,CREDIT,쇼핑,,15000
+2256,https://www.card-gorilla.com/card/detail/2256,KB Pay 챌린지+카드,2,KB,CREDIT,쇼핑,,30000
+2257,https://www.card-gorilla.com/card/detail/2257,삼성 모바일플러스카드,3,SAMSUNG,CREDIT,생활,,15000
+2258,https://www.card-gorilla.com/card/detail/2258,#Pay 신한카드,1,SHINHAN,CREDIT,쇼핑,,30000
+2259,https://www.card-gorilla.com/card/detail/2259,the Red Edition5,4,HYUNDAI,CREDIT,여행항공,,300000
+2260,https://www.card-gorilla.com/card/detail/2260,the Green Edition2,4,HYUNDAI,CHECK,여행항공,,150000
+2261,https://www.card-gorilla.com/card/detail/2261,LOCA LIKIT 1.2,5,LOTTE,CREDIT,쇼핑,,10000
+2262,https://www.card-gorilla.com/card/detail/2262,LOCA LIKIT Eat,5,LOTTE,CREDIT,외식카페,,10000
+2263,https://www.card-gorilla.com/card/detail/2263,LOCA LIKIT Play,5,LOTTE,CREDIT,문화여가,,10000
+2264,https://www.card-gorilla.com/card/detail/2264,LOCA LIKIT Shop,5,LOTTE,CREDIT,쇼핑,,10000
+2265,https://www.card-gorilla.com/card/detail/2265,롯데홈쇼핑 벨리곰 카드,5,LOTTE,CREDIT,쇼핑,,15000
+2267,https://www.card-gorilla.com/card/detail/2267,L.PAY 신한카드,1,SHINHAN,CREDIT,교통자동차,,20000
+2270,https://www.card-gorilla.com/card/detail/2270,하나은행 밀리언달러 카드,5,LOTTE,CREDIT,문화여가,,15000
+2272,https://www.card-gorilla.com/card/detail/2272,신한 Meme(밈) 카드,1,SHINHAN,CHECK,쇼핑,,
+2277,https://www.card-gorilla.com/card/detail/2277,요기패스 신용카드,2,KB,CREDIT,외식카페,,15000
+2278,https://www.card-gorilla.com/card/detail/2278,NS홈쇼핑 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,10000
+2279,https://www.card-gorilla.com/card/detail/2279,신세계 아울렛 BENEFIT 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,20000
+2280,https://www.card-gorilla.com/card/detail/2280,American Express The Platinum Card®,4,HYUNDAI,CREDIT,여행항공,,1000000
+2281,https://www.card-gorilla.com/card/detail/2281,American Express® Gold Card,4,HYUNDAI,CREDIT,여행항공,,300000
+2282,https://www.card-gorilla.com/card/detail/2282,American Express® Green Card,4,HYUNDAI,CREDIT,여행항공,,100000
+2283,https://www.card-gorilla.com/card/detail/2283,롯데렌터카 신차장 EV+ 우리카드,6,WOORI,CREDIT,교통자동차,,20000
+2285,https://www.card-gorilla.com/card/detail/2285,Voluntas 자원봉사자 우리체크,6,WOORI,CHECK,쇼핑,,
+2286,https://www.card-gorilla.com/card/detail/2286,NU Uniq point,6,WOORI,CHECK,교통자동차,,20000
+2287,https://www.card-gorilla.com/card/detail/2287,현대카드 MX Black,4,HYUNDAI,CREDIT,여행항공,,150000
+2288,https://www.card-gorilla.com/card/detail/2288,모두의 신세계 하나카드,7,HANA,CHECK,쇼핑,,12000
+2289,https://www.card-gorilla.com/card/detail/2289,삼성 iD EV 카드,3,SAMSUNG,CREDIT,문화여가,,15000
+2290,https://www.card-gorilla.com/card/detail/2290,삼성 iD ENERGY 카드,3,SAMSUNG,CHECK,교통자동차,,20000
+2291,https://www.card-gorilla.com/card/detail/2291,메리어트 본보이™ 더 클래식 신한카드,1,SHINHAN,CREDIT,여행항공,,147000
+2292,https://www.card-gorilla.com/card/detail/2292,현대카드 MY BUSINESS ZERO Food&Drink,4,HYUNDAI,CREDIT,여행항공,,30000
+2293,https://www.card-gorilla.com/card/detail/2293,현대카드 MY BUSINESS ZERO Retail&Service,4,HYUNDAI,CREDIT,여행항공,,30000
+2294,https://www.card-gorilla.com/card/detail/2294,현대카드 MY BUSINESS ZERO Online Seller,4,HYUNDAI,CREDIT,여행항공,,30000
+2296,https://www.card-gorilla.com/card/detail/2296,톡톡M 카드,2,KB,CREDIT,쇼핑,,12000
+2297,https://www.card-gorilla.com/card/detail/2297,톡톡F 카드,2,KB,CREDIT,쇼핑,,12000
+2298,https://www.card-gorilla.com/card/detail/2298,톡톡O 카드,2,KB,CHECK,문화여가,,12000
+2299,https://www.card-gorilla.com/card/detail/2299,톡톡D 카드,2,KB,CREDIT,외식카페,,12000
+2300,https://www.card-gorilla.com/card/detail/2300,내맘대로 쁨 카드,7,HANA,CREDIT,생활,,12000
+2301,https://www.card-gorilla.com/card/detail/2301,원스토어 1 하나카드,1,SHINHAN,CHECK,외식카페,,15000
+2302,https://www.card-gorilla.com/card/detail/2302,T우주 신한카드,1,SHINHAN,CREDIT,쇼핑,,18000
+2304,https://www.card-gorilla.com/card/detail/2304,신한카드 Eats More(이츠모아),1,SHINHAN,CHECK,기타,,18000
+2306,https://www.card-gorilla.com/card/detail/2306,L.PAY by 롤라카드(신용),5,LOTTE,CREDIT,문화여가,,15000
+2307,https://www.card-gorilla.com/card/detail/2307,L.PAY by 롤라카드(체크),3,SAMSUNG,CHECK,문화여가,,
+2308,https://www.card-gorilla.com/card/detail/2308,로스트아크 카드,4,HYUNDAI,CREDIT,기타,,12000
+2309,https://www.card-gorilla.com/card/detail/2309,톡톡 구독카드,1,SHINHAN,CHECK,문화여가,,30000
+2311,https://www.card-gorilla.com/card/detail/2311,럭키 더블카드,6,WOORI,CREDIT,쇼핑,,
+2312,https://www.card-gorilla.com/card/detail/2312,럭키 유카드,6,WOORI,CREDIT,쇼핑,,
+2315,https://www.card-gorilla.com/card/detail/2315,한패스카드,6,WOORI,PREPAID,기타,,10000
+2316,https://www.card-gorilla.com/card/detail/2316,차이 신용카드,4,HYUNDAI,CREDIT,교통자동차,,12000
+2317,https://www.card-gorilla.com/card/detail/2317,차이 체크카드,4,HYUNDAI,CHECK,기타,,
+2318,https://www.card-gorilla.com/card/detail/2318,핀크카드,6,WOORI,CHECK,쇼핑,,
+2322,https://www.card-gorilla.com/card/detail/2322,티니패스 카드,1,SHINHAN,CHECK,쇼핑,,
+2323,https://www.card-gorilla.com/card/detail/2323,아이부자 카드,7,HANA,CHECK,생활,,
+2324,https://www.card-gorilla.com/card/detail/2324,삼성 BIZ iD BENEFIT카드,3,SAMSUNG,CREDIT,생활,,30000
+2325,https://www.card-gorilla.com/card/detail/2325,프레딧 하나카드,7,HANA,CREDIT,생활,,12000
+2326,https://www.card-gorilla.com/card/detail/2326,해피포인트 해피리워드 카드,2,KB,CHECK,문화여가,,15000
+2327,https://www.card-gorilla.com/card/detail/2327,스카이패스 티타늄 카드,2,KB,CREDIT,여행항공,,45000
+2329,https://www.card-gorilla.com/card/detail/2329,핀트 카드,6,WOORI,CHECK,기타,,
+2330,https://www.card-gorilla.com/card/detail/2330,LOCA 365 카드,5,LOTTE,CREDIT,문화여가,,20000
+2331,https://www.card-gorilla.com/card/detail/2331,땡겨요 신한카드,1,SHINHAN,CREDIT,쇼핑,,18000
+2332,https://www.card-gorilla.com/card/detail/2332,KB국민 우리동네 체크카드,2,KB,CHECK,쇼핑,,
+2333,https://www.card-gorilla.com/card/detail/2333,땡겨요 신한카드 체크,1,SHINHAN,CREDIT,외식카페,,
+2334,https://www.card-gorilla.com/card/detail/2334,땡겨요 신한카드 체크(라이더형),1,SHINHAN,CREDIT,쇼핑,,
+2335,https://www.card-gorilla.com/card/detail/2335,해피리워드 체크카드,2,KB,CHECK,기타,,
+2338,https://www.card-gorilla.com/card/detail/2338,신한카드 Way 체크,1,SHINHAN,CHECK,교통자동차,,
+2340,https://www.card-gorilla.com/card/detail/2340,쇼핑& 카드,2,KB,CREDIT,쇼핑,,
+2342,https://www.card-gorilla.com/card/detail/2342,투썸플레이스 신한카드 체크,1,SHINHAN,CREDIT,외식카페,,
+2343,https://www.card-gorilla.com/card/detail/2343,신한카드 On 체크,1,SHINHAN,CHECK,교통자동차,,
+2349,https://www.card-gorilla.com/card/detail/2349,모니모카드,3,SAMSUNG,CREDIT,쇼핑,,10000
+2352,https://www.card-gorilla.com/card/detail/2352,&POP 카드,5,LOTTE,CREDIT,쇼핑,,5000
+2353,https://www.card-gorilla.com/card/detail/2353,NU Blanc,6,WOORI,CREDIT,여행항공,,50000
+2354,https://www.card-gorilla.com/card/detail/2354,NU Uniq,6,WOORI,CREDIT,쇼핑,,20000
+2355,https://www.card-gorilla.com/card/detail/2355,레고랜드카드,2,KB,CHECK,쇼핑,,20000
+2356,https://www.card-gorilla.com/card/detail/2356,레고랜드 체크카드,2,KB,CHECK,문화여가,,
+2357,https://www.card-gorilla.com/card/detail/2357,레고랜드매니아카드,2,KB,CREDIT,쇼핑,,100000
+2358,https://www.card-gorilla.com/card/detail/2358,삼성 iD EDU 카드,3,SAMSUNG,CHECK,쇼핑,,30000
+2359,https://www.card-gorilla.com/card/detail/2359,Hyundai Mobilty카드(상용차),4,HYUNDAI,CREDIT,교통자동차,,30000
+2360,https://www.card-gorilla.com/card/detail/2360,LOCA in MEGACITY,5,LOTTE,CHECK,쇼핑,,20000
+2361,https://www.card-gorilla.com/card/detail/2361,케이뱅크 롯데카드,5,LOTTE,CHECK,생활,,15000
+2363,https://www.card-gorilla.com/card/detail/2363,wavve카드,2,KB,CREDIT,쇼핑,,15000
+2364,https://www.card-gorilla.com/card/detail/2364,iD MOVE카드,3,SAMSUNG,CREDIT,교통자동차,,20000
+2365,https://www.card-gorilla.com/card/detail/2365,닥터구디 T&R(티앤알) 카드,7,HANA,CREDIT,생활,,25000
+2369,https://www.card-gorilla.com/card/detail/2369,Happy 디지털카드,5,LOTTE,CREDIT,기타,,15000
+2370,https://www.card-gorilla.com/card/detail/2370,NU Uniq Check,6,WOORI,CHECK,쇼핑,,
+2371,https://www.card-gorilla.com/card/detail/2371,신한카드 플리,1,SHINHAN,CREDIT,기타,,18000
+2372,https://www.card-gorilla.com/card/detail/2372,신한카드 플리(체크),1,SHINHAN,CHECK,기타,,
+2373,https://www.card-gorilla.com/card/detail/2373,신한카드 On 체크(쥬라기),1,SHINHAN,CHECK,생활,,
+2374,https://www.card-gorilla.com/card/detail/2374,신한카드 Way 체크(쥬라기),1,SHINHAN,CHECK,교통자동차,,
+2376,https://www.card-gorilla.com/card/detail/2376,삼성 iD SIMPLE 카드,3,SAMSUNG,CREDIT,문화여가,,7000
+2377,https://www.card-gorilla.com/card/detail/2377,톡톡 my point카드,2,KB,CHECK,생활,,12000
+2378,https://www.card-gorilla.com/card/detail/2378,톡톡 my living카드,2,KB,CREDIT,쇼핑,,12000
+2379,https://www.card-gorilla.com/card/detail/2379,신한카드 On 체크(잔망루피),1,SHINHAN,CHECK,생활,,
+2385,https://www.card-gorilla.com/card/detail/2385,Flex카드 몽블랑 에디션,5,LOTTE,CREDIT,쇼핑,,100000
+2386,https://www.card-gorilla.com/card/detail/2386,티머니 Pay & GO 신한카드,1,SHINHAN,CHECK,쇼핑,,18000
+2388,https://www.card-gorilla.com/card/detail/2388,넥슨 현대카드 UNLIMITED,4,HYUNDAI,CHECK,문화여가,,150000
+2389,https://www.card-gorilla.com/card/detail/2389,넥슨 현대카드,4,HYUNDAI,CHECK,여행항공,,10000
+2390,https://www.card-gorilla.com/card/detail/2390,넥슨 현대카드Check,4,HYUNDAI,CHECK,기타,,
+2392,https://www.card-gorilla.com/card/detail/2392,CJ 삼성 iD 카드,3,SAMSUNG,CREDIT,쇼핑,,10000
+2393,https://www.card-gorilla.com/card/detail/2393,SSG.COM 카드 Edition2,4,HYUNDAI,CHECK,쇼핑,,10000
+2394,https://www.card-gorilla.com/card/detail/2394,트래블로그 체크카드,7,HANA,CHECK,생활,,
+2395,https://www.card-gorilla.com/card/detail/2395,LOCA 나누기 카드,5,LOTTE,CREDIT,여행항공,,20000
+2396,https://www.card-gorilla.com/card/detail/2396,Diners Club POINT,6,WOORI,PREPAID,여행항공,,300000
+2397,https://www.card-gorilla.com/card/detail/2397,Diners Club MILEAGE,6,WOORI,PREPAID,여행항공,,330000
+2398,https://www.card-gorilla.com/card/detail/2398,신세계 더 마일리지 삼성카드 (스카이패스),3,SAMSUNG,CREDIT,쇼핑,,45000
+2399,https://www.card-gorilla.com/card/detail/2399,리브 NEXT카드,2,KB,CHECK,쇼핑,,
+2400,https://www.card-gorilla.com/card/detail/2400,밥바라밥 페이북머니 체크카드,6,WOORI,CHECK,외식카페,,
+2401,https://www.card-gorilla.com/card/detail/2401,NU Nature,6,WOORI,CREDIT,외식카페,,12000
+2402,https://www.card-gorilla.com/card/detail/2402,GS리테일 NH농협카드,1,SHINHAN,CREDIT,여행항공,,12000
+2403,https://www.card-gorilla.com/card/detail/2403,NU I&U,6,WOORI,CREDIT,교통자동차,,12000
+2404,https://www.card-gorilla.com/card/detail/2404,코오롱몰 우리카드,6,WOORI,CREDIT,쇼핑,,15000
+2405,https://www.card-gorilla.com/card/detail/2405,#any 하나카드,7,HANA,CREDIT,문화여가,,12000
+2406,https://www.card-gorilla.com/card/detail/2406,하나 CLUB H 아메리칸 익스프레스 리저브 카드,7,HANA,CREDIT,여행항공,,150000
+2407,https://www.card-gorilla.com/card/detail/2407,삼성 iD PET 카드,3,SAMSUNG,CREDIT,생활,,15000
+2409,https://www.card-gorilla.com/card/detail/2409,#MY WAY 카드,7,HANA,CREDIT,문화여가,,20000
+2410,https://www.card-gorilla.com/card/detail/2410,New 제주항공 하나카드,7,HANA,CREDIT,여행항공,,17000
+2411,https://www.card-gorilla.com/card/detail/2411,슈퍼쇼퍼카드,6,WOORI,CREDIT,쇼핑,,15000
+2412,https://www.card-gorilla.com/card/detail/2412,아멕스 플래티넘 아시아나클럽 롯데카드,5,LOTTE,CREDIT,여행항공,,55000
+2414,https://www.card-gorilla.com/card/detail/2414,인플카 현대카드,4,HYUNDAI,CREDIT,여행항공,,10000
+2416,https://www.card-gorilla.com/card/detail/2416,이마트II KB국민카드(옐로우),2,KB,CREDIT,쇼핑,,15000
+2417,https://www.card-gorilla.com/card/detail/2417,인플카 현대카드 CHECK,4,HYUNDAI,CREDIT,쇼핑,,
+2418,https://www.card-gorilla.com/card/detail/2418,始發(시발)카드,6,WOORI,CREDIT,쇼핑,,8000
+2419,https://www.card-gorilla.com/card/detail/2419,삼성 iD POCKET 카드,3,SAMSUNG,CHECK,쇼핑,,
+2420,https://www.card-gorilla.com/card/detail/2420,카카오뱅크 개인사업자 삼성카드,3,SAMSUNG,CHECK,생활,,15000
+2421,https://www.card-gorilla.com/card/detail/2421,카카오뱅크 개인사업자 체크카드,3,SAMSUNG,CHECK,기타,,
+2422,https://www.card-gorilla.com/card/detail/2422,노리2 체크카드(KB Pay),2,KB,CHECK,문화여가,,
+2423,https://www.card-gorilla.com/card/detail/2423,노리2 체크카드(Global),2,KB,CHECK,문화여가,,
+2424,https://www.card-gorilla.com/card/detail/2424,LOCA X 구독,1,SHINHAN,CREDIT,생활,,20000
+2429,https://www.card-gorilla.com/card/detail/2429,삼프로TV 하나카드,6,WOORI,CREDIT,생활,,15000
+2430,https://www.card-gorilla.com/card/detail/2430,SC제일은행-현대카드 M CHECK,4,HYUNDAI,CREDIT,기타,,
+2431,https://www.card-gorilla.com/card/detail/2431,SC제일은행-현대카드 X CHECK,4,HYUNDAI,CREDIT,기타,,
+2432,https://www.card-gorilla.com/card/detail/2432,네이버페이 머니 하나 체크카드,7,HANA,CHECK,생활,,
+2433,https://www.card-gorilla.com/card/detail/2433,네이버페이 쇼핑엔로카,3,SAMSUNG,CHECK,생활,,10000
+2434,https://www.card-gorilla.com/card/detail/2434,갤러리아 KB국민카드,2,KB,CREDIT,쇼핑,,15000
+2435,https://www.card-gorilla.com/card/detail/2435,신한카드 EVerywhere,1,SHINHAN,PREPAID,쇼핑,,22000
+2436,https://www.card-gorilla.com/card/detail/2436,the Red Stripe,4,HYUNDAI,CREDIT,여행항공,,500000
+2437,https://www.card-gorilla.com/card/detail/2437,GS리테일 NH농협체크카드,1,SHINHAN,CHECK,여행항공,,
+2440,https://www.card-gorilla.com/card/detail/2440,KB ALL 카드,2,KB,CREDIT,쇼핑,,20000
+2441,https://www.card-gorilla.com/card/detail/2441,KB국민 My WE:SH 카드,2,KB,CREDIT,쇼핑,,15000
+2442,https://www.card-gorilla.com/card/detail/2442,KB YOU With 카드,2,KB,CHECK,생활,,15000
+2443,https://www.card-gorilla.com/card/detail/2443,GOODGAME 체크카드,2,KB,CHECK,기타,,
+2444,https://www.card-gorilla.com/card/detail/2444,롯데마트&MAXX 카드,5,LOTTE,CREDIT,쇼핑,,20000
+2445,https://www.card-gorilla.com/card/detail/2445,원더카드 2.0 DAILY,7,HANA,CREDIT,쇼핑,,19900
+2446,https://www.card-gorilla.com/card/detail/2446,원더카드 FREE,7,HANA,CREDIT,쇼핑,,12000
+2447,https://www.card-gorilla.com/card/detail/2447,원더카드 2.0 LIVING,1,SHINHAN,CREDIT,교통자동차,,19900
+2448,https://www.card-gorilla.com/card/detail/2448,원더카드 HAPPY,7,HANA,CREDIT,생활,,12000
+2449,https://www.card-gorilla.com/card/detail/2449,원더카드 2.0 T,7,HANA,CREDIT,생활,,19900
+2450,https://www.card-gorilla.com/card/detail/2450,HERITAGE Smart [할인형],2,KB,CREDIT,여행항공,,200000
+2451,https://www.card-gorilla.com/card/detail/2451,HERITAGE Smart [대한항공 마일리지형],2,KB,CREDIT,여행항공,,200000
+2452,https://www.card-gorilla.com/card/detail/2452,카카오뱅크 하나카드,2,KB,CHECK,생활,,12000
+2453,https://www.card-gorilla.com/card/detail/2453,신한카드 구독 좋아요,1,SHINHAN,CREDIT,문화여가,,18000
+2455,https://www.card-gorilla.com/card/detail/2455,카카오뱅크 우리카드,3,SAMSUNG,CREDIT,생활,,12000
+2457,https://www.card-gorilla.com/card/detail/2457,캐롯손해보험 롯데카드,4,HYUNDAI,CREDIT,생활,,20000
+2459,https://www.card-gorilla.com/card/detail/2459,삼성 iD NOMAD 카드,3,SAMSUNG,CREDIT,여행항공,,49000
+2460,https://www.card-gorilla.com/card/detail/2460,THE iD. PLATINUM(포인트),3,SAMSUNG,CREDIT,여행항공,,220000
+2461,https://www.card-gorilla.com/card/detail/2461,THE iD. TITANIUM(포인트),3,SAMSUNG,CREDIT,여행항공,,700000
+2463,https://www.card-gorilla.com/card/detail/2463,LOCA Mobility 반띵 카드,5,LOTTE,CREDIT,쇼핑,,17000
+2465,https://www.card-gorilla.com/card/detail/2465,신세계 the Mile 하나카드,7,HANA,CREDIT,여행항공,,35000
+2466,https://www.card-gorilla.com/card/detail/2466,이디야 하나카드,6,WOORI,CREDIT,외식카페,,15000
+2467,https://www.card-gorilla.com/card/detail/2467,신한카드 알뜰More(알뜰모아),1,SHINHAN,CREDIT,생활,,23000
+2468,https://www.card-gorilla.com/card/detail/2468,KMVNO 알뜰폰 카드,2,KB,CREDIT,쇼핑,,15000
+2469,https://www.card-gorilla.com/card/detail/2469,나무 롯데카드,5,LOTTE,CHECK,문화여가,,20000
+2470,https://www.card-gorilla.com/card/detail/2470,TRADERS CLUB 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,15000
+2471,https://www.card-gorilla.com/card/detail/2471,신한카드 Way 체크(최고심),1,SHINHAN,CHECK,교통자동차,,
+2472,https://www.card-gorilla.com/card/detail/2472,SKT-현대카드M Edition3(라이트할부형2.0),4,HYUNDAI,CREDIT,교통자동차,,20000
+2473,https://www.card-gorilla.com/card/detail/2473,MY RENTAL+ 롯데카드,5,LOTTE,CREDIT,교통자동차,,18000
+2474,https://www.card-gorilla.com/card/detail/2474,T-economy KB국민카드,2,KB,CREDIT,생활,,15000
+2475,https://www.card-gorilla.com/card/detail/2475,하나로 전자카드 메가캐쉬백 더드림 체크카드,7,HANA,CHECK,쇼핑,,
+2476,https://www.card-gorilla.com/card/detail/2476,NU AUTO 우리카드,6,WOORI,CREDIT,교통자동차,,20000
+2477,https://www.card-gorilla.com/card/detail/2477,T나는혜택 삼성카드,1,SHINHAN,CREDIT,생활,,20000
+2479,https://www.card-gorilla.com/card/detail/2479,제주신화월드 신한카드,1,SHINHAN,CREDIT,기타,,18000
+2481,https://www.card-gorilla.com/card/detail/2481,신한 햇살론카드,1,SHINHAN,CREDIT,쇼핑,,
+2483,https://www.card-gorilla.com/card/detail/2483,IBK DC히어로즈 카드(신용),4,HYUNDAI,CREDIT,쇼핑,,12000
+2484,https://www.card-gorilla.com/card/detail/2484,kt SUPER+ 카드,6,WOORI,CREDIT,생활,,17000
+2486,https://www.card-gorilla.com/card/detail/2486,LFmall 신용카드,1,SHINHAN,CREDIT,쇼핑,,15000
+2487,https://www.card-gorilla.com/card/detail/2487,CGV 우리카드,1,SHINHAN,CHECK,문화여가,,20000
+2488,https://www.card-gorilla.com/card/detail/2488,베베쿡 신한카드,1,SHINHAN,CHECK,쇼핑,,15000
+2489,https://www.card-gorilla.com/card/detail/2489,K-FIRST (모바일전용),4,HYUNDAI,CREDIT,여행항공,,5000
+2491,https://www.card-gorilla.com/card/detail/2491,신한카드 플리(산리오캐릭터즈),1,SHINHAN,CREDIT,기타,,18000
+2492,https://www.card-gorilla.com/card/detail/2492,신한카드 플리 체크(산리오캐릭터즈),1,SHINHAN,CHECK,기타,,
+2494,https://www.card-gorilla.com/card/detail/2494,H.Point 우리카드,6,WOORI,CREDIT,여행항공,,15000
+2495,https://www.card-gorilla.com/card/detail/2495,신세계 The BLOSSOM 신한카드,1,SHINHAN,CREDIT,쇼핑,,48000
+2496,https://www.card-gorilla.com/card/detail/2496,신세계사이먼 프리미엄 아울렛 신한카드,1,SHINHAN,CREDIT,교통자동차,,23000
+2497,https://www.card-gorilla.com/card/detail/2497,LG BEST SHOP 486 신한카드,1,SHINHAN,CREDIT,기타,,25000
+2511,https://www.card-gorilla.com/card/detail/2511,신한카드 봄,1,SHINHAN,CHECK,문화여가,,20000
+2512,https://www.card-gorilla.com/card/detail/2512,신한카드 봄(체크),1,SHINHAN,CHECK,교통자동차,,
+2514,https://www.card-gorilla.com/card/detail/2514,미래에셋 현대카드 Silver,1,SHINHAN,CREDIT,여행항공,,30000
+2515,https://www.card-gorilla.com/card/detail/2515,미래에셋 현대카드 Gold,4,HYUNDAI,CREDIT,여행항공,,150000
+2516,https://www.card-gorilla.com/card/detail/2516,미래에셋 현대카드 Diamond,4,HYUNDAI,CREDIT,여행항공,,500000
+2517,https://www.card-gorilla.com/card/detail/2517,네이버웹툰 삼성 iD 카드,3,SAMSUNG,CREDIT,쇼핑,,10000
+2519,https://www.card-gorilla.com/card/detail/2519,개이득 체크카드,2,KB,CHECK,쇼핑,,
+2521,https://www.card-gorilla.com/card/detail/2521,NOL 카드,4,HYUNDAI,CREDIT,쇼핑,,20000
+2522,https://www.card-gorilla.com/card/detail/2522,KT NU우리카드,1,SHINHAN,CREDIT,생활,,20000
+2523,https://www.card-gorilla.com/card/detail/2523,LG U+ 우리카드,6,WOORI,CREDIT,생활,,15000
+2525,https://www.card-gorilla.com/card/detail/2525,만나 우리카드,6,WOORI,CREDIT,외식카페,,12000
+2526,https://www.card-gorilla.com/card/detail/2526,LG트윈스 신한카드,1,SHINHAN,CREDIT,문화여가,,10000
+2527,https://www.card-gorilla.com/card/detail/2527,신한카드 Pick I 체크,1,SHINHAN,CHECK,쇼핑,,
+2528,https://www.card-gorilla.com/card/detail/2528,신한카드 Pick E 체크,1,SHINHAN,CHECK,외식카페,,
+2529,https://www.card-gorilla.com/card/detail/2529,트래블로그 신용카드,7,HANA,CHECK,여행항공,,20000
+2530,https://www.card-gorilla.com/card/detail/2530,총무 체크카드,2,KB,CHECK,외식카페,,
+2532,https://www.card-gorilla.com/card/detail/2532,신한카드 Globus,1,SHINHAN,CREDIT,여행항공,,25000
+2533,https://www.card-gorilla.com/card/detail/2533,에너지 더블 카드,7,HANA,CREDIT,쇼핑,,20000
+2534,https://www.card-gorilla.com/card/detail/2534,삼성 iD VITA 카드,3,SAMSUNG,CREDIT,생활,,20000
+2537,https://www.card-gorilla.com/card/detail/2537,LOCA for 롯데마트,5,LOTTE,CREDIT,쇼핑,,20000
+2538,https://www.card-gorilla.com/card/detail/2538,LOCA CLASSIC 롯데마트,1,SHINHAN,CREDIT,쇼핑,,20000
+2539,https://www.card-gorilla.com/card/detail/2539,MY S-OIL 삼성카드,1,SHINHAN,CREDIT,교통자동차,,20000
+2540,https://www.card-gorilla.com/card/detail/2540,HERITAGE Exclusive,2,KB,CREDIT,쇼핑,,2000000
+2541,https://www.card-gorilla.com/card/detail/2541,HERITAGE Reserve(스카이패스형),2,KB,CREDIT,여행항공,,800000
+2542,https://www.card-gorilla.com/card/detail/2542,HERITAGE Reserve(포인트형),2,KB,CREDIT,쇼핑,,800000
+2543,https://www.card-gorilla.com/card/detail/2543,신세계 THE S VIP,3,SAMSUNG,CREDIT,생활,,49000
+2546,https://www.card-gorilla.com/card/detail/2546,신한카드 Pick E 선불,1,SHINHAN,CREDIT,외식카페,,
+2547,https://www.card-gorilla.com/card/detail/2547,신한카드 Pick I 선불,1,SHINHAN,CREDIT,쇼핑,,
+2548,https://www.card-gorilla.com/card/detail/2548,e hi-pass 카드(현대차),1,SHINHAN,CREDIT,쇼핑,,
+2549,https://www.card-gorilla.com/card/detail/2549,신한카드 KaPick,1,SHINHAN,CREDIT,생활,,22000
+2550,https://www.card-gorilla.com/card/detail/2550,노리2 체크카드(Play),2,KB,CHECK,문화여가,,
+2551,https://www.card-gorilla.com/card/detail/2551,카드의정석 EVERY 1,6,WOORI,CREDIT,기타,,12000
+2552,https://www.card-gorilla.com/card/detail/2552,카드의정석 EVERY CHECK,6,WOORI,CHECK,문화여가,,
+2553,https://www.card-gorilla.com/card/detail/2553,카드의정석 EVERY MILE SKYPASS,6,WOORI,CREDIT,여행항공,,39000
+2554,https://www.card-gorilla.com/card/detail/2554,밀리언달러 하나카드,5,LOTTE,CREDIT,문화여가,,15000
+2555,https://www.card-gorilla.com/card/detail/2555,K-패스카드,2,KB,CHECK,쇼핑,,8000
+2556,https://www.card-gorilla.com/card/detail/2556,K-패스체크카드,2,KB,CHECK,교통자동차,,
+2558,https://www.card-gorilla.com/card/detail/2558,K-패스 삼성카드,3,SAMSUNG,CHECK,쇼핑,,10000
+2563,https://www.card-gorilla.com/card/detail/2563,K-패스 삼성체크카드,3,SAMSUNG,CHECK,문화여가,,
+2565,https://www.card-gorilla.com/card/detail/2565,I-PET,3,SAMSUNG,CREDIT,쇼핑,,19000
+2566,https://www.card-gorilla.com/card/detail/2566,Trip to 로카,3,SAMSUNG,CREDIT,기타,,20000
+2567,https://www.card-gorilla.com/card/detail/2567,우리동네GS 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,15000
+2568,https://www.card-gorilla.com/card/detail/2568,TMAP & LOGI 행복 체크카드,2,KB,CHECK,문화여가,,
+2569,https://www.card-gorilla.com/card/detail/2569,트래블월렛 우리카드,6,WOORI,CHECK,여행항공,,20000
+2570,https://www.card-gorilla.com/card/detail/2570,카드의정석 오하CHECK,6,WOORI,CHECK,문화여가,,
+2571,https://www.card-gorilla.com/card/detail/2571,엠베스트 엘리하이 삼성카드,1,SHINHAN,CREDIT,생활,,15000
+2572,https://www.card-gorilla.com/card/detail/2572,Mile1 하나카드,7,HANA,CHECK,여행항공,,20000
+2583,https://www.card-gorilla.com/card/detail/2583,PAYCO 36 우리카드,1,SHINHAN,CREDIT,쇼핑,,15000
+2585,https://www.card-gorilla.com/card/detail/2585,신한카드 Way 체크(미니언즈 여름),1,SHINHAN,CREDIT,쇼핑,,
+2586,https://www.card-gorilla.com/card/detail/2586,티니 카드,1,SHINHAN,CHECK,생활,,
+2587,https://www.card-gorilla.com/card/detail/2587,카드의정석 EVERY 1 (망그러진곰 Edition),6,WOORI,CREDIT,기타,,12000
+2588,https://www.card-gorilla.com/card/detail/2588,스타플러스 체크카드,2,KB,CHECK,문화여가,,
+2589,https://www.card-gorilla.com/card/detail/2589,GS Prime 신한카드 체크,1,SHINHAN,CHECK,기타,,
+2590,https://www.card-gorilla.com/card/detail/2590,BC 바로 에어 플러스 아시아나,3,SAMSUNG,CREDIT,여행항공,,19000
+2592,https://www.card-gorilla.com/card/detail/2592,싱가포르항공 크리스플라이어 더 베스트 신한카드,1,SHINHAN,CREDIT,여행항공,,250000
+2594,https://www.card-gorilla.com/card/detail/2594,아시아나 듀얼마일리지 롯데카드,1,SHINHAN,CREDIT,여행항공,,45000
+2595,https://www.card-gorilla.com/card/detail/2595,랭킹닭컴 신용카드,2,KB,CHECK,문화여가,,15000
+2596,https://www.card-gorilla.com/card/detail/2596,신한카드 봄(도구리),1,SHINHAN,CREDIT,문화여가,,20000
+2597,https://www.card-gorilla.com/card/detail/2597,신한카드 봄 체크(도구리),1,SHINHAN,CREDIT,교통자동차,,
+2598,https://www.card-gorilla.com/card/detail/2598,CJ ONE 프리즘 신한카드,1,SHINHAN,CREDIT,쇼핑,,23000
+2602,https://www.card-gorilla.com/card/detail/2602,SPOTV NOW 신한카드 구독 좋아요,1,SHINHAN,CREDIT,문화여가,,18000
+2603,https://www.card-gorilla.com/card/detail/2603,KB차차차 신용카드,1,SHINHAN,CREDIT,교통자동차,,30000
+2604,https://www.card-gorilla.com/card/detail/2604,토심이 첵첵 체크카드,2,KB,CHECK,쇼핑,,
+2605,https://www.card-gorilla.com/card/detail/2605,TMAP KB국민카드,1,SHINHAN,CREDIT,교통자동차,,15000
+2606,https://www.card-gorilla.com/card/detail/2606,신한라이프 THE PRIDE 신한카드,1,SHINHAN,CREDIT,생활,,18000
+2608,https://www.card-gorilla.com/card/detail/2608,대성학원 신한카드,1,SHINHAN,CREDIT,교통자동차,,33000
+2609,https://www.card-gorilla.com/card/detail/2609,쿠팡 와우카드,2,KB,CREDIT,쇼핑,,20000
+2611,https://www.card-gorilla.com/card/detail/2611,신한카드 Applus,1,SHINHAN,CREDIT,기타,,15000
+2612,https://www.card-gorilla.com/card/detail/2612,ALL 우리카드 Premium,6,WOORI,CREDIT,여행항공,,150000
+2613,https://www.card-gorilla.com/card/detail/2613,ALL 우리카드 Infinite,6,WOORI,CREDIT,여행항공,,500000
+2614,https://www.card-gorilla.com/card/detail/2614,KB Pay 머니백카드,2,KB,CHECK,생활,,
+2618,https://www.card-gorilla.com/card/detail/2618,삼성 iD AUTO 카드,3,SAMSUNG,CHECK,교통자동차,,49000
+2619,https://www.card-gorilla.com/card/detail/2619,DGB어디로든그린카드,5,LOTTE,CREDIT,기타,,15000
+2623,https://www.card-gorilla.com/card/detail/2623,American Express Rose Gold KB Kookmin Card,2,KB,CREDIT,쇼핑,,19000
+2624,https://www.card-gorilla.com/card/detail/2624,American Express Blue KB Kookmin Card,2,KB,CREDIT,쇼핑,,19000
+2625,https://www.card-gorilla.com/card/detail/2625,토스 USS NEXT 체크카드,2,KB,CHECK,쇼핑,,
+2627,https://www.card-gorilla.com/card/detail/2627,TWO CHAIRS,6,WOORI,CREDIT,여행항공,,2500000
+2629,https://www.card-gorilla.com/card/detail/2629,Smilecard Edition3,4,HYUNDAI,CREDIT,쇼핑,,20000
+2630,https://www.card-gorilla.com/card/detail/2630,에버랜드 판다카드(푸바오 에디션),2,KB,CHECK,쇼핑,,12000
+2631,https://www.card-gorilla.com/card/detail/2631,모니모A 카드,3,SAMSUNG,CREDIT,외식카페,,10000
+2632,https://www.card-gorilla.com/card/detail/2632,디지로카 London,5,LOTTE,CREDIT,기타,,20000
+2633,https://www.card-gorilla.com/card/detail/2633,디지로카 Paris,5,LOTTE,CREDIT,쇼핑,,20000
+2634,https://www.card-gorilla.com/card/detail/2634,디지로카 Monaco,5,LOTTE,CREDIT,문화여가,,125000
+2635,https://www.card-gorilla.com/card/detail/2635,Triple in LOCA,1,SHINHAN,CREDIT,생활,,20000
+2636,https://www.card-gorilla.com/card/detail/2636,LOCA Professional,5,LOTTE,CREDIT,기타,,300000
+2637,https://www.card-gorilla.com/card/detail/2637,카카오페이 신한 라이언 체크,1,SHINHAN,CHECK,생활,,
+2638,https://www.card-gorilla.com/card/detail/2638,카카오페이 신한 춘식이 체크,1,SHINHAN,CHECK,생활,,
+2639,https://www.card-gorilla.com/card/detail/2639,카드의정석 DON CHECK,6,WOORI,CHECK,쇼핑,,
+2640,https://www.card-gorilla.com/card/detail/2640,코스트코 리워드 현대카드 Edition2,4,HYUNDAI,CREDIT,여행항공,,20000
+2641,https://www.card-gorilla.com/card/detail/2641,어디로든 그린카드 X LOCA,5,LOTTE,CREDIT,교통자동차,,15000
+2642,https://www.card-gorilla.com/card/detail/2642,에너지플러스카드 Edition3,4,HYUNDAI,CREDIT,교통자동차,,30000
+2643,https://www.card-gorilla.com/card/detail/2643,MULTI Any 체크카드,7,HANA,CHECK,생활,,
+2645,https://www.card-gorilla.com/card/detail/2645,ZipL 신용카드,1,SHINHAN,CREDIT,쇼핑,,15000
+2646,https://www.card-gorilla.com/card/detail/2646,현대카드ZERO Edition3(할인형),4,HYUNDAI,CREDIT,여행항공,,15000
+2647,https://www.card-gorilla.com/card/detail/2647,현대카드ZERO Edition3(포인트형),4,HYUNDAI,CREDIT,여행항공,,15000
+2651,https://www.card-gorilla.com/card/detail/2651,W컨셉 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,10000
+2652,https://www.card-gorilla.com/card/detail/2652,에버랜드 삼성카드,3,SAMSUNG,CREDIT,문화여가,,20000
+2653,https://www.card-gorilla.com/card/detail/2653,010PAY 우리카드,6,WOORI,CHECK,기타,,12000
+2654,https://www.card-gorilla.com/card/detail/2654,원더카드 2.0 LIFE,7,HANA,CREDIT,쇼핑,,19900
+2655,https://www.card-gorilla.com/card/detail/2655,DA카드의정석Ⅱ,6,WOORI,CREDIT,여행항공,,12000
+2656,https://www.card-gorilla.com/card/detail/2656,춘식이 모바일 로카,2,KB,CREDIT,생활,,20000
+2657,https://www.card-gorilla.com/card/detail/2657,JADE Classic,7,HANA,CREDIT,외식카페,,120000
+2658,https://www.card-gorilla.com/card/detail/2658,I-나눔,2,KB,CREDIT,쇼핑,,15000
+2659,https://www.card-gorilla.com/card/detail/2659,보험엔로카,3,SAMSUNG,CREDIT,교통자동차,,20000
+2661,https://www.card-gorilla.com/card/detail/2661,삼성 iD PLUG-IN 카드,3,SAMSUNG,PREPAID,문화여가,,20000
+2662,https://www.card-gorilla.com/card/detail/2662,American Express® Green Card Edition2,4,HYUNDAI,CREDIT,여행항공,,150000
+2663,https://www.card-gorilla.com/card/detail/2663,American Express® Gold Card Edition2,4,HYUNDAI,CREDIT,여행항공,,300000
+2664,https://www.card-gorilla.com/card/detail/2664,American Express The Platinum Card®Edition2,4,HYUNDAI,CREDIT,여행항공,,1000000
+2665,https://www.card-gorilla.com/card/detail/2665,폼 체크카드,2,KB,CHECK,외식카페,,
+2666,https://www.card-gorilla.com/card/detail/2666,신한카드 Point Plan,1,SHINHAN,CREDIT,외식카페,,23000
+2667,https://www.card-gorilla.com/card/detail/2667,신한카드 SOL트래블 체크,1,SHINHAN,CHECK,여행항공,,
+2668,https://www.card-gorilla.com/card/detail/2668,탐나는전 체크카드,1,SHINHAN,CHECK,여행항공,,
+2669,https://www.card-gorilla.com/card/detail/2669,현대카드 M,4,HYUNDAI,CREDIT,여행항공,,30000
+2670,https://www.card-gorilla.com/card/detail/2670,현대카드 MM,4,HYUNDAI,CREDIT,여행항공,,70000
+2671,https://www.card-gorilla.com/card/detail/2671,원더 K리그 축덕카드,7,HANA,CREDIT,쇼핑,,19900
+2673,https://www.card-gorilla.com/card/detail/2673,신한카드 Point Plan 체크,1,SHINHAN,CHECK,쇼핑,,
+2676,https://www.card-gorilla.com/card/detail/2676,삼성 iD GLOBAL 카드,3,SAMSUNG,CREDIT,여행항공,,20000
+2677,https://www.card-gorilla.com/card/detail/2677,"카드의정석 Dear, Shopper(디어쇼퍼)",6,WOORI,CREDIT,여행항공,,150000
+2678,https://www.card-gorilla.com/card/detail/2678,"카드의정석 Dear, Traveler(디어트래블러)",6,WOORI,CREDIT,여행항공,,150000
+2679,https://www.card-gorilla.com/card/detail/2679,현대카드 X,4,HYUNDAI,CREDIT,여행항공,,50000
+2680,https://www.card-gorilla.com/card/detail/2680,현대카드Z work Edition2,4,HYUNDAI,CHECK,쇼핑,,20000
+2681,https://www.card-gorilla.com/card/detail/2681,K-패스 하나 신용카드,7,HANA,CHECK,쇼핑,,17000
+2682,https://www.card-gorilla.com/card/detail/2682,K-패스 하나 체크카드,7,HANA,CHECK,쇼핑,,
+2683,https://www.card-gorilla.com/card/detail/2683,현대카드Z family Edition2,4,HYUNDAI,CREDIT,여행항공,,20000
+2684,https://www.card-gorilla.com/card/detail/2684,현대카드Z play,4,HYUNDAI,CREDIT,문화여가,,20000
+2685,https://www.card-gorilla.com/card/detail/2685,WE:SH Travel,2,KB,CREDIT,여행항공,,25000
+2686,https://www.card-gorilla.com/card/detail/2686,D4카드의정석Ⅱ,6,WOORI,CREDIT,외식카페,,12000
+2687,https://www.card-gorilla.com/card/detail/2687,카드의정석 SHOPPING+,6,WOORI,CREDIT,쇼핑,,12000
+2688,https://www.card-gorilla.com/card/detail/2688,카드의정석 I&U+,6,WOORI,CREDIT,교통자동차,,12000
+2689,https://www.card-gorilla.com/card/detail/2689,카드의정석2 EVERY POINT,6,WOORI,CREDIT,여행항공,,12000
+2690,https://www.card-gorilla.com/card/detail/2690,K-패스 신한카드,1,SHINHAN,CHECK,교통자동차,,10000
+2691,https://www.card-gorilla.com/card/detail/2691,트래블러스 체크카드(토심이),2,KB,CHECK,외식카페,,
+2692,https://www.card-gorilla.com/card/detail/2692,현대카드 Summit,4,HYUNDAI,CREDIT,여행항공,,200000
+2693,https://www.card-gorilla.com/card/detail/2693,K-패스 신한카드 체크,1,SHINHAN,CHECK,교통자동차,,
+2694,https://www.card-gorilla.com/card/detail/2694,신한카드 처음,1,SHINHAN,CREDIT,쇼핑,,18000
+2697,https://www.card-gorilla.com/card/detail/2697,현대카드 MX Black Edition2,4,HYUNDAI,CREDIT,여행항공,,200000
+2699,https://www.card-gorilla.com/card/detail/2699,카드의정석 TEN,6,WOORI,CREDIT,쇼핑,,12000
+2700,https://www.card-gorilla.com/card/detail/2700,위비트래블 체크카드,1,SHINHAN,CHECK,외식카페,,
+2701,https://www.card-gorilla.com/card/detail/2701,하나투어 삼성카드,3,SAMSUNG,CREDIT,여행항공,,20000
+2702,https://www.card-gorilla.com/card/detail/2702,삼성 iD CLASSY 카드,3,SAMSUNG,CREDIT,외식카페,,30000
+2703,https://www.card-gorilla.com/card/detail/2703,JADE Prime,7,HANA,CREDIT,교통자동차,,300000
+2704,https://www.card-gorilla.com/card/detail/2704,JADE First,7,HANA,CREDIT,여행항공,,600000
+2705,https://www.card-gorilla.com/card/detail/2705,JADE First Centum,7,HANA,CREDIT,교통자동차,,1000000
+2707,https://www.card-gorilla.com/card/detail/2707,디지로카 Las Vegas,5,LOTTE,CREDIT,기타,,20000
+2708,https://www.card-gorilla.com/card/detail/2708,WE:SH Daily 카드,2,KB,CREDIT,쇼핑,,15000
+2709,https://www.card-gorilla.com/card/detail/2709,대한항공카드 060,4,HYUNDAI,CREDIT,여행항공,,60000
+2710,https://www.card-gorilla.com/card/detail/2710,대한항공카드 120,4,HYUNDAI,CREDIT,여행항공,,120000
+2711,https://www.card-gorilla.com/card/detail/2711,대한항공카드 300,4,HYUNDAI,CREDIT,여행항공,,300000
+2712,https://www.card-gorilla.com/card/detail/2712,대한항공카드 the First Edition2,4,HYUNDAI,CREDIT,여행항공,,800000
+2713,https://www.card-gorilla.com/card/detail/2713,디지로카 Pet,3,SAMSUNG,CREDIT,생활,,30000
+2714,https://www.card-gorilla.com/card/detail/2714,디지로카 Edu,5,LOTTE,CREDIT,생활,,30000
+2715,https://www.card-gorilla.com/card/detail/2715,디지로카 Wellness,5,LOTTE,CREDIT,생활,,30000
+2716,https://www.card-gorilla.com/card/detail/2716,디지로카 Golf,5,LOTTE,CREDIT,문화여가,,30000
+2717,https://www.card-gorilla.com/card/detail/2717,디지로카 Auto,5,LOTTE,CREDIT,교통자동차,,30000
+2718,https://www.card-gorilla.com/card/detail/2718,모바일엔디지로카,2,KB,CREDIT,생활,,20000
+2719,https://www.card-gorilla.com/card/detail/2719,카드의정석2 EVERY DISCOUNT,6,WOORI,CREDIT,생활,,12000
+2721,https://www.card-gorilla.com/card/detail/2721,당근머니 하나 체크카드,7,HANA,CHECK,생활,,
+2722,https://www.card-gorilla.com/card/detail/2722,신한카드 SOL트래블,1,SHINHAN,CHECK,여행항공,,30000
+2723,https://www.card-gorilla.com/card/detail/2723,롯데카드 KaPick,5,LOTTE,CREDIT,생활,,20000
+2725,https://www.card-gorilla.com/card/detail/2725,배민 한그릇카드,1,SHINHAN,CREDIT,여행항공,,10000
+2726,https://www.card-gorilla.com/card/detail/2726,배민 곱빼기카드,1,SHINHAN,CREDIT,여행항공,,30000
+2729,https://www.card-gorilla.com/card/detail/2729,트래블로그 SKYPASS 신용카드,7,HANA,CHECK,여행항공,,48000
+2730,https://www.card-gorilla.com/card/detail/2730,트래블로그 PRESTIGE 신용카드,7,HANA,CHECK,여행항공,,150000
+2731,https://www.card-gorilla.com/card/detail/2731,신한카드 Point Plan+,1,SHINHAN,CREDIT,외식카페,,33000
+2732,https://www.card-gorilla.com/card/detail/2732,토스뱅크 하나카드 Wide,5,LOTTE,CREDIT,기타,,20000
+2733,https://www.card-gorilla.com/card/detail/2733,원더 Co brand(집업) 제휴 카드,7,HANA,CREDIT,쇼핑,,19900
+2734,https://www.card-gorilla.com/card/detail/2734,코웨이 IBK카드,2,KB,CREDIT,여행항공,,15000
+2735,https://www.card-gorilla.com/card/detail/2735,신한카드 Edu Plan+,1,SHINHAN,CREDIT,문화여가,,43000
+2736,https://www.card-gorilla.com/card/detail/2736,현대홈쇼핑 현대카드,4,HYUNDAI,CREDIT,여행항공,,10000
+2737,https://www.card-gorilla.com/card/detail/2737,the Red (항공 마일리지형),4,HYUNDAI,CREDIT,여행항공,,300000
+2738,https://www.card-gorilla.com/card/detail/2738,SILVER FOR LOTTE DEPARTMENT STORE,4,HYUNDAI,CREDIT,여행항공,,30000
+2739,https://www.card-gorilla.com/card/detail/2739,GOLD FOR LOTTE DEPARTMENT STORE,4,HYUNDAI,CREDIT,여행항공,,150000
+2740,https://www.card-gorilla.com/card/detail/2740,트래블GO 체크카드,7,HANA,CHECK,생활,,
+2741,https://www.card-gorilla.com/card/detail/2741,KT 가족만족 할부 신한카드,1,SHINHAN,CREDIT,생활,,25000
+2742,https://www.card-gorilla.com/card/detail/2742,카드의정석 EVERYDAY CHECK,6,WOORI,CHECK,교통자동차,,
+2743,https://www.card-gorilla.com/card/detail/2743,3 Body-A 현대카드,4,HYUNDAI,CREDIT,여행항공,,300000
+2744,https://www.card-gorilla.com/card/detail/2744,EV 카드,1,SHINHAN,CREDIT,생활,,20000
+2746,https://www.card-gorilla.com/card/detail/2746,삼성 iD ONE 카드,3,SAMSUNG,CREDIT,생활,,50000
+2747,https://www.card-gorilla.com/card/detail/2747,신한카드 The Pet,1,SHINHAN,CREDIT,쇼핑,,23000
+2748,https://www.card-gorilla.com/card/detail/2748,신한카드 The Premium Pet,1,SHINHAN,CREDIT,쇼핑,,203000
+2750,https://www.card-gorilla.com/card/detail/2750,달달 하나 체크카드,2,KB,CHECK,생활,,
+2751,https://www.card-gorilla.com/card/detail/2751,the Red (M포인트형),4,HYUNDAI,CREDIT,여행항공,,300000
+2752,https://www.card-gorilla.com/card/detail/2752,the Pink Edition2,4,HYUNDAI,CREDIT,여행항공,,150000
+2753,https://www.card-gorilla.com/card/detail/2753,the Green Edition3,4,HYUNDAI,CREDIT,여행항공,,150000
+2755,https://www.card-gorilla.com/card/detail/2755,the Red Stripe Edition2,4,HYUNDAI,CREDIT,여행항공,,500000
+2756,https://www.card-gorilla.com/card/detail/2756,the Purple,4,HYUNDAI,CREDIT,여행항공,,1000000
+2757,https://www.card-gorilla.com/card/detail/2757,the black,4,HYUNDAI,CREDIT,여행항공,,3000000
+2759,https://www.card-gorilla.com/card/detail/2759,신한카드 처음(ANNIVERSE),1,SHINHAN,CREDIT,쇼핑,,18000
+2760,https://www.card-gorilla.com/card/detail/2760,카드의정석 칼퇴 CHECK,6,WOORI,CHECK,외식카페,,
+2761,https://www.card-gorilla.com/card/detail/2761,KB국민카드 KaPick,2,KB,CREDIT,쇼핑,,15000
+2762,https://www.card-gorilla.com/card/detail/2762,THE iD. TITANIUM (아시아나),3,SAMSUNG,CREDIT,여행항공,,700000
+2763,https://www.card-gorilla.com/card/detail/2763,CU Npay 카드,1,SHINHAN,CREDIT,쇼핑,,19000
+2764,https://www.card-gorilla.com/card/detail/2764,올리브영 현대카드,2,KB,CREDIT,쇼핑,,30000
+2765,https://www.card-gorilla.com/card/detail/2765,LOCA X 기후동행카드,3,SAMSUNG,CHECK,기타,,10000
+2766,https://www.card-gorilla.com/card/detail/2766,신한 후불 기후동행 신용카드,1,SHINHAN,CHECK,기타,,12000
+2767,https://www.card-gorilla.com/card/detail/2767,신한 후불 기후동행 체크카드,1,SHINHAN,CHECK,기타,,
+2768,https://www.card-gorilla.com/card/detail/2768,하나 기후동행체크카드,1,SHINHAN,CHECK,생활,,
+2769,https://www.card-gorilla.com/card/detail/2769,KB국민 기후동행카드,1,SHINHAN,CHECK,쇼핑,,
+2770,https://www.card-gorilla.com/card/detail/2770,KB국민 기후동행체크카드,1,SHINHAN,CHECK,쇼핑,,
+2771,https://www.card-gorilla.com/card/detail/2771,기후동행 삼성카드,3,SAMSUNG,CHECK,쇼핑,,7000
+2775,https://www.card-gorilla.com/card/detail/2775,카카오페이 트래블로그 체크카드,1,SHINHAN,CHECK,생활,,
+2776,https://www.card-gorilla.com/card/detail/2776,이마트 e카드 Plus,4,HYUNDAI,CREDIT,쇼핑,,30000
+2777,https://www.card-gorilla.com/card/detail/2777,이마트 e카드 Basic,4,HYUNDAI,CREDIT,쇼핑,,20000
+2779,https://www.card-gorilla.com/card/detail/2779,IBK포인트(신용),4,HYUNDAI,CHECK,여행항공,,22000
+2780,https://www.card-gorilla.com/card/detail/2780,HERITAGE Classic [할인형],2,KB,CREDIT,여행항공,,127000
+2781,https://www.card-gorilla.com/card/detail/2781,HERITAGE Classic [스카이패스형],2,KB,CREDIT,여행항공,,157000
+2782,https://www.card-gorilla.com/card/detail/2782,현대카드 Teens,1,SHINHAN,CREDIT,쇼핑,,
+2784,https://www.card-gorilla.com/card/detail/2784,K-패스 우리카드,1,SHINHAN,CREDIT,쇼핑,,
+2785,https://www.card-gorilla.com/card/detail/2785,힐튼 아너스 아멕스,5,LOTTE,CREDIT,여행항공,,250000
+2786,https://www.card-gorilla.com/card/detail/2786,힐튼 아너스 아멕스 프리미엄,5,LOTTE,CREDIT,여행항공,,500000
+2787,https://www.card-gorilla.com/card/detail/2787,LGE.COM 신한카드,1,SHINHAN,CREDIT,기타,,28000
+2788,https://www.card-gorilla.com/card/detail/2788,신한카드 The ACE BLUE LABEL,1,SHINHAN,CREDIT,여행항공,,700000
+2789,https://www.card-gorilla.com/card/detail/2789,에버온 EV 카드,1,SHINHAN,CREDIT,쇼핑,,20000
+2790,https://www.card-gorilla.com/card/detail/2790,현대카드 Summit CE,4,HYUNDAI,CREDIT,여행항공,,80000
+2791,https://www.card-gorilla.com/card/detail/2791,현대카드 Boutique - Velvet,4,HYUNDAI,CREDIT,쇼핑,,80000
+2792,https://www.card-gorilla.com/card/detail/2792,현대카드 Boutique - Satin,4,HYUNDAI,CREDIT,여행항공,,80000
+2793,https://www.card-gorilla.com/card/detail/2793,현대카드 Boutique - Copper,4,HYUNDAI,CREDIT,여행항공,,80000
+2794,https://www.card-gorilla.com/card/detail/2794,네이버 현대카드 Edition2,3,SAMSUNG,CREDIT,여행항공,,20000
+2795,https://www.card-gorilla.com/card/detail/2795,올라운드카드,1,SHINHAN,CREDIT,쇼핑,,15000
+2799,https://www.card-gorilla.com/card/detail/2799,K-패스엔로카,1,SHINHAN,CREDIT,교통자동차,,20000
+2805,https://www.card-gorilla.com/card/detail/2805,토스페이 플러스 신한카드,1,SHINHAN,CREDIT,생활,,
+2806,https://www.card-gorilla.com/card/detail/2806,토스페이 플러스 KB카드,1,SHINHAN,CREDIT,쇼핑,,
+2807,https://www.card-gorilla.com/card/detail/2807,신한카드 The BEST-XO,1,SHINHAN,CREDIT,교통자동차,,300000
+2809,https://www.card-gorilla.com/card/detail/2809,Young Hana+ 체크카드,7,HANA,CHECK,쇼핑,,
+2810,https://www.card-gorilla.com/card/detail/2810,더 심플 체크카드,7,HANA,CHECK,외식카페,,
+2811,https://www.card-gorilla.com/card/detail/2811,더 심플 하나카드,1,SHINHAN,CHECK,생활,,25000
+2814,https://www.card-gorilla.com/card/detail/2814,카카오뱅크 모임 체크카드,1,SHINHAN,CHECK,기타,,
+2817,https://www.card-gorilla.com/card/detail/2817,iM K-패스 체크카드,1,SHINHAN,CHECK,쇼핑,,
+2820,https://www.card-gorilla.com/card/detail/2820,원더카드 2.0 FREE+,7,HANA,CREDIT,쇼핑,,19900
+2821,https://www.card-gorilla.com/card/detail/2821,원더카드 2.0 HAPPY+,7,HANA,CREDIT,쇼핑,,19900
+2822,https://www.card-gorilla.com/card/detail/2822,쿠쿠 X LOCA,1,SHINHAN,CREDIT,기타,,20000
+2823,https://www.card-gorilla.com/card/detail/2823,롯데멤버스 카드,5,LOTTE,CHECK,쇼핑,,30000
+2824,https://www.card-gorilla.com/card/detail/2824,롯데멤버스 카드 프리미엄,5,LOTTE,CHECK,기타,,150000
+2825,https://www.card-gorilla.com/card/detail/2825,우리 기후동행카드(신용),3,SAMSUNG,CREDIT,교통자동차,,
+2826,https://www.card-gorilla.com/card/detail/2826,우리 기후동행카드(체크),1,SHINHAN,CHECK,쇼핑,,
+2827,https://www.card-gorilla.com/card/detail/2827,삼성 iD STATION 카드 (GS칼텍스),3,SAMSUNG,CREDIT,교통자동차,,15000
+2828,https://www.card-gorilla.com/card/detail/2828,삼성 iD STATION 카드 (SK에너지),3,SAMSUNG,CREDIT,교통자동차,,15000
+2830,https://www.card-gorilla.com/card/detail/2830,Point Plan 체크(SOL 모임),1,SHINHAN,CHECK,쇼핑,,
+2831,https://www.card-gorilla.com/card/detail/2831,알리익스프레스 신한카드,1,SHINHAN,CREDIT,외식카페,,19000
+2832,https://www.card-gorilla.com/card/detail/2832,제주항공 트래블제로카드,1,SHINHAN,CREDIT,여행항공,,
+2835,https://www.card-gorilla.com/card/detail/2835,신한카드 Discount Plan+,1,SHINHAN,CREDIT,문화여가,,50000
+2836,https://www.card-gorilla.com/card/detail/2836,신한카드 Discount Plan,1,SHINHAN,CREDIT,문화여가,,15000
+2837,https://www.card-gorilla.com/card/detail/2837,WE:SH All+ 카드,2,KB,CREDIT,쇼핑,,55000
+2840,https://www.card-gorilla.com/card/detail/2840,오일모아카드,1,SHINHAN,CREDIT,교통자동차,,15000
+2841,https://www.card-gorilla.com/card/detail/2841,에듀플러스카드,1,SHINHAN,CREDIT,여행항공,,15000
+2842,https://www.card-gorilla.com/card/detail/2842,현대카드 X Cut,4,HYUNDAI,CREDIT,여행항공,,30000
+2843,https://www.card-gorilla.com/card/detail/2843,현대카드 X Save,4,HYUNDAI,CREDIT,생활,,30000
+2844,https://www.card-gorilla.com/card/detail/2844,현대카드 ZERO Up(할인형),4,HYUNDAI,CREDIT,쇼핑,,30000
+2845,https://www.card-gorilla.com/card/detail/2845,KB YOU Wish up 카드,2,KB,CREDIT,생활,,50000
+2847,https://www.card-gorilla.com/card/detail/2847,신한카드 SOL트래블 J체크,1,SHINHAN,CHECK,쇼핑,,
+2848,https://www.card-gorilla.com/card/detail/2848,카드의정석2,6,WOORI,CREDIT,기타,,22000
+2851,https://www.card-gorilla.com/card/detail/2851,우리카드 7CORE,1,SHINHAN,CREDIT,쇼핑,,50000
+2852,https://www.card-gorilla.com/card/detail/2852,KB 틴업 체크카드,2,KB,CHECK,쇼핑,,
+2853,https://www.card-gorilla.com/card/detail/2853,KTX 삼성카드,3,SAMSUNG,CREDIT,여행항공,,20000
+2855,https://www.card-gorilla.com/card/detail/2855,Haru(Hoshino Resorts),1,SHINHAN,CREDIT,여행항공,,30000
+2856,https://www.card-gorilla.com/card/detail/2856,Biz Prime 카드,2,KB,CREDIT,쇼핑,,120000
+2857,https://www.card-gorilla.com/card/detail/2857,신한카드 처음(선불),1,SHINHAN,CHECK,교통자동차,,
+2858,https://www.card-gorilla.com/card/detail/2858,카카오뱅크 줍줍 신한카드,1,SHINHAN,CREDIT,기타,,18000
+2859,https://www.card-gorilla.com/card/detail/2859,KB 전통시장온누리카드,2,KB,CHECK,쇼핑,,20000
+2861,https://www.card-gorilla.com/card/detail/2861,트래블월렛 하이브리드 롯데카드,5,LOTTE,PREPAID,기타,,20000
+2862,https://www.card-gorilla.com/card/detail/2862,MG+ S 하나카드,7,HANA,CHECK,쇼핑,,17000
+2863,https://www.card-gorilla.com/card/detail/2863,디지로카 Travel,5,LOTTE,CREDIT,여행항공,,20000
+2864,https://www.card-gorilla.com/card/detail/2864,디지로카 Travel 프리미엄,5,LOTTE,CREDIT,여행항공,,100000
+2865,https://www.card-gorilla.com/card/detail/2865,신세계 트래블GO 하나카드,7,HANA,CREDIT,여행항공,,20000
+2867,https://www.card-gorilla.com/card/detail/2867,갤러리아 Platinum 우리카드,6,WOORI,CREDIT,쇼핑,,30000
+2868,https://www.card-gorilla.com/card/detail/2868,KB 전통시장온누리체크카드,2,KB,CHECK,기타,,
+2869,https://www.card-gorilla.com/card/detail/2869,E1 우리카드,2,KB,CREDIT,쇼핑,,20000
+2870,https://www.card-gorilla.com/card/detail/2870,넥센타이어 신한카드,1,SHINHAN,CREDIT,기타,,18000
+2872,https://www.card-gorilla.com/card/detail/2872,GS ALL 신한카드,1,SHINHAN,CREDIT,생활,,18000
+2873,https://www.card-gorilla.com/card/detail/2873,스타필드 신한카드,1,SHINHAN,CREDIT,쇼핑,,20000
+2875,https://www.card-gorilla.com/card/detail/2875,삼성 iD CARE 카드,3,SAMSUNG,CREDIT,생활,,20000
+2876,https://www.card-gorilla.com/card/detail/2876,MG+ 신용카드 Primo 하나카드,7,HANA,CHECK,교통자동차,,12000
+2877,https://www.card-gorilla.com/card/detail/2877,MG+ BLACK 하나카드,7,HANA,CHECK,여행항공,,120000
+2878,https://www.card-gorilla.com/card/detail/2878,알파벳카드D,4,HYUNDAI,CREDIT,여행항공,,15000
+2879,https://www.card-gorilla.com/card/detail/2879,알파벳카드H,4,HYUNDAI,CREDIT,생활,,15000
+2880,https://www.card-gorilla.com/card/detail/2880,알파벳카드O,4,HYUNDAI,CREDIT,여행항공,,15000
+2881,https://www.card-gorilla.com/card/detail/2881,알파벳카드S,4,HYUNDAI,CREDIT,쇼핑,,15000
+2882,https://www.card-gorilla.com/card/detail/2882,알파벳카드T,4,HYUNDAI,CREDIT,여행항공,,15000
+2883,https://www.card-gorilla.com/card/detail/2883,현대카드Z everyday,4,HYUNDAI,CREDIT,쇼핑,,20000
+2884,https://www.card-gorilla.com/card/detail/2884,배민 신한카드 밥친구,1,SHINHAN,CREDIT,외식카페,,15000
+2885,https://www.card-gorilla.com/card/detail/2885,삼성 iD SELECT ALL 카드,3,SAMSUNG,CREDIT,쇼핑,,20000
+2886,https://www.card-gorilla.com/card/detail/2886,삼성 iD SELECT ON 카드,3,SAMSUNG,CREDIT,문화여가,,20000
+2887,https://www.card-gorilla.com/card/detail/2887,신한카드 처음 체크,1,SHINHAN,CHECK,외식카페,,
+2888,https://www.card-gorilla.com/card/detail/2888,DIGILOCA SKYPASS,3,SAMSUNG,CREDIT,여행항공,,20000
+2889,https://www.card-gorilla.com/card/detail/2889,신한카드 처음 체크(냐한남자),1,SHINHAN,CHECK,외식카페,,
+2890,https://www.card-gorilla.com/card/detail/2890,신한카드 Point Plan 체크 캐릭터형(짱구),1,SHINHAN,CREDIT,쇼핑,,
+2891,https://www.card-gorilla.com/card/detail/2891,신한카드 Hey Young 체크(잔망루피),1,SHINHAN,CREDIT,문화여가,,
+2892,https://www.card-gorilla.com/card/detail/2892,신한카드 Pick E 체크 캐릭터형(신의탑),1,SHINHAN,CHECK,외식카페,,
+2893,https://www.card-gorilla.com/card/detail/2893,신한카드 Pick I 체크 캐릭터형(한교동),1,SHINHAN,CREDIT,쇼핑,,
+2894,https://www.card-gorilla.com/card/detail/2894,토스 삼성카드,3,SAMSUNG,CREDIT,외식카페,,15000
+2896,https://www.card-gorilla.com/card/detail/2896,KB라이프 딱좋은 요즘 건강 KB카드,2,KB,CREDIT,생활,,20000
+2897,https://www.card-gorilla.com/card/detail/2897,스타벅스 삼성카드,3,SAMSUNG,PREPAID,외식카페,,30000
+2898,https://www.card-gorilla.com/card/detail/2898,우리카드 MILE&POINT,6,WOORI,CREDIT,여행항공,,75000
+2899,https://www.card-gorilla.com/card/detail/2899,신한카드 SOL Plan,1,SHINHAN,CREDIT,문화여가,,33000
+2902,https://www.card-gorilla.com/card/detail/2902,the OPUS silver,6,WOORI,CREDIT,여행항공,,150000
+2903,https://www.card-gorilla.com/card/detail/2903,현대카드M-경차전용카드 Edition2 (유류세환급),4,HYUNDAI,CREDIT,교통자동차,,
+2904,https://www.card-gorilla.com/card/detail/2904,토스뱅크 하나카드 Day,1,SHINHAN,CREDIT,생활,,20000
+2905,https://www.card-gorilla.com/card/detail/2905,트래블러스 체크카드,2,KB,CHECK,외식카페,,
+2906,https://www.card-gorilla.com/card/detail/2906,신한카드 Simple Platinum# Splendor Plus,1,SHINHAN,CREDIT,문화여가,,27000
+2907,https://www.card-gorilla.com/card/detail/2907,위비트래블 J 체크카드,6,WOORI,CHECK,쇼핑,,
+2908,https://www.card-gorilla.com/card/detail/2908,번개장터 삼성카드,1,SHINHAN,CREDIT,기타,,20000
+2909,https://www.card-gorilla.com/card/detail/2909,MG+ W 하나카드,7,HANA,CREDIT,생활,,19000
+2912,https://www.card-gorilla.com/card/detail/2912,LG전자 The 구독케어 신한카드,1,SHINHAN,CREDIT,기타,,25000
+2913,https://www.card-gorilla.com/card/detail/2913,SK인텔릭스 올림 KB국민카드,2,KB,CREDIT,문화여가,,12000
+2914,https://www.card-gorilla.com/card/detail/2914,신세계 신백리워드 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,20000
+2915,https://www.card-gorilla.com/card/detail/2915,THE iD. 1st,3,SAMSUNG,CREDIT,문화여가,,150000
+2916,https://www.card-gorilla.com/card/detail/2916,The CLASSIC NEO,1,SHINHAN,CREDIT,여행항공,,120000
+2918,https://www.card-gorilla.com/card/detail/2918,E9pay 신한카드 처음,1,SHINHAN,CREDIT,생활,,18000
+2919,https://www.card-gorilla.com/card/detail/2919,웰컴 외국인 올인원 체크카드,6,WOORI,CHECK,교통자동차,,
+2921,https://www.card-gorilla.com/card/detail/2921,신한카드 SOL글로벌U 체크,1,SHINHAN,CHECK,생활,,
+2922,https://www.card-gorilla.com/card/detail/2922,신한카드 SOL글로벌 체크,1,SHINHAN,CHECK,생활,,
+2923,https://www.card-gorilla.com/card/detail/2923,신세계 신한카드 Best Fit,1,SHINHAN,CREDIT,쇼핑,,18000
+2924,https://www.card-gorilla.com/card/detail/2924,우리카드 UniMile,6,WOORI,CREDIT,여행항공,,33000
+2929,https://www.card-gorilla.com/card/detail/2929,KB Youth Club 체크카드,2,KB,CHECK,쇼핑,,
+2930,https://www.card-gorilla.com/card/detail/2930,KB YOU Prime 카드,2,KB,CREDIT,쇼핑,,30000
+2931,https://www.card-gorilla.com/card/detail/2931,KB NEED Edu카드,1,SHINHAN,CREDIT,쇼핑,,26000
+2933,https://www.card-gorilla.com/card/detail/2933,신한카드 나라사랑카드 체크,1,SHINHAN,CHECK,기타,,
+2934,https://www.card-gorilla.com/card/detail/2934,하나 나라사랑카드,7,HANA,CHECK,쇼핑,,
+2935,https://www.card-gorilla.com/card/detail/2935,신한카드 SOL트립앤샵 체크,1,SHINHAN,CREDIT,여행항공,,
+2936,https://www.card-gorilla.com/card/detail/2936,RROUND PAY X 디지로카,5,LOTTE,CREDIT,기타,,30000
+2937,https://www.card-gorilla.com/card/detail/2937,디지로카 Link,5,LOTTE,CREDIT,쇼핑,,30000
+2938,https://www.card-gorilla.com/card/detail/2938,현대카드MY BUSINESS M F&B,4,HYUNDAI,CREDIT,여행항공,,50000
+2939,https://www.card-gorilla.com/card/detail/2939,현대카드MY BUSINESS M Retail,4,HYUNDAI,CREDIT,여행항공,,50000
+2940,https://www.card-gorilla.com/card/detail/2940,현대카드MY BUSINESS M E-seller,4,HYUNDAI,CREDIT,여행항공,,50000
+2942,https://www.card-gorilla.com/card/detail/2942,에너지플러스 현대카드,4,HYUNDAI,CREDIT,교통자동차,,10000
+2943,https://www.card-gorilla.com/card/detail/2943,G마켓 삼성카드,3,SAMSUNG,CREDIT,쇼핑,,15000
+2944,https://www.card-gorilla.com/card/detail/2944,the Orange,4,HYUNDAI,CREDIT,여행항공,,200000
+2947,https://www.card-gorilla.com/card/detail/2947,넥슨 현대카드 Edition2 마비노기 모바일팩,4,HYUNDAI,CREDIT,여행항공,,20000
+2948,https://www.card-gorilla.com/card/detail/2948,넥슨 현대카드 Edition2 넥슨팩,4,HYUNDAI,CREDIT,여행항공,,20000
+2950,https://www.card-gorilla.com/card/detail/2950,신한카드 Simple Plan+,1,SHINHAN,CREDIT,교통자동차,,50000
+2951,https://www.card-gorilla.com/card/detail/2951,신한카드 Simple Plan,1,SHINHAN,CREDIT,기타,,18000
+2952,https://www.card-gorilla.com/card/detail/2952,삼성 iD STATION 카드 (HD현대오일뱅크),3,SAMSUNG,CREDIT,교통자동차,,15000
+2953,https://www.card-gorilla.com/card/detail/2953,스타트래블 우리카드,6,WOORI,CREDIT,외식카페,,28000
+2954,https://www.card-gorilla.com/card/detail/2954,LG트윈스 신한카드 체크,1,SHINHAN,CHECK,쇼핑,,
+2955,https://www.card-gorilla.com/card/detail/2955,삼성라이온즈카드,3,SAMSUNG,CHECK,쇼핑,,20000
+2956,https://www.card-gorilla.com/card/detail/2956,두산베어스 KB카드,2,KB,CHECK,쇼핑,,15000
+2957,https://www.card-gorilla.com/card/detail/2957,한화이글스 신한카드,1,SHINHAN,CHECK,문화여가,,23000
+2960,https://www.card-gorilla.com/card/detail/2960,이마트 신한카드,1,SHINHAN,CREDIT,쇼핑,,21000
+2961,https://www.card-gorilla.com/card/detail/2961,트래블로그+(플러스) 신용카드,7,HANA,CHECK,여행항공,,20000
+2962,https://www.card-gorilla.com/card/detail/2962,더한섬 신한카드,1,SHINHAN,CREDIT,여행항공,,18000
+2963,https://www.card-gorilla.com/card/detail/2963,더한섬 신한카드 플래티늄,1,SHINHAN,CREDIT,여행항공,,100000
+2964,https://www.card-gorilla.com/card/detail/2964,KB NEED Pay 카드,2,KB,CREDIT,생활,,19000
+2967,https://www.card-gorilla.com/card/detail/2967,알파벳카드B,1,SHINHAN,CREDIT,여행항공,,15000
+2968,https://www.card-gorilla.com/card/detail/2968,알파벳카드P,1,SHINHAN,CREDIT,여행항공,,15000
+2969,https://www.card-gorilla.com/card/detail/2969,알파벳카드R,4,HYUNDAI,CREDIT,쇼핑,,15000
+2970,https://www.card-gorilla.com/card/detail/2970,KB YOU Wish 카드,2,KB,CREDIT,쇼핑,,15000
+2971,https://www.card-gorilla.com/card/detail/2971,무신사 삼성카드,1,SHINHAN,CREDIT,기타,,10000
+2972,https://www.card-gorilla.com/card/detail/2972,현대카드 하이브리드(포인트형),4,HYUNDAI,CHECK,쇼핑,,5000
+2973,https://www.card-gorilla.com/card/detail/2973,현대카드 하이브리드(캐시백형),4,HYUNDAI,CHECK,쇼핑,,5000
+2974,https://www.card-gorilla.com/card/detail/2974,현대카드 하이브리드(Apple Pay Rewards),4,HYUNDAI,CHECK,생활,,5000
+2975,https://www.card-gorilla.com/card/detail/2975,LOCA LIKIT 1.5,5,LOTTE,CREDIT,기타,,10000
+2977,https://www.card-gorilla.com/card/detail/2977,신한카드 SOL트립앤J 체크,1,SHINHAN,CHECK,쇼핑,,
+2978,https://www.card-gorilla.com/card/detail/2978,카드의정석2 SHOPPER,6,WOORI,CREDIT,쇼핑,,28000
+2979,https://www.card-gorilla.com/card/detail/2979,신한카드 ECO Plan,1,SHINHAN,CREDIT,쇼핑,,23000
+2980,https://www.card-gorilla.com/card/detail/2980,카드의정석2 SUPER,6,WOORI,CREDIT,기타,,30000
+2981,https://www.card-gorilla.com/card/detail/2981,KB NEED Global 카드,2,KB,CREDIT,쇼핑,,30000
+2982,https://www.card-gorilla.com/card/detail/2982,현대카드 체크(포인트형),4,HYUNDAI,CREDIT,쇼핑,,5000
+2983,https://www.card-gorilla.com/card/detail/2983,현대카드 체크(캐시백형),4,HYUNDAI,CHECK,쇼핑,,5000
+2984,https://www.card-gorilla.com/card/detail/2984,현대카드 체크(Apple Pay Rewards),4,HYUNDAI,CREDIT,생활,,5000
+2985,https://www.card-gorilla.com/card/detail/2985,현대카드 ZERO Up(포인트형),4,HYUNDAI,CREDIT,여행항공,,30000
+2986,https://www.card-gorilla.com/card/detail/2986,삼성 iD SELECT UP 카드,3,SAMSUNG,CREDIT,생활,,18000
+2987,https://www.card-gorilla.com/card/detail/2987,LOCA LIKIT 2.0,5,LOTTE,CREDIT,기타,,20000
+2988,https://www.card-gorilla.com/card/detail/2988,트라이플러스 삼성카드,3,SAMSUNG,CREDIT,생활,,15000
+2989,https://www.card-gorilla.com/card/detail/2989,알파벳카드D BOLD,4,HYUNDAI,CREDIT,여행항공,,50000
+2990,https://www.card-gorilla.com/card/detail/2990,알파벳카드S BOLD,4,HYUNDAI,CREDIT,쇼핑,,50000
+2991,https://www.card-gorilla.com/card/detail/2991,알파벳카드T BOLD,4,HYUNDAI,CREDIT,여행항공,,50000
+2992,https://www.card-gorilla.com/card/detail/2992,카드의정석2 DAILY,1,SHINHAN,CREDIT,기타,,25000
+2993,https://www.card-gorilla.com/card/detail/2993,카드의정석2 ROUTINE,1,SHINHAN,CREDIT,생활,,28000
+2994,https://www.card-gorilla.com/card/detail/2994,카드의정석2 원더라이프,6,WOORI,CREDIT,교통자동차,,25000
+2997,https://www.card-gorilla.com/card/detail/2997,MOVING카드 PLAY모드,7,HANA,CREDIT,쇼핑,,20000
+2998,https://www.card-gorilla.com/card/detail/2998,MOVING카드 LIFE모드,7,HANA,CREDIT,교통자동차,,20000
+3000,https://www.card-gorilla.com/card/detail/3000,국민행복 현대카드,1,SHINHAN,CREDIT,여행항공,,
+3016,https://www.card-gorilla.com/card/detail/3016,케이뱅크 BUSINESS 현대카드,4,HYUNDAI,CREDIT,여행항공,,30000
