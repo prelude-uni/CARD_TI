@@ -1,0 +1,28 @@
+﻿source_url,condition_id,category_name,group_name,rate,fixed_amount,raw_text,resolved_group_name,mapping_action,card_id,category_id,group_id
+https://www.card-gorilla.com/card/detail/12,7,마일리지,항공마일리지,0.0667,,"대한항공 1,500원당 1마일/아시아나항공 1,000원당 1마일",항공,SYNONYM_APPLIED,7,3,22
+https://www.card-gorilla.com/card/detail/55,32,할인,편의점,13.3333,,"CU 1,500원당 200원 결제일할인",편의점,EXACT,32,4,10
+https://www.card-gorilla.com/card/detail/61,37,마일리지,대한항공,0.0667,,"국내외 이용금액 1,500원당 스카이패스 1~2마일리지 적립",대한항공,EXACT,37,3,67
+https://www.card-gorilla.com/card/detail/126,73,마일리지,아시아나항공,0.1333,,"국내 가맹점 이용 시 1,500원당 2마일 적립
+해외 가맹점 이용 시 1,500원당 3마일 적립",아시아나항공,EXACT,73,3,68
+https://www.card-gorilla.com/card/detail/138,82,마일리지,대한항공,0.0667,,"[대한항공 마일리지]
+가맹점 신판입금액 1,500원당 1마일 적립",대한항공,EXACT,82,3,67
+https://www.card-gorilla.com/card/detail/452,242,마일리지,대한항공,0.0667,,"일반 업종 이용금액 1,500원당 1마일리지 기본적립",대한항공,EXACT,242,3,67
+https://www.card-gorilla.com/card/detail/452,242,마일리지,면세점,0.1333,,"면세점 및 백화점 이용금액 1,500원당 2마일리지 특별적립",면세점,EXACT,242,3,24
+https://www.card-gorilla.com/card/detail/452,242,마일리지,해외이용,0.1333,,"해외 이용금액 1,500원당 2마일리지 특별적립",기타혜택,UNMAPPED_FALLBACK_기타혜택,242,3,30
+https://www.card-gorilla.com/card/detail/627,342,마일리지,대한항공,0.0667,,"1,500원당 1마일 기본적립
+1,000원당 1마일 특별적립",대한항공,EXACT,342,3,67
+https://www.card-gorilla.com/card/detail/1468,540,적립,적립,0.8333,,"신판 1,200원당 10~20P 적립",기타혜택,UNMAPPED_FALLBACK_기타혜택,540,1,30
+https://www.card-gorilla.com/card/detail/1599,559,마일리지,대한항공,0.0667,,"전 가맹점 일시불/할부 이용금액 1,500원당 1마일 적립",대한항공,EXACT,559,3,67
+https://www.card-gorilla.com/card/detail/1884,601,할인,보험사,3.3333,,"보험료 결제 시 30만원당 연 10,000원 결제일할인(청구할인)",기타혜택,UNMAPPED_FALLBACK_기타혜택,601,4,30
+https://www.card-gorilla.com/card/detail/2090,636,마일리지,대한항공,0.0667,,"국내 이용금액 1,500원당 1마일리지 적립
+해외 이용금액 1,500원당 1~3마일리지 적립",대한항공,EXACT,636,3,67
+https://www.card-gorilla.com/card/detail/2093,638,마일리지,대한항공,0.0667,,"국내외 가맹점 이용금액 1,500원당 1 스카이패스 마일리지 적립",대한항공,EXACT,638,3,67
+https://www.card-gorilla.com/card/detail/2592,929,마일리지,기타,0.0667,,"[부스터마일즈] 이용금액 1,500원당 1크리스플라이어 마일리지 추가 적립",기타,EXACT,929,3,7
+https://www.card-gorilla.com/card/detail/2737,1044,마일리지,대한항공,0.0667,,"[기본혜택] 국내외 가맹점 1,500원당 1 대한항공 마일리지 적립",대한항공,EXACT,1044,3,67
+https://www.card-gorilla.com/card/detail/2781,1080,마일리지,대한항공,0.0667,,"[기본 서비스] 국내외 가맹점 1,500원당 1마일리지 적립",대한항공,EXACT,1080,3,67
+https://www.card-gorilla.com/card/detail/2781,1080,마일리지,대한항공,0.1333,,"[특별 서비스] 생활밀착 4개 영역 1,500원당 2마일리지 적립",대한항공,EXACT,1080,3,67
+https://www.card-gorilla.com/card/detail/2781,1080,마일리지,대한항공,0.1333,,"[특별 서비스] Flex 영역(온라인항공/호텔/온라인면세/스포츠/미용실)
+건별 결제금액 1,500원당 대한항공 2마일리지 적립",대한항공,EXACT,1080,3,67
+https://www.card-gorilla.com/card/detail/2785,1083,적립,적립,0.1333,,"힐튼 아너스 포인트 적립 (1,500원 당 2~4 힐튼 아너스 포인트 적립)",기타혜택,UNMAPPED_FALLBACK_기타혜택,1083,1,30
+https://www.card-gorilla.com/card/detail/2786,1084,적립,적립,0.1333,,"힐튼 아너스 포인트 적립 (1,500원 당 2~8 힐튼 아너스 포인트 적립)",기타혜택,UNMAPPED_FALLBACK_기타혜택,1084,1,30
+https://www.card-gorilla.com/card/detail/2807,1097,마일리지,적립,0.0667,,"[기본 리워드] 이용금액 1% 적립(마이신한포인트형) / 1,500원 당 1마일 적립(스카이패스형)",기타혜택,UNMAPPED_FALLBACK_기타혜택,1097,3,30
