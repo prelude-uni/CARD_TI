@@ -1,0 +1,1066 @@
+{
+  "metadata": {
+    "sourceFile": "서울시 상권분석서비스(추정매출-서울시)(1).json",
+    "sourceName": "서울시 상권분석서비스(추정매출-서울시)",
+    "scope": "서울 소재 점포에서 발생한 연령대별 추정매출",
+    "rawDataRowCount": 1323,
+    "csvRowCountIncludingHeader": 1324,
+    "quarterCount": 21,
+    "serviceIndustryCount": 63,
+    "selectedQuarters": [
+      "20252",
+      "20253",
+      "20254",
+      "20261"
+    ],
+    "selectedPeriodLabel": "2025년 2분기~2026년 1분기",
+    "aggregationMethod": "최근 4개 분기 매출금액·매출건수 합산",
+    "ratioDenominator": "KOSIS 분류가 가능한 서울시 서비스업종의 연령대별 매출금액 합계",
+    "mappedIndustryCount": 62,
+    "excludedIndustryCodes": [
+      "CS300043"
+    ],
+    "excludedIndustryReason": "전자상거래업은 판매 상품군을 식별할 수 없어 KOSIS 소비 분야 비중 계산에서 제외",
+    "percentileSupported": false,
+    "perPersonAverageSupported": false,
+    "averageTicketSupported": true
+  },
+  "ageGroups": [
+    {
+      "code": "age_10s",
+      "name": "10대"
+    },
+    {
+      "code": "age_20s",
+      "name": "20대"
+    },
+    {
+      "code": "age_30s",
+      "name": "30대"
+    },
+    {
+      "code": "age_40s",
+      "name": "40대"
+    },
+    {
+      "code": "age_50s",
+      "name": "50대"
+    },
+    {
+      "code": "age_60_plus",
+      "name": "60대 이상"
+    }
+  ],
+  "industryMappings": [
+    {
+      "sourceIndustryCode": "CS100001",
+      "sourceIndustryName": "한식음식점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100002",
+      "sourceIndustryName": "중식음식점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100003",
+      "sourceIndustryName": "일식음식점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100004",
+      "sourceIndustryName": "양식음식점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100005",
+      "sourceIndustryName": "제과점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100006",
+      "sourceIndustryName": "패스트푸드점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100007",
+      "sourceIndustryName": "치킨전문점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100008",
+      "sourceIndustryName": "분식전문점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100009",
+      "sourceIndustryName": "호프-간이주점",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS100010",
+      "sourceIndustryName": "커피-음료",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS200001",
+      "sourceIndustryName": "일반교습학원",
+      "kosisCode": "10",
+      "kosisCategory": "교육"
+    },
+    {
+      "sourceIndustryCode": "CS200002",
+      "sourceIndustryName": "외국어학원",
+      "kosisCode": "10",
+      "kosisCategory": "교육"
+    },
+    {
+      "sourceIndustryCode": "CS200003",
+      "sourceIndustryName": "예술학원",
+      "kosisCode": "10",
+      "kosisCategory": "교육"
+    },
+    {
+      "sourceIndustryCode": "CS200005",
+      "sourceIndustryName": "스포츠 강습",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS200006",
+      "sourceIndustryName": "일반의원",
+      "kosisCode": "06",
+      "kosisCategory": "보건"
+    },
+    {
+      "sourceIndustryCode": "CS200007",
+      "sourceIndustryName": "치과의원",
+      "kosisCode": "06",
+      "kosisCategory": "보건"
+    },
+    {
+      "sourceIndustryCode": "CS200008",
+      "sourceIndustryName": "한의원",
+      "kosisCode": "06",
+      "kosisCategory": "보건"
+    },
+    {
+      "sourceIndustryCode": "CS200016",
+      "sourceIndustryName": "당구장",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS200017",
+      "sourceIndustryName": "골프연습장",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS200019",
+      "sourceIndustryName": "PC방",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS200024",
+      "sourceIndustryName": "스포츠클럽",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS200025",
+      "sourceIndustryName": "자동차수리",
+      "kosisCode": "07",
+      "kosisCategory": "교통·운송"
+    },
+    {
+      "sourceIndustryCode": "CS200026",
+      "sourceIndustryName": "자동차미용",
+      "kosisCode": "07",
+      "kosisCategory": "교통·운송"
+    },
+    {
+      "sourceIndustryCode": "CS200028",
+      "sourceIndustryName": "미용실",
+      "kosisCode": "12",
+      "kosisCategory": "기타상품·서비스"
+    },
+    {
+      "sourceIndustryCode": "CS200029",
+      "sourceIndustryName": "네일숍",
+      "kosisCode": "12",
+      "kosisCategory": "기타상품·서비스"
+    },
+    {
+      "sourceIndustryCode": "CS200030",
+      "sourceIndustryName": "피부관리실",
+      "kosisCode": "12",
+      "kosisCategory": "기타상품·서비스"
+    },
+    {
+      "sourceIndustryCode": "CS200031",
+      "sourceIndustryName": "세탁소",
+      "kosisCode": "03",
+      "kosisCategory": "의류·신발"
+    },
+    {
+      "sourceIndustryCode": "CS200032",
+      "sourceIndustryName": "가전제품수리",
+      "kosisCode": "05",
+      "kosisCategory": "가정용품·가사서비스"
+    },
+    {
+      "sourceIndustryCode": "CS200033",
+      "sourceIndustryName": "부동산중개업",
+      "kosisCode": "04",
+      "kosisCategory": "주거·수도·광열"
+    },
+    {
+      "sourceIndustryCode": "CS200034",
+      "sourceIndustryName": "여관",
+      "kosisCode": "11",
+      "kosisCategory": "음식·숙박"
+    },
+    {
+      "sourceIndustryCode": "CS200036",
+      "sourceIndustryName": "고시원",
+      "kosisCode": "04",
+      "kosisCategory": "주거·수도·광열"
+    },
+    {
+      "sourceIndustryCode": "CS200037",
+      "sourceIndustryName": "노래방",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS300001",
+      "sourceIndustryName": "슈퍼마켓",
+      "kosisCode": "01",
+      "kosisCategory": "식료품·비주류음료"
+    },
+    {
+      "sourceIndustryCode": "CS300002",
+      "sourceIndustryName": "편의점",
+      "kosisCode": "01",
+      "kosisCategory": "식료품·비주류음료"
+    },
+    {
+      "sourceIndustryCode": "CS300003",
+      "sourceIndustryName": "컴퓨터및주변장치판매",
+      "kosisCode": "08",
+      "kosisCategory": "정보통신"
+    },
+    {
+      "sourceIndustryCode": "CS300004",
+      "sourceIndustryName": "핸드폰",
+      "kosisCode": "08",
+      "kosisCategory": "정보통신"
+    },
+    {
+      "sourceIndustryCode": "CS300006",
+      "sourceIndustryName": "미곡판매",
+      "kosisCode": "01",
+      "kosisCategory": "식료품·비주류음료"
+    },
+    {
+      "sourceIndustryCode": "CS300007",
+      "sourceIndustryName": "육류판매",
+      "kosisCode": "01",
+      "kosisCategory": "식료품·비주류음료"
+    },
+    {
+      "sourceIndustryCode": "CS300008",
+      "sourceIndustryName": "수산물판매",
+      "kosisCode": "01",
+      "kosisCategory": "식료품·비주류음료"
+    },
+    {
+      "sourceIndustryCode": "CS300009",
+      "sourceIndustryName": "청과상",
+      "kosisCode": "01",
+      "kosisCategory": "식료품·비주류음료"
+    },
+    {
+      "sourceIndustryCode": "CS300010",
+      "sourceIndustryName": "반찬가게",
+      "kosisCode": "01",
+      "kosisCategory": "식료품·비주류음료"
+    },
+    {
+      "sourceIndustryCode": "CS300011",
+      "sourceIndustryName": "일반의류",
+      "kosisCode": "03",
+      "kosisCategory": "의류·신발"
+    },
+    {
+      "sourceIndustryCode": "CS300014",
+      "sourceIndustryName": "신발",
+      "kosisCode": "03",
+      "kosisCategory": "의류·신발"
+    },
+    {
+      "sourceIndustryCode": "CS300015",
+      "sourceIndustryName": "가방",
+      "kosisCode": "12",
+      "kosisCategory": "기타상품·서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300016",
+      "sourceIndustryName": "안경",
+      "kosisCode": "06",
+      "kosisCategory": "보건"
+    },
+    {
+      "sourceIndustryCode": "CS300017",
+      "sourceIndustryName": "시계및귀금속",
+      "kosisCode": "12",
+      "kosisCategory": "기타상품·서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300018",
+      "sourceIndustryName": "의약품",
+      "kosisCode": "06",
+      "kosisCategory": "보건"
+    },
+    {
+      "sourceIndustryCode": "CS300019",
+      "sourceIndustryName": "의료기기",
+      "kosisCode": "06",
+      "kosisCategory": "보건"
+    },
+    {
+      "sourceIndustryCode": "CS300020",
+      "sourceIndustryName": "서적",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS300021",
+      "sourceIndustryName": "문구",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS300022",
+      "sourceIndustryName": "화장품",
+      "kosisCode": "12",
+      "kosisCategory": "기타상품·서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300024",
+      "sourceIndustryName": "운동/경기용품",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS300025",
+      "sourceIndustryName": "자전거 및 기타운송장비",
+      "kosisCode": "07",
+      "kosisCategory": "교통·운송"
+    },
+    {
+      "sourceIndustryCode": "CS300026",
+      "sourceIndustryName": "완구",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS300027",
+      "sourceIndustryName": "섬유제품",
+      "kosisCode": "05",
+      "kosisCategory": "가정용품·가사서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300028",
+      "sourceIndustryName": "화초",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS300029",
+      "sourceIndustryName": "애완동물",
+      "kosisCode": "09",
+      "kosisCategory": "오락·문화"
+    },
+    {
+      "sourceIndustryCode": "CS300031",
+      "sourceIndustryName": "가구",
+      "kosisCode": "05",
+      "kosisCategory": "가정용품·가사서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300032",
+      "sourceIndustryName": "가전제품",
+      "kosisCode": "05",
+      "kosisCategory": "가정용품·가사서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300033",
+      "sourceIndustryName": "철물점",
+      "kosisCode": "05",
+      "kosisCategory": "가정용품·가사서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300035",
+      "sourceIndustryName": "인테리어",
+      "kosisCode": "05",
+      "kosisCategory": "가정용품·가사서비스"
+    },
+    {
+      "sourceIndustryCode": "CS300036",
+      "sourceIndustryName": "조명용품",
+      "kosisCode": "05",
+      "kosisCategory": "가정용품·가사서비스"
+    }
+  ],
+  "benchmarks": {
+    "age_10s": {
+      "ageGroupName": "10대",
+      "mappedSalesAmount": 400022079799,
+      "mappedSalesCount": 43666976,
+      "excludedSalesAmount": 1252235038,
+      "excludedSalesCount": 70706,
+      "excludedSalesRatio": 0.00312064588163004,
+      "categories": {
+        "01": {
+          "name": "식료품·비주류음료",
+          "salesAmount": 85264375317,
+          "salesCount": 18476550,
+          "salesRatio": 0.21314917256528185,
+          "averageTicketAmount": 4614.7346402331605,
+          "sourceIndustryCount": 7
+        },
+        "02": {
+          "name": "주류·담배",
+          "salesAmount": 0,
+          "salesCount": 0,
+          "salesRatio": 0.0,
+          "averageTicketAmount": 0,
+          "sourceIndustryCount": 0
+        },
+        "03": {
+          "name": "의류·신발",
+          "salesAmount": 32143408174,
+          "salesCount": 1081461,
+          "salesRatio": 0.0803540849298898,
+          "averageTicketAmount": 29722.207434202435,
+          "sourceIndustryCount": 3
+        },
+        "04": {
+          "name": "주거·수도·광열",
+          "salesAmount": 28900383,
+          "salesCount": 1946,
+          "salesRatio": 7.22469695035875e-05,
+          "averageTicketAmount": 14851.173175745118,
+          "sourceIndustryCount": 2
+        },
+        "05": {
+          "name": "가정용품·가사서비스",
+          "salesAmount": 1066704911,
+          "salesCount": 56994,
+          "salesRatio": 0.0026666150816874647,
+          "averageTicketAmount": 18716.091360494087,
+          "sourceIndustryCount": 7
+        },
+        "06": {
+          "name": "보건",
+          "salesAmount": 31218872624,
+          "salesCount": 2047161,
+          "salesRatio": 0.07804287363259202,
+          "averageTicketAmount": 15249.83751839743,
+          "sourceIndustryCount": 6
+        },
+        "07": {
+          "name": "교통·운송",
+          "salesAmount": 646299983,
+          "salesCount": 13397,
+          "salesRatio": 0.0016156607738371537,
+          "averageTicketAmount": 48242.14249458834,
+          "sourceIndustryCount": 3
+        },
+        "08": {
+          "name": "정보통신",
+          "salesAmount": 5510527300,
+          "salesCount": 576043,
+          "salesRatio": 0.013775557846129112,
+          "averageTicketAmount": 9566.17353218423,
+          "sourceIndustryCount": 2
+        },
+        "09": {
+          "name": "오락·문화",
+          "salesAmount": 45079829453,
+          "salesCount": 7156861,
+          "salesRatio": 0.11269335301604193,
+          "averageTicketAmount": 6298.827021092068,
+          "sourceIndustryCount": 12
+        },
+        "10": {
+          "name": "교육",
+          "salesAmount": 6975960725,
+          "salesCount": 124035,
+          "salesRatio": 0.01743893919181968,
+          "averageTicketAmount": 56241.87306002338,
+          "sourceIndustryCount": 3
+        },
+        "11": {
+          "name": "음식·숙박",
+          "salesAmount": 176920578339,
+          "salesCount": 13688324,
+          "salesRatio": 0.44227703237755694,
+          "averageTicketAmount": 12924.926261169738,
+          "sourceIndustryCount": 11
+        },
+        "12": {
+          "name": "기타상품·서비스",
+          "salesAmount": 15166622590,
+          "salesCount": 444204,
+          "salesRatio": 0.037914463615660435,
+          "averageTicketAmount": 34143.372391964054,
+          "sourceIndustryCount": 6
+        }
+      }
+    },
+    "age_20s": {
+      "ageGroupName": "20대",
+      "mappedSalesAmount": 8546390570835,
+      "mappedSalesCount": 512804039,
+      "excludedSalesAmount": 21218671066,
+      "excludedSalesCount": 762756,
+      "excludedSalesRatio": 0.0024766151754712796,
+      "categories": {
+        "01": {
+          "name": "식료품·비주류음료",
+          "salesAmount": 1622784774774,
+          "salesCount": 199053002,
+          "salesRatio": 0.18987954754979686,
+          "averageTicketAmount": 8152.526002968797,
+          "sourceIndustryCount": 7
+        },
+        "02": {
+          "name": "주류·담배",
+          "salesAmount": 0,
+          "salesCount": 0,
+          "salesRatio": 0.0,
+          "averageTicketAmount": 0,
+          "sourceIndustryCount": 0
+        },
+        "03": {
+          "name": "의류·신발",
+          "salesAmount": 751354681153,
+          "salesCount": 17914514,
+          "salesRatio": 0.08791485422127053,
+          "averageTicketAmount": 41941.114403271,
+          "sourceIndustryCount": 3
+        },
+        "04": {
+          "name": "주거·수도·광열",
+          "salesAmount": 1749144112,
+          "salesCount": 139790,
+          "salesRatio": 0.00020466465901629218,
+          "averageTicketAmount": 12512.655497532012,
+          "sourceIndustryCount": 2
+        },
+        "05": {
+          "name": "가정용품·가사서비스",
+          "salesAmount": 94400860904,
+          "salesCount": 978526,
+          "salesRatio": 0.011045699365314268,
+          "averageTicketAmount": 96472.51161849557,
+          "sourceIndustryCount": 7
+        },
+        "06": {
+          "name": "보건",
+          "salesAmount": 1304785916259,
+          "salesCount": 40313244,
+          "salesRatio": 0.152670990805364,
+          "averageTicketAmount": 32366.18507453779,
+          "sourceIndustryCount": 6
+        },
+        "07": {
+          "name": "교통·운송",
+          "salesAmount": 31730604656,
+          "salesCount": 215237,
+          "salesRatio": 0.0037127491884448075,
+          "averageTicketAmount": 147421.7009900714,
+          "sourceIndustryCount": 3
+        },
+        "08": {
+          "name": "정보통신",
+          "salesAmount": 141823590237,
+          "salesCount": 5823617,
+          "salesRatio": 0.016594559897716393,
+          "averageTicketAmount": 24353.17951661313,
+          "sourceIndustryCount": 2
+        },
+        "09": {
+          "name": "오락·문화",
+          "salesAmount": 498595983995,
+          "salesCount": 43718181,
+          "salesRatio": 0.0583399482930823,
+          "averageTicketAmount": 11404.774228712764,
+          "sourceIndustryCount": 12
+        },
+        "10": {
+          "name": "교육",
+          "salesAmount": 52017336836,
+          "salesCount": 318322,
+          "salesRatio": 0.006086468481034772,
+          "averageTicketAmount": 163411.06438134972,
+          "sourceIndustryCount": 3
+        },
+        "11": {
+          "name": "음식·숙박",
+          "salesAmount": 3665435130377,
+          "salesCount": 197846808,
+          "salesRatio": 0.4288869201561519,
+          "averageTicketAmount": 18526.63263779823,
+          "sourceIndustryCount": 11
+        },
+        "12": {
+          "name": "기타상품·서비스",
+          "salesAmount": 381712547532,
+          "salesCount": 6482798,
+          "salesRatio": 0.044663597382807875,
+          "averageTicketAmount": 58880.83317296019,
+          "sourceIndustryCount": 6
+        }
+      }
+    },
+    "age_30s": {
+      "ageGroupName": "30대",
+      "mappedSalesAmount": 17278162643023,
+      "mappedSalesCount": 776203352,
+      "excludedSalesAmount": 35648359379,
+      "excludedSalesCount": 660674,
+      "excludedSalesRatio": 0.0020589550951003446,
+      "categories": {
+        "01": {
+          "name": "식료품·비주류음료",
+          "salesAmount": 3599795705697,
+          "salesCount": 313334632,
+          "salesRatio": 0.20834366362158385,
+          "averageTicketAmount": 11488.662082195242,
+          "sourceIndustryCount": 7
+        },
+        "02": {
+          "name": "주류·담배",
+          "salesAmount": 0,
+          "salesCount": 0,
+          "salesRatio": 0.0,
+          "averageTicketAmount": 0,
+          "sourceIndustryCount": 0
+        },
+        "03": {
+          "name": "의류·신발",
+          "salesAmount": 1494862910402,
+          "salesCount": 25269550,
+          "salesRatio": 0.08651746955314328,
+          "averageTicketAmount": 59156.688995332326,
+          "sourceIndustryCount": 3
+        },
+        "04": {
+          "name": "주거·수도·광열",
+          "salesAmount": 6164823854,
+          "salesCount": 436522,
+          "salesRatio": 0.000356798577566891,
+          "averageTicketAmount": 14122.596006615931,
+          "sourceIndustryCount": 2
+        },
+        "05": {
+          "name": "가정용품·가사서비스",
+          "salesAmount": 501867237062,
+          "salesCount": 3127768,
+          "salesRatio": 0.029046331339209627,
+          "averageTicketAmount": 160455.3908928028,
+          "sourceIndustryCount": 7
+        },
+        "06": {
+          "name": "보건",
+          "salesAmount": 3271189406221,
+          "salesCount": 88679191,
+          "salesRatio": 0.1893250731461265,
+          "averageTicketAmount": 36887.90311834261,
+          "sourceIndustryCount": 6
+        },
+        "07": {
+          "name": "교통·운송",
+          "salesAmount": 184393725766,
+          "salesCount": 1081353,
+          "salesRatio": 0.010672067949334823,
+          "averageTicketAmount": 170521.30596206788,
+          "sourceIndustryCount": 3
+        },
+        "08": {
+          "name": "정보통신",
+          "salesAmount": 299444462556,
+          "salesCount": 6568563,
+          "salesRatio": 0.01733080471243955,
+          "averageTicketAmount": 45587.51473587145,
+          "sourceIndustryCount": 2
+        },
+        "09": {
+          "name": "오락·문화",
+          "salesAmount": 805091066450,
+          "salesCount": 36431603,
+          "salesRatio": 0.04659587266792511,
+          "averageTicketAmount": 22098.700033868947,
+          "sourceIndustryCount": 12
+        },
+        "10": {
+          "name": "교육",
+          "salesAmount": 271422163138,
+          "salesCount": 1167750,
+          "salesRatio": 0.015708971419342525,
+          "averageTicketAmount": 232431.73893213444,
+          "sourceIndustryCount": 3
+        },
+        "11": {
+          "name": "음식·숙박",
+          "salesAmount": 6035243978655,
+          "salesCount": 290691726,
+          "salesRatio": 0.34929894476320716,
+          "averageTicketAmount": 20761.664123371025,
+          "sourceIndustryCount": 11
+        },
+        "12": {
+          "name": "기타상품·서비스",
+          "salesAmount": 808687163222,
+          "salesCount": 9414694,
+          "salesRatio": 0.046804002250120706,
+          "averageTicketAmount": 85896.27694984032,
+          "sourceIndustryCount": 6
+        }
+      }
+    },
+    "age_40s": {
+      "ageGroupName": "40대",
+      "mappedSalesAmount": 21229921768828,
+      "mappedSalesCount": 686879398,
+      "excludedSalesAmount": 27022495466,
+      "excludedSalesCount": 467329,
+      "excludedSalesRatio": 0.0012712314211309568,
+      "categories": {
+        "01": {
+          "name": "식료품·비주류음료",
+          "salesAmount": 4252757279013,
+          "salesCount": 270494317,
+          "salesRatio": 0.20031902732949985,
+          "averageTicketAmount": 15722.168680582668,
+          "sourceIndustryCount": 7
+        },
+        "02": {
+          "name": "주류·담배",
+          "salesAmount": 0,
+          "salesCount": 0,
+          "salesRatio": 0.0,
+          "averageTicketAmount": 0,
+          "sourceIndustryCount": 0
+        },
+        "03": {
+          "name": "의류·신발",
+          "salesAmount": 1553912045949,
+          "salesCount": 24341502,
+          "salesRatio": 0.07319443108973754,
+          "averageTicketAmount": 63837.968829902115,
+          "sourceIndustryCount": 3
+        },
+        "04": {
+          "name": "주거·수도·광열",
+          "salesAmount": 4882174765,
+          "salesCount": 361810,
+          "salesRatio": 0.00022996668655503582,
+          "averageTicketAmount": 13493.752978082419,
+          "sourceIndustryCount": 2
+        },
+        "05": {
+          "name": "가정용품·가사서비스",
+          "salesAmount": 704782451696,
+          "salesCount": 3900758,
+          "salesRatio": 0.033197600036889235,
+          "averageTicketAmount": 180678.33269738857,
+          "sourceIndustryCount": 7
+        },
+        "06": {
+          "name": "보건",
+          "salesAmount": 4242234034106,
+          "salesCount": 103571589,
+          "salesRatio": 0.19982334745740293,
+          "averageTicketAmount": 40959.43757419808,
+          "sourceIndustryCount": 6
+        },
+        "07": {
+          "name": "교통·운송",
+          "salesAmount": 282863126252,
+          "salesCount": 1560193,
+          "salesRatio": 0.013323795034766888,
+          "averageTicketAmount": 181300.08675336963,
+          "sourceIndustryCount": 3
+        },
+        "08": {
+          "name": "정보통신",
+          "salesAmount": 503267758089,
+          "salesCount": 6639010,
+          "salesRatio": 0.0237055870280196,
+          "averageTicketAmount": 75804.63925931728,
+          "sourceIndustryCount": 2
+        },
+        "09": {
+          "name": "오락·문화",
+          "salesAmount": 989483116506,
+          "salesCount": 25908672,
+          "salesRatio": 0.046607949255793445,
+          "averageTicketAmount": 38191.19391785114,
+          "sourceIndustryCount": 12
+        },
+        "10": {
+          "name": "교육",
+          "salesAmount": 2887401494003,
+          "salesCount": 9559674,
+          "salesRatio": 0.13600622392507286,
+          "averageTicketAmount": 302039.7446610627,
+          "sourceIndustryCount": 3
+        },
+        "11": {
+          "name": "음식·숙박",
+          "salesAmount": 4924644664375,
+          "salesCount": 231751442,
+          "salesRatio": 0.23196716021845545,
+          "averageTicketAmount": 21249.682944259737,
+          "sourceIndustryCount": 11
+        },
+        "12": {
+          "name": "기타상품·서비스",
+          "salesAmount": 883693624074,
+          "salesCount": 8790431,
+          "salesRatio": 0.041624911937807124,
+          "averageTicketAmount": 100529.043919917,
+          "sourceIndustryCount": 6
+        }
+      }
+    },
+    "age_50s": {
+      "ageGroupName": "50대",
+      "mappedSalesAmount": 21511405000763,
+      "mappedSalesCount": 696774237,
+      "excludedSalesAmount": 25665364578,
+      "excludedSalesCount": 300539,
+      "excludedSalesRatio": 0.0011916831835820413,
+      "categories": {
+        "01": {
+          "name": "식료품·비주류음료",
+          "salesAmount": 5209417095337,
+          "salesCount": 292369749,
+          "salesRatio": 0.24217000680114684,
+          "averageTicketAmount": 17817.907335334476,
+          "sourceIndustryCount": 7
+        },
+        "02": {
+          "name": "주류·담배",
+          "salesAmount": 0,
+          "salesCount": 0,
+          "salesRatio": 0.0,
+          "averageTicketAmount": 0,
+          "sourceIndustryCount": 0
+        },
+        "03": {
+          "name": "의류·신발",
+          "salesAmount": 1738989351406,
+          "salesCount": 24721342,
+          "salesRatio": 0.08084034266215148,
+          "averageTicketAmount": 70343.64685404215,
+          "sourceIndustryCount": 3
+        },
+        "04": {
+          "name": "주거·수도·광열",
+          "salesAmount": 4196454229,
+          "salesCount": 312759,
+          "salesRatio": 0.00019508043425574265,
+          "averageTicketAmount": 13417.533081382151,
+          "sourceIndustryCount": 2
+        },
+        "05": {
+          "name": "가정용품·가사서비스",
+          "salesAmount": 970129849279,
+          "salesCount": 6162391,
+          "salesRatio": 0.04509839544393265,
+          "averageTicketAmount": 157427.50651151477,
+          "sourceIndustryCount": 7
+        },
+        "06": {
+          "name": "보건",
+          "salesAmount": 4639282651876,
+          "salesCount": 111426102,
+          "salesRatio": 0.2156661850637579,
+          "averageTicketAmount": 41635.510608421,
+          "sourceIndustryCount": 6
+        },
+        "07": {
+          "name": "교통·운송",
+          "salesAmount": 322847146458,
+          "salesCount": 1711854,
+          "salesRatio": 0.01500818502773523,
+          "averageTicketAmount": 188595.02414224576,
+          "sourceIndustryCount": 3
+        },
+        "08": {
+          "name": "정보통신",
+          "salesAmount": 518936459652,
+          "salesCount": 4965753,
+          "salesRatio": 0.024123782692650413,
+          "averageTicketAmount": 104503.07529432092,
+          "sourceIndustryCount": 2
+        },
+        "09": {
+          "name": "오락·문화",
+          "salesAmount": 920203157013,
+          "salesCount": 21672029,
+          "salesRatio": 0.042777454888714185,
+          "averageTicketAmount": 42460.406315117056,
+          "sourceIndustryCount": 12
+        },
+        "10": {
+          "name": "교육",
+          "salesAmount": 1329615796801,
+          "salesCount": 3882176,
+          "salesRatio": 0.061809807251262255,
+          "averageTicketAmount": 342492.40549655654,
+          "sourceIndustryCount": 3
+        },
+        "11": {
+          "name": "음식·숙박",
+          "salesAmount": 4915044425531,
+          "salesCount": 219869756,
+          "salesRatio": 0.22848551386376972,
+          "averageTicketAmount": 22354.345203944285,
+          "sourceIndustryCount": 11
+        },
+        "12": {
+          "name": "기타상품·서비스",
+          "salesAmount": 942742613181,
+          "salesCount": 9680326,
+          "salesRatio": 0.04382524587062358,
+          "averageTicketAmount": 97387.48603931314,
+          "sourceIndustryCount": 6
+        }
+      }
+    },
+    "age_60_plus": {
+      "ageGroupName": "60대 이상",
+      "mappedSalesAmount": 24599618624723,
+      "mappedSalesCount": 778063967,
+      "excludedSalesAmount": 12780070717,
+      "excludedSalesCount": 165366,
+      "excludedSalesRatio": 0.0005192533598672687,
+      "categories": {
+        "01": {
+          "name": "식료품·비주류음료",
+          "salesAmount": 8803519588239,
+          "salesCount": 356063238,
+          "salesRatio": 0.35787219804258774,
+          "averageTicketAmount": 24724.595658030274,
+          "sourceIndustryCount": 7
+        },
+        "02": {
+          "name": "주류·담배",
+          "salesAmount": 0,
+          "salesCount": 0,
+          "salesRatio": 0.0,
+          "averageTicketAmount": 0,
+          "sourceIndustryCount": 0
+        },
+        "03": {
+          "name": "의류·신발",
+          "salesAmount": 1915194019170,
+          "salesCount": 27106860,
+          "salesRatio": 0.07785462239830011,
+          "averageTicketAmount": 70653.48104391286,
+          "sourceIndustryCount": 3
+        },
+        "04": {
+          "name": "주거·수도·광열",
+          "salesAmount": 5052745405,
+          "salesCount": 247432,
+          "salesRatio": 0.00020539933899308148,
+          "averageTicketAmount": 20420.74349720327,
+          "sourceIndustryCount": 2
+        },
+        "05": {
+          "name": "가정용품·가사서비스",
+          "salesAmount": 1066345024463,
+          "salesCount": 9629667,
+          "salesRatio": 0.04334803074513142,
+          "averageTicketAmount": 110735.39972493338,
+          "sourceIndustryCount": 7
+        },
+        "06": {
+          "name": "보건",
+          "salesAmount": 6104841862106,
+          "salesCount": 181148901,
+          "salesRatio": 0.2481681507033828,
+          "averageTicketAmount": 33700.683958916205,
+          "sourceIndustryCount": 6
+        },
+        "07": {
+          "name": "교통·운송",
+          "salesAmount": 343845963297,
+          "salesCount": 1932174,
+          "salesRatio": 0.01397769487984783,
+          "averageTicketAmount": 177958.07380546472,
+          "sourceIndustryCount": 3
+        },
+        "08": {
+          "name": "정보통신",
+          "salesAmount": 347850173936,
+          "salesCount": 4080069,
+          "salesRatio": 0.014140470193566543,
+          "averageTicketAmount": 85255.95374391953,
+          "sourceIndustryCount": 2
+        },
+        "09": {
+          "name": "오락·문화",
+          "salesAmount": 741501549680,
+          "salesCount": 14645334,
+          "salesRatio": 0.03014280672362861,
+          "averageTicketAmount": 50630.56600006528,
+          "sourceIndustryCount": 12
+        },
+        "10": {
+          "name": "교육",
+          "salesAmount": 144468181325,
+          "salesCount": 430163,
+          "salesRatio": 0.005872781343846007,
+          "averageTicketAmount": 335845.20594518824,
+          "sourceIndustryCount": 3
+        },
+        "11": {
+          "name": "음식·숙박",
+          "salesAmount": 4272033352204,
+          "salesCount": 172407684,
+          "salesRatio": 0.17366258466749318,
+          "averageTicketAmount": 24778.671420491908,
+          "sourceIndustryCount": 11
+        },
+        "12": {
+          "name": "기타상품·서비스",
+          "salesAmount": 854966164898,
+          "salesCount": 10372445,
+          "salesRatio": 0.034755260963222644,
+          "averageTicketAmount": 82426.67614993379,
+          "sourceIndustryCount": 6
+        }
+      }
+    }
+  }
+}

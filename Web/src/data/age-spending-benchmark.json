@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "source_file": "가구주_연령별_가구당_월평균_가계수지__전국_2인이상__20260719152301.csv",
+    "source_description": "KOSIS 가구주 연령별 가구당 월평균 가계수지(전국, 2인 이상)",
+    "periods_used": [
+      "2025.2/4",
+      "2025.3/4",
+      "2025.4/4",
+      "2026.1/4"
+    ],
+    "calculation_method": "최근 4개 분기의 월평균 금액을 단순평균",
+    "recommended_index_formula": "(사용자 카테고리 비중 / 연령대 기준 카테고리 비중) * 100",
+    "limitations": [
+      "가구주 연령 기준이며 개인 연령 기준이 아님",
+      "전국 2인 이상 가구 통계임",
+      "카드 결제뿐 아니라 전체 소비지출을 포함함"
+    ]
+  },
+  "ageGroups": {
+    "under_40": {
+      "label": "39세이하 가구",
+      "benchmarkTotalMonthlyConsumption": 3986404,
+      "categories": {
+        "01": {
+          "name": "식료품 · 비주류음료",
+          "monthlyAmount": 494550,
+          "share": 0.124059,
+          "sharePct": 12.41
+        },
+        "02": {
+          "name": "주류 · 담배",
+          "monthlyAmount": 45502,
+          "share": 0.011414,
+          "sharePct": 1.14
+        },
+        "03": {
+          "name": "의류 · 신발",
+          "monthlyAmount": 230537,
+          "share": 0.057831,
+          "sharePct": 5.78
+        },
+        "04": {
+          "name": "주거 · 수도 · 광열",
+          "monthlyAmount": 421152,
+          "share": 0.105647,
+          "sharePct": 10.56
+        },
+        "05": {
+          "name": "가정용품 · 가사서비스",
+          "monthlyAmount": 203546,
+          "share": 0.05106,
+          "sharePct": 5.11
+        },
+        "06": {
+          "name": "보건",
+          "monthlyAmount": 227462,
+          "share": 0.057059,
+          "sharePct": 5.71
+        },
+        "07": {
+          "name": "교통 · 운송",
+          "monthlyAmount": 577478,
+          "share": 0.144862,
+          "sharePct": 14.49
+        },
+        "08": {
+          "name": "정보통신",
+          "monthlyAmount": 217919,
+          "share": 0.054666,
+          "sharePct": 5.47
+        },
+        "09": {
+          "name": "오락 · 문화",
+          "monthlyAmount": 278430,
+          "share": 0.069845,
+          "sharePct": 6.98
+        },
+        "10": {
+          "name": "교육",
+          "monthlyAmount": 240442,
+          "share": 0.060316,
+          "sharePct": 6.03
+        },
+        "11": {
+          "name": "음식 · 숙박",
+          "monthlyAmount": 684168,
+          "share": 0.171625,
+          "sharePct": 17.16
+        },
+        "12": {
+          "name": "기타상품 · 서비스",
+          "monthlyAmount": 365218,
+          "share": 0.091616,
+          "sharePct": 9.16
+        }
+      }
+    },
+    "40_49": {
+      "label": "40~49세 가구",
+      "benchmarkTotalMonthlyConsumption": 4556697,
+      "categories": {
+        "01": {
+          "name": "식료품 · 비주류음료",
+          "monthlyAmount": 611361,
+          "share": 0.134168,
+          "sharePct": 13.42
+        },
+        "02": {
+          "name": "주류 · 담배",
+          "monthlyAmount": 41365,
+          "share": 0.009078,
+          "sharePct": 0.91
+        },
+        "03": {
+          "name": "의류 · 신발",
+          "monthlyAmount": 229752,
+          "share": 0.050421,
+          "sharePct": 5.04
+        },
+        "04": {
+          "name": "주거 · 수도 · 광열",
+          "monthlyAmount": 436516,
+          "share": 0.095797,
+          "sharePct": 9.58
+        },
+        "05": {
+          "name": "가정용품 · 가사서비스",
+          "monthlyAmount": 180557,
+          "share": 0.039624,
+          "sharePct": 3.96
+        },
+        "06": {
+          "name": "보건",
+          "monthlyAmount": 295557,
+          "share": 0.064862,
+          "sharePct": 6.49
+        },
+        "07": {
+          "name": "교통 · 운송",
+          "monthlyAmount": 508878,
+          "share": 0.111677,
+          "sharePct": 11.17
+        },
+        "08": {
+          "name": "정보통신",
+          "monthlyAmount": 246109,
+          "share": 0.05401,
+          "sharePct": 5.4
+        },
+        "09": {
+          "name": "오락 · 문화",
+          "monthlyAmount": 270492,
+          "share": 0.059361,
+          "sharePct": 5.94
+        },
+        "10": {
+          "name": "교육",
+          "monthlyAmount": 719656,
+          "share": 0.157934,
+          "sharePct": 15.79
+        },
+        "11": {
+          "name": "음식 · 숙박",
+          "monthlyAmount": 683730,
+          "share": 0.150049,
+          "sharePct": 15.0
+        },
+        "12": {
+          "name": "기타상품 · 서비스",
+          "monthlyAmount": 332724,
+          "share": 0.073019,
+          "sharePct": 7.3
+        }
+      }
+    },
+    "50_59": {
+      "label": "50~59세 가구",
+      "benchmarkTotalMonthlyConsumption": 4129212,
+      "categories": {
+        "01": {
+          "name": "식료품 · 비주류음료",
+          "monthlyAmount": 591692,
+          "share": 0.143294,
+          "sharePct": 14.33
+        },
+        "02": {
+          "name": "주류 · 담배",
+          "monthlyAmount": 46252,
+          "share": 0.011201,
+          "sharePct": 1.12
+        },
+        "03": {
+          "name": "의류 · 신발",
+          "monthlyAmount": 199364,
+          "share": 0.048281,
+          "sharePct": 4.83
+        },
+        "04": {
+          "name": "주거 · 수도 · 광열",
+          "monthlyAmount": 423476,
+          "share": 0.102556,
+          "sharePct": 10.26
+        },
+        "05": {
+          "name": "가정용품 · 가사서비스",
+          "monthlyAmount": 172410,
+          "share": 0.041754,
+          "sharePct": 4.18
+        },
+        "06": {
+          "name": "보건",
+          "monthlyAmount": 288400,
+          "share": 0.069844,
+          "sharePct": 6.98
+        },
+        "07": {
+          "name": "교통 · 운송",
+          "monthlyAmount": 483444,
+          "share": 0.117079,
+          "sharePct": 11.71
+        },
+        "08": {
+          "name": "정보통신",
+          "monthlyAmount": 254278,
+          "share": 0.06158,
+          "sharePct": 6.16
+        },
+        "09": {
+          "name": "오락 · 문화",
+          "monthlyAmount": 243066,
+          "share": 0.058865,
+          "sharePct": 5.89
+        },
+        "10": {
+          "name": "교육",
+          "monthlyAmount": 395230,
+          "share": 0.095716,
+          "sharePct": 9.57
+        },
+        "11": {
+          "name": "음식 · 숙박",
+          "monthlyAmount": 676435,
+          "share": 0.163817,
+          "sharePct": 16.38
+        },
+        "12": {
+          "name": "기타상품 · 서비스",
+          "monthlyAmount": 355167,
+          "share": 0.086013,
+          "sharePct": 8.6
+        }
+      }
+    },
+    "60_69": {
+      "label": "60~69세 가구",
+      "benchmarkTotalMonthlyConsumption": 3152418,
+      "categories": {
+        "01": {
+          "name": "식료품 · 비주류음료",
+          "monthlyAmount": 585840,
+          "share": 0.185838,
+          "sharePct": 18.58
+        },
+        "02": {
+          "name": "주류 · 담배",
+          "monthlyAmount": 37679,
+          "share": 0.011952,
+          "sharePct": 1.2
+        },
+        "03": {
+          "name": "의류 · 신발",
+          "monthlyAmount": 146857,
+          "share": 0.046585,
+          "sharePct": 4.66
+        },
+        "04": {
+          "name": "주거 · 수도 · 광열",
+          "monthlyAmount": 352036,
+          "share": 0.111672,
+          "sharePct": 11.17
+        },
+        "05": {
+          "name": "가정용품 · 가사서비스",
+          "monthlyAmount": 133108,
+          "share": 0.042224,
+          "sharePct": 4.22
+        },
+        "06": {
+          "name": "보건",
+          "monthlyAmount": 297341,
+          "share": 0.094322,
+          "sharePct": 9.43
+        },
+        "07": {
+          "name": "교통 · 운송",
+          "monthlyAmount": 380672,
+          "share": 0.120755,
+          "sharePct": 12.08
+        },
+        "08": {
+          "name": "정보통신",
+          "monthlyAmount": 173534,
+          "share": 0.055048,
+          "sharePct": 5.5
+        },
+        "09": {
+          "name": "오락 · 문화",
+          "monthlyAmount": 212031,
+          "share": 0.06726,
+          "sharePct": 6.73
+        },
+        "10": {
+          "name": "교육",
+          "monthlyAmount": 58966,
+          "share": 0.018705,
+          "sharePct": 1.87
+        },
+        "11": {
+          "name": "음식 · 숙박",
+          "monthlyAmount": 465296,
+          "share": 0.1476,
+          "sharePct": 14.76
+        },
+        "12": {
+          "name": "기타상품 · 서비스",
+          "monthlyAmount": 309059,
+          "share": 0.098039,
+          "sharePct": 9.8
+        }
+      }
+    },
+    "70_plus": {
+      "label": "70세이상 가구",
+      "benchmarkTotalMonthlyConsumption": 2064072,
+      "categories": {
+        "01": {
+          "name": "식료품 · 비주류음료",
+          "monthlyAmount": 517047,
+          "share": 0.250499,
+          "sharePct": 25.05
+        },
+        "02": {
+          "name": "주류 · 담배",
+          "monthlyAmount": 19858,
+          "share": 0.009621,
+          "sharePct": 0.96
+        },
+        "03": {
+          "name": "의류 · 신발",
+          "monthlyAmount": 74734,
+          "share": 0.036207,
+          "sharePct": 3.62
+        },
+        "04": {
+          "name": "주거 · 수도 · 광열",
+          "monthlyAmount": 288095,
+          "share": 0.139576,
+          "sharePct": 13.96
+        },
+        "05": {
+          "name": "가정용품 · 가사서비스",
+          "monthlyAmount": 90543,
+          "share": 0.043866,
+          "sharePct": 4.39
+        },
+        "06": {
+          "name": "보건",
+          "monthlyAmount": 310517,
+          "share": 0.150439,
+          "sharePct": 15.04
+        },
+        "07": {
+          "name": "교통 · 운송",
+          "monthlyAmount": 174456,
+          "share": 0.08452,
+          "sharePct": 8.45
+        },
+        "08": {
+          "name": "정보통신",
+          "monthlyAmount": 98728,
+          "share": 0.047832,
+          "sharePct": 4.78
+        },
+        "09": {
+          "name": "오락 · 문화",
+          "monthlyAmount": 83130,
+          "share": 0.040275,
+          "sharePct": 4.03
+        },
+        "10": {
+          "name": "교육",
+          "monthlyAmount": 17112,
+          "share": 0.00829,
+          "sharePct": 0.83
+        },
+        "11": {
+          "name": "음식 · 숙박",
+          "monthlyAmount": 229301,
+          "share": 0.111092,
+          "sharePct": 11.11
+        },
+        "12": {
+          "name": "기타상품 · 서비스",
+          "monthlyAmount": 160551,
+          "share": 0.077784,
+          "sharePct": 7.78
+        }
+      }
+    }
+  }
+}

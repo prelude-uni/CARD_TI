@@ -1,0 +1,2723 @@
+{
+  "metadata": {
+    "version": "5.0.0-mapping-core3",
+    "sourceFile": "mapping_core3(1).xlsx",
+    "sourceSheet": "매핑테이블",
+    "sourceRuleCount": 43,
+    "purpose": "CARD-TI 최종 표준카테고리, 키워드, MCC 후보, I/E·V/R·N/W 가중치의 단일 기준",
+    "matchingOrder": [
+      "merchantKeyword",
+      "actualMccWhenUnambiguous",
+      "llmFallbackByRuleId",
+      "userOverrideByRuleId",
+      "unmapped"
+    ],
+    "axisConvention": {
+      "ie": {
+        "min": -1,
+        "negative": "I",
+        "max": 1,
+        "positive": "E"
+      },
+      "vr": {
+        "min": -1,
+        "negative": "V",
+        "max": 1,
+        "positive": "R",
+        "referenceOnly": true,
+        "note": "mapping_v4의 채널 값을 호환용 수치로 변환했으며, 실제 서비스에서는 PG/VAN 결제망 플래그로 직접 판별"
+      },
+      "nw": {
+        "min": -1,
+        "negative": "N",
+        "max": 1,
+        "positive": "W"
+      }
+    },
+    "scoreFormula": "axisScore = sum(transactionAmount * axisWeight) / sum(transactionAmount)",
+    "logisticPercentFormula": "positivePercent = 100 / (1 + exp(-3 * axisScore))",
+    "recommendedNeutralThreshold": 0.05,
+    "integrationNotes": [
+      "LLM은 자유 카테고리명을 생성하지 않고 이 파일의 ruleId 중 하나만 선택",
+      "사용자 수정도 ruleId를 선택하며 해당 규칙의 가중치를 거래 객체에 복사",
+      "LLM 분류와 사용자 수정 거래 모두 matched=true가 되어 CARD-TI 계산에 포함",
+      "MCC 참고코드는 후보값이며 실제 카드명세서에 MCC가 없으면 실제 MCC로 표시하지 않음",
+      "숙박/여행의 KOSIS 연결은 MVP에서 음식·숙박으로 통합했으며 CARD-TI 가중치 계산과는 별개"
+    ],
+    "warnings": [
+      "가중치는 mapping_core3(1).xlsx 값을 그대로 사용",
+      "동일 MCC가 여러 카테고리에 걸치면 MCC만으로 자동 확정하지 않음",
+      "사용자 수정값은 현재 화면 상태에만 반영되며 DB에는 저장하지 않음"
+    ]
+  },
+  "kosisCategories": [
+    {
+      "code": "01",
+      "name": "식료품 · 비주류음료"
+    },
+    {
+      "code": "02",
+      "name": "주류 · 담배"
+    },
+    {
+      "code": "03",
+      "name": "의류 · 신발"
+    },
+    {
+      "code": "04",
+      "name": "주거 · 수도 · 광열"
+    },
+    {
+      "code": "05",
+      "name": "가정용품 · 가사서비스"
+    },
+    {
+      "code": "06",
+      "name": "보건"
+    },
+    {
+      "code": "07",
+      "name": "교통 · 운송"
+    },
+    {
+      "code": "08",
+      "name": "정보통신"
+    },
+    {
+      "code": "09",
+      "name": "오락 · 문화"
+    },
+    {
+      "code": "10",
+      "name": "교육"
+    },
+    {
+      "code": "11",
+      "name": "음식 · 숙박"
+    },
+    {
+      "code": "12",
+      "name": "기타상품 · 서비스"
+    }
+  ],
+  "rules": [
+    {
+      "ruleId": "R001",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "편의점",
+      "merchantKeywords": [
+        "GS25",
+        "CU",
+        "씨유",
+        "세븐일레븐",
+        "이마트24",
+        "미니스톱",
+        "세븐일레븐 등"
+      ],
+      "mccCodes": [
+        "5499"
+      ],
+      "officialMccSummary": "5499",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "기본 확정. 심야 반복구매는 I 강화",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "01",
+        "name": "식료품 · 비주류음료"
+      },
+      "benefitTags": [
+        "편의점",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "5411은 슈퍼마켓과 중복되므로 가맹점 키워드 우선"
+    },
+    {
+      "ruleId": "R002",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "대형마트/슈퍼마켓",
+      "merchantKeywords": [
+        "이마트",
+        "홈플러스",
+        "롯데마트",
+        "코스트코",
+        "하나로마트",
+        "동네슈퍼",
+        "슈퍼마켓",
+        "할인마트",
+        "탑할인마트"
+      ],
+      "mccCodes": [
+        "5411"
+      ],
+      "officialMccSummary": "5411",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.0,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "1인가구는 즉석식품·가공식품 지출비중이 높고 신선식품(육류·수산) 비중은 낮음. 구매 품목이 즉석식품 위주면 I 방향, 신선식품(정육/수산) 위주면 E 방향으로 보정",
+      "evidenceLevel": "2단계(통계 교차검증)",
+      "evidenceSource": "통계청 가계동향조사(2023), 2030 1인가구 외식비중 73%·가공식품 20.6%·신선식품 6.4%",
+      "kosis": {
+        "code": "01",
+        "name": "식료품 · 비주류음료"
+      },
+      "benefitTags": [
+        "마트",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "MCC 5411만으로 편의점·식료품점과 완전 구분 불가"
+    },
+    {
+      "ruleId": "R003",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "대중교통",
+      "merchantKeywords": [
+        "버스",
+        "지하철",
+        "교통카드",
+        "티머니",
+        "캐시비",
+        "택시",
+        "카카오T",
+        "우버"
+      ],
+      "mccCodes": [
+        "4111",
+        "4121"
+      ],
+      "officialMccSummary": "4111/4121",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": 0.0,
+        "vr": 1.0,
+        "nw": -1.0
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "I/E 판별에서 제외 가능(이동수단은 인원 무관)",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "07",
+        "name": "교통 · 운송"
+      },
+      "benefitTags": [
+        "대중교통",
+        "교통"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "택시는 4121, 버스·지하철은 주로 4111"
+    },
+    {
+      "ruleId": "R004",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "주유소",
+      "merchantKeywords": [
+        "SK에너지",
+        "GS칼텍스",
+        "현대오일뱅크",
+        "S-OIL",
+        "에쓰오일",
+        "주유소",
+        "SK/GS/현대오일뱅크 주유소"
+      ],
+      "mccCodes": [
+        "5541",
+        "5542"
+      ],
+      "officialMccSummary": "5541/5542",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": 0.0,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "I/E 판별 비중 낮게",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "07",
+        "name": "교통 · 운송"
+      },
+      "benefitTags": [
+        "주유",
+        "교통"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "5542는 자동주유기"
+    },
+    {
+      "ruleId": "R005",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "병원/의원",
+      "merchantKeywords": [
+        "병원",
+        "의원",
+        "클리닉",
+        "내과",
+        "외과",
+        "정형외과",
+        "피부과",
+        "안과",
+        "치과",
+        "종합병원",
+        "개인의원"
+      ],
+      "mccCodes": [
+        "8011",
+        "8062"
+      ],
+      "officialMccSummary": "8011/8062",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": -1.0
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "06",
+        "name": "보건"
+      },
+      "benefitTags": [
+        "병원",
+        "의료"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "치과는 실제로 별도 MCC가 올 수 있으나 MVP는 키워드로 보완"
+    },
+    {
+      "ruleId": "R006",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "약국",
+      "merchantKeywords": [
+        "약국",
+        "pharmacy",
+        "약국 전체"
+      ],
+      "mccCodes": [
+        "5912"
+      ],
+      "officialMccSummary": "5912",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "06",
+        "name": "보건"
+      },
+      "benefitTags": [
+        "약국",
+        "의료"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "-"
+    },
+    {
+      "ruleId": "R007",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "통신비",
+      "merchantKeywords": [
+        "SKT",
+        "KT",
+        "LG유플러스",
+        "U+",
+        "알뜰폰",
+        "인터넷요금",
+        "휴대폰요금",
+        "인터넷요금 자동이체"
+      ],
+      "mccCodes": [
+        "4814"
+      ],
+      "officialMccSummary": "4814",
+      "channel": "온라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": 0.0,
+        "vr": -1.0,
+        "nw": -1.0
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "정기결제 패턴, I/E 판별 제외",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "08",
+        "name": "정보통신"
+      },
+      "benefitTags": [
+        "통신",
+        "정기결제"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "-"
+    },
+    {
+      "ruleId": "R008",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "문구/학용품",
+      "merchantKeywords": [
+        "알파문구",
+        "오피스디포",
+        "문구",
+        "학용품",
+        "교보문고 문구",
+        "교보문구"
+      ],
+      "mccCodes": [
+        "5943"
+      ],
+      "officialMccSummary": "5943",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": -0.3,
+        "vr": 1.0,
+        "nw": -0.7
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "문구",
+        "교육"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "KOSIS 대분류상 문구는 오락·문화에 배치"
+    },
+    {
+      "ruleId": "R009",
+      "priority": 10,
+      "axisFamily": "N계열",
+      "standardCategory": "식료품점",
+      "merchantKeywords": [
+        "정육점",
+        "청과",
+        "과일",
+        "채소",
+        "반찬가게",
+        "수산시장",
+        "축산",
+        "청과물"
+      ],
+      "mccCodes": [
+        "5422",
+        "5499"
+      ],
+      "officialMccSummary": "5422/5499",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.3,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "01",
+        "name": "식료품 · 비주류음료"
+      },
+      "benefitTags": [
+        "식료품",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "가맹점 키워드로 세부 식료품점 확인"
+    },
+    {
+      "ruleId": "R010",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "저가형 카페",
+      "merchantKeywords": [
+        "메가MGC커피",
+        "메가커피",
+        "컴포즈커피",
+        "빽다방",
+        "이디야",
+        "매머드익스프레스",
+        "매머드커피",
+        "이디야 등",
+        "더벤티",
+        "텐퍼센트커피",
+        "하삼동커피",
+        "감성커피",
+        "커피에반하다",
+        "백억커피"
+      ],
+      "mccCodes": [
+        "5814"
+      ],
+      "officialMccSummary": "5814",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.2,
+        "vr": 1.0,
+        "nw": 0.7
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "통근·통학길 위주 빠른 개인 소비 경향이 뚜렷함",
+      "evidenceLevel": "2단계(통계 교차검증)",
+      "evidenceSource": "오픈서베이 '카페 트렌드 리포트 2024'",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "카페",
+        "외식"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "MCC 5814만으로 저가형·프리미엄 카페를 구분할 수 없어 가맹점 키워드가 필요함"
+    },
+    {
+      "ruleId": "R011",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "프리미엄 카페",
+      "merchantKeywords": [
+        "스타벅스",
+        "투썸플레이스",
+        "투썸",
+        "폴바셋",
+        "폴바셋 등",
+        "카페꼼마",
+        "커피빈",
+        "할리스",
+        "파스쿠찌",
+        "탐앤탐스",
+        "블루보틀",
+        "테라로사",
+        "엔제리너스",
+        "로스터리"
+      ],
+      "mccCodes": [
+        "5814"
+      ],
+      "officialMccSummary": "5814",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.6,
+        "vr": 1.0,
+        "nw": 0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "만남·모임 공간으로 이용되는 비중이 높고 음식을 함께 주문하는 경우가 많아 저가형 카페보다 E 방향에 가깝게 조정",
+      "evidenceLevel": "2단계(통계 교차검증)",
+      "evidenceSource": "오픈서베이 '카페 트렌드 리포트 2024' (매장 이용 49.4% vs 테이크아웃 50.6%, 고가 브랜드는 동반 수요 큼)",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "카페",
+        "외식"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "MCC 5814만으로 저가형·프리미엄 카페를 구분할 수 없어 가맹점 키워드가 필요함"
+    },
+    {
+      "ruleId": "R012",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "영화관",
+      "merchantKeywords": [
+        "CGV",
+        "롯데시네마",
+        "메가박스",
+        "영화관"
+      ],
+      "mccCodes": [
+        "7832"
+      ],
+      "officialMccSummary": "7832",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": 0.5,
+        "vr": 1.0,
+        "nw": 0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "동시결제 티켓 매수 확인 시 인원수로 직접 보정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "1인당 연평균 관람횟수(1.15회, 2020년)는 확인되나 1인 관람 비율 통계는 검색으로 확보하지 못함",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "영화",
+        "문화"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "-"
+    },
+    {
+      "ruleId": "R013",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "서점",
+      "merchantKeywords": [
+        "교보문고",
+        "영풍문고",
+        "알라딘",
+        "예스24",
+        "독립서점",
+        "서점"
+      ],
+      "mccCodes": [
+        "5942"
+      ],
+      "officialMccSummary": "5942",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": 0.3
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "학습서적 비중 높으면 N 방향 보정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "서점",
+        "도서"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "온라인 서점도 상품 성격은 동일하나 V/R은 거래 채널값 사용"
+    },
+    {
+      "ruleId": "R014",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "뷰티/향수 전문점",
+      "merchantKeywords": [
+        "시코르",
+        "세포라",
+        "향수",
+        "화장품",
+        "코스메틱",
+        "아라베스크",
+        "향수 편집숍"
+      ],
+      "mccCodes": [
+        "5977"
+      ],
+      "officialMccSummary": "5977",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.4,
+        "vr": 1.0,
+        "nw": 0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "뷰티",
+        "향수"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "헬스앤뷰티 스토어와 MCC 중복 가능"
+    },
+    {
+      "ruleId": "R015",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "디저트/베이커리",
+      "merchantKeywords": [
+        "파리바게뜨",
+        "뚜레쥬르",
+        "베이커리",
+        "빵집",
+        "도넛",
+        "디저트카페",
+        "개인 디저트카페",
+        "파리바게트",
+        "브레드",
+        "건강한빵",
+        "핫브레드"
+      ],
+      "mccCodes": [
+        "5462"
+      ],
+      "officialMccSummary": "5462",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.3,
+        "vr": 1.0,
+        "nw": 0.6
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "금액 상위면 선물/모임용으로 E 보정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "01",
+        "name": "식료품 · 비주류음료"
+      },
+      "benefitTags": [
+        "베이커리",
+        "카페"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "5462 소매 베이커리는 01, 카페형이면 11로 재분류 가능"
+    },
+    {
+      "ruleId": "R016",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "독서실/스터디카페",
+      "merchantKeywords": [
+        "독서실",
+        "스터디카페",
+        "study cafe",
+        "고시원 학습실",
+        "작심독서실",
+        "프릳츠 스터디카페 등"
+      ],
+      "mccCodes": [
+        "8299"
+      ],
+      "officialMccSummary": "8299",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.8,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "학습목적이라 N에 가깝게",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "10",
+        "name": "교육"
+      },
+      "benefitTags": [
+        "스터디카페",
+        "교육"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "가맹점별 MCC 편차가 커 키워드 우선"
+    },
+    {
+      "ruleId": "R017",
+      "priority": 10,
+      "axisFamily": "IRW계열",
+      "standardCategory": "취미클래스/공방",
+      "merchantKeywords": [
+        "원데이클래스",
+        "공방",
+        "도예",
+        "가죽공예",
+        "드로잉",
+        "취미클래스",
+        "공방 결제"
+      ],
+      "mccCodes": [
+        "7999"
+      ],
+      "officialMccSummary": "7999",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.4,
+        "vr": 1.0,
+        "nw": 0.7
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "취미",
+        "문화"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "수업은 8299일 수도 있으나 8299는 교육과 충돌"
+    },
+    {
+      "ruleId": "R018",
+      "priority": 10,
+      "axisFamily": "IVN계열",
+      "standardCategory": "온라인 생필품몰",
+      "merchantKeywords": [
+        "쿠팡",
+        "마켓컬리",
+        "컬리",
+        "오아시스",
+        "SSG",
+        "쓱닷컴"
+      ],
+      "mccCodes": [
+        "5411",
+        "5399"
+      ],
+      "officialMccSummary": "5411/5399",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.5,
+        "vr": -1.0,
+        "nw": -0.5
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "품목 확인 불가 시 N 방향 기본값, 정기배송이면 N 강화",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "온라인쇼핑",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "마켓플레이스 MCC는 실제 구매품목을 보여주지 않음"
+    },
+    {
+      "ruleId": "R019",
+      "priority": 10,
+      "axisFamily": "IVN계열",
+      "standardCategory": "네이버쇼핑(생필품)",
+      "merchantKeywords": [
+        "네이버쇼핑",
+        "스마트스토어",
+        "NAVER PAY",
+        "네이버쇼핑 생필품 카테고리"
+      ],
+      "mccCodes": [
+        "5399"
+      ],
+      "officialMccSummary": "5399",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.5,
+        "vr": -1.0,
+        "nw": -0.4
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "품목 카테고리 태그 확인 시 재분류",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "온라인쇼핑",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "PG/마켓플레이스명만 OCR되면 품목 식별 어려움"
+    },
+    {
+      "ruleId": "R020",
+      "priority": 10,
+      "axisFamily": "IVN계열",
+      "standardCategory": "정기구독(생필품형)",
+      "merchantKeywords": [
+        "정기배송",
+        "생수구독",
+        "세제구독",
+        "면도날구독",
+        "생활용품구독",
+        "생수/세제 정기배송 등"
+      ],
+      "mccCodes": [
+        "5968"
+      ],
+      "officialMccSummary": "5968",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.5,
+        "vr": -1.0,
+        "nw": -0.6
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "결제 주기 규칙성으로 N 확정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "정기배송",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "구독 상품명 키워드가 필요"
+    },
+    {
+      "ruleId": "R021",
+      "priority": 10,
+      "axisFamily": "IVW계열",
+      "standardCategory": "온라인 패션몰",
+      "merchantKeywords": [
+        "무신사",
+        "지그재그",
+        "W컨셉",
+        "에이블리",
+        "29CM",
+        "브랜디"
+      ],
+      "mccCodes": [
+        "5651",
+        "5691"
+      ],
+      "officialMccSummary": "5651/5691",
+      "channel": "온라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": -0.4,
+        "vr": -1.0,
+        "nw": 0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "03",
+        "name": "의류 · 신발"
+      },
+      "benefitTags": [
+        "온라인쇼핑",
+        "패션"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "-"
+    },
+    {
+      "ruleId": "R022",
+      "priority": 10,
+      "axisFamily": "IVW계열",
+      "standardCategory": "게임 결제",
+      "merchantKeywords": [
+        "STEAM",
+        "스팀",
+        "구글플레이",
+        "앱스토어",
+        "넥슨",
+        "엔씨소프트",
+        "게임"
+      ],
+      "mccCodes": [
+        "5816"
+      ],
+      "officialMccSummary": "5816",
+      "channel": "온라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": -0.7,
+        "vr": -1.0,
+        "nw": 0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "게임",
+        "디지털콘텐츠"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "앱스토어 전체 결제는 게임 외 품목 가능"
+    },
+    {
+      "ruleId": "R023",
+      "priority": 10,
+      "axisFamily": "IVW계열",
+      "standardCategory": "OTT/스트리밍 구독",
+      "merchantKeywords": [
+        "넷플릭스",
+        "왓챠",
+        "티빙",
+        "웨이브",
+        "디즈니플러스",
+        "유튜브프리미엄",
+        "SPOTIFY"
+      ],
+      "mccCodes": [
+        "4899"
+      ],
+      "officialMccSummary": "4899",
+      "channel": "온라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": -0.6,
+        "vr": -1.0,
+        "nw": 0.7
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "OTT",
+        "정기결제"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "Visa는 구독형 스트리밍에 4899 사용을 명시"
+    },
+    {
+      "ruleId": "R024",
+      "priority": 10,
+      "axisFamily": "IVW계열",
+      "standardCategory": "전자기기/가전(온라인)",
+      "merchantKeywords": [
+        "전자기기",
+        "노트북",
+        "태블릿",
+        "카메라",
+        "가전",
+        "냉장고",
+        "세탁기",
+        "TV",
+        "쿠팡/네이버 전자기기 카테고리"
+      ],
+      "mccCodes": [
+        "5732"
+      ],
+      "officialMccSummary": "5732",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.3,
+        "vr": -1.0,
+        "nw": 0.5
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "고가 필수 가전은 N 방향 보정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "온라인쇼핑",
+        "전자기기"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "전자기기는 09, 대형가전은 05로 분리 권장"
+    },
+    {
+      "ruleId": "R025",
+      "priority": 10,
+      "axisFamily": "IVW계열",
+      "standardCategory": "SNS 연동 구매",
+      "merchantKeywords": [
+        "인스타그램",
+        "유튜브쇼핑",
+        "틱톡샵",
+        "SNS광고",
+        "공구마켓",
+        "인스타그램/유튜브 광고 연동 쇼핑몰"
+      ],
+      "mccCodes": [],
+      "officialMccSummary": "-",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.4,
+        "vr": -1.0,
+        "nw": 0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "온라인쇼핑",
+        "SNS"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "판매채널 정보만으로 상품 성격 판별 불가"
+    },
+    {
+      "ruleId": "R026",
+      "priority": 10,
+      "axisFamily": "ERN/공용",
+      "standardCategory": "음식점(일반)",
+      "merchantKeywords": [
+        "식당",
+        "분식",
+        "한식",
+        "중식",
+        "일식",
+        "양식",
+        "레스토랑",
+        "restaurant",
+        "백반집",
+        "분식집",
+        "프랜차이즈 식당",
+        "칼국수",
+        "매운탕",
+        "삼성웰스토리"
+      ],
+      "mccCodes": [
+        "5812"
+      ],
+      "officialMccSummary": "5812",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.4,
+        "vr": 1.0,
+        "nw": -0.3
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "결제금액 상위는 E 보정, 고급업장은 W 보정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "외식"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "5812는 배달·카페와도 중복 가능"
+    },
+    {
+      "ruleId": "R027",
+      "priority": 10,
+      "axisFamily": "ERN/공용",
+      "standardCategory": "배달앱 주문",
+      "merchantKeywords": [
+        "배달의민족",
+        "요기요",
+        "쿠팡이츠",
+        "땡겨요",
+        "배달",
+        "우아한형제들"
+      ],
+      "mccCodes": [
+        "5812"
+      ],
+      "officialMccSummary": "5812",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.0,
+        "vr": -1.0,
+        "nw": -0.2
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "1인분 배달('한그릇' 서비스) 가격대는 5,000~12,000원으로 실측 확인됨. 결제금액이 이 구간 이하면 I 방향, 초과하면 E 방향으로 보정",
+      "evidenceLevel": "2단계(통계 교차검증)",
+      "evidenceSource": "배달의민족 '한그릇' 서비스 관련 보도(2025)",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "배달앱",
+        "외식"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "배달앱이 하위 가맹점 MCC를 전달하지 않을 수 있음"
+    },
+    {
+      "ruleId": "R028",
+      "priority": 10,
+      "axisFamily": "혼합업종",
+      "standardCategory": "이자카야/구이주점형 매장",
+      "merchantKeywords": [],
+      "mccCodes": [
+        "5812",
+        "5813"
+      ],
+      "officialMccSummary": "5812/5813",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.6,
+        "vr": 1.0,
+        "nw": 0.5
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "높음",
+      "ambiguitySourceValue": "Y(확률형)",
+      "correctionSignal": "MCC 5812는 식당·주점 혼재. 검색질의+결제시간대(자정 전후)+동석/2차 패턴으로 술집·식당 확률 추정 후 두 카테고리 가중치를 확률 가중 평균으로 혼합",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "외식",
+        "주점"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "키워드 단독 확정 금지. 검색·결제시간·동석/2차 패턴을 이용한 확률형 보정 대상"
+    },
+    {
+      "ruleId": "R029",
+      "priority": 10,
+      "axisFamily": "ERW계열",
+      "standardCategory": "고깃집/구이전문점",
+      "merchantKeywords": [
+        "삼겹살",
+        "곱창",
+        "갈비",
+        "고깃집",
+        "구이",
+        "정육식당",
+        "삼겹살집",
+        "곱창집 등"
+      ],
+      "mccCodes": [
+        "5812"
+      ],
+      "officialMccSummary": "5812",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.7,
+        "vr": 1.0,
+        "nw": 0.2
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "외식",
+        "고깃집"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "가맹점 키워드가 핵심"
+    },
+    {
+      "ruleId": "R030",
+      "priority": 10,
+      "axisFamily": "ERW계열",
+      "standardCategory": "술집/호프/포차",
+      "merchantKeywords": [
+        "호프",
+        "포차",
+        "이자카야",
+        "와인바",
+        "펍",
+        "술집",
+        "BAR",
+        "호프집"
+      ],
+      "mccCodes": [
+        "5813"
+      ],
+      "officialMccSummary": "5813",
+      "channel": "오프라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": 0.6,
+        "vr": 1.0,
+        "nw": 0.7
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "MCC 5813은 주점 전용 코드라 확정 가능. 다만 미혼 1인가구 혼술 비율 58.1%, 20대 혼술 경험률 39.1% 등 혼술 비중이 상당해 기존 +0.8은 과도했다고 판단, +0.6으로 완화. 혼술 장소는 집이 1위이고 주점 내 혼술 비중(20대 초반 기준 18.5%)은 상대적으로 낮아 여전히 E 방향이 우세함",
+      "evidenceLevel": "2단계(통계 교차검증)",
+      "evidenceSource": "대학내일20대연구소 '혼술 트렌드' 조사(2025)",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "주점",
+        "외식"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "주점 내 소비는 KOSIS 음식·숙박으로 분류"
+    },
+    {
+      "ruleId": "R031",
+      "priority": 10,
+      "axisFamily": "ERW계열",
+      "standardCategory": "오락시설",
+      "merchantKeywords": [
+        "볼링",
+        "당구",
+        "노래방",
+        "아케이드",
+        "오락실",
+        "볼링장",
+        "당구장"
+      ],
+      "mccCodes": [
+        "7933",
+        "7932",
+        "7999"
+      ],
+      "officialMccSummary": "7933/7932/7999",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.7,
+        "vr": 1.0,
+        "nw": 0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "오락",
+        "문화"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "노래방·당구장은 7999 등으로 다양할 수 있음"
+    },
+    {
+      "ruleId": "R032",
+      "priority": 10,
+      "axisFamily": "ERW계열",
+      "standardCategory": "호텔/숙박",
+      "merchantKeywords": [
+        "호텔",
+        "리조트",
+        "펜션",
+        "모텔",
+        "게스트하우스"
+      ],
+      "mccCodes": [
+        "7011"
+      ],
+      "officialMccSummary": "7011",
+      "channel": "오프라인/예약온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.5,
+        "vr": 0.0,
+        "nw": 0.6
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "출장 등 1인 투숙 이력 반복되면 I 방향 보정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "숙박",
+        "여행"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "예약 플랫폼과 직접 호텔 결제를 키워드로 구분"
+    },
+    {
+      "ruleId": "R033",
+      "priority": 10,
+      "axisFamily": "ERW계열",
+      "standardCategory": "방탈출/보드게임카페",
+      "merchantKeywords": [
+        "방탈출",
+        "보드게임",
+        "룸카페",
+        "방탈출카페",
+        "보드게임카페"
+      ],
+      "mccCodes": [
+        "7999"
+      ],
+      "officialMccSummary": "7999",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.8,
+        "vr": 1.0,
+        "nw": 0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "오락",
+        "문화"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "가맹점 키워드 우선"
+    },
+    {
+      "ruleId": "R034",
+      "priority": 10,
+      "axisFamily": "EVN계열",
+      "standardCategory": "기차/항공권 예매",
+      "merchantKeywords": [
+        "코레일",
+        "KTX",
+        "SRT",
+        "대한항공",
+        "아시아나",
+        "제주항공",
+        "티웨이",
+        "진에어",
+        "항공권",
+        "코레일톡",
+        "항공사 앱"
+      ],
+      "mccCodes": [
+        "4112",
+        "4511"
+      ],
+      "officialMccSummary": "4112/4511",
+      "channel": "온라인",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": 0.3,
+        "vr": -1.0,
+        "nw": -0.2
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "단체 좌석 동시결제면 E 강화",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "07",
+        "name": "교통 · 운송"
+      },
+      "benefitTags": [
+        "철도",
+        "항공",
+        "여행"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "-"
+    },
+    {
+      "ruleId": "R035",
+      "priority": 10,
+      "axisFamily": "EVN계열",
+      "standardCategory": "공동구매/단체결제 플랫폼",
+      "merchantKeywords": [
+        "공동구매",
+        "공구",
+        "단체결제",
+        "모임통장 결제",
+        "총무",
+        "카카오톡 선물하기 공동결제 등"
+      ],
+      "mccCodes": [
+        "5947"
+      ],
+      "officialMccSummary": "5947",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.6,
+        "vr": -1.0,
+        "nw": 0.0
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "결제건당 금액 편차 크면 총무형 강화",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "공동구매",
+        "온라인쇼핑"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "MCC만으로 공동구매 여부 판별 불가"
+    },
+    {
+      "ruleId": "R036",
+      "priority": 10,
+      "axisFamily": "EVW계열",
+      "standardCategory": "온라인 단체선물",
+      "merchantKeywords": [
+        "카카오선물하기",
+        "기프티콘",
+        "단체선물",
+        "선물하기",
+        "기프티콘 다량구매"
+      ],
+      "mccCodes": [
+        "5947"
+      ],
+      "officialMccSummary": "5947",
+      "channel": "온라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.5,
+        "vr": -1.0,
+        "nw": 0.7
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "낮음",
+      "ambiguitySourceValue": "N",
+      "correctionSignal": "-",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "선물",
+        "온라인쇼핑"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "개인 선물과 단체 선물 구분 필요"
+    },
+    {
+      "ruleId": "R037",
+      "priority": 10,
+      "axisFamily": "애매업종",
+      "standardCategory": "헬스앤뷰티 스토어",
+      "merchantKeywords": [
+        "올리브영",
+        "랄라블라",
+        "롭스",
+        "H&B"
+      ],
+      "mccCodes": [
+        "5977",
+        "5999"
+      ],
+      "officialMccSummary": "5977/5999",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.4,
+        "vr": 1.0,
+        "nw": 0.0
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "높음",
+      "ambiguitySourceValue": "Y(강)",
+      "correctionSignal": "스킨케어는 W, 위생용품은 N. 결제빈도/금액으로 보정",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "뷰티",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "5977이 뷰티 전문점과 중복"
+    },
+    {
+      "ruleId": "R038",
+      "priority": 10,
+      "axisFamily": "애매업종",
+      "standardCategory": "생활잡화점",
+      "merchantKeywords": [
+        "다이소",
+        "삐에로쇼핑",
+        "생활잡화",
+        "균일가"
+      ],
+      "mccCodes": [
+        "5310"
+      ],
+      "officialMccSummary": "5310",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.1,
+        "vr": 1.0,
+        "nw": -0.1
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "높음",
+      "ambiguitySourceValue": "Y(강)",
+      "correctionSignal": "생활용품은 N, 소품/시즌굿즈는 W. 세부품목 확인 필요",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "-",
+      "kosis": {
+        "code": "05",
+        "name": "가정용품 · 가사서비스"
+      },
+      "benefitTags": [
+        "생활잡화",
+        "생활"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "낮음",
+      "note": "세부품목 없으면 KOSIS 05를 기본값으로 사용"
+    },
+    {
+      "ruleId": "R039",
+      "priority": 10,
+      "axisFamily": "ERW계열",
+      "standardCategory": "숙박/여행",
+      "merchantKeywords": [
+        "호텔",
+        "리조트",
+        "펜션",
+        "모텔",
+        "게스트하우스",
+        "하나투어",
+        "모두투어",
+        "노랑풍선",
+        "여행사",
+        "투어",
+        "관광상품",
+        "야놀자",
+        "여기어때",
+        "에어비앤비",
+        "부킹닷컴",
+        "아고다",
+        "여행패키지",
+        "패키지투어",
+        "온라인투어",
+        "트립닷컴 패키지",
+        "여행 플랫폼 패키지 상품"
+      ],
+      "mccCodes": [
+        "4722",
+        "7011"
+      ],
+      "officialMccSummary": "4722/7011",
+      "channel": "온라인/오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.5,
+        "vr": 0.0,
+        "nw": 0.6
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "통합 표준카테고리. 가맹점명 문맥에 따라 LLM 또는 사용자 확인",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "mapping_core3(1).xlsx",
+      "kosis": {
+        "code": "11",
+        "name": "음식 · 숙박"
+      },
+      "benefitTags": [
+        "숙박",
+        "여행",
+        "투어",
+        "패키지"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "mapping_core3(1).xlsx에서 여러 기존 카테고리를 하나로 통합. CARD-TI 가중치는 통합 행의 값을 사용"
+    },
+    {
+      "ruleId": "R040",
+      "priority": 10,
+      "axisFamily": "ERW계열",
+      "standardCategory": "티켓/공연/전시",
+      "merchantKeywords": [
+        "공연",
+        "전시",
+        "콘서트",
+        "뮤지컬",
+        "연극",
+        "티켓링크",
+        "인터파크티켓",
+        "멜론티켓",
+        "YES24공연",
+        "예스24티켓",
+        "인터파크 티켓",
+        "전시회",
+        "예스24 공연"
+      ],
+      "mccCodes": [
+        "7922"
+      ],
+      "officialMccSummary": "7922",
+      "channel": "오프라인/온라인예매",
+      "mccOnlyAllowed": true,
+      "weights": {
+        "ie": 0.5,
+        "vr": 0.0,
+        "nw": 0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "통합 표준카테고리. 가맹점명 문맥에 따라 LLM 또는 사용자 확인",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "mapping_core3(1).xlsx",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "공연",
+        "문화"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "높음",
+      "note": "mapping_core3(1).xlsx에서 여러 기존 카테고리를 하나로 통합. CARD-TI 가중치는 통합 행의 값을 사용"
+    },
+    {
+      "ruleId": "R041",
+      "priority": 10,
+      "axisFamily": "혼합",
+      "standardCategory": "세탁소",
+      "merchantKeywords": [
+        "일반 세탁소",
+        "크린토피아",
+        "코인워시",
+        "무인 빨래방",
+        "세탁소",
+        "빨래방",
+        "무인빨래방",
+        "빨래하는날",
+        "워시엔조이"
+      ],
+      "mccCodes": [
+        "7211",
+        "7216"
+      ],
+      "officialMccSummary": "7211/7216",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.5,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "가맹점 키워드 또는 LLM/사용자 확인으로 분류",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "mapping_core3(1).xlsx",
+      "kosis": {
+        "code": "05",
+        "name": "가정용품 · 가사서비스"
+      },
+      "benefitTags": [
+        "세탁소"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "mapping_core3(1).xlsx 신규 표준카테고리"
+    },
+    {
+      "ruleId": "R042",
+      "priority": 10,
+      "axisFamily": "혼합",
+      "standardCategory": "인생네컷/포토부스",
+      "merchantKeywords": [
+        "인생네컷",
+        "포토이즘",
+        "하루필름 등",
+        "하루필름",
+        "포토부스",
+        "셀픽스",
+        "포토시그니처"
+      ],
+      "mccCodes": [
+        "7221",
+        "7999"
+      ],
+      "officialMccSummary": "7221(또는 7999, 확인 필요)",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": 0.7,
+        "vr": 1.0,
+        "nw": 0.9
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "가맹점 키워드 또는 LLM/사용자 확인으로 분류",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "mapping_core3(1).xlsx",
+      "kosis": {
+        "code": "09",
+        "name": "오락 · 문화"
+      },
+      "benefitTags": [
+        "인생네컷/포토부스"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "mapping_core3(1).xlsx 신규 표준카테고리"
+    },
+    {
+      "ruleId": "R043",
+      "priority": 10,
+      "axisFamily": "혼합",
+      "standardCategory": "프린트/복사",
+      "merchantKeywords": [
+        "동네 복사집",
+        "무인 출력 키오스크",
+        "프린트카페 등",
+        "프린트카페",
+        "프린트",
+        "복사집",
+        "복사",
+        "출력키오스크",
+        "무인출력",
+        "킨코스"
+      ],
+      "mccCodes": [
+        "7338"
+      ],
+      "officialMccSummary": "7338",
+      "channel": "오프라인",
+      "mccOnlyAllowed": false,
+      "weights": {
+        "ie": -0.5,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "vrReferenceOnly": true,
+      "ambiguity": "중",
+      "ambiguitySourceValue": "Y",
+      "correctionSignal": "가맹점 키워드 또는 LLM/사용자 확인으로 분류",
+      "evidenceLevel": "1단계(추정)",
+      "evidenceSource": "mapping_core3(1).xlsx",
+      "kosis": {
+        "code": "12",
+        "name": "기타상품 · 서비스"
+      },
+      "benefitTags": [
+        "프린트/복사"
+      ],
+      "matchingMethod": "merchant_keyword > actual_mcc > llm_fallback > user_override > unmapped",
+      "confidence": "중",
+      "note": "mapping_core3(1).xlsx 신규 표준카테고리"
+    }
+  ],
+  "mccDefaults": [
+    {
+      "mcc": "4111",
+      "officialName": "Local and Suburban Commuter Passenger Transportation, Including Ferries",
+      "candidateCategories": [
+        "대중교통"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "07",
+      "defaultKosisName": "교통 · 운송",
+      "fallbackWeights": {
+        "ie": 0.0,
+        "vr": 1.0,
+        "nw": -1.0
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "4112",
+      "officialName": "Passenger Railways",
+      "candidateCategories": [
+        "기차/항공권 예매"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "07",
+      "defaultKosisName": "교통 · 운송",
+      "fallbackWeights": {
+        "ie": 0.3,
+        "vr": -1.0,
+        "nw": -0.2
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "4121",
+      "officialName": "",
+      "candidateCategories": [
+        "대중교통"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "07",
+      "defaultKosisName": "교통 · 운송",
+      "fallbackWeights": {
+        "ie": 0.0,
+        "vr": 1.0,
+        "nw": -1.0
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "4511",
+      "officialName": "Airlines and Air Carriers (Not Elsewhere Classified)",
+      "candidateCategories": [
+        "기차/항공권 예매"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "07",
+      "defaultKosisName": "교통 · 운송",
+      "fallbackWeights": {
+        "ie": 0.3,
+        "vr": -1.0,
+        "nw": -0.2
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "4722",
+      "officialName": "Travel Agencies and Tour Operators",
+      "candidateCategories": [
+        "숙박/여행"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "11",
+      "defaultKosisName": "음식 · 숙박",
+      "fallbackWeights": {
+        "ie": 0.5,
+        "vr": 0.0,
+        "nw": 0.6
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "4814",
+      "officialName": "Telecommunication Services",
+      "candidateCategories": [
+        "통신비"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "08",
+      "defaultKosisName": "정보통신",
+      "fallbackWeights": {
+        "ie": 0.0,
+        "vr": -1.0,
+        "nw": -1.0
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "4899",
+      "officialName": "Cable, Satellite and Other Pay Television/Radio/Streaming Services",
+      "candidateCategories": [
+        "OTT/스트리밍 구독"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": -0.6,
+        "vr": -1.0,
+        "nw": 0.7
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5310",
+      "officialName": "",
+      "candidateCategories": [
+        "생활잡화점"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "05",
+      "defaultKosisName": "가정용품 · 가사서비스",
+      "fallbackWeights": {
+        "ie": -0.1,
+        "vr": 1.0,
+        "nw": -0.1
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5399",
+      "officialName": "Miscellaneous General Merchandise",
+      "candidateCategories": [
+        "온라인 생필품몰",
+        "네이버쇼핑(생필품)"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "12",
+      "defaultKosisName": "기타상품 · 서비스",
+      "fallbackWeights": {
+        "ie": -0.5,
+        "vr": -1.0,
+        "nw": -0.45
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5411",
+      "officialName": "Grocery Stores and Supermarkets",
+      "candidateCategories": [
+        "대형마트/슈퍼마켓",
+        "온라인 생필품몰"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "",
+      "defaultKosisName": "복수 후보",
+      "fallbackWeights": {
+        "ie": -0.25,
+        "vr": 0.0,
+        "nw": -0.65
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5422",
+      "officialName": "Freezer and Locker Meat Provisioners",
+      "candidateCategories": [
+        "식료품점"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "01",
+      "defaultKosisName": "식료품 · 비주류음료",
+      "fallbackWeights": {
+        "ie": -0.3,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5462",
+      "officialName": "Bakeries",
+      "candidateCategories": [
+        "디저트/베이커리"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "01",
+      "defaultKosisName": "식료품 · 비주류음료",
+      "fallbackWeights": {
+        "ie": -0.3,
+        "vr": 1.0,
+        "nw": 0.6
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5499",
+      "officialName": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+      "candidateCategories": [
+        "편의점",
+        "식료품점"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "01",
+      "defaultKosisName": "식료품 · 비주류음료",
+      "fallbackWeights": {
+        "ie": -0.45,
+        "vr": 1.0,
+        "nw": -0.85
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5541",
+      "officialName": "Service Stations (With or without Ancillary Services)",
+      "candidateCategories": [
+        "주유소"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "07",
+      "defaultKosisName": "교통 · 운송",
+      "fallbackWeights": {
+        "ie": 0.0,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5542",
+      "officialName": "Automated Fuel Dispensers",
+      "candidateCategories": [
+        "주유소"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "07",
+      "defaultKosisName": "교통 · 운송",
+      "fallbackWeights": {
+        "ie": 0.0,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5651",
+      "officialName": "Family Clothing Stores",
+      "candidateCategories": [
+        "온라인 패션몰"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "03",
+      "defaultKosisName": "의류 · 신발",
+      "fallbackWeights": {
+        "ie": -0.4,
+        "vr": -1.0,
+        "nw": 0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5691",
+      "officialName": "Men’s and Women’s Clothing Stores",
+      "candidateCategories": [
+        "온라인 패션몰"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "03",
+      "defaultKosisName": "의류 · 신발",
+      "fallbackWeights": {
+        "ie": -0.4,
+        "vr": -1.0,
+        "nw": 0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5732",
+      "officialName": "Electronics Stores",
+      "candidateCategories": [
+        "전자기기/가전(온라인)"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": -0.3,
+        "vr": -1.0,
+        "nw": 0.5
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5812",
+      "officialName": "Eating Places and Restaurants",
+      "candidateCategories": [
+        "음식점(일반)",
+        "배달앱 주문",
+        "이자카야/구이주점형 매장",
+        "고깃집/구이전문점"
+      ],
+      "candidateCount": 4,
+      "defaultKosisCode": "11",
+      "defaultKosisName": "음식 · 숙박",
+      "fallbackWeights": {
+        "ie": 0.425,
+        "vr": 0.5,
+        "nw": 0.05
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5813",
+      "officialName": "Drinking Places (Alcoholic Beverages)",
+      "candidateCategories": [
+        "이자카야/구이주점형 매장",
+        "술집/호프/포차"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "11",
+      "defaultKosisName": "음식 · 숙박",
+      "fallbackWeights": {
+        "ie": 0.6,
+        "vr": 1.0,
+        "nw": 0.6
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5814",
+      "officialName": "Fast Food Restaurants",
+      "candidateCategories": [
+        "저가형 카페",
+        "프리미엄 카페"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "11",
+      "defaultKosisName": "음식 · 숙박",
+      "fallbackWeights": {
+        "ie": 0.2,
+        "vr": 1.0,
+        "nw": 0.75
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5816",
+      "officialName": "Digital Goods – Games",
+      "candidateCategories": [
+        "게임 결제"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": -0.7,
+        "vr": -1.0,
+        "nw": 0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5912",
+      "officialName": "Drug Stores and Pharmacies",
+      "candidateCategories": [
+        "약국"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "06",
+      "defaultKosisName": "보건",
+      "fallbackWeights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5942",
+      "officialName": "Book Stores",
+      "candidateCategories": [
+        "서점"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": 0.3
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5943",
+      "officialName": "Stationery Stores, Office and School Supply Stores",
+      "candidateCategories": [
+        "문구/학용품"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": -0.3,
+        "vr": 1.0,
+        "nw": -0.7
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5947",
+      "officialName": "",
+      "candidateCategories": [
+        "공동구매/단체결제 플랫폼",
+        "온라인 단체선물"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "12",
+      "defaultKosisName": "기타상품 · 서비스",
+      "fallbackWeights": {
+        "ie": 0.55,
+        "vr": -1.0,
+        "nw": 0.35
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5968",
+      "officialName": "",
+      "candidateCategories": [
+        "정기구독(생필품형)"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "12",
+      "defaultKosisName": "기타상품 · 서비스",
+      "fallbackWeights": {
+        "ie": -0.5,
+        "vr": -1.0,
+        "nw": -0.6
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5977",
+      "officialName": "Cosmetic Stores",
+      "candidateCategories": [
+        "뷰티/향수 전문점",
+        "헬스앤뷰티 스토어"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "12",
+      "defaultKosisName": "기타상품 · 서비스",
+      "fallbackWeights": {
+        "ie": -0.4,
+        "vr": 1.0,
+        "nw": 0.4
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "5999",
+      "officialName": "Miscellaneous and Specialty Retail Shops",
+      "candidateCategories": [
+        "헬스앤뷰티 스토어"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "12",
+      "defaultKosisName": "기타상품 · 서비스",
+      "fallbackWeights": {
+        "ie": -0.4,
+        "vr": 1.0,
+        "nw": 0.0
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7011",
+      "officialName": "Lodging – Hotels, Motels, Resorts, Central Reservation Services",
+      "candidateCategories": [
+        "호텔/숙박",
+        "숙박/여행"
+      ],
+      "candidateCount": 2,
+      "defaultKosisCode": "11",
+      "defaultKosisName": "음식 · 숙박",
+      "fallbackWeights": {
+        "ie": 0.5,
+        "vr": 0.0,
+        "nw": 0.6
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7211",
+      "officialName": "",
+      "candidateCategories": [
+        "세탁소"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "05",
+      "defaultKosisName": "가정용품 · 가사서비스",
+      "fallbackWeights": {
+        "ie": -0.5,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7216",
+      "officialName": "",
+      "candidateCategories": [
+        "세탁소"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "05",
+      "defaultKosisName": "가정용품 · 가사서비스",
+      "fallbackWeights": {
+        "ie": -0.5,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7221",
+      "officialName": "",
+      "candidateCategories": [
+        "인생네컷/포토부스"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": 0.7,
+        "vr": 1.0,
+        "nw": 0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7338",
+      "officialName": "",
+      "candidateCategories": [
+        "프린트/복사"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "12",
+      "defaultKosisName": "기타상품 · 서비스",
+      "fallbackWeights": {
+        "ie": -0.5,
+        "vr": 1.0,
+        "nw": -0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7832",
+      "officialName": "Motion Picture Theaters",
+      "candidateCategories": [
+        "영화관"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": 0.5,
+        "vr": 1.0,
+        "nw": 0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7922",
+      "officialName": "Ticket Agencies and Theatrical Producers",
+      "candidateCategories": [
+        "티켓/공연/전시"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": 0.5,
+        "vr": 0.0,
+        "nw": 0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7932",
+      "officialName": "",
+      "candidateCategories": [
+        "오락시설"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": 0.7,
+        "vr": 1.0,
+        "nw": 0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7933",
+      "officialName": "Bowling Alleys",
+      "candidateCategories": [
+        "오락시설"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": 0.7,
+        "vr": 1.0,
+        "nw": 0.8
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "7999",
+      "officialName": "Recreation Services (Not Elsewhere Classified)",
+      "candidateCategories": [
+        "취미클래스/공방",
+        "오락시설",
+        "방탈출/보드게임카페",
+        "인생네컷/포토부스"
+      ],
+      "candidateCount": 4,
+      "defaultKosisCode": "09",
+      "defaultKosisName": "오락 · 문화",
+      "fallbackWeights": {
+        "ie": 0.45,
+        "vr": 1.0,
+        "nw": 0.8
+      },
+      "confidence": "낮음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "8011",
+      "officialName": "Doctors and Physicians",
+      "candidateCategories": [
+        "병원/의원"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "06",
+      "defaultKosisName": "보건",
+      "fallbackWeights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": -1.0
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "8062",
+      "officialName": "Hospitals",
+      "candidateCategories": [
+        "병원/의원"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "06",
+      "defaultKosisName": "보건",
+      "fallbackWeights": {
+        "ie": -0.6,
+        "vr": 1.0,
+        "nw": -1.0
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    },
+    {
+      "mcc": "8299",
+      "officialName": "",
+      "candidateCategories": [
+        "독서실/스터디카페"
+      ],
+      "candidateCount": 1,
+      "defaultKosisCode": "10",
+      "defaultKosisName": "교육",
+      "fallbackWeights": {
+        "ie": -0.8,
+        "vr": 1.0,
+        "nw": -0.9
+      },
+      "confidence": "높음",
+      "note": "실제 MCC가 존재하고 가맹점 키워드가 미매칭된 경우에만 사용. 후보가 여러 개면 자동 확정하지 않음."
+    }
+  ]
+}
