@@ -6,6 +6,7 @@ import {
   type CardRecommendation,
   type RecommendationCategoryInput,
 } from "@/lib/card-recommendation";
+import { sendGAEvent } from "@/lib/gtag";
 import type { Transaction } from "@/lib/upstage/information-extract";
 
 type Props = {
@@ -196,6 +197,19 @@ function RecommendationCard({
             href={recommendation.applicationUrl}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => {
+              sendGAEvent({
+                action: "click_card_application",
+                category: "outbound_click",
+                label: `${recommendation.issuerName} - ${recommendation.cardName}`,
+                params: {
+                  card_id: recommendation.cardId,
+                  card_name: recommendation.cardName,
+                  issuer_name: recommendation.issuerName,
+                  rank: recommendation.rank,
+                },
+              });
+            }}
             className="mt-5 flex w-full items-center justify-center gap-2 rounded-2xl bg-[#4565ed] px-5 py-4 font-bold text-white transition hover:bg-[#3858dc]"
           >
             카드사에서 자세히 보기
@@ -274,7 +288,18 @@ export function CardRecommendationExperience({
       <div className="fixed inset-x-0 bottom-0 z-30 border-t border-[#dfe4ed] bg-[#f7f8fc]/95 px-5 py-5 backdrop-blur sm:px-8">
         <button
           type="button"
-          onClick={loadRecommendations}
+          onClick={() => {
+            sendGAEvent({
+              action: "click_card_recommendation",
+              category: "recommendation",
+              label: cardTiType,
+              params: {
+                card_ti_type: cardTiType,
+                monthly_spend: monthlySpend,
+              },
+            });
+            loadRecommendations();
+          }}
           disabled={disabled || isLoading}
           className="mx-auto flex w-full max-w-[1120px] items-center justify-center gap-2 rounded-[20px] bg-[#4565ed] px-6 py-5 text-lg font-bold text-white shadow-[0_14px_28px_rgba(69,101,237,0.24)] transition hover:bg-[#3858dc] disabled:cursor-not-allowed disabled:bg-[#aab5e8]"
         >
