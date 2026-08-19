@@ -1,5 +1,5 @@
 import type { Transaction } from "@/lib/upstage/information-extract";
-import { supabase } from "@/utils/supabase/client";
+import { supabaseAdmin } from "@/utils/supabase/server-admin";
 
 export type RecommendationCategoryInput = {
   kosisCode: string;
@@ -953,7 +953,7 @@ async function fetchAllBenefits(): Promise<BenefitRow[]> {
   const rows: BenefitRow[] = [];
 
   for (let from = 0; ; from += PAGE_SIZE) {
-    const { data, error } = await supabase
+    const { data, error } = await supabaseAdmin
       .from("benefits")
       .select(`
         benefit_id, card_id, rate, fixed_amount, cap_amount, cap_period,
@@ -993,7 +993,7 @@ export async function getTopCardRecommendations({
   const signals = buildCategorySignals(categories, transactions);
   if (signals.length === 0 || monthlySpend <= 0) return [];
 
-  const { data: groupData, error: groupError } = await supabase
+  const { data: groupData, error: groupError } = await supabaseAdmin
     .from("merchant_groups")
     .select("group_id, group_name, parent_group_id")
     .order("group_id", { ascending: true });

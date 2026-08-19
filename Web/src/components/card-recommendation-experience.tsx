@@ -3,7 +3,6 @@
 import { useState } from "react";
 
 import {
-  getTopCardRecommendations,
   type CardRecommendation,
   type RecommendationCategoryInput,
 } from "@/lib/card-recommendation";
@@ -236,13 +235,28 @@ export function CardRecommendationExperience({
     setRecommendations([]);
 
     try {
-      const result = await getTopCardRecommendations({
-        categories,
-        transactions,
-        monthlySpend,
-        cardTiType,
-        excludedCardName: currentCardName,
+      const response = await fetch("/api/card-recommendations", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          categories,
+          transactions,
+          monthlySpend,
+          cardTiType,
+          excludedCardName: currentCardName,
+        }),
       });
+
+      if (!response.ok) {
+        const errorBody = await response.json().catch(() => ({}));
+        throw new Error(
+          errorBody.error || "카드 추천 정보를 불러오지 못했습니다.",
+        );
+      }
+
+      const result: CardRecommendation[] = await response.json();
       setRecommendations(result);
     } catch (recommendationError) {
       setError(
